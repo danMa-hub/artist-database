@@ -1,5 +1,8 @@
 # Pierre Huyghe
 
+**Tag tecnica/formato:** `installazione` `procedurale-generativo`
+**Tag tema:** `mondi-virtuali-simulazione` `ecologia-ambiente`
+
 ## Bio breve
 (da scrivere)
 

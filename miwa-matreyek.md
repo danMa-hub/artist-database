@@ -1,5 +1,8 @@
 # Miwa Matreyek
 
+**Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo`
+**Tag tema:** `corpo-identita`
+
 ## Bio breve
 (da scrivere)
 

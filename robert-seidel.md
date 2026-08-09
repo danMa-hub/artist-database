@@ -1,5 +1,8 @@
 # Robert Seidel
 
+**Tag tecnica/formato:** `projection-mapping` `procedurale-generativo`
+**Tag tema:** `corpo-identita`
+
 ## Bio breve
 (da scrivere)
 

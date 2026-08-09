@@ -19,6 +19,10 @@ Il riferimento per il linguaggio e il taglio critico da usare nelle schede sono 
 
 L'elenco completo di tutti gli artisti, con lo stato di avanzamento di ciascuna scheda, è in [`00-lista-artisti.md`](00-lista-artisti.md).
 
+## Tag
+
+Ogni scheda va taggata per permettere una navigazione per aree di interesse (utile in vista della pubblicazione online per gli studenti). Vocabolario e regole d'uso in [`tags.md`](tags.md) — lista viva, si possono proporre nuovi tag quando emergono nuclei tematici o tipologie di opere non ancora coperte.
+
 ## Struttura
 
 - Un file `.md` per artista (es. `contenuti/nome-artista.md`)
@@ -36,6 +40,9 @@ Ogni scheda ha due parti:
 
 ```md
 # Nome Artista
+
+**Tag tecnica/formato:** `tag1` `tag2`
+**Tag tema:** `tag3` `tag4`
 
 ## Bio breve
 (2-4 righe: chi è, ambito, perché è rilevante)

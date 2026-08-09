@@ -1,5 +1,8 @@
 # Eva & Franco Mattes
 
+**Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo` `net-art-sito-web`
+**Tag tema:** `game-culture`
+
 ## Bio breve
 (da scrivere)
 

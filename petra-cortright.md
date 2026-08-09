@@ -1,5 +1,8 @@
 # Petra Cortright
 
+**Tag tecnica/formato:** `desktop-lecture-performance` `net-art-sito-web`
+**Tag tema:** `economia-attenzione` `corpo-identita`
+
 ## Bio breve
 (da scrivere)
 

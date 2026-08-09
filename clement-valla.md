@@ -1,5 +1,8 @@
 # Clement Valla
 
+**Tag tecnica/formato:** `fotogrammetria-scansione` `fotografia`
+**Tag tema:** `storia-computer-grafica`
+
 ## Bio breve
 (da scrivere)
 

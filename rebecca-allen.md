@@ -1,5 +1,8 @@
 # Rebecca Allen
 
+**Tag tecnica/formato:** `modellazione-3d` `animazione-2d`
+**Tag tema:** `storia-computer-grafica` `corpo-identita`
+
 ## Bio breve
 (da scrivere)
 

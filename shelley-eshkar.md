@@ -1,5 +1,8 @@
 # Shelley Eshkar
 
+**Tag tecnica/formato:** `motion-capture` `performance-dal-vivo`
+**Tag tema:** `corpo-identita`
+
 ## Bio breve
 (da scrivere)
 

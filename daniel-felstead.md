@@ -1,5 +1,8 @@
 # Daniel Felstead
 
+**Tag tecnica/formato:** `video`
+**Tag tema:** `economia-attenzione`
+
 ## Bio breve
 (da scrivere)
 

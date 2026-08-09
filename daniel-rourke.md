@@ -1,5 +1,8 @@
 # Daniel Rourke
 
+**Tag tecnica/formato:** `stampa-3d-scultura`
+**Tag tema:** `fantascienza-speculativa` `colonialismo-decolonialita`
+
 ## Bio breve
 (da scrivere)
 
