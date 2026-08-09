@@ -69,6 +69,13 @@ Schede create da testi di sala fotografati dal vivo — fonte affidabile (testo 
 - [Holly Herndon & Mat Dryhurst](holly-herndon-mat-dryhurst.md) — co-curatori della mostra
 - [Primavera De Filippi](primavera-de-filippi.md)
 - [Ayoung Kim](ayoung-kim.md)
+- [terra0 (Paul Kolling & Paul Seidler)](terra0.md) — collettivo, *Autonomous Forest*
+- [Ho Tzu Nyen](ho-tzu-nyen.md)
+- [Lawrence Abu Hamdan](lawrence-abu-hamdan.md)
+- [Philippe Parreno](philippe-parreno.md)
+- [Fabien Giraud](fabien-giraud.md)
+
+**Tutte le 26 foto della mostra sono state processate** (11 con testo utile, 15 vuote/non pertinenti — probabilmente foto di opere senza testo di sala visibile). Restano da elaborare i 4 video caricati.
 
 Visti in mostra ma non ancora schedati (più scienziati/ricercatori che artisti in senso stretto — da valutare se rientrano nell'ambito del database):
 - **Kenneth O. Stanley** — ricercatore IA/machine learning, opera *Picbreeder* (2008/2020), piattaforma di "arte evolutiva" collaborativa.
