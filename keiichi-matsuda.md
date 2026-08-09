@@ -34,3 +34,4 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 
 ## Appunti da organizzare
 - Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale, dove l'artista compariva solo come link nell'"Indice REFs"). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente — **anno di nascita da verificare**; apparato critico (riferimenti a Baudrillard, Virilio, Debord, Zuboff, Foucault) utile ma da controllare prima di un uso didattico definitivo.
+- A differenza di Warburton/Evans/Lek/Cheng/Bahar Noorizadeh/Allahyari, qui il taglio rispetto alla fonte originale è stato minore: le 3 opere e la cornice teorica principale (saturazione, dromologia, gamification) sono già tutte riprese sopra. Se serve il testo integrale, va ripreso dal documento "new refs" su Drive.

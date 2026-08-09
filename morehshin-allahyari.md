@@ -40,3 +40,21 @@ Allahyari sviluppa una pratica di "contro-archeologia": usa gli strumenti della 
 ## Appunti da organizzare
 - Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente — **anno di nascita da verificare**; apparato critico (riferimenti a Derrida, Foucault, Haraway) utile ma da controllare prima di un uso didattico definitivo.
 - Collaborazione diretta con **Daniel Rourke** (già presente come scheda "nuova" tra i priorità dei corsi) su *The 3D Additivist Manifesto/Cookbook* — da collegare tra le due schede.
+
+**Materiale grezzo non verificato, recuperato dalla versione "new refs" — elenco esteso di progetti dal *3D Additivist Cookbook* citati come esempi, tagliato dalla sintesi sopra ma conservato qui integralmente:**
+
+> - **NefertitiHack** (Nora Al-Badri e Nikolai Nelles) — scansione "clandestina" del busto di Nefertiti al Neues Museum di Berlino, dati rilasciati pubblicamente: atto di "pirateria museale" sul colonialismo e la proprietà culturale.
+> - **The Free Universal Construction Kit** (Golan Levin e Shawn Sims) — 80 file .stl per collegare tra loro 10 diversi sistemi di costruzioni per bambini (LEGO, Duplo, K'Nex, Tinkertoys), un hack che promuove l'interoperabilità.
+> - **The Fellatio Modification Project** (Kuang-Yi Ku) — protesi stampabili in 3D per aumentare il piacere sessuale, al confine tra potenziamento medico e modificazione corporea.
+> - **Liberator Variations** (vari artisti) — variazioni sulla "Liberator", prima pistola stampata in 3D, che ne esplorano le implicazioni.
+> - **The Evolution of the Spermalege** (Joey Holder) — organi sessuali interspecie stampabili in 3D, ispirati a una struttura riproduttiva traumatica di alcuni insetti.
+> - **Tactical Cans** (Scott Kildall) — adattatore stampabile che collega una bomboletta spray a un bastone estensibile, per graffiti/attivismo in luoghi alti.
+> - **P-ARK** (Wei-Chieh Tseng & Jing-Yao Chen) — droni acquatici che raccolgono plastica oceanica e la usano per stampare in 3D "arche" galleggianti, nuovi habitat marini.
+> - **Voxel-PoP** (Antonia Coterill) — software per corrompere deliberatamente i file 3D, introducendo glitch come forza creativa.
+> - **Ex-sist** (Cathrine Disney) — bio-pirateria con kit DNA casalingo per mappare la topografia della propria pelle e stamparla in 3D come "esoscheletro".
+> - **A Cryptoporn and Bio-hacking Tool-Kit** (Mary Maggic) — strumentazione da laboratorio stampabile (pipette, piastre di Petri) per esperimenti ormonali "fai-da-te", atto di "disobbedienza estrogenica".
+> - **URME Recipes: Cooking with Privilege** (Leo Selvaggio) — maschere 3D iperrealistiche del volto dell'artista, vendute per permettere a chiunque di confondere i sistemi di riconoscimento facciale.
+> - **Occupy Gramercy** (anonimo) — file 3D per stampare una copia della chiave che apre i cancelli di Gramercy Park, parco privato a New York: atto di "occupazione" digitale.
+> - **An Archaeology of #Additivism** (Daniel Rourke & Morehshin Allahyari) — saggio teorico introduttivo del libro, sulle origini filosofiche e politiche del movimento Additivista.
+
+Come per Alan Warburton e Cécile B. Evans, **questo materiale resta non verificato contro fonti primarie** — utile come traccia di ricerca, da controllare prima di un uso didattico definitivo.

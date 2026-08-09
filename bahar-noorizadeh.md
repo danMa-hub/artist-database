@@ -41,3 +41,11 @@ Noorizadeh indaga il rapporto tra arte e capitalismo, in particolare le nozioni 
 ## Appunti da organizzare
 - Scheda doppia su Drive: versione principale (link/descrizioni dirette, affidabile) + versione "new refs" (saggio critico esteso, caratteri di codifica anomali — probabile origine AI). Ho unificato le due; l'apparato teorico più fine (letture come "hauntology" di Mark Fisher, "weird economy" come categoria filosofica) **non è verificato** contro fonti primarie.
 - Anno di nascita (1988) e alcuni dettagli istituzionali da confermare.
+
+**Materiale grezzo non verificato, recuperato dalla versione "new refs" — tagliato dalla sintesi sopra ma conservato qui integralmente:**
+
+> Opera non ancora documentata in questa scheda: **Ultima Ratio** (2022) — installazione video con astrazioni CGI fluide (liquidi metallici, forme algoritmiche che si fondono) accompagnate da una narrazione teorica sulla "logica" (ratio) come principio operativo del capitale; esplora il "capitalismo computazionale", dove la logica astratta (contratti smart, finanza algoritmica, ottimizzazione logistica) ha sostituito la politica.
+>
+> Cornice teorica citata: il concetto di "Weird Economy" si affianca alla hauntology di Mark Fisher (l'idea che il presente sia infestato da futuri perduti, che la cultura sia incapace di generare un "nuovo" autentico) e al "realismo capitalista" di Fisher (è più facile immaginare la fine del mondo che la fine del capitalismo). *After Scarcity* viene descritta come opera "hauntologica" che rianima il fantasma del socialismo cibernetico sovietico.
+
+Come per Alan Warburton e Cécile B. Evans, **questo materiale resta non verificato contro fonti primarie** — utile come traccia di ricerca, da controllare prima di un uso didattico definitivo.

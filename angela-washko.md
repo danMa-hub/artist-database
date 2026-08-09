@@ -3,15 +3,21 @@
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
 **Tag tema:** `genere-queerness` `game-culture`
 
-## Bio breve
-Artista che realizza interventi femministi dentro spazi di gioco online multiplayer, usando la performance e il dialogo con i giocatori per far emergere le dinamiche di genere delle community videoludiche.
+## Biografia
+Artista che realizza interventi femministi dentro spazi di gioco online multiplayer.
 
-## Ambito / media
-Performance e interventi dal vivo dentro videogiochi multiplayer (World of Warcraft e altri), documentati in video.
+## Poetica e ricerca
+Washko usa la performance e il dialogo diretto con i giocatori per far emergere le dinamiche di genere delle community videoludiche — spazi che descrive come geograficamente, politicamente, economicamente e socialmente più diversificati di molti spazi pubblici fisici, ma spesso ostili e misogini verso le donne. Il suo lavoro rende visibile, attraverso l'intervento performativo dal vivo, come queste community trattino il tema del femminismo e del genere.
 
 ## Opere principali
-- **Playing a Girl** / **The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft** (dal 2012) — intervento performativo dentro *World of Warcraft*: Washko facilita discussioni sul genere e sul femminismo con i giocatori nel gioco stesso.
-- **Weaponizing Courtship** (2020, Fotomuseum Winterthur, mostra *SITUATIONS/Strike*) — indaga l'integrazione della tecnologia militare nei videogiochi e nella cultura della seduzione online; include *The Game: The Game*, dating simulator femminista critico verso i pick-up artist, e un playthrough critico di *Super Seducer*.
+
+### Playing a Girl / The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft (dal 2012)
+**Descrizione:** intervento performativo dentro *World of Warcraft*: Washko fonda un "consiglio" fittizio e facilita discussioni sul genere e sul femminismo con i giocatori direttamente nel gioco, incluse conversazioni su avatar di genere diverso dal proprio e su vittim-blaming.
+**Lettura critica:** usa lo spazio ludico come laboratorio sociale per un sondaggio dal vivo sull'opinione pubblica americana riguardo al ruolo delle donne.
+
+### Weaponizing Courtship (2020, Fotomuseum Winterthur, mostra *SITUATIONS/Strike*)
+**Descrizione:** performance-per-video commissionata che indaga l'integrazione della tecnologia militare nei videogiochi e nella cultura della seduzione online; include *The Game: The Game*, dating simulator femminista critico verso i pick-up artist, e un playthrough critico di *Super Seducer*.
+**Lettura critica:** traccia una storia di come la visione e la tecnologia militari siano state incorporate nei giochi per computer, e di come queste stesse convenzioni tornino nelle pratiche di seduzione maschile online.
 
 ## Immagini
 
@@ -23,4 +29,4 @@ Performance e interventi dal vivo dentro videogiochi multiplayer (World of Warcr
 ---
 
 ## Appunti da organizzare
-- Fonte: scheda REF originale su Drive (migrata e riorganizzata).
+- Fonte: scheda REF originale su Drive, fonte unica, contenuto integralmente ripreso nella parte organizzata.

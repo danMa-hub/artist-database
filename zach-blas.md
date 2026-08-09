@@ -38,3 +38,4 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 
 ## Appunti da organizzare
 - Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente — **anno di nascita e dettagli biografici da verificare**; l'apparato critico-teorico (riferimenti a Foucault, Glissant, Zuboff, Deleuze) è utile come lettura ma andrebbe controllato prima di un uso didattico definitivo.
+- A differenza di Warburton/Evans/Lek/Cheng/Bahar Noorizadeh, qui il taglio rispetto alla fonte originale è stato minore: le 4 opere e la cornice teorica principale sono già tutte riprese sopra. Se serve il testo integrale (paragrafi introduttivi più estesi sull'"archeologia del controllo"), va ripreso dal documento "new refs" su Drive.

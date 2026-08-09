@@ -38,4 +38,14 @@ Lek lavora nei campi della realtà virtuale e della simulazione, costruendo mond
 ---
 
 ## Appunti da organizzare
-- Scheda doppia su Drive: versione principale (link/descrizioni dirette dal sito dell'artista, affidabile) + versione "new refs" (saggio critico molto esteso, con caratteri di codifica anomali — probabile origine AI, include anche una seconda sezione "Introduzione" con dettagli biografici e opere più recenti come *Black Cloud Highway* e *Guanyin: Confessions of a Former Carebot*, 2024). Ho unificato le due; **i dettagli più specifici (date, sedi, citazioni dirette) andrebbero verificati** prima di un uso didattico definitivo.
+- Scheda doppia su Drive: versione principale (link/descrizioni dirette dal sito dell'artista, affidabile) + versione "new refs" (saggio critico molto esteso, con caratteri di codifica anomali — probabile origine AI). Ho unificato le due; **i dettagli più specifici (date, sedi, citazioni dirette) andrebbero verificati** prima di un uso didattico definitivo.
+
+**Materiale grezzo non verificato, recuperato dalla versione "new refs" — tagliato dalla sintesi sopra ma conservato qui integralmente:**
+
+> Biografia estesa: Lawrence Lek (1982, Francoforte), artista multimediale britannico di origine malaysiana-cinese. Formazione in architettura: BA al Trinity College, Cambridge; diploma alla Architectural Association di Londra; MA alla Cooper Union di New York. Cresciuto tra Singapore e Francoforte, vive a Londra.
+>
+> Opere più recenti non ancora documentate in questa scheda: **Black Cloud Highway** (2021-23) — ambientata in SimBeijing, la stessa smart-city fantasma/campo di addestramento per auto a guida autonoma di *NOX*, ora abbandonata: "le telecamere sorvegliano da ogni angolo, mentre gli abitanti rimasti interagiscono con le voci digitalizzate di terapeuti virtuali". **Guanyin: Confessions of a Former Carebot** (2024, commissione per il Frieze London Artist Award) — Guanyin, una "carebot"/terapeuta-cyborg creata per assistere altre IA sull'orlo dell'autodistruzione; il giocatore assume il ruolo del robot ed esplora un ambiente open-world ascoltando flussi di coscienza e report aziendali.
+>
+> Letture critiche aggiuntive (da fonte non verificata): l'opera di Lek decostruisce il "techno-orientalismo" occidentale; il concetto di "spettrologia" (Derrida) applicato al lavoro — i sistemi funzionano perfettamente ma il lavoratore umano è diventato un fantasma nel sistema che ha costruito; riferimento al concetto di "non-luogo" di Marc Augé per *Nøtel*.
+
+Come per Alan Warburton e Cécile B. Evans, **questo materiale resta non verificato contro fonti primarie** — utile come traccia di ricerca, da controllare prima di un uso didattico definitivo.
