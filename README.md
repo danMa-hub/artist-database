@@ -13,6 +13,12 @@ Il database copre **artisti visivi di arte contemporanea** che lavorano con:
 
 Non è un database di design, CG "tecnica" o tutorial: gli artisti trattati lavorano anche a un livello **concettuale e critico** (es. Ian Cheng, Lawrence Lek, Jon Rafman, Forensic Architecture, Hito Steyerl...).
 
+Il riferimento per il linguaggio e il taglio critico da usare nelle schede sono i [programmi dei corsi](../programmi/): le schede non sono biografie neutre, ma vanno scritte nello stesso registro (storia della computer grafica, sorveglianza, economia dell'attenzione, posizionamento critico rispetto all'AI, ecc.).
+
+## Indice
+
+L'elenco completo di tutti gli artisti, con lo stato di avanzamento di ciascuna scheda, è in [`00-lista-artisti.md`](00-lista-artisti.md).
+
 ## Struttura
 
 - Un file `.md` per artista (es. `contenuti/nome-artista.md`)
