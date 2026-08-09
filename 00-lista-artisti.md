@@ -10,7 +10,7 @@ Legenda stato:
 
 ## 🆕 Nuovi — citati per la prima volta nei programmi dei corsi
 
-Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non erano mai comparsi nel materiale raccolto finora.
+**Tutti e 13 sviluppati alla stessa profondità delle schede più estese del database** (Biografia, Poetica e ricerca in registro saggistico-critico, Opere principali con lettura critica, Fonti verificate).
 
 - [Rebecca Allen](rebecca-allen.md) — *Tecniche di modellazione digitale 3D*, *Applicazioni digitali per l'arte*
 - [Pierre Huyghe](pierre-huyghe.md) — *Tecniche di modellazione digitale 3D*, *Applicazioni digitali per l'arte*
@@ -24,7 +24,7 @@ Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non
 - [Robert Seidel](robert-seidel.md) — *Tecniche di animazione digitale (Biennio)*
 - [Petra Cortright](petra-cortright.md) — *Tecniche di animazione digitale (Biennio)*
 - [Eva & Franco Mattes](eva-e-franco-mattes.md) — *Tecniche di animazione digitale (Biennio)*, *Applicazioni digitali per l'arte*
-- [Daniel Felstead](daniel-felstead.md) — *Tecniche di animazione digitale (Triennio)*
+- [Daniel Felstead](daniel-felstead.md) — *Tecniche di animazione digitale (Triennio)* — ⚠️ verificare corrispondenza con l'artista inteso nel programma, vedi nota nella scheda
 
 ## ✅ Migrate
 
@@ -94,7 +94,7 @@ Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey 
 
 ## Prossimi passi
 
-1. Verificare a fondo (non solo migrare) le schede del primo batch — vedi regola "verifica sostanziale" in [`README.md`](README.md).
-2. Scrivere da zero le schede della sezione "da scrivere", con priorità a chi è citato più volte nei programmi (es. Rosa Menkman, Hito Steyerl, Vladan Joler, JODI).
-3. Sviluppare le schede stub già create per i "nuovi", nello stesso taglio critico dei [programmi dei corsi](../programmi/).
+1. ~~Sviluppare le schede stub già create per i "nuovi"~~ — **completato**: tutte e 13 le schede "nuovi" sono ora sviluppate alla stessa profondità delle schede più estese del database.
+2. Scrivere da zero le schede della sezione "da scrivere" (in corso), con priorità a chi è citato più volte nei programmi (es. Rosa Menkman, Hito Steyerl, Vladan Joler, JODI).
+3. Verificare a fondo (non solo migrare) le schede del primo batch — vedi regola "verifica sostanziale" in [`README.md`](README.md).
 4. Elaborare foto/video restanti della mostra "Strange Rules" (28 foto, 4 video caricati — solo una parte è stata processata finora) e delle altre mostre di Venezia (Canicula, Biennale Arsenale/Giardini).
