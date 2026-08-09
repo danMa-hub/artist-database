@@ -60,14 +60,30 @@ Migrate applicando anche la regola sourcing (sito ufficiale, fonti verificabili,
 
 **Tutte le schede con contenuto Drive sono ora migrate.** Restano da archiviare i portfolio PDF troppo grandi per il download automatico (vedi [`portfolio/README.md`](portfolio/README.md)).
 
+## 🖼️ Trovati durante la mostra "Strange Rules" (Palazzo Diedo, Venezia, 9 agosto 2026)
+
+Schede create da testi di sala fotografati dal vivo — fonte affidabile (testo ufficiale della mostra) ma ancora da integrare con ricerca su biografia, altre opere e sito ufficiale.
+
+- [Trevor Paglen](trevor-paglen.md) — già in wishlist, ora con scheda completa; collegato a Harun Farocki
+- [Joshua Citarella](joshua-citarella.md) (con New Models)
+- [Holly Herndon & Mat Dryhurst](holly-herndon-mat-dryhurst.md) — co-curatori della mostra
+- [Primavera De Filippi](primavera-de-filippi.md)
+- [Ayoung Kim](ayoung-kim.md)
+
+Visti in mostra ma non ancora schedati (più scienziati/ricercatori che artisti in senso stretto — da valutare se rientrano nell'ambito del database):
+- **Kenneth O. Stanley** — ricercatore IA/machine learning, opera *Picbreeder* (2008/2020), piattaforma di "arte evolutiva" collaborativa.
+- **Michael Levin** — biologo, Tufts University, presentazione sulle planarie bicefale (*Double-Headed Planaria*) e la memoria cellulare decentralizzata.
+- **Autonomous Forest** — progetto collettivo di land art/DAO (autonomousforest.org), nessun artista singolo individuato nel testo di sala.
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Sondra Perry, Hyphen-Labs, Metahaven, Hito Steyerl, David O'Reilly, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, Rosa Menkman, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Trevor Paglen, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Rafael Lozano-Hemmer, Anicka Yi, Nam June Paik, Refik Anadol, JODI, Vladan Joler
+Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Sondra Perry, Hyphen-Labs, Metahaven, Hito Steyerl, David O'Reilly, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, Rosa Menkman, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Rafael Lozano-Hemmer, Anicka Yi, Nam June Paik, Refik Anadol, JODI, Vladan Joler
 
 ## Prossimi passi
 
-1. Migrare le schede della sezione "da migrare", unificando i doppioni tra cartella principale e "new refs".
+1. Verificare a fondo (non solo migrare) le schede del primo batch — vedi regola "verifica sostanziale" in [`README.md`](README.md).
 2. Scrivere da zero le schede della sezione "da scrivere", con priorità a chi è citato più volte nei programmi (es. Rosa Menkman, Hito Steyerl, Vladan Joler, JODI).
 3. Sviluppare le schede stub già create per i "nuovi", nello stesso taglio critico dei [programmi dei corsi](../programmi/).
+4. Elaborare foto/video restanti della mostra "Strange Rules" (28 foto, 4 video caricati — solo una parte è stata processata finora) e delle altre mostre di Venezia (Canicula, Biennale Arsenale/Giardini).

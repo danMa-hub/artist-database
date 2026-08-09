@@ -93,3 +93,12 @@ Ogni scheda va sottoposta a un controllo puntuale di **tutte** le affermazioni f
 - Ogni opera elencata in una scheda va verificata con almeno una ricerca dedicata, non solo trascritta dalla fonte Drive originale.
 - Le schede migrate più rapidamente (primi batch, senza verifica approfondita) vanno riprese e sottoposte allo stesso controllo, non solo le nuove.
 - Non aspettare un'occasione (un'immagine, un dubbio) per verificare: la verifica è il passo di default, non l'eccezione.
+
+## Regola: referenze video e interviste per ogni scheda
+
+Oltre alle immagini, ogni scheda dovrebbe raccogliere link a **video delle opere** (idealmente opere complete, in alternativa ampi estratti) e a **interviste/contenuti con informazioni significative sull'artista** — materiale pensato per essere mostrato direttamente in classe agli studenti, non solo letto. In pratica:
+
+- Cercare per ogni opera principale il video integrale (canale ufficiale dell'artista, Vimeo, museo, galleria) prima di accontentarsi di un trailer o di un estratto breve.
+- I link vanno verificati (aprire/controllare che siano quelli giusti, non indovinati) e da fonti affidabili — stessa regola del sourcing generale.
+- Le interviste vanno preferite quando aggiungono informazioni sostanziali sulla poetica dell'artista (non semplici promo).
+- Se non si trova un video completo affidabile, va bene un estratto ampio, segnalato come tale — meglio di niente ma da migliorare quando possibile.
