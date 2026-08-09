@@ -27,16 +27,42 @@ Polska lavora principalmente con video, animazione digitale e installazioni audi
 **Descrizione:** intreccia fonti storiche medievali e teoria economica contemporanea, attraverso lettere immaginate di un mercante del XIV secolo.
 **Lettura critica:** riflessione sull'ansia del debito e sulla continuità della logica capitalista nel tempo — i sistemi di potere restano invariati, solo digitalizzati.
 
+![The Demon's Brain, still — attribuzione da confermare](../immagini/agnieszka-polska/the-demons-brain-01.png)
+
+### Altre opere (elenco esteso, da approfondire)
+
+Elenco costruito con ricerca aggiuntiva rispetto alla scheda Drive originale, per dare un panorama più ampio della produzione dell'artista — prima e dopo il periodo coperto dal materiale iniziale. Descrizioni brevi, da sviluppare.
+
+- **Garden** (2010) — tra le prime opere dell'artista.
+- **Sensitization to Colour** (2010) — lavoro dei primi anni, ancora da documentare nel dettaglio.
+- **Watery Rhymes** (2014) — video.
+- **Ask the Siren** (2017) — video.
+- **The Happiest Thought** (2019) — video.
+- **Perfect Lives** (2019) — video.
+- **Hurrah, We Are Still** (2020) — video.
+- **The Thousand-Year Plan** (2021) — video.
+- **The Longing Gaze** (2021) — video.
+- **The Book of Flowers** (2023) — video, presentato tra gli altri a Lo Schermo dell'Arte.
+
+Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Biennale di Sydney (2024), 14ª Biennale di Shanghai (2024).
+
 ## Immagini
+
+![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](../immagini/agnieszka-polska/opera-non-identificata-01.png)
 
 ## Fonti
 - [zak-branicka.com — galleria dell'artista](https://www.zak-branicka.com/artists/agnieszka-polska)
 - [culture.pl — profilo artista](https://culture.pl/en/artist/agnieszka-polska)
 - [The New Sun (video)](https://www.youtube.com/watch?v=B30QlvuaRD8)
 - [What the Sun Has Seen (video)](https://www.youtube.com/watch?v=dQcA7G-b0jE)
-- Portfolio/sito ufficiale personale: **non individuato** nella fonte originale — da cercare.
+- [MUDAM Luxembourg — collezione](https://www.mudam.com/collection/agniezka-polska)
+- [Nosbaum Reding — biografia](https://www.nosbaumreding.com/en/artists/biography/77/agnieszka-polska-bio)
+- [Galerie Georg Kargl — pagina artista](https://www.georgkargl.com/en/artist/agnieszka-polska)
+- Portfolio/sito ufficiale personale: **non individuato** — da cercare.
 
 ---
 
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive. Il testo biografico/critico è ben scritto e cita fatti verificabili (premio, istituzioni), ma non indica esplicitamente le fonti di ogni singola affermazione — utile controllare date/dettagli specifici (es. anno esatto del Preis der Nationalgalerie) prima di un uso didattico definitivo.
+- **Immagini recuperate dal documento Drive** (esportazione PDF, 2 immagini trovate): una — un volto con occhi spaiati (viola/verde) e bocca aperta — è stata attribuita in via ipotetica a *The Demon's Brain* per coerenza tematica (demone), **ma non è confermato**; l'altra — un posacenere di vetro fluttuante nello spazio, con sigarette e fumo — **non è stata possibile ricondurla a nessuna delle opere documentate**: potrebbe essere materiale di riferimento raccolto dall'artista/docente piuttosto che un'opera di Polska. Da chiedere conferma.
+- L'elenco esteso di opere sopra è costruito da fonti secondarie (gallerie, MUDAM) e non dal materiale originale Drive: descrizioni ancora da sviluppare quando si trova documentazione più approfondita per ciascuna.

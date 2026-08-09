@@ -15,13 +15,28 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Descrizione:** film di fantascienza in cui il teletrasporto ha sostituito gli aerei e CAPS — ex istituto penale trasformato in campo profughi/isola per immigrati clandestini — diventa l'utopia di un'altra società possibile; la guida nel racconto è Fiona, un coccodrillo antropomorfo. Il film monta immagini documentarie di una festa della comunità marocchina insieme a sequenze CGI.
 **Lettura critica:** affronta sfollamento, biotecnologie, immigrazione, privacy e le nuove tecnologie di controllo (droni militari che sorvegliano l'isola) attraverso un registro che mescola umorismo e realismo "magico".
 
+![Party on the CAPS, veduta d'installazione con schermi e neon](../immagini/meriem-bennani/party-on-the-caps-01.png)
+
 ### Mission Teens
 **Descrizione:** documentario/video su una scuola francese in Marocco.
 **Lettura critica:** indaga l'identità linguistica e culturale sospesa tra due mondi ("in between languages").
 
-### Windy
-**Descrizione:** video con un personaggio realizzato con animazione digitale.
-**Lettura critica:** prosegue l'esplorazione di personaggi ibridi tra documentario e finzione animata.
+### Windy (2022, The High Line, New York — co-commissione con Audemars Piguet Contemporary)
+**Descrizione:** prima scultura pubblica dell'artista: una struttura cinetica alta 9 metri a forma di tornado, composta da circa 200 dischi in schiuma UV/impermeabile che ruotano a velocità diverse su una decina di motori elettrici da bicicletta. Esposta sulla High Line (24th Street) fino a maggio 2023 ([The High Line](https://www.thehighline.org/art/projects/meriem-bennani-windy/)).
+**Lettura critica:** ispirata al dinamismo e al movimento costante della High Line, la scultura cattura in forma astratta l'esperienza frenetica di camminare per le strade affollate di New York.
+
+![Windy, scultura cinetica sulla High Line](../immagini/meriem-bennani/windy-01.png)
+
+### For My Best Family (2024-2025, Fondazione Prada, Milano)
+**Descrizione:** installazione con quasi duecento paia di infradito e scarpe da tip tap che eseguono un brano musicale meccanico.
+**Lettura critica:** esplora questioni di convivenza e il posto dell'individuo nella comunità, tradotte in un'orchestra di oggetti quotidiani ([Fondazione Prada](https://www.fondazioneprada.org/)).
+
+### Altre opere (elenco esteso, da approfondire)
+
+- **2 Lizards** (2020, con Orian Barki) — serie animata episodica realizzata durante la pandemia di COVID-19, seguita da due lucertole antropomorfe a New York.
+- **Sole Crushing** — presentata a Lafayette Anticipations, Parigi.
+- Esposizioni personali recenti: Fondazione Prada, Milano (2024-25); Fondation Kamel Lazaar, Tunisi (2023); Whitney Museum of American Art (2022); Renaissance Society, Chicago (2022); Nottingham Contemporary (2022).
+- 2025: "Rave into the Future: Art in Motion", Asian Art Museum, San Francisco; "It Smells Like Girl", Jeffrey Deitch, Los Angeles.
 
 ## Immagini
 
@@ -30,11 +45,16 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
 - [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
 - [François Ghebaly — galleria dell'artista](https://ghebaly.com/artists/meriem-bennani/)
+- [Sadie Coles HQ — galleria dell'artista](https://www.sadiecoles.com/artists/meriem-bennani)
+- [Lafayette Anticipations — pagina artista](https://www.lafayetteanticipations.com/en/artiste/meriem-bennani)
 - [Party on the CAPS — testo critico, NERO Editions](https://not.neroeditions.com/party-on-the-caps/)
 - [Mission Teens (e-flux)](https://www.e-flux.com/announcements/292230/meriem-bennanimission-teens-french-school-in-morocco/)
+- [Windy — The High Line](https://www.thehighline.org/art/projects/meriem-bennani-windy/)
 
 ---
 
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive (solo link, nessun testo biografico) + biografia integrata tramite ricerca diretta su fonti secondarie affidabili (Wikipedia, Whitney, Art21, galleria).
-- Da approfondire: collaborazione con Orian Barki (es. *2 Lizards*, serie animata durante la pandemia) — non ancora documentata in questa scheda.
+- **Correzione importante**: la prima stesura descriveva *Windy* come "un video con un personaggio in animazione digitale" — **era sbagliato**, confuso probabilmente con altre opere dell'artista. *Windy* è in realtà la scultura cinetica del 2022 sulla High Line, confermata anche dall'immagine recuperata dal documento Drive originale (il grande tornado nero tra i palazzi di New York corrisponde esattamente).
+- **Immagini recuperate dal documento Drive** (esportazione PDF, 2 immagini trovate): entrambe attribuite con buona sicurezza — l'installazione con neon a *Party on the CAPS*, la scultura nera a *Windy*.
+- L'elenco esteso di opere è costruito da fonti secondarie, non dal materiale Drive originale: *2 Lizards* e *Sole Crushing* ancora da documentare nel dettaglio.
