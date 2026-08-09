@@ -24,8 +24,9 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 **Lettura critica:** mostra come lo stesso dispositivo tecnico (il motore di simulazione) prepari alla guerra e curi il suo trauma, cortocircuitando addestramento e cura.
 
 ### Parallel I-IV (2012-2014)
-**Descrizione:** serie in due canali sincronizzati che confronta la storia estetica della computer grafica nei videogiochi — dalle linee astratte dei primi giochi anni '80 al fotorealismo — con le regole e i limiti dei mondi di gioco e dei loro protagonisti ("homunculi" senza genitori né maestri, con un set limitato di interazioni).
+**Descrizione:** serie in due canali sincronizzati che confronta la storia estetica della computer grafica nei videogiochi — dalle linee astratte dei primi giochi anni '80 (*Mystery House* 1980, *Pitfall* 1982, *King's Quest* 1984) al fotorealismo — con le regole e i limiti dei mondi di gioco e dei loro protagonisti ("homunculi" senza genitori né maestri, con un set limitato di interazioni).
 **Lettura critica:** ricostruisce un'evoluzione ideale dell'estetica dei videogiochi come specchio deformante ma ricco di informazioni su libertà d'azione, regole e artificio — "le animazioni al computer dispongono di un terzo tipo di vento", diverso da quello reale e da quello filmico.
+**Video:** [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
 
 ## Immagini
 
@@ -36,10 +37,13 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 - [Eye/Machine II (video)](https://www.youtube.com/watch?v=DR3UOzCjRio)
 - [Eye/Machine III (video)](https://www.youtube.com/watch?v=eRisum_xq_A)
 - [Serious Games 2: Three Dead (video)](https://www.youtube.com/watch?v=KH5MmRX1Cns)
+- [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
+- [Whitechapel Gallery — Parallel I-IV](https://www.whitechapelgallery.org/exhibitions/harun-farocki/)
 - Portfolio/sito ufficiale: **non individuato** nella fonte originale (l'opera è gestita dall'Harun Farocki Institut) — da cercare.
 
 ---
 
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive, molto ricca (~12MB, la più pesante della cartella) — contiene un lungo estratto del saggio di Jussi Parikka e uno di Trevor Paglen su e-flux. Ho sintetizzato il contenuto principale; **il documento originale su Drive è molto più esteso** e vale la pena riconsultarlo per approfondire ulteriormente (in particolare la parte finale sull'essai di Paglen, solo parzialmente ripresa qui).
-- Interessante notare che sia Paglen (già nella nostra wishlist artisti, presente anche a Strange Rules/Obrist a Venezia) sia Farocki condividono il tema delle "immagini operative" — collegamento da esplicitare quando svilupperemo la scheda di Paglen.
+- Interessante notare che sia Paglen (già in database, presente anche a Strange Rules/Obrist a Venezia, con scheda propria che cita lo stesso saggio) sia Farocki condividono il tema delle "immagini operative".
+- **Immagini**: il documento Drive originale (~12MB) potrebbe contenere immagini incorporate, ma l'esportazione PDF necessaria per estrarle **supera il limite di questo strumento** ("File too large for export") — stesso problema riscontrato con Lawrence Lek. Se il documento contiene screenshot utili, andrebbero recuperati manualmente (export HTML/zip dal Google Doc) come fatto per Lek.
