@@ -62,6 +62,8 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 ![Descrizione](immagini/nome-file.jpg)
 
 ## Fonti
+- [Sito ufficiale dell'artista](https://...) — sempre la prima fonte, quando esiste
+- [Portfolio](portfolio/nome-artista-portfolio.pdf) — se esiste un PDF, va scaricato e archiviato nel repo (vedi sotto), non solo linkato
 - [Titolo fonte](https://...)
 
 ---
@@ -72,3 +74,13 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 ```
 
 Nessuna regola rigida oltre a questa: l'importante è iniziare a raccogliere il materiale in modo ordinato, distinguendo sempre ciò che è rifinito da ciò che è ancora grezzo.
+
+## Regola fondamentale: niente contenuto senza fonte
+
+Ogni scheda deve poter essere ricondotta a qualcosa di verificabile — mai inventare o "arrotondare" informazioni. In pratica:
+
+- **Sito ufficiale dell'artista**: prima fonte da cercare e linkare, quando esiste.
+- **Portfolio PDF**: se l'artista ha un portfolio scaricabile (es. trovato su Drive o online), va **scaricato e archiviato in `contenuti/portfolio/`** — non solo linkato — perché i link esterni possono sparire nel tempo. File nominato `nome-artista-portfolio.pdf`.
+- **Articoli, interviste, testi critici**: linkare sempre la fonte specifica usata, non un generico "si dice che...".
+- **Materiale da mostre** (foto di pannelli/etichette): la fonte è la foto stessa — indicare da quale mostra/data proviene.
+- Se un testo pre-esistente (es. da Drive) ha un'origine incerta o sembra generato da un'AI precedente senza controllo su fonti primarie, va segnalato esplicitamente come non verificato (vedi schede già migrate per un esempio), non ripulito silenziosamente.

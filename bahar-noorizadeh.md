@@ -34,6 +34,7 @@ Noorizadeh indaga il rapporto tra arte e capitalismo, in particolare le nozioni 
 - [After Scarcity (Vimeo)](https://vimeo.com/296563987)
 - [The Red City of the Planet of Capitalism (Vimeo)](https://vimeo.com/540346330)
 - [The Red City of the Planet of Capitalism — testo, e-flux](https://www.e-flux.com/architecture/cascades/391412/the-red-city-of-the-planet-of-capitalism/)
+- Portfolio (PDF, ~37MB) — presente su Drive nella cartella ARTIST REFERENCES ("Bahar_Portfolio May.9.2023.pdf"), **non ancora archiviato nel repo**: supera il limite di download di questo strumento (10MB). Da scaricare manualmente e aggiungere a `contenuti/portfolio/bahar-noorizadeh-portfolio.pdf`.
 
 ---
 
