@@ -1,6 +1,6 @@
 # Daniel Felstead
 
-**Tag tecnica/formato:** `modellazione-3d` `video` `intelligenza-artificiale-generativa`
+**Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `economia-attenzione`
 
 ## Biografia

@@ -1,7 +1,7 @@
 # Eva & Franco Mattes
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo` `net-art-sito-web` `video`
-**Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-dati`
+**Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-controllo`
 
 ## Biografia
 Eva e Franco Mattes sono nati entrambi nel 1976 a Brescia. Lavorano insieme dalla metà degli anni Novanta, inizialmente sotto lo pseudonimo collettivo **0100101110101101.ORG** (un nome in codice binario), con cui hanno firmato i primi interventi di net art e le prime "bufale" mediatiche; il sito ufficiale del duo è tuttora ospitato sul dominio storico 0100101110101101.org, anche se oggi firmano il lavoro semplicemente come "Eva & Franco Mattes". Vivono e lavorano tra New York (Brooklyn) e l'Italia (Brescia). Non risulta una formazione artistica accademica documentata: si descrivono come autodidatti, avvicinatisi ai computer da adolescenti e a internet come via di fuga dalla provincia. Nel 2001 sono tra gli artisti più giovani mai inclusi nella Biennale di Venezia (tramite l'espediente del "Darko Maver", vedi sotto). Hanno ricevuto sostegno da Whitney Museum e Walker Art Center e il New York Prize 2006 dell'Italian Academy della Columbia University. Franco Mattes ha inoltre un'affiliazione documentata con il programma Art, Culture and Technology (ACT) del MIT (ruolo e date precisi da verificare). La loro pratica ha generato ripetute conseguenze legali reali — dal contenzioso con la Santa Sede per *Vaticano.org* (1998) alle azioni legali minacciate da Nike per *Nike Ground* (2003) — che hanno contribuito a una reputazione, ricorrente nella stampa di settore, da "Bonnie e Clyde dell'arte contemporanea" (formulazione esatta e fonte originale da verificare).
