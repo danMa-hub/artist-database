@@ -28,6 +28,8 @@ Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non
 
 ## ✅ Migrate
 
+⚠️ Migrate con il template precedente (Bio breve / Ambito-media / lista piatta di opere): da rivedere con il template aggiornato (Biografia / Poetica e ricerca / Opere con descrizione + lettura critica) — vedi [`README.md`](README.md).
+
 - [Davey Wreden](davey-wreden.md)
 - [Forensic Architecture](forensic-architecture.md)
 - [Alan Warburton](alan-warburton.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda

@@ -44,14 +44,19 @@ Ogni scheda ha due parti:
 **Tag tecnica/formato:** `tag1` `tag2`
 **Tag tema:** `tag3` `tag4`
 
-## Bio breve
-(2-4 righe: chi è, ambito, perché è rilevante)
+## Biografia
+Anno di nascita, paese/città di provenienza (e dove opera, se diverso) — le informazioni di base per contestualizzare il lavoro. Può restare breve o approfondirsi quando la biografia è centrale per la poetica dell'artista. Se rilevanti e reperibili, menzionare le mostre/istituzioni più importanti della carriera (non un CV completo: solo ciò che aiuta a capire la rilevanza dell'artista).
 
-## Ambito / media
-(es. simulazione 3D, mondi virtuali, AI generativa, video...)
+## Poetica e ricerca
+Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'artista: in cosa consiste, quali sono i temi centrali, quali medium usa. Va scritta con linguaggio critico-teorico, agganciato alla storia dell'arte e alla fenomenologia delle arti contemporanee (lo stesso registro dei [programmi dei corsi](../programmi/)) — non una biografia neutra. Il testo può essere teorico, ma deve sempre fare riferimento a opere concrete: mostrare come i concetti si sono effettivamente declinati nella pratica.
 
 ## Opere principali
-- ...
+
+### Titolo opera (anno)
+**Descrizione:** cosa si vede concretamente — tecnica, media, eventualmente il processo/approccio di lavoro.
+**Lettura critica:** come l'opera si collega ai temi della poetica dell'artista.
+
+(ripetere per ogni opera rilevante)
 
 ## Immagini
 ![Descrizione](immagini/nome-file.jpg)
