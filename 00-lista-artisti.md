@@ -41,11 +41,23 @@ Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non
 - [Mark Leckey](mark-leckey.md) — nome corretto (fonti Drive: "Mark leaky"/"Mark Lecky")
 - [Nicolas Sassoon](nicolas-sassoon.md) — nome corretto (fonte Drive: "Nicolas Sasson")
 
+Migrate con il template aggiornato (Biografia / Poetica e ricerca / Opere con descrizione + lettura critica):
+
+- [Rick Silva](rick-silva.md)
+- [Jon Rafman](jon-rafman.md)
+- [Bahar Noorizadeh](bahar-noorizadeh.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda
+- [Lawrence Lek](lawrence-lek.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda
+- [Ian Cheng](ian-cheng.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda
+- [Zach Blas](zach-blas.md) — ⚠️ testo di origine non verificata, vedi note nella scheda
+- [Keiichi Matsuda](keiichi-matsuda.md) — ⚠️ testo di origine non verificata, vedi note nella scheda
+- [David Claerbout](david-claerbout.md)
+- [Morehshin Allahyari](morehshin-allahyari.md) — ⚠️ testo di origine non verificata, vedi note nella scheda; collegata a Daniel Rourke
+
 ## 📄 Con contenuto su Drive — da migrare in contenuti/
 
-Hanno già una scheda scritta (Google Doc, cartella ARTIST REFERENCES o "new refs"), spesso doppia tra le due cartelle: va letta, unificata e riorganizzata secondo il [template](README.md).
+Hanno già una scheda scritta (Google Doc, cartella ARTIST REFERENCES), da leggere e riorganizzare secondo il [template](README.md).
 
-Lawrence Lek, Agnieszka Polska, Ed Atkins, Harun Farocki, Tamás Waliczky, Meriem Bennani, Bahar Noorizadeh, Jon Rafman, Rick Silva, Ian Cheng, David Claerbout, Zach Blas, Morehshin Allahyari, Keiichi Matsuda
+Agnieszka Polska, Ed Atkins, Harun Farocki, Tamás Waliczky, Meriem Bennani
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
