@@ -74,6 +74,10 @@ Schede create da testi di sala fotografati dal vivo — fonte affidabile (testo 
 - [Lawrence Abu Hamdan](lawrence-abu-hamdan.md)
 - [Philippe Parreno](philippe-parreno.md)
 - [Fabien Giraud](fabien-giraud.md)
+- [Michael Levin](michael-levin.md) — biologo/ricercatore, non artista in senso stretto; da valutare se rientra nell'ambito
+- [Kenneth O. Stanley](kenneth-o-stanley.md) — ricercatore IA, non artista in senso stretto; da valutare se rientra nell'ambito
+
+**15 schede totali** create da questa mostra. Per Michael Levin, Lawrence Abu Hamdan e Philippe Parreno le immagini sono state associate direttamente confrontando le foto senza testo con quelle dei pannelli, per prossimità di orario di scatto e coerenza visiva con la descrizione — non solo testo, ma un collegamento diretto tra descrizione e immagine reale dell'opera.
 
 **Tutte le 26 foto della mostra sono state processate** (11 con testo utile, 15 vuote/non pertinenti — probabilmente foto di opere senza testo di sala visibile). Restano da elaborare i 4 video caricati.
 
