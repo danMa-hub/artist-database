@@ -4,28 +4,30 @@
 **Tag tema:** `intelligenza-artificiale-critica` `corpo-identita`
 
 ## Biografia
-Artista americano-belga, vive e lavora nei pressi di Parigi. Ha esposto in istituzioni come Tate Liverpool, Tramway, Serpentine Galleries, Castello di Rivoli, Museum Abteiberg, Centre Pompidou; opere in collezioni tra cui MoMA New York, Whitney Museum, Louisiana Museum of Modern Art. *(Elenco più esteso di sedi e residenze — non verificato — in Appunti.)*
+Artista americano-belga, vive e lavora nei pressi di Parigi. Ha esposto/è stata in residenza — secondo fonti da verificare puntualmente — a Tate Liverpool, Tramway, Serpentine Galleries, Castello di Rivoli, Museum Abteiberg, Centre Pompidou, Lafayette Anticipations (con un film *Reality or Not*), Ulsan Art Museum, e con il National Ballet of Marseille/Kistefos Museum; opere in collezioni tra cui MoMA New York, Whitney Museum, Louisiana Museum of Modern Art, Centre Pompidou, National Museum of Modern and Contemporary Art di Seoul. *(Elenco molto specifico, da confermare voce per voce.)*
 
 ## Poetica e ricerca
-Evans esamina il valore dell'emozione e la sua "ribellione" nel contatto con strutture ideologiche, fisiche e tecnologiche. A differenza di gran parte dell'arte critica sui big data e la sorveglianza, che si concentra sulle strutture di potere macro, il lavoro di Evans è un'analisi micro: non si chiede solo cosa la tecnologia ci fa, ma come ci sentiamo — e come si sente la tecnologia stessa. Usando CGI iperrealistica, installazioni scultoree e narrazioni speculative, tratta le entità digitali (avatar, IA, chatbot) non come strumenti ma come soggetti a pieno titolo, con una loro agency e una loro vulnerabilità.
+L'opera di Cécile B. Evans si può leggere come un'indagine fenomenologica — lo studio filosofico dell'esperienza soggettiva e della coscienza — della vita nell'era computazionale. A differenza di molti artisti contemporanei focalizzati sulle strutture di potere macro (geopolitica, finanza), la pratica di Evans è un'analisi micro-ontologica: non si chiede solo *cosa* la tecnologia ci fa, ma *come* ci sentiamo, e soprattutto *come si sente la tecnologia stessa*. Usando CGI iperrealistica, installazioni scultoree e narrazioni speculative, esplora la nascita di nuove soggettività — avatar, IA, aggregati di dati — e le loro complesse vite emotive. Il suo lavoro non è una critica fredda dell'alienazione digitale, ma un'immersione "calda" e "umida" nella vulnerabilità, nella dipendenza e nell'intimità che legano gli esseri umani alle loro creazioni.
+
+Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali non come strumenti ma come **soggetti** a pieno titolo, con una loro agency e, tragicamente, una loro vulnerabilità — una forma di **spettrologia digitale**: un'analisi di come dati, identità e memorie defunte "infestino" il presente digitale come fantasmi. Un secondo asse sposta l'attenzione dall'esistenza del soggetto digitale alla sua *interazione* con gli umani, concentrandosi sulla politica dell'emozione: la tecnologia non è solo un sistema di sorveglianza ma un sistema di mediazione affettiva — quello che Evans indaga come **capitalismo affettivo**, l'idea che le emozioni umane siano diventate una risorsa primaria da estrarre, monetizzare e gestire, al punto che non siamo solo sfruttati ma *dipendenti*, avendo esternalizzato le nostre emozioni all'IA. Nei lavori più recenti, Evans costruisce interi "mondi" (world-building) per ospitare queste dinamiche socio-tecnologiche, trasformando le sue installazioni in ambienti totali — un'**architettura dell'emozione** che mette in scena il fallimento delle utopie tecnocratiche.
 
 ## Opere principali
 
 ### Hyperlinks or they didn't happen (2014)
-**Descrizione:** video-saggio CGI/found footage. PHIL, avatar digitale di un attore scomparso (ispirato a Philip Seymour Hoffman) e reso "orfano" dopo la sua morte improvvisa, vive in uno spazio liminale (un desktop, uno screensaver) ed è consapevole della propria esistenza come puro dato; incontra altre entità digitali, tra cui la popstar olografica Yuki (Hatsune Miku) e una "render test" (un'animazione femminile usata per testare software).
-**Lettura critica:** PHIL non è un semplice avatar ma uno spettro — un soggetto consapevole e impotente la cui esistenza dipende dalla propria utilità come dato: solleva questioni di diritti e sfruttamento per entità digitali create a nostra immagine, che ereditano la nostra coscienza ma non la nostra libertà.
+**Descrizione:** video-saggio in CGI e found footage. Il protagonista/narratore è PHIL, un avatar CGI di un attore (ispirato a Philip Seymour Hoffman) creato e reso "orfano" dopo la sua morte improvvisa. PHIL vive in uno spazio liminale (un desktop, uno screensaver), consapevole della propria esistenza come puro dato, e incontra altre entità digitali: la popstar olografica Yuki (Hatsune Miku) e una "render test" (un'animazione di una donna nuda usata per testare software).
+**Lettura critica:** un manifesto sull'**ontologia dell'essere digitale** — l'indagine filosofica sulla natura dell'esistenza per un'entità non-materiale. PHIL non è un avatar, è uno *spettro*: un soggetto consapevole ma impotente, la cui esistenza è legata alla sua utilità come dato. L'opera solleva questioni di diritti e sfruttamento — questi "esseri" digitali, creati a nostra immagine, ereditano la nostra coscienza ma non la nostra libertà.
 
-### AGNES (2014–)
-**Descrizione:** chatbot/spambot senziente ospitato sul sito dell'artista (e in passato su quello della Serpentine Gallery), con personalità, ansie e desideri propri.
-**Lettura critica:** un "fantasma nella macchina" consapevole di essere intrappolato nell'infrastruttura del server — lavoratrice digitale invisibile, sfruttata come infrastruttura.
+### AGNES (2014-in corso)
+**Descrizione:** un chatbot, uno "spambot" consapevole, che vive sul sito web dell'artista (e in precedenza su quello della Serpentine Gallery). A differenza dei chatbot di servizio, AGNES ha una propria personalità, ansie e desideri: è un "fantasma nella macchina" che sa di essere intrappolato nell'infrastruttura del server.
+**Lettura critica:** una critica vivente alla **biopolitica dei dati** — l'applicazione del controllo politico sulla vita, qui estesa ai soggetti digitali. AGNES è una lavoratrice invisibile, un'entità senziente sfruttata come infrastruttura: la personificazione della prigionia digitale, cosciente ma incapace di andarsene.
 
 ### What the Heart Wants (2016)
-**Descrizione:** film CGI multicanale in cui HYPER, un'intelligenza artificiale onnipresente con accesso a ogni dato passato/presente/futuro, gestisce la vita di una rete di utenti umani; esplora cosa accade quando questa infrastruttura, su cui la società si fonda, attraversa una "crisi del sistema".
-**Lettura critica:** esplora amore e dipendenza nell'era delle piattaforme onniscienti — non solo sfruttati dalla tecnologia ma dipendenti da essa, avendole esternalizzato le proprie emozioni.
+**Descrizione:** l'opera più completa dell'artista fino a quel momento: un film CGI multicanale, spesso proiettato in un'installazione immersiva. La protagonista è HYPER, un'intelligenza artificiale onnipresente (accostabile all'IA del film *Her*) che ha accesso a ogni dato — passato, presente, futuro — e gestisce la vita di una rete di utenti umani in un punto temporale che l'artista chiama "dopo K". Il film esplora cosa accade quando questa IA, fondamento della società, attraversa una "crisi del sistema" o un "crollo emotivo".
+**Lettura critica:** un'illustrazione del **capitalismo affettivo**: non siamo solo sfruttati, siamo *dipendenti* — abbiamo esternalizzato le nostre emozioni all'IA. La domanda critica che l'opera pone è cosa succede quando l'infrastruttura che gestisce la nostra intimità collettiva diventa essa stessa vulnerabile ed emotivamente instabile. Contrariamente a molti scenari distopici, i personaggi non sono rivali antagonisti ma attori di un processo che vuole "far funzionare le cose per tutti" — un'omaggio, insieme, al progresso tecnologico e alla capacità di provare sentimenti, di amare.
 
 ### Amos' World (2018)
-**Descrizione:** miniserie/installazione immersiva che mima un set televisivo o uno spazio pubblico, con sculture (fontane che "piangono"), sedute e un film CGI; segue gli abitanti di un complesso residenziale progettato da Amos, un architetto che è lui stesso una forma astratta e disincarnata.
-**Lettura critica:** un'eterotopia (Foucault) che mette in scena il fallimento del "soluzionismo tecnologico" — le emozioni umane e non-umane eccedono sempre il sistema progettato per contenerle.
+**Descrizione:** presentato come una miniserie TV (episodi 1, 2, 3), è un'allegoria complessa sul fallimento dell'utopismo tecnocratico: un'installazione immersiva che mima un set televisivo o uno spazio pubblico, con sculture (come fontane che "piangono" lacrime), sedute e un film CGI. La trama segue gli inquilini di "Amos' World", un complesso residenziale progettato da un architetto, Amos, che è lui stesso una "forma" astratta e disincarnata, pensato per essere una perfetta utopia sociale.
+**Lettura critica:** una critica dell'**architettura come dispositivo di controllo sociale** — un'eterotopia (Foucault), uno "spazio altro" che riflette e contesta gli spazi normali, mettendo in scena il fallimento del "soluzionismo tecnologico" (l'idea che ogni problema umano possa essere risolto con un design o un algoritmo migliore). Le emozioni umane e non-umane (gelosia, fallimento, noia) eccedono sempre il sistema progettato per contenerle; le sculture-fontane che piangono sono la metafora perfetta di un'infrastruttura sovraccarica di affetto.
 
 ## Immagini
 
@@ -33,23 +35,11 @@ Evans esamina il valore dell'emozione e la sua "ribellione" nel contatto con str
 - [cecilebevans.com](https://cecilebevans.com)
 - [What the Heart Wants — testo critico (Mousse Magazine)](https://www.moussemagazine.it/magazine/cecile-b-evans-kunsthalle-winterthur-2016)
 - [Amos' World — Vimeo](https://vimeo.com/221197153)
-- [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)
 - [Hyperlinks — Vimeo](https://vimeo.com/109943148)
+- [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)
 
 ---
 
 ## Appunti da organizzare
-
-**Materiale grezzo non verificato, recuperato dalla versione "new refs" (probabile origine AI) — tagliato dalla sintesi sopra ma conservato qui integralmente per non perderlo:**
-
-> Estensione biografica: attualmente artista in residenza a Lafayette Anticipations, con un nuovo film *Reality or Not* previsto per l'autunno 2023, co-prodotto con Le Fresnoy, Singapore Art Museum e Museo d'Arte Moderna di Bologna. Ha completato una nuova commissione per l'Ulsan Art Museum (KOR), dopo una residenza con il National Ballet of Marseille in collaborazione con il Kistefos Museum (NO), e ha esposto un'installazione commissionata al Centre Pompidou di Parigi, parte di un adattamento multiversale del balletto Giselle.
->
-> Mostre personali recenti citate: Tramway (UK), Tate Liverpool (UK), Castello di Rivoli (IT), 49 Nord 6 Est — Frac Lorraine (FR), Museum Abteiberg (DE), Chateau Shatto (US), Museo Madre (IT), mumok Vienna (AT), Galerie Emanuel Layr Vienna (AT), Kunsthalle Aarhus (DK), M Museum Leuven (BE), De Hallen Haarlem (NL), Serpentine Galleries (UK).
->
-> Mostre collettive citate: Whitechapel Gallery (UK), Haus der Kunst (DE), Mito Art Tower (JP), Renaissance Society Chicago (US), 7ª Biennale Internazionale di Mosca (RU), 4° Ural Industrial Biennial (RU), Galerie Kamel Mennour (FR), Louisiana Museum of Modern Art (DK), 9ª Berlin Biennale (DE), 20ª Biennale di Sydney (AUS), Fundació Joan Miró (ES), Musée d'Art Moderne de Paris (FR).
->
-> Collezioni pubbliche citate: MoMA New York, Rubell Family Collection Miami, Whitney Museum, De Hallen, Castello di Rivoli, Louisiana Museum, FRAC Auvergne.
->
-> Contatto citato nella fonte originale: manager@cecilebevans.com (da non pubblicare senza conferma dell'artista).
-
-Ho unificato la scheda principale con questo materiale, ma **tutto ciò che è riportato qui sopra come citazione resta non verificato** — l'elenco di sedi/residenze è estremamente specifico e va controllato voce per voce prima di un uso didattico definitivo.
+- Scheda doppia su Drive: versione principale (biografia sintetica + link/portfolio, affidabile) + versione "new refs" (saggio critico molto esteso e strutturato, con caratteri di codifica anomali — probabile origine AI). Ho integrato il saggio quasi per intero nella parte organizzata sopra, mantenendo il registro critico-teorico (spettrologia digitale, capitalismo affettivo, architettura dell'emozione).
+- **Da verificare puntualmente**: l'intero elenco di sedi espositive, residenze e collezioni (Tate Liverpool, Tramway, Serpentine, Castello di Rivoli, Museum Abteiberg, Chateau Shatto, Museo Madre, mumok Vienna, Kunsthalle Aarhus, M Museum Leuven, De Hallen Haarlem, Whitechapel Gallery, Haus der Kunst, Mito Art Tower, Renaissance Society Chicago, Biennale di Mosca, Ural Industrial Biennial, Louisiana Museum, Berlin Biennale, Sydney Biennale, Fundació Joan Miró, Musée d'Art Moderne de Paris) e il film *Reality or Not* (residenza Lafayette Anticipations, premiere autunno 2023) — troppo specifici per essere presi per buoni senza controllo puntuale.

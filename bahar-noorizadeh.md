@@ -7,25 +7,33 @@
 Artista, scrittrice e filmmaker. PhD in Art a Goldsmiths, University of London; associate lecturer alla RCA School of Architecture e alla Design Academy Eindhoven. Fondatrice di **Weird Economies**, piattaforma editoriale collettiva sugli immaginari economici. *(Anno di nascita indicato in una fonte non verificata come 1988 — da controllare.)*
 
 ## Poetica e ricerca
-Noorizadeh indaga il rapporto tra arte e capitalismo, in particolare le nozioni conflittuali di immaginazione e speculazione (finanziaria e artistica). La sua ricerca attraversa le storie dell'economia, il socialismo cibernetico e le strategie attiviste contro la finanziarizzazione della vita e dello spazio abitativo, chiedendosi cosa significhi giustizia storica redistributiva nel presente. Tratta la storia come una tecnologia da ricalibrare — un'infrastruttura da riprogettare — usando un linguaggio ibrido tra CGI, film-saggio e documentario d'archivio.
+L'opera di Bahar Noorizadeh è un'indagine speculativa e teorica sulle infrastrutture invisibili che governano il presente: la finanza, la computazione, il tempo. Non si limita a rappresentare il capitalismo, ma ne sezione le logiche operative, rivelandone la natura intrinsecamente fittizia, irrazionale e "strana" (*weird*). La sua pratica funziona come un dispositivo diagnostico: usando una combinazione ibrida di CGI, film-saggio, documentario d'archivio e narrativa teorica, decostruisce la temporalità lineare del progresso capitalista, concentrandosi sulla "speculazione" nel suo doppio senso — quella finanziaria, che crea valore dal nulla, e quella artistica, che immagina futuri alternativi.
+
+Il fulcro teorico della sua ricerca è il concetto di **"Weird Economy"** (Economia Stramba), sviluppato attraverso l'omonima piattaforma editoriale: un concetto che si distacca dalle critiche economiche tradizionali per abbracciare l'assurdità e l'irrazionalità al cuore della finanza contemporanea. Invece di vedere l'economia come sistema razionale, Noorizadeh la presenta come costrutto *fictionale*, un sistema di credenze che produce effetti reali — un'economia "stramba" perché sistema morto-vivente, parassita che si nutre di tempo e futuri possibili. L'approccio è affine alla **hauntology di Mark Fisher** (l'idea che il presente sia infestato da futuri perduti, che la cultura sia incapace di generare un "nuovo" autentico) e al suo **realismo capitalista** (l'idea che sia più facile immaginare la fine del mondo che la fine del capitalismo).
+
+Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo la "nuova" IA, ma le genealogie perdute della computazione — i bivi storici in cui la tecnologia avrebbe potuto prendere una strada diversa da quella capitalista. Una forma di contro-fattualità storica ("cosa sarebbe successo se...") usata come strumento politico per sbloccare l'immaginazione, paralizzata dal realismo capitalista.
 
 ## Opere principali
 
 ### After Scarcity (2018)
-**Descrizione:** video-saggio di fantascienza che segue i cibernetici sovietici degli anni '60 nel loro tentativo di costruire un'economia pianificata interamente automatizzata, tra found footage d'archivio e sequenze CGI.
-**Lettura critica:** rianima il fantasma di un socialismo cibernetico perduto, chiedendo se la computazione debba per forza condurre alla tirannia della finanziarizzazione totale che viviamo oggi.
+**Descrizione:** film-saggio che combina filmati d'archivio sovietici (spesso didattici e propagandistici) con sequenze CGI di un avatar IA senza corpo, per raccontare il progetto cibernetico sovietico degli anni '60 — in particolare l'OGAS, tentativo di rete informatica pan-sovietica per pianificare l'economia — e la sua visione di un "socialismo automatizzato".
+**Lettura critica:** un'opera *hauntologica*: Noorizadeh rianima il fantasma del socialismo cibernetico, un futuro perduto in cui automazione e IA erano immaginate come strumenti per superare scarsità e lavoro, non per massimizzare profitto e sorveglianza (come nel modello Silicon Valley). L'avatar IA media tra questo passato utopico fallito e il nostro presente distopico, chiedendo se un'altra forma di computazione sia ancora possibile.
 
 ### Free to Choose
-**Descrizione:** "fantascienza finanziaria" operistica narrata da Milton Friedman: nella Hong Kong del 1997 post-crollo, un CEO viaggia nel futuro per prendere in prestito denaro dal proprio sé più anziano.
-**Lettura critica:** smonta il mito neoliberista di Hong Kong come esempio di libero mercato, mostrando il sistema bancario del credito come macchina del tempo del potere.
+**Descrizione:** "fantascienza finanziaria" operistica narrata da Milton Friedman: nella Hong Kong del 1997 post-crollo, un CEO viaggia nel futuro per prendere in prestito denaro dal proprio sé più anziano; sullo sfondo, il mito di Friedman di Hong Kong come esempio di capitalismo puro senza pianificazione statale.
+**Lettura critica:** smonta il mito neoliberista di Hong Kong come esempio di libero mercato — dimostra come, nonostante il primato storico nell'edilizia popolare pubblica, la città oggi detenga uno dei divari di ricchezza più profondi del pianeta; il sistema bancario del credito diventa una macchina del tempo del potere.
 
 ### Teslaism: Economics after the end of the end of the future (2022)
-**Descrizione:** videogioco musicale di corse in terza persona con Elon Musk e la sua auto a guida autonoma, ambientato nella Berlino della Gigafactory.
-**Lettura critica:** nomina il "Teslaismo" come nuovo regime di produzione basato su storytelling finanziario e "imagineering" del futuro.
+**Descrizione:** videogioco musicale di corse in terza persona con Elon Musk e la sua auto a guida autonoma/amante/life coach, ambientato nella Berlino della Gigafactory; commissionato originariamente per la mostra *Tresor 31: Techno, Berlin, and the Great Freedom*.
+**Lettura critica:** nomina il "Teslaismo" (che succede al Post-fordismo) come nuovo regime di produzione e consumo basato su storytelling finanziario e "imagineering" del futuro — il CEO teslaista come artista del collage che intreccia tweet, meme e balletti in narrazioni perennemente rimandate.
 
 ### The Red City of the Planet of Capitalism (2021)
-**Descrizione:** installazione video (commissionata per il Padiglione tedesco, Biennale di Architettura di Venezia 2021) che rivisita i progetti disurbanisti sovietici del 1929 di Mikhail Okhitovich e Moisei Ginzburg, ricostruiti in 3D a partire dai pochi disegni superstiti.
-**Lettura critica:** traccia una genealogia alternativa e non capitalista dell'infrastruttura in rete — un "Web 0.0" cibernetico sovietico, la cui ambizione emancipatoria fu interrotta dal Grande Terrore.
+**Descrizione:** installazione video (commissionata per il Padiglione tedesco "2038", Biennale di Architettura di Venezia 2021) che rivisita i progetti disurbanisti sovietici del 1929 di Mikhail Okhitovich e Moisei Ginzburg — pensati per eliminare la differenza tra città e campagna sostituendo la metropoli con una rete di infrastrutture, case mobili e servizi su scala URSS — ricostruiti in 3D a partire dai pochi disegni superstiti, con la voce narrante che legge la lettera di Ginzburg a Le Corbusier.
+**Lettura critica:** traccia una genealogia alternativa e non capitalista dell'infrastruttura in rete — un "Web 0.0" cibernetico sovietico, la cui ambizione emancipatoria fu interrotta dal Grande Terrore (Okhitovich fu il primo architetto inviato nei campi).
+
+### Ultima Ratio (2022)
+**Descrizione:** installazione video ipnotica dominata da astrazioni CGI fluide e renderizzate — liquidi metallici, forme algoritmiche che si fondono e trasformano, superfici digitali perfette — accompagnate da una narrazione teorica sulla "logica" (ratio) come principio operativo del capitale.
+**Lettura critica:** esplora il **capitalismo computazionale**: la logica astratta (contratti smart, finanza algoritmica, ottimizzazione logistica) ha sostituito la politica come *ratio ultima* del potere; l'estetica CGI deliberatamente seducente e priva di attrito riflette la natura astratta, disincarnata e inumana di questo regime.
 
 ## Immagini
 
@@ -39,13 +47,5 @@ Noorizadeh indaga il rapporto tra arte e capitalismo, in particolare le nozioni 
 ---
 
 ## Appunti da organizzare
-- Scheda doppia su Drive: versione principale (link/descrizioni dirette, affidabile) + versione "new refs" (saggio critico esteso, caratteri di codifica anomali — probabile origine AI). Ho unificato le due; l'apparato teorico più fine (letture come "hauntology" di Mark Fisher, "weird economy" come categoria filosofica) **non è verificato** contro fonti primarie.
-- Anno di nascita (1988) e alcuni dettagli istituzionali da confermare.
-
-**Materiale grezzo non verificato, recuperato dalla versione "new refs" — tagliato dalla sintesi sopra ma conservato qui integralmente:**
-
-> Opera non ancora documentata in questa scheda: **Ultima Ratio** (2022) — installazione video con astrazioni CGI fluide (liquidi metallici, forme algoritmiche che si fondono) accompagnate da una narrazione teorica sulla "logica" (ratio) come principio operativo del capitale; esplora il "capitalismo computazionale", dove la logica astratta (contratti smart, finanza algoritmica, ottimizzazione logistica) ha sostituito la politica.
->
-> Cornice teorica citata: il concetto di "Weird Economy" si affianca alla hauntology di Mark Fisher (l'idea che il presente sia infestato da futuri perduti, che la cultura sia incapace di generare un "nuovo" autentico) e al "realismo capitalista" di Fisher (è più facile immaginare la fine del mondo che la fine del capitalismo). *After Scarcity* viene descritta come opera "hauntologica" che rianima il fantasma del socialismo cibernetico sovietico.
-
-Come per Alan Warburton e Cécile B. Evans, **questo materiale resta non verificato contro fonti primarie** — utile come traccia di ricerca, da controllare prima di un uso didattico definitivo.
+- Scheda doppia su Drive: versione principale (link/descrizioni dirette, affidabile) + versione "new refs" (saggio critico esteso, caratteri di codifica anomali — probabile origine AI). Ho integrato il saggio quasi per intero nella parte organizzata sopra, incluso il lavoro *Ultima Ratio* prima non documentato.
+- **Da verificare puntualmente**: anno di nascita (1988), dettagli istituzionali (Goldsmiths, RCA, Design Academy Eindhoven), e l'apparato teorico più fine (hauntology di Mark Fisher, "weird economy" come categoria filosofica) — letture utili ma non verificate contro fonti primarie.

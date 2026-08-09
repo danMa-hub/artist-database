@@ -28,30 +28,27 @@ Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non
 
 ## ✅ Migrate
 
-**Tutte le schede ora usano il template aggiornato** (Biografia / Poetica e ricerca / Opere con descrizione + lettura critica). Per le schede con fonti doppie su Drive (versione principale + versione "new refs" di probabile origine AI), il materiale tagliato in fase di sintesi è stato recuperato e conservato per intero in "Appunti da organizzare" di ciascuna scheda — nulla è stato scartato silenziosamente, solo condensato nella parte curata.
+**Tutte le schede usano il template aggiornato** (Biografia / Poetica e ricerca / Opere con descrizione + lettura critica), con la parte "Poetica e ricerca" nel registro saggistico-critico dei programmi dei corsi, il più possibile approfondita. Per le schede con fonti doppie su Drive (versione principale + versione "new refs" di probabile origine AI), il saggio critico è stato reintegrato quasi per intero nella parte organizzata — solo i fatti puntuali non verificabili (date, sedi, citazioni dirette) restano flaggati inline o in Appunti.
 
 - [Davey Wreden](davey-wreden.md)
 - [Forensic Architecture](forensic-architecture.md)
-- [Alan Warburton](alan-warburton.md) — ⚠️ fonte doppia, materiale "new refs" non verificato recuperato integralmente in Appunti
+- [Alan Warburton](alan-warburton.md) — ⚠️ fonte doppia, alcuni fatti puntuali non verificati (vedi flag inline)
 - [Angela Washko](angela-washko.md)
 - [Jeremy Couillard](jeremy-couillard.md)
 - [Lu Yang](lu-yang.md)
 - [Chun Hua Catherine Dong](chun-hua-catherine-dong.md)
-- [Cécile B. Evans](cecile-b-evans.md) — ⚠️ fonte doppia, materiale "new refs" non verificato recuperato integralmente in Appunti
+- [Cécile B. Evans](cecile-b-evans.md) — ⚠️ fonte doppia, elenco sedi espositive non verificato (vedi Appunti)
 - [Mark Leckey](mark-leckey.md) — nome corretto (fonti Drive: "Mark leaky"/"Mark Lecky")
 - [Nicolas Sassoon](nicolas-sassoon.md) — nome corretto (fonte Drive: "Nicolas Sasson")
-
-Migrate con il template aggiornato (Biografia / Poetica e ricerca / Opere con descrizione + lettura critica):
-
 - [Rick Silva](rick-silva.md)
 - [Jon Rafman](jon-rafman.md)
-- [Bahar Noorizadeh](bahar-noorizadeh.md) — ⚠️ fonte doppia, materiale "new refs" non verificato recuperato integralmente in Appunti
-- [Lawrence Lek](lawrence-lek.md) — ⚠️ fonte doppia, materiale "new refs" non verificato recuperato integralmente in Appunti
-- [Ian Cheng](ian-cheng.md) — ⚠️ fonte doppia, materiale "new refs" non verificato recuperato integralmente in Appunti
-- [Zach Blas](zach-blas.md) — ⚠️ testo di origine non verificata, taglio minore rispetto all'originale (vedi note)
-- [Keiichi Matsuda](keiichi-matsuda.md) — ⚠️ testo di origine non verificata, taglio minore rispetto all'originale (vedi note)
+- [Bahar Noorizadeh](bahar-noorizadeh.md) — ⚠️ fonte doppia, dettagli biografici non verificati (vedi Appunti)
+- [Lawrence Lek](lawrence-lek.md) — ⚠️ fonte doppia, dettagli biografici non verificati (vedi Appunti)
+- [Ian Cheng](ian-cheng.md) — ⚠️ fonte doppia, anno di nascita non verificato (vedi Appunti)
+- [Zach Blas](zach-blas.md) — ⚠️ testo di origine non verificata, anno di nascita da confermare
+- [Keiichi Matsuda](keiichi-matsuda.md) — ⚠️ testo di origine non verificata, anno di nascita da confermare
 - [David Claerbout](david-claerbout.md)
-- [Morehshin Allahyari](morehshin-allahyari.md) — ⚠️ testo di origine non verificata, elenco progetti Cookbook recuperato integralmente in Appunti; collegata a Daniel Rourke
+- [Morehshin Allahyari](morehshin-allahyari.md) — ⚠️ testo di origine non verificata, anno di nascita da confermare; collegata a Daniel Rourke
 
 Migrate applicando anche la regola sourcing (sito ufficiale, fonti verificabili, niente contenuto inventato):
 
