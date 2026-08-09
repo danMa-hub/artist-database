@@ -85,3 +85,11 @@ Ogni scheda deve poter essere ricondotta a qualcosa di verificabile — mai inve
 - **Materiale da mostre** (foto di pannelli/etichette): la fonte è la foto stessa — indicare da quale mostra/data proviene.
 - Se un testo pre-esistente (es. da Drive) ha un'origine incerta o sembra generato da un'AI precedente senza controllo su fonti primarie, va segnalato esplicitamente come non verificato (vedi schede già migrate per un esempio), non ripulito silenziosamente.
 - **Collegamenti teorici/filosofici** (es. "l'opera di X richiama Heidegger/Foucault/Kant..."): va sempre citata la fonte che ha fatto quel collegamento — un'intervista, un saggio critico, una dichiarazione dell'artista. Il linguaggio tecnico/filosofico va benissimo nella parte "Poetica e ricerca" (è il registro dei programmi dei corsi), ma **non deve essere un'elaborazione teorica generata dall'AI senza aggancio a una fonte reale**: il rischio è che la connessione risulti suggestiva ma infondata. Se non si trova la fonte del collegamento, va tolto o segnalato esplicitamente come non verificato — mai lasciato come se fosse un fatto critico consolidato.
+
+## Regola fondamentale: verifica sostanziale, non opportunistica
+
+Ogni scheda va sottoposta a un controllo puntuale di **tutte** le affermazioni fattuali (titoli, anni, medium, dove/come un'opera è stata esposta, cosa mostra concretamente) tramite ricerca diretta — non solo quando capita di trovare un'immagine o un dettaglio che insospettisce. Il caso di Meriem Bennani (*Windy* descritta come "un video con un personaggio animato", quando è in realtà una scultura cinetica sulla High Line) è l'esempio di un errore che sarebbe potuto restare invisibile per sempre senza un controllo esplicito. Quindi:
+
+- Ogni opera elencata in una scheda va verificata con almeno una ricerca dedicata, non solo trascritta dalla fonte Drive originale.
+- Le schede migrate più rapidamente (primi batch, senza verifica approfondita) vanno riprese e sottoposte allo stesso controllo, non solo le nuove.
+- Non aspettare un'occasione (un'immagine, un dubbio) per verificare: la verifica è il passo di default, non l'eccezione.
