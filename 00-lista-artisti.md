@@ -4,6 +4,7 @@ Indice di tutti gli artisti raccolti per il database, incrociando il materiale g
 
 Legenda stato:
 - 🆕 **nuovo** — mai comparso prima nel materiale raccolto, citato per la prima volta nei programmi dei corsi. Scheda stub creata in `contenuti/`.
+- ✅ **migrata** — contenuto trasferito da Drive e riorganizzato secondo il template.
 - 📄 **da migrare** — esiste già una scheda con contenuto su Drive, va trasferita/riorganizzata in `contenuti/`.
 - 📋 **da scrivere** — l'artista è già segnalato (link, citazione, placeholder vuoto su Drive) ma non ha ancora contenuto reale da nessuna parte: la scheda va scritta da zero.
 
@@ -25,11 +26,24 @@ Priorità alta: sono gli artisti che i programmi citano esplicitamente e che non
 - [Eva & Franco Mattes](eva-e-franco-mattes.md) — *Tecniche di animazione digitale (Biennio)*, *Applicazioni digitali per l'arte*
 - [Daniel Felstead](daniel-felstead.md) — *Tecniche di animazione digitale (Triennio)*
 
+## ✅ Migrate
+
+- [Davey Wreden](davey-wreden.md)
+- [Forensic Architecture](forensic-architecture.md)
+- [Alan Warburton](alan-warburton.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda
+- [Angela Washko](angela-washko.md)
+- [Jeremy Couillard](jeremy-couillard.md)
+- [Lu Yang](lu-yang.md)
+- [Chun Hua Catherine Dong](chun-hua-catherine-dong.md)
+- [Cécile B. Evans](cecile-b-evans.md) — ⚠️ parte del testo "new refs" di origine non verificata, vedi note nella scheda
+- [Mark Leckey](mark-leckey.md) — nome corretto (fonti Drive: "Mark leaky"/"Mark Lecky")
+- [Nicolas Sassoon](nicolas-sassoon.md) — nome corretto (fonte Drive: "Nicolas Sasson")
+
 ## 📄 Con contenuto su Drive — da migrare in contenuti/
 
 Hanno già una scheda scritta (Google Doc, cartella ARTIST REFERENCES o "new refs"), spesso doppia tra le due cartelle: va letta, unificata e riorganizzata secondo il [template](README.md).
 
-Lawrence Lek, Agnieszka Polska, Ed Atkins, Harun Farocki, Tamás Waliczky, Meriem Bennani, Davey Wreden, Bahar Noorizadeh, Jon Rafman, Angela Washko, Cécile B. Evans, Rick Silva, Mark Leckey, Nicolas Sassoon, Alan Warburton, Lu Yang, Jeremy Couillard, Forensic Architecture, Ian Cheng, David Claerbout, Chun Hua Catherine Dong, Zach Blas, Morehshin Allahyari, Keiichi Matsuda
+Lawrence Lek, Agnieszka Polska, Ed Atkins, Harun Farocki, Tamás Waliczky, Meriem Bennani, Bahar Noorizadeh, Jon Rafman, Rick Silva, Ian Cheng, David Claerbout, Zach Blas, Morehshin Allahyari, Keiichi Matsuda
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
