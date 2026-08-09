@@ -13,9 +13,17 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 
 ## Opere principali
 
+### Entropy Wrangler (2013)
+**Descrizione:** simulazione dinamica presentata su Oculus Rift al Frieze Art Fair di Londra e in seguito a MoMA PS1: uno spazio virtuale caotico in cui il punto di vista del partecipante altera la dinamica di forme 3D senza peso, generando una narrazione propria dall'esperienza ([Rhizome](https://rhizome.org/editorial/2013/dec/23/prosthetic-knowledge-picks-oculus-rift/)).
+**Lettura critica:** opera precoce che anticipa il metodo maturo di Cheng — non un mondo narrato ma un sistema fisico/percettivo che il pubblico attiva e destabilizza.
+
+![Entropy Wrangler, still da simulazione 3D](../immagini/ian-cheng/emissaries-01.png)
+
 ### Emissaries — trilogia: *Emissary in the Squat of Gods* (2015), *Emissary Forks at Perfection* (2016), *Emissary Sunsets the Self* (2017)
 **Descrizione:** tre "simulazioni dal vivo" interconnesse, costruite su Unity, popolate da agenti IA il cui comportamento non è pre-sceneggiato ma emergente. In ognuna, un agente specifico — l'**Emissario** — riceve una missione fissa in un mondo caotico e indifferente a quella missione. *Squat of Gods*: paesaggio preistorico dominato da un vulcano, l'Emissario è un bambino. *Forks at Perfection*: un'IA a forma di Atollo gestisce un ecosistema artificiale, l'Emissario è un cane Shiba Inu. *Sunsets the Self*: l'Atollo-IA è ormai antico e morente, l'Emissario è un ibrido tra l'Emissario-bambino (ora entità antica) e una nuova IA.
 **Lettura critica:** Cheng ha dichiarato di essersi ispirato direttamente a *Il crollo della mente bicamerale e l'origine della coscienza* (1976) di Julian Jaynes — la teoria secondo cui gli umani antichi non prendevano decisioni coscienti e riflesse, interpretando invece i propri pensieri come voci esterne ("comandi divini"): *"Non so se sia vero, ma di sicuro è strano, e ha catturato la mia immaginazione al punto da farmi realizzare queste opere chiamate Emissaries"* ([Ian Cheng: A Portal to Infinity, Louisiana Channel](https://channel.louisiana.dk/video/ian-cheng-portal-infinity)). La trilogia segue l'evoluzione cognitiva attraverso tre epoche lontane: nascita, frammentazione e dissoluzione della coscienza.
+
+![Emissary in the Squat of Gods, still dalla simulazione](../immagini/ian-cheng/emissaries-02.png)
 
 ### BOB (Bag of Beliefs) (2018-2019)
 **Descrizione:** un'entità di "vita artificiale" interattiva — un corpo serpentino/corallino che cambia forma su schermi in galleria. Il pubblico interagisce inviando "offerte" tramite un'app.
@@ -25,7 +33,11 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 **Descrizione:** "anime dal vivo" di 50 minuti costruito in Unity, sulla vita di Chalice Wong, nel cui sistema nervoso il padre impianta illegalmente un'IA "genitore algoritmico" (BOB) che scrive costantemente la sua "sceneggiatura di vita" ottimale; esiste sia come film montato sia come interfaccia interattiva ("Worldwatching") che espone i dati interni dei personaggi ([Pilar Corrias](https://www.pilarcorrias.com/exhibitions/265-ian-cheng-life-after-bob-the-chalice-study/)).
 **Lettura critica:** tragedia sul controllo genitoriale e sul "soluzionismo" della Silicon Valley — suggerisce che l'identità coincida proprio con ciò che l'ottimizzazione vorrebbe eliminare: trauma, caos, irrazionalità.
 
+![Life After BOB: The Chalice Study, still dal film/interfaccia Worldwatching](../immagini/ian-cheng/life-after-bob-01.png)
+
 ## Immagini
+
+Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda originale (Google Drive); non è nota la fonte esatta (sito dell'artista o documentazione di mostra) — da verificare e, se possibile, sostituire con immagini di provenienza tracciabile (sito ufficiale, museo, galleria).
 
 ## Fonti
 - [iancheng.com](https://iancheng.com/)
