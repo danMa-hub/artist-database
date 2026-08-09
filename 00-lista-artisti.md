@@ -53,11 +53,15 @@ Migrate con il template aggiornato (Biografia / Poetica e ricerca / Opere con de
 - [David Claerbout](david-claerbout.md)
 - [Morehshin Allahyari](morehshin-allahyari.md) — ⚠️ testo di origine non verificata, vedi note nella scheda; collegata a Daniel Rourke
 
-## 📄 Con contenuto su Drive — da migrare in contenuti/
+Migrate applicando anche la regola sourcing (sito ufficiale, fonti verificabili, niente contenuto inventato):
 
-Hanno già una scheda scritta (Google Doc, cartella ARTIST REFERENCES), da leggere e riorganizzare secondo il [template](README.md).
+- [Agnieszka Polska](agnieszka-polska.md)
+- [Ed Atkins](ed-atkins.md) — ripulita da residui di una ricerca assistita da AI (link chatgpt.com, frammenti di conversazione), mantenute solo le fonti reali verificabili
+- [Tamás Waliczky](tamas-waliczky.md) — fonte Drive scarna, biografia/opere integrate da ricerca diretta (sito ufficiale + fonti secondarie)
+- [Meriem Bennani](meriem-bennani.md) — biografia integrata da ricerca diretta
+- [Harun Farocki](harun-farocki.md) — collegata a Trevor Paglen (tema "immagini operative")
 
-Agnieszka Polska, Ed Atkins, Harun Farocki, Tamás Waliczky, Meriem Bennani
+**Tutte le schede con contenuto Drive sono ora migrate.** Restano da archiviare i portfolio PDF troppo grandi per il download automatico (vedi [`portfolio/README.md`](portfolio/README.md)).
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
