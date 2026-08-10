@@ -94,12 +94,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Rosa Menkman](rosa-menkman.md)
 - [Vladan Joler](vladan-joler.md)
 - [JODI](jodi.md)
+- [Metahaven](metahaven.md)
+- [David O'Reilly](david-oreilly.md)
+- [Rafael Lozano-Hemmer](rafael-lozano-hemmer.md)
+- [Sondra Perry](sondra-perry.md)
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Sondra Perry, Hyphen-Labs, Metahaven, David O'Reilly, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Rafael Lozano-Hemmer, Anicka Yi, Nam June Paik, Refik Anadol
+Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Hyphen-Labs, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Anicka Yi, Nam June Paik, Refik Anadol
 
 ## Prossimi passi
 
