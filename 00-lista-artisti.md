@@ -110,12 +110,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Ryoji Ikeda](ryoji-ikeda.md)
 - [Anicka Yi](anicka-yi.md)
 - [Nam June Paik](nam-june-paik.md) — figura storica fondativa della videoarte
+- [Mario Klingemann](mario-klingemann.md)
+- [Anna Ridler](anna-ridler.md)
+- [Cao Fei](cao-fei.md)
+- [Martine Syms](martine-syms.md)
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, LaTurbo Avedon, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jesse Kanda, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Cao Fei
+Lilli Carrè, Chris Landreth, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, LaTurbo Avedon, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jesse Kanda, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey
 
 ## Prossimi passi
 
