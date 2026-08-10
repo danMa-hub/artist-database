@@ -86,11 +86,20 @@ Visti in mostra ma non ancora schedati (più scienziati/ricercatori che artisti 
 - **Michael Levin** — biologo, Tufts University, presentazione sulle planarie bicefale (*Double-Headed Planaria*) e la memoria cellulare decentralizzata.
 - **Autonomous Forest** — progetto collettivo di land art/DAO (autonomousforest.org), nessun artista singolo individuato nel testo di sala.
 
+## ✅ Scritte da zero — dalla sezione "da scrivere"
+
+Sviluppate alla stessa profondità delle schede più estese del database, con priorità a chi è citato più volte nei programmi dei corsi.
+
+- [Hito Steyerl](hito-steyerl.md) — citata in 3 programmi su 4
+- [Rosa Menkman](rosa-menkman.md)
+- [Vladan Joler](vladan-joler.md)
+- [JODI](jodi.md)
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Sondra Perry, Hyphen-Labs, Metahaven, Hito Steyerl, David O'Reilly, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, Rosa Menkman, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Rafael Lozano-Hemmer, Anicka Yi, Nam June Paik, Refik Anadol, JODI, Vladan Joler
+Lilli Carrè, Chris Landreth, Jacolby Satterwhite, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Jakob Kudsk Steensen, Theo Triantafyllidis, Sondra Perry, Hyphen-Labs, Metahaven, David O'Reilly, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Sabrina Ratté, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Rafael Lozano-Hemmer, Anicka Yi, Nam June Paik, Refik Anadol
 
 ## Prossimi passi
 
