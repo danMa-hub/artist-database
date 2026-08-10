@@ -118,12 +118,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Adam Harvey](adam-harvey.md)
 - [Jim Campbell](jim-campbell.md)
 - [Alexandra Daisy Ginsberg](alexandra-daisy-ginsberg.md)
+- [Ben Rivers](ben-rivers.md)
+- [Jesse Kanda](jesse-kanda.md)
+- [Nikita Diakur](nikita-diakur.md)
+- [Chris Landreth](chris-landreth.md)
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jesse Kanda, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers
+Lilli Carrè, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jun Seo Hahm, Sturm&Drang Studio
 
 ## Prossimi passi
 
