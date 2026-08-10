@@ -122,12 +122,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Jesse Kanda](jesse-kanda.md)
 - [Nikita Diakur](nikita-diakur.md)
 - [Chris Landreth](chris-landreth.md)
+- [Lilli Carrè](lilli-carre.md)
+- [Diego Marcon](diego-marcon.md)
+- [Katie Torn](katie-torn.md)
+- [Eva Papamargariti](eva-papamargariti.md)
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jun Seo Hahm, Sturm&Drang Studio
+Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Hyphen-Labs, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jun Seo Hahm, Sturm&Drang Studio
 
 ## Prossimi passi
 
