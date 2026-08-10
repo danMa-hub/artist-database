@@ -102,12 +102,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Jakob Kudsk Steensen](jakob-kudsk-steensen.md)
 - [Theo Triantafyllidis](theo-triantafyllidis.md)
 - [Sabrina Ratté](sabrina-ratte.md)
+- [Yoshi Sodeoka](yoshi-sodeoka.md)
+- [Jonathan Monaghan](jonathan-monaghan.md)
+- [Rachel Rossin](rachel-rossin.md)
+- [Takeshi Murata](takeshi-murata.md)
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Lilli Carrè, Chris Landreth, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, LaTurbo Avedon, Rachel Rossin, Takeshi Murata, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Yoshi Sodeoka, Barry Doupé, Jesse Kanda, Jonathan Monaghan, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Anicka Yi, Nam June Paik, Refik Anadol
+Lilli Carrè, Chris Landreth, Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Eva Papamargariti, Hyphen-Labs, LaTurbo Avedon, Diego Marcon, Kim Laughton, zawada.art, pussykrew, Martine Syms, Nikita Diakur, Studio A N F (Andreas Nicolas Fischer), Katie Torn, DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jesse Kanda, Jun Seo Hahm, Sturm&Drang Studio, Ben Rivers, Alexandra Daisy Ginsberg, Jim Campbell, Adam Harvey, Mario Klingemann, Anna Ridler, Ryoji Ikeda, Cao Fei, Anicka Yi, Nam June Paik, Refik Anadol
 
 ## Prossimi passi
 
