@@ -38,6 +38,11 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
+- [Guggenheim Bilbao — comunicato stampa Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
+- [Stedelijk Museum Amsterdam — "Metahaven: EARTH"](https://www.stedelijk.nl/en/exhibitions/metahaven)
+
 ## Fonti
 - [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
 - [Guggenheim Bilbao — comunicato stampa Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)

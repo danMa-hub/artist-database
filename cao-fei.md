@@ -34,6 +34,11 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [caofei.com — sito ufficiale, CV](https://www.caofei.com/about_cv.aspx)
+- [Vitamin Creative Space — pagina artista](https://vitamincreativespace.com/en/?artist=caofei)
+- [MoMA — pagina artista](https://www.moma.org/artists/35159-cao-fei)
+
 ## Fonti
 - [caofei.com — sito ufficiale, CV](https://www.caofei.com/about_cv.aspx)
 - [Vitamin Creative Space — pagina artista](https://vitamincreativespace.com/en/?artist=caofei)

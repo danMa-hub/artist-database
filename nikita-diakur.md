@@ -29,6 +29,11 @@ La cifra distintiva di Diakur è l'**"animazione interattiva"** (termine coniato
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Ottawa International Animation Festival — vincitori 2017 (Animation World Network)](https://www.awn.com/news/nikita-diakurs-ugly-masaaki-yuasas-night-short-walk-girl-win-grand-prizes-oiaf-2017)
+- [It's Nice That — su Ugly](https://www.itsnicethat.com/articles/nikita-diakurs-ugly-animation-010518)
+- [Engadget — su Ugly](https://www.engadget.com/2018-08-17-ugly-nikita-diakur-animation-dynamic-simulation.html)
+
 ## Fonti
 - [Vimeo — canale ufficiale dell'artista](https://vimeo.com/nikitadiakur)
 - [Ottawa International Animation Festival — vincitori 2017 (Animation World Network)](https://www.awn.com/news/nikita-diakurs-ugly-masaaki-yuasas-night-short-walk-girl-win-grand-prizes-oiaf-2017)

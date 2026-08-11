@@ -39,6 +39,11 @@ La pratica di Carrè attraversa fumetto, incisione, scultura/ceramica e animazio
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
+- [Guggenheim Foundation — pagina fellow](https://www.gf.org/fellows/lilli-carre/)
+- [CalArts — pagina docente](https://calarts.edu/members/lilli-carre)
+
 ## Fonti
 - [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
 - [Guggenheim Foundation — pagina fellow](https://www.gf.org/fellows/lilli-carre/)

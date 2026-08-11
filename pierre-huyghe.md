@@ -25,6 +25,11 @@ Huyghe non produce opere finite ma **sistemi**: ecosistemi viventi, protocolli a
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Esther Schipper — biografia](https://www.estherschipper.com/artists/41-pierre-huyghe/biography/)
+- [Wikipedia — Pierre Huyghe](https://en.wikipedia.org/wiki/Pierre_Huyghe)
+- [Ocula — biografia](https://ocula.com/artists/pierre-huyghe/)
+
 ## Fonti
 - [Esther Schipper — biografia](https://www.estherschipper.com/artists/41-pierre-huyghe/biography/)
 - [Wikipedia — Pierre Huyghe](https://en.wikipedia.org/wiki/Pierre_Huyghe)

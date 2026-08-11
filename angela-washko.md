@@ -21,6 +21,11 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [angelawashko.com](https://angelawashko.com)
+- [Weaponizing Courtship — Fotomuseum Winterthur](https://www.fotomuseum.ch/en/explore/situations/157382)
+- [Cutscenes: Critical Optimism — Angela Washko's Online Interventions (MUBI Notebook)](https://mubi.com/it/notebook/posts/cutscenes-critical-optimism-angela-washko-s-online-interventions)
+
 ## Fonti
 - [angelawashko.com](https://angelawashko.com)
 - [Weaponizing Courtship — Fotomuseum Winterthur](https://www.fotomuseum.ch/en/explore/situations/157382)

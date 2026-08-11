@@ -38,6 +38,11 @@ Ridler inizia a usare il machine learning come materiale artistico nel 2017, sce
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [annaridler.com — sito ufficiale, CV](https://annaridler.com/about/cv)
+- [Bloomberg — "A British Artist Gathered 10,000 Tulips to Show AI Is Beautiful"](https://www.bloomberg.com/news/articles/2019-08-13/a-british-artist-gathered-10-000-tulips-to-show-ai-is-beautiful)
+- [Victoria & Albert Museum — Myriad (Tulips), collezione](https://collections.vam.ac.uk/item/O1737545)
+
 ## Fonti
 - [annaridler.com — sito ufficiale, CV](https://annaridler.com/about/cv)
 - [Bloomberg — "A British Artist Gathered 10,000 Tulips to Show AI Is Beautiful"](https://www.bloomberg.com/news/articles/2019-08-13/a-british-artist-gathered-10-000-tulips-to-show-ai-is-beautiful)

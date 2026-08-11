@@ -44,6 +44,11 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
+- [MoMA — profilo artista](https://www.moma.org/artists/49586)
+- [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)
+
 ## Fonti
 - [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
 - [MoMA — profilo artista](https://www.moma.org/artists/49586)

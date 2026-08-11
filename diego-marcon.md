@@ -35,6 +35,11 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Sadie Coles HQ — pagina artista](https://www.sadiecoles.com/artists/diego-marcon)
+- [La Biennale di Venezia — pagina artista, Il latte dei sogni (2022)](https://www.labiennale.org/en/art/2022/milk-dreams/diego-marcon)
+- [Fondazione Nicola Trussardi — Dramoletti](https://www.fondazionenicolatrussardi.com/en/mostre/diego-marcon/)
+
 ## Fonti
 - [Sadie Coles HQ — pagina artista](https://www.sadiecoles.com/artists/diego-marcon)
 - [La Biennale di Venezia — pagina artista, Il latte dei sogni (2022)](https://www.labiennale.org/en/art/2022/milk-dreams/diego-marcon)

@@ -21,6 +21,11 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [miwamatreyek.com — sito ufficiale](http://miwamatreyek.com/thisworldmadeitself/)
+- [TED Ideas — "A fantastical interpretation of the Earth's formation"](https://ideas.ted.com/miwa-matreyek-newest-surreal-performance/)
+- [Virginia Tech News — profilo artista](https://news.vt.edu/articles/2021/09/mac-miwamatreyek.html)
+
 ## Fonti
 - [miwamatreyek.com — sito ufficiale](http://miwamatreyek.com/thisworldmadeitself/)
 - [TED Ideas — "A fantastical interpretation of the Earth's formation"](https://ideas.ted.com/miwa-matreyek-newest-surreal-performance/)

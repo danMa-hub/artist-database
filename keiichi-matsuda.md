@@ -26,6 +26,9 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [keiichimatsuda.com](https://keiichimatsuda.com/)
+
 ## Fonti
 - [keiichimatsuda.com](https://keiichimatsuda.com/)
 - [Hyper-Reality](https://vimeo.com/166807261)

@@ -35,6 +35,11 @@ Yi descrive la propria pratica attraverso il concetto di una "biopolitica dei se
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [anickayistudio.biz — sito ufficiale](https://www.anickayistudio.biz/)
+- [Tate Modern — Hyundai Commission, comunicato stampa](https://www.tate.org.uk/press/press-releases/hyundai-commission-anicka-yi-love-world)
+- [Guggenheim Museum — The Hugo Boss Prize 2016](https://www.guggenheim.org/exhibition/the-hugo-boss-prize-2016)
+
 ## Fonti
 - [anickayistudio.biz — sito ufficiale](https://www.anickayistudio.biz/)
 - [Tate Modern — Hyundai Commission, comunicato stampa](https://www.tate.org.uk/press/press-releases/hyundai-commission-anicka-yi-love-world)

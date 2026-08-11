@@ -39,6 +39,11 @@ Rivers gira principalmente in pellicola 16mm bianco e nero (talvolta scaduta), c
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
+- [LUX — pagina artista](https://lux.org.uk/artist/ben-rivers/)
+- [MoMA — pagina artista](https://www.moma.org/artists/132137)
+
 ## Fonti
 - [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
 - [LUX — pagina artista](https://lux.org.uk/artist/ben-rivers/)

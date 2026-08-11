@@ -54,6 +54,11 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
+- [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)
+- [Gladstone Gallery — biografia](https://www.gladstonegallery.com/cn/artist/ed-atkins/biography)
+
 ## Fonti
 - [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
 - [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)

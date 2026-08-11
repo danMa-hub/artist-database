@@ -44,6 +44,11 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Esther Schipper — biografia ufficiale (galleria rappresentante)](https://www.estherschipper.com/artists/102-the-work-of-hito-steyerl/biography/)
+- [Andrew Kreps Gallery — pagina artista](https://www.andrewkreps.com/artists/the-work-of-hito-steyerl)
+- [MoMA — How Not to Be Seen, collezione](https://www.moma.org/collection/works/181784)
+
 ## Fonti
 - [Esther Schipper — biografia ufficiale (galleria rappresentante)](https://www.estherschipper.com/artists/102-the-work-of-hito-steyerl/biography/)
 - [Andrew Kreps Gallery — pagina artista](https://www.andrewkreps.com/artists/the-work-of-hito-steyerl)

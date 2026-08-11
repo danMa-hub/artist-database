@@ -28,6 +28,11 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
+- [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)
+- [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
+
 ## Fonti
 - [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
 - [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)

@@ -43,6 +43,11 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
+- [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
+- [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
+
 ## Fonti
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)

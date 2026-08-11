@@ -32,6 +32,11 @@ Il lavoro di Hahm è costantemente descritto — da lui stesso e dalla critica �
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [junseohahm.com — sito ufficiale](https://junseohahm.com/)
+- [junseohahm.com — pagina Mosition](https://junseohahm.com/Mosition)
+- [junseohahm.com — pagina Karnival](https://junseohahm.com/Karnival)
+
 ## Fonti
 - [junseohahm.com — sito ufficiale](https://junseohahm.com/)
 - [junseohahm.com — pagina Mosition](https://junseohahm.com/Mosition)

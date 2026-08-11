@@ -40,6 +40,11 @@ La pratica di Harvey si colloca all'incrocio tra "design anti-sorveglianza" (tec
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [adam.harvey.studio — sito ufficiale](https://adam.harvey.studio/about/)
+- [megapixels.cc — sito del progetto MegaPixels](https://megapixels.cc/)
+- [exposing.ai — sito del progetto](https://exposing.ai/about/)
+
 ## Fonti
 - [adam.harvey.studio — sito ufficiale](https://adam.harvey.studio/about/)
 - [megapixels.cc — sito del progetto MegaPixels](https://megapixels.cc/)

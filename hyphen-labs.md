@@ -29,6 +29,11 @@ La pratica di Hyphen-Labs si colloca all'intersezione tra speculative/critical d
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [hyphen-labs.com — sito ufficiale](https://hyphen-labs.com/who-is-hyphen-labs)
+- [MIT Center for Art, Science & Technology — pagina collettivo](https://arts.mit.edu/people/hyphen-labs/)
+- [MIT Open Documentary Lab — pagina NSAF](https://opendoclab.mit.edu/presents/hyphen-labs-neurospeculative-afrofeminism/)
+
 ## Fonti
 - [hyphen-labs.com — sito ufficiale](https://hyphen-labs.com/who-is-hyphen-labs)
 - [MIT Center for Art, Science & Technology — pagina collettivo](https://arts.mit.edu/people/hyphen-labs/)

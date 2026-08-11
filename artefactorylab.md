@@ -28,6 +28,11 @@ ArtefactoryLab produce immagini, animazioni ed esperienze VR per conto di studi 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [artefactorylab.com — sito ufficiale](https://www.artefactorylab.com/en/)
+- [artefactorylab.com — pagina progetti](https://www.artefactorylab.com/en/projets/)
+- [Architizer — profilo studio](https://architizer.com/firms/artefactorylab/)
+
 ## Fonti
 - [artefactorylab.com — sito ufficiale](https://www.artefactorylab.com/en/)
 - [artefactorylab.com — pagina progetti](https://www.artefactorylab.com/en/projets/)

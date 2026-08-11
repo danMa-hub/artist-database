@@ -21,6 +21,11 @@ Kaiser lavora fin dalla fine degli anni '90 all'intersezione tra motion capture,
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
+- [MASS MoCA — Ghostcatching](https://massmoca.org/event/ghostcatching/)
+- [Jacob's Pillow Dance Interactive — Dance Notation and Motion Capture](https://danceinteractive.jacobspillow.org/themes-essays/men-in-dance/ghost-notation/)
+
 ## Fonti
 - [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
 - [MASS MoCA — Ghostcatching](https://massmoca.org/event/ghostcatching/)

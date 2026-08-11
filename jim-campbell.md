@@ -38,6 +38,11 @@ Campbell progetta e costruisce elettronica su misura — riadattando tecnologia 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [jimcampbell.tv — sito ufficiale](https://www.jimcampbell.tv/about)
+- [SFMOMA — pagina artista](https://www.sfmoma.org/artist/Jim_Campbell/)
+- [SFMOMA — Exploded Views, collezione](https://www.sfmoma.org/artwork/2012.154.A-G/)
+
 ## Fonti
 - [jimcampbell.tv — sito ufficiale](https://www.jimcampbell.tv/about)
 - [SFMOMA — pagina artista](https://www.sfmoma.org/artist/Jim_Campbell/)

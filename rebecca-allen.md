@@ -33,6 +33,11 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
+- [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)
+- [Serpentine Galleries — "Rebecca Allen on Kraftwerk, Video Games & Artificial Life"](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
+
 ## Fonti
 - [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
 - [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist))

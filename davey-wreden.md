@@ -21,6 +21,9 @@ Wreden realizza videogiochi narrativi che smontano dall'interno le convenzioni d
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [everythingunlimitedltd.com](https://everythingunlimitedltd.com/)
+
 ## Fonti
 - [everythingunlimitedltd.com](https://everythingunlimitedltd.com/)
 - [The Stanley Parable — gameplay completo](https://www.youtube.com/watch?v=-pHsFDiRqOM)

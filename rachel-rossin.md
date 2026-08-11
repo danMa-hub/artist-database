@@ -35,6 +35,11 @@ Rossin viene descritta con continuità come "una pittrice e programmatrice" la c
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [rossin.co — sito ufficiale](http://rossin.co/index.php)
+- [Magenta Plains — pagina artista](https://magentaplains.com/artists/rachel-rossin)
+- [Whitney Museum — profilo artista](https://whitney.org/artists/20417)
+
 ## Fonti
 - [rossin.co — sito ufficiale](http://rossin.co/index.php)
 - [Magenta Plains — pagina artista](https://magentaplains.com/artists/rachel-rossin)

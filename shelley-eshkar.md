@@ -21,6 +21,11 @@ Eshkar lavora fin dalla fine degli anni '90 all'intersezione tra motion capture,
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
+- [MASS MoCA — Ghostcatching](https://massmoca.org/event/ghostcatching/)
+- [Foundation for Contemporary Arts — Shelley Eshkar](https://www.foundationforcontemporaryarts.org/recipients/shelley-eshkar/)
+
 ## Fonti
 - [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
 - [MASS MoCA — Ghostcatching](https://massmoca.org/event/ghostcatching/)

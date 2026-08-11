@@ -40,6 +40,11 @@ Ratté comincia a lavorare, parallelamente agli studi di produzione cinematograf
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Ellephant Gallery — pagina artista](https://ellephant.org/artists/sabrina-ratte)
+- [Galerie Charlot — pagina artista](https://www.galeriecharlot.com/en/75/Sabrina-Ratte)
+- [MOMENTA Biennale de l'image — pagina artista](https://momentabiennale.com/en/artist/sabrina-ratte/)
+
 ## Fonti
 - [Ellephant Gallery — pagina artista](https://ellephant.org/artists/sabrina-ratte)
 - [Galerie Charlot — pagina artista](https://www.galeriecharlot.com/en/75/Sabrina-Ratte)

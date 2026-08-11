@@ -22,6 +22,11 @@ Obermaier lavora sull'interazione in tempo reale tra corpo danzante e sistemi di
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [exile.at — biografia](https://www.exile.at/ko/klaus_bio.html)
+- [Ars Electronica Futurelab — Apparition](https://ars.electronica.art/futurelab/en/projects-apparition/)
+- [exile.at — Apparition, background](https://www.exile.at/apparition/background.html)
+
 ## Fonti
 - [exile.at — biografia](https://www.exile.at/ko/klaus_bio.html)
 - [Ars Electronica Futurelab — Apparition](https://ars.electronica.art/futurelab/en/projects-apparition/)

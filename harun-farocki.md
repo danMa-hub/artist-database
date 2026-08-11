@@ -31,6 +31,11 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
+- [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
+- [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
+
 ## Fonti
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
 - [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)

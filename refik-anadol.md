@@ -35,6 +35,11 @@ Il lavoro di Anadol è però anche al centro di una controversia critica di alto
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [MoMA — pagina mostra ufficiale di Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
+- [Artforum — il MoMA acquisisce Unsupervised](https://www.artforum.com/news/moma-acquires-refik-anadols-unsupervised-517497/)
+- [e-flux Criticism — saggio su Unsupervised](https://www.e-flux.com/criticism/527236/refik-anadol-s-unsupervised)
+
 ## Fonti
 - [MoMA — pagina mostra ufficiale di Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
 - [Artforum — il MoMA acquisisce Unsupervised](https://www.artforum.com/news/moma-acquires-refik-anadols-unsupervised-517497/)

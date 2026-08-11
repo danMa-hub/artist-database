@@ -33,6 +33,11 @@ Monaghan lavora esclusivamente con software di animazione 3D/CGI di livello prof
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
+- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)
+- [Crystal Bridges Museum — blog, "Man Without a Movie Camera"](https://crystalbridges.org/blog/jonathan-monaghan-man-without-movie-camera/)
+
 ## Fonti
 - [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)

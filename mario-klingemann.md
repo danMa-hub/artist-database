@@ -37,6 +37,11 @@ Klingemann inizia a lavorare con le reti neurali e, dal 2015-16, con le GAN, ann
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
+- [Sotheby's — approfondimento editoriale sull'IA e Klingemann](https://www.sothebys.com/en/articles/artificial-intelligence-and-the-art-of-mario-klingemann)
+- [Issues in Science and Technology — "Neural Glitch"](https://issues.org/klingemann-neural-glitch/)
+
 ## Fonti
 - [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
 - [Sotheby's — approfondimento editoriale sull'IA e Klingemann](https://www.sothebys.com/en/articles/artificial-intelligence-and-the-art-of-mario-klingemann)

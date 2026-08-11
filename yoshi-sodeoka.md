@@ -45,6 +45,11 @@ In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discuss
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [sodeoka.com — sito ufficiale](https://sodeoka.com)
+- [SFMOMA — Word website (1995), collezione](https://www.sfmoma.org/artwork/97.488/)
+- [Whitney Museum — C404: Prototype #38, collezione](https://whitney.org/collection/works/16781)
+
 ## Fonti
 - [sodeoka.com — sito ufficiale](https://sodeoka.com)
 - [SFMOMA — Word website (1995), collezione](https://www.sfmoma.org/artwork/97.488/)

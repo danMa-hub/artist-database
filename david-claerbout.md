@@ -52,6 +52,10 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [davidclaerbout.com](https://davidclaerbout.com/)
+- [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
+
 ## Fonti
 - [davidclaerbout.com](https://davidclaerbout.com/)
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)

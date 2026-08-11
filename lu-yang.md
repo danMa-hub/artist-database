@@ -29,6 +29,9 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)
+
 ## Fonti
 - [Delusional Mandala (Vimeo)](https://vimeo.com/141005910)
 - [The Great Adventure of Material World (Vimeo)](https://vimeo.com/673837345)

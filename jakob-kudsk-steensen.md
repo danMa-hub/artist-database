@@ -35,6 +35,11 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [jakobsteensen.com — sito ufficiale](http://www.jakobsteensen.com/about)
+- [Serpentine Galleries — Catharsis](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-catharsis/)
+- [Serpentine Galleries — The Deep Listener](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-the-deep-listener/)
+
 ## Fonti
 - [jakobsteensen.com — sito ufficiale](http://www.jakobsteensen.com/about)
 - [Serpentine Galleries — Catharsis](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-catharsis/)

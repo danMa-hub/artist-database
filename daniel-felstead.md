@@ -32,6 +32,11 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [danielfelstead.com — sito ufficiale](https://danielfelstead.com/about)
+- [DIS.art — The Metaverse in Janky Capitalism](https://dis.art/the-metaverse-in-janky-capitalism)
+- [DIS.art — Literally No Place](https://dis.art/literally-no-place)
+
 ## Fonti
 - [danielfelstead.com — sito ufficiale](https://danielfelstead.com/about) — ⚠️ non raggiungibile direttamente per restrizioni di rete durante la ricerca, da verificare in prima persona
 - [DIS.art — The Metaverse in Janky Capitalism](https://dis.art/the-metaverse-in-janky-capitalism)

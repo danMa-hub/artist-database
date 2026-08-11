@@ -17,6 +17,9 @@ terra0 esplora dal 2015 come gli ecosistemi naturali possano diventare agenti ec
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [autonomousforest.org](https://autonomousforest.org/)
+
 ## Fonti
 - [autonomousforest.org](https://autonomousforest.org/)
 - Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)

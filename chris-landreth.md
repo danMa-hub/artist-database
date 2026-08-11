@@ -36,6 +36,11 @@ Landreth ha coniato e sviluppato il concetto di **"psychorealism"**, dichiarando
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [National Film Board of Canada — pagina regista](https://www.nfb.ca/directors/chris-landreth/)
+- [National Film Board of Canada — Ryan, pagina di streaming](https://www.nfb.ca/film/ryan/)
+- [Academy of Motion Picture Arts and Sciences — cerimonia 2005](https://www.oscars.org/oscars/ceremonies/2005)
+
 ## Fonti
 - [National Film Board of Canada — pagina regista](https://www.nfb.ca/directors/chris-landreth/)
 - [National Film Board of Canada — Ryan, pagina di streaming](https://www.nfb.ca/film/ryan/)

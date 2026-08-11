@@ -41,6 +41,11 @@ Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersiv
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [slimetech.org — sito ufficiale dell'artista](https://slimetech.org/)
+- [Whitney Museum — pagina artista](https://whitney.org/artists/20904)
+- [Whitney Museum — Seamless, collezione](https://whitney.org/collection/works/67918)
+
 ## Fonti
 - [slimetech.org — sito ufficiale dell'artista](https://slimetech.org/)
 - [Whitney Museum — pagina artista](https://whitney.org/artists/20904)

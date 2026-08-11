@@ -31,6 +31,10 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [zachblas.com](https://zachblas.com/)
+- [Facial Weaponization Suite](https://zachblas.com/works/facial-weaponization-suite/)
+
 ## Fonti
 - [zachblas.com](https://zachblas.com/)
 - [Facial Weaponization Suite](https://zachblas.com/works/facial-weaponization-suite/)

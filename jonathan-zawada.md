@@ -29,6 +29,11 @@ Zawada crea scene e design "perturbanti" ricorrendo a un ampio ventaglio di stru
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Wikipedia — Jonathan Zawada](https://en.wikipedia.org/wiki/Jonathan_Zawada)
+- [Highsnobiety — "Flume & Zawada Prove That NFTs Don't Just Exist Online"](https://www.highsnobiety.com/p/flume-zawada-nft-interview/)
+- [Creative Review — "Jonathan Zawada puts a twisted AI spin on Mark Pritchard cover art"](https://www.creativereview.co.uk/mark-pritchard-art-jonathan-zawada/)
+
 ## Fonti
 - [Wikipedia — Jonathan Zawada](https://en.wikipedia.org/wiki/Jonathan_Zawada)
 - [Highsnobiety — "Flume & Zawada Prove That NFTs Don't Just Exist Online"](https://www.highsnobiety.com/p/flume-zawada-nft-interview/)

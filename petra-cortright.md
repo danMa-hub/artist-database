@@ -21,6 +21,11 @@ Cortright è tra le prime artiste a lavorare con la webcam come medium e a porta
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Wikipedia — Petra Cortright](https://en.wikipedia.org/wiki/Petra_Cortright)
+- [Rhizome — Net Art Anthology, VVEBCAM](https://anthology.rhizome.org/vvebcam)
+- [MoMA — VVEBCAM (2007), collezione](https://www.moma.org/collection/works/401436)
+
 ## Fonti
 - [Wikipedia — Petra Cortright](https://en.wikipedia.org/wiki/Petra_Cortright)
 - [Rhizome — Net Art Anthology, VVEBCAM](https://anthology.rhizome.org/vvebcam)

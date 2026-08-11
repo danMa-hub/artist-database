@@ -37,6 +37,11 @@ Lozano-Hemmer è l'autore della serie **"Relational Architecture"** (Architettur
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [lozano-hemmer.com — sito ufficiale, biografia](https://www.lozano-hemmer.com/bio.php)
+- [bitforms gallery — biografia ufficiale (PDF)](https://www.bitforms.art/wp-content/uploads/2024/07/lozano-hemmer_bio.pdf)
+- [MoMA — Pulse Room, collezione](https://www.moma.org/collection/works/180180)
+
 ## Fonti
 - [lozano-hemmer.com — sito ufficiale, biografia](https://www.lozano-hemmer.com/bio.php)
 - [bitforms gallery — biografia ufficiale (PDF)](https://www.bitforms.art/wp-content/uploads/2024/07/lozano-hemmer_bio.pdf)

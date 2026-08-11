@@ -29,6 +29,11 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
+- [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)
+- [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
+
 ## Fonti
 - [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
 - [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)

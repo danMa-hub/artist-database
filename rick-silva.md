@@ -29,6 +29,11 @@ La ricerca di Silva esplora nozioni di paesaggio e natura selvaggia nel XXI seco
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [ricksilva.net](https://ricksilva.net/)
+- [The Silva Field Guide to Birds of a Parallel Future](https://silvafieldguide.com/)
+- [Western Fronts](https://westernfronts.com/)
+
 ## Fonti
 - [ricksilva.net](https://ricksilva.net/)
 - [The Silva Field Guide to Birds of a Parallel Future](https://silvafieldguide.com/)

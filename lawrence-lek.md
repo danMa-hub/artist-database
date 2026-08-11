@@ -71,6 +71,11 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [lawrencelek.com](https://www.lawrencelek.com/)
+- [Wikipedia — Lawrence Lek](https://en.wikipedia.org/wiki/Lawrence_Lek)
+- [Ocula — biografia](https://ocula.com/artists/lawrence-lek/)
+
 ## Fonti
 - [lawrencelek.com](https://www.lawrencelek.com/)
 - [Wikipedia — Lawrence Lek](https://en.wikipedia.org/wiki/Lawrence_Lek)

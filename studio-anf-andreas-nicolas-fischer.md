@@ -31,6 +31,11 @@ La pratica di Fischer è descritta come centrata sulla "manifestazione fisica di
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
+- [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/andreas-nicolas-fischer/)
+- [CreativeApplications.Net — progetto A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)
+
 ## Fonti
 - [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
 - [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/andreas-nicolas-fischer/)

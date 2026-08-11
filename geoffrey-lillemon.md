@@ -32,6 +32,11 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [commercial.geoffreylillemon.com — Biografia ufficiale](https://commercial.geoffreylillemon.com/BIOGRAPHY)
+- [cargocollective.com/geoffreylillemon — portfolio](https://cargocollective.com/geoffreylillemon/Geoffrey-Lillemon)
+- [It's Nice That — "You've not seen crazy until you've seen Geoffrey Lillemon's fashion shots"](https://www.itsnicethat.com/articles/geoffrey-lillemon)
+
 ## Fonti
 - [commercial.geoffreylillemon.com — Biografia ufficiale](https://commercial.geoffreylillemon.com/BIOGRAPHY)
 - [cargocollective.com/geoffreylillemon — portfolio](https://cargocollective.com/geoffreylillemon/Geoffrey-Lillemon)

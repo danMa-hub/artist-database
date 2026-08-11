@@ -33,6 +33,11 @@ Torn usa software 3D provenienti dalle industrie del cinema, della pubblicità e
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [katietorn.com — sito ufficiale](https://katietorn.com/)
+- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)
+- [Eyebeam — pagina artista](https://eyebeam.org/artists/katie-torn/)
+
 ## Fonti
 - [katietorn.com — sito ufficiale](https://katietorn.com/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)

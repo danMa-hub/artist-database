@@ -40,6 +40,11 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
+- [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)
+- [MoMA — Lessons I-CLXXX, collezione](https://www.moma.org/collection/works/273168)
+
 ## Fonti
 - [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
 - [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)

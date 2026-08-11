@@ -32,6 +32,11 @@ La pratica di Benson è descritta costantemente attorno a feedback video, softwa
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [pixlpa.com — sito ufficiale](https://pixlpa.com)
+- [Le Random — profilo artista](https://www.lerandom.art/artists/andrew-benson)
+- [Cycling '74 — "Artist Focus: Andrew Benson"](https://cycling74.com/articles/artist-focus-andrew-benson)
+
 ## Fonti
 - [pixlpa.com — sito ufficiale](https://pixlpa.com)
 - [Vimeo — profilo ufficiale dell'artista](https://vimeo.com/pixlpa)

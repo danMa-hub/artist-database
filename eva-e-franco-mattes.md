@@ -46,6 +46,11 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [0100101110101101.org — sito ufficiale](https://0100101110101101.org/about/)
+- [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)
+- [Whitney Museum — pagina artista](https://whitney.org/artists/19027)
+
 ## Fonti
 - [0100101110101101.org — sito ufficiale](https://0100101110101101.org/about/) — ⚠️ non raggiungibile direttamente durante la ricerca per restrizioni di rete; da verificare in prima persona
 - [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)

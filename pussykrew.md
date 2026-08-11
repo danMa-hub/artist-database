@@ -34,6 +34,11 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Platoon — "Pussykrew: Dreams Made Real"](https://www.platoon.org/report/pussykrew)
+- [The FADER — "How Pussykrew Is Using Art To Imagine A Post-Human World"](https://www.thefader.com/2016/01/21/pussykrew-artist-interview)
+- [Vice — "A Lavish Trip Inside an Empress' 3D-Scanned Palace"](https://www.vice.com/en/article/3d57zk/music-video-a-lavish-trip-inside-an-empress-3d-scanned-palace)
+
 ## Fonti
 - [Platoon — "Pussykrew: Dreams Made Real"](https://www.platoon.org/report/pussykrew)
 - [The FADER — "How Pussykrew Is Using Art To Imagine A Post-Human World"](https://www.thefader.com/2016/01/21/pussykrew-artist-interview)

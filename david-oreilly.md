@@ -40,6 +40,11 @@ Il tratto distintivo di O'Reilly è un'estetica 3D deliberatamente "low-poly" e 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Berlinale — Please Say Something, programma 2009](https://www.berlinale.de/en/2009/programme/20097362.html)
+- [Double Fine Productions — Everything](https://www.doublefine.com/games/everything)
+- [Double Fine Productions — Mountain](https://www.doublefine.com/games/mountain)
+
 ## Fonti
 - [Vimeo — canale ufficiale dell'artista](https://vimeo.com/davidoreilly/videos)
 - [Berlinale — Please Say Something, programma 2009](https://www.berlinale.de/en/2009/programme/20097362.html)

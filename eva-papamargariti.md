@@ -35,6 +35,11 @@ La pratica di Papamargariti attraversa immagine in movimento, materiale stampato
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Onassis Foundation — profilo artista](https://www.onassis.org/people/eva-papamargariti)
+- [Eugster || Belgrade — pagina artista](https://www.eugster-belgrade.com/artists/eva-papamargariti/)
+- [New Museum Digital Archive — Factitious Imprints](https://newmuseum.org/exhibitions/view/eva-papamargariti-factitious-imprints)
+
 ## Fonti
 - [Onassis Foundation — profilo artista](https://www.onassis.org/people/eva-papamargariti)
 - [Eugster || Belgrade — pagina artista](https://www.eugster-belgrade.com/artists/eva-papamargariti/)

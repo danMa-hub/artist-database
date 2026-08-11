@@ -43,6 +43,11 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [morehshin.com](https://www.morehshin.com/)
+- [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
+- [She Who Sees the Unknown](https://www.morehshin.com/she-who-sees-the-unknown)
+
 ## Fonti
 - [morehshin.com](https://www.morehshin.com/)
 - [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)

@@ -38,6 +38,11 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)
+- [IRCAM/Brahms — biografia](https://brahms.ircam.fr/en/ryoji-ikeda)
+- [arts.cern — pagina artista](https://arts.cern/artist/ryoji-ikeda/)
+
 ## Fonti
 - [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)
 - [IRCAM/Brahms — biografia](https://brahms.ircam.fr/en/ryoji-ikeda)

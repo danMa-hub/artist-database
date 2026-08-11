@@ -33,6 +33,11 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [cecilebevans.com](https://cecilebevans.com)
+- [What the Heart Wants — testo critico (Mousse Magazine)](https://www.moussemagazine.it/magazine/cecile-b-evans-kunsthalle-winterthur-2016)
+- [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)
+
 ## Fonti
 - [cecilebevans.com](https://cecilebevans.com)
 - [What the Heart Wants — testo critico (Mousse Magazine)](https://www.moussemagazine.it/magazine/cecile-b-evans-kunsthalle-winterthur-2016)

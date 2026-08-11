@@ -35,6 +35,11 @@ Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Blog ufficiale](http://rosa-menkman.blogspot.com/)
+- [beyondresolution.info — piattaforma di ricerca i.R.D.](https://beyondresolution.info/BIO)
+- [Institute of Network Cultures — The Glitch Moment(um), pubblicazione](https://networkcultures.org/blog/publication/no-04-the-glitch-momentum-rosa-menkman/)
+
 ## Fonti
 - [Blog ufficiale](http://rosa-menkman.blogspot.com/)
 - [beyondresolution.info — piattaforma di ricerca i.R.D.](https://beyondresolution.info/BIO)

@@ -36,6 +36,9 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [jonrafman.com](https://jonrafman.com/)
+
 ## Fonti
 - [jonrafman.com](https://jonrafman.com/)
 - [Dream Journal (Vimeo)](https://vimeo.com/349313505)

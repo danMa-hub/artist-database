@@ -38,6 +38,11 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
+- [Smithsonian American Art Museum — Electronic Superhighway: Continental U.S., Alaska, Hawaii](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
+- [MoMA — Global Groove, collezione](https://www.moma.org/collection/works/107679)
+
 ## Fonti
 - [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
 - [Smithsonian American Art Museum — Electronic Superhighway: Continental U.S., Alaska, Hawaii](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)

@@ -17,6 +17,11 @@ La pratica di Stern è centrata su **provocazioni corporee**: chiede ai propri s
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [nathanielstern.com — sito ufficiale](https://nathanielstern.com/)
+- [nathanielstern.com — Compressionism, documentazione](https://nathanielstern.com/artwork/compressionism/)
+- [Wikipedia — Nathaniel Stern](https://en.wikipedia.org/wiki/Nathaniel_Stern)
+
 ## Fonti
 - [nathanielstern.com — sito ufficiale](https://nathanielstern.com/)
 - [nathanielstern.com — Compressionism, documentazione](https://nathanielstern.com/artwork/compressionism/)

@@ -29,6 +29,11 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [paglen.com](https://paglen.com/)
+- [Ocula — biografia](https://ocula.com/artists/trevor-paglen/)
+- [MacArthur Foundation — Trevor Paglen](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
+
 ## Fonti
 - [paglen.com](https://paglen.com/) (sito ufficiale, da verificare url esatto)
 - [Ocula — biografia](https://ocula.com/artists/trevor-paglen/)

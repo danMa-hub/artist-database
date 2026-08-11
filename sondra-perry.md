@@ -40,6 +40,11 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [sondraperry.com — sito ufficiale](https://sondraperry.com)
+- [Whitney Museum — Graft and Ash for a Three Monitor Workstation, collezione](https://whitney.org/collection/works/59924)
+- [MoMA — Resident Evil (2016), collezione](https://www.moma.org/collection/works/219405)
+
 ## Fonti
 - [sondraperry.com — sito ufficiale](https://sondraperry.com)
 - [Whitney Museum — Graft and Ash for a Three Monitor Workstation, collezione](https://whitney.org/collection/works/59924)

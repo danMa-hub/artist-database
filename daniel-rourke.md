@@ -21,6 +21,11 @@ Rourke lavora principalmente come scrittore e teorico più che come artista visi
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
+- [Goldsmiths — pagina docente](https://www.gold.ac.uk/media-communications/staff/rourke-daniel/)
+- [additivism.org](https://additivism.org/)
+
 ## Fonti
 - [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
 - [Goldsmiths — pagina docente](https://www.gold.ac.uk/media-communications/staff/rourke-daniel/)

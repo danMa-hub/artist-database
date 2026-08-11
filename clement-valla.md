@@ -21,6 +21,11 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [clementvalla.com — sito ufficiale](https://clementvalla.com/)
+- [Postcards from Google Earth — clementvalla.com](https://clementvalla.com/work/postcards-from-google-earth/)
+- [Surface Survey — clementvalla.com](https://clementvalla.com/work/surface-survey/)
+
 ## Fonti
 - [clementvalla.com — sito ufficiale](https://clementvalla.com/)
 - [Postcards from Google Earth — clementvalla.com](https://clementvalla.com/work/postcards-from-google-earth/)

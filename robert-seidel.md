@@ -21,6 +21,11 @@ Seidel spinge l'astrazione verso il sublime e l'organico, attingendo a metodi de
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [robertseidel.com — sito ufficiale](https://robertseidel.com/)
+- [robertseidel.com — _grau](https://robertseidel.com/grau/)
+- [Light Cone — profilo artista](https://lightcone.org/en/filmmaker-1057-robert-seidel)
+
 ## Fonti
 - [robertseidel.com — sito ufficiale](https://robertseidel.com/)
 - [robertseidel.com — _grau](https://robertseidel.com/grau/)

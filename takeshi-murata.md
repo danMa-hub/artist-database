@@ -40,6 +40,11 @@ Murata è ampiamente riconosciuto come uno dei pionieri del "datamoshing" come t
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
+- [Smithsonian American Art Museum — Monster Movie, collezione](https://americanart.si.edu/artwork/monster-movie-86385)
+- [Hirshhorn Museum — mostra "Black Box: Takeshi Murata" (2007)](https://hirshhorn.si.edu/exhibitions/black-box-takeshi-murata/)
+
 ## Fonti
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
 - [Smithsonian American Art Museum — Monster Movie, collezione](https://americanart.si.edu/artwork/monster-movie-86385)

@@ -37,6 +37,11 @@ Il lavoro di Doupé è descritto costantemente come CGI "grezza" e a basso costo
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
+- [Media Queer — biografia e filmografia](https://www.mediaqueer.ca/artist/barry-doupe)
+- [Wil Aballe Art Projects (WAAP) — sito della galleria](https://www.waapart.com/)
+
 ## Fonti
 - [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
 - [Media Queer — biografia e filmografia](https://www.mediaqueer.ca/artist/barry-doupe)

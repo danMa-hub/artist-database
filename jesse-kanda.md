@@ -41,6 +41,11 @@ Kanda dichiara: "Mi interessa di più ciò che viene percepito come repellente q
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [The Fader — pagina artista/tag](https://www.thefader.com/artist/jesse-kanda)
+- [Dazed — profilo Dazed 100](https://www.dazeddigital.com/projects/article/29623/1/jesse-kanda)
+- [Dazed — intervista su Labyrinth/Doon Kanda](https://www.dazeddigital.com/beauty/article/46985/1/jesse-doon-kanda-artist-musician-labyrinth-debut-album-interview)
+
 ## Fonti
 - [The Fader — pagina artista/tag](https://www.thefader.com/artist/jesse-kanda)
 - [Dazed — profilo Dazed 100](https://www.dazeddigital.com/projects/article/29623/1/jesse-kanda)

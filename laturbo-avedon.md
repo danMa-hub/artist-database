@@ -35,6 +35,11 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [laturboavedon.com — sito ufficiale](https://www.laturboavedon.com/about)
+- [TRANSFER Gallery — pagina dedicata all'artista](https://transfergallery.com/category/laturbo-avedon/)
+- [Whitney Museum — Morning Mirror / Evening Mirror](https://whitney.org/exhibitions/laturbo-avedon)
+
 ## Fonti
 - [laturboavedon.com — sito ufficiale](https://www.laturboavedon.com/about)
 - [TRANSFER Gallery — pagina dedicata all'artista](https://transfergallery.com/category/laturbo-avedon/)

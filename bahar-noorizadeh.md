@@ -37,6 +37,10 @@ Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [baharnoorizadeh.com](https://baharnoorizadeh.com/)
+- [The Red City of the Planet of Capitalism — testo, e-flux](https://www.e-flux.com/architecture/cascades/391412/the-red-city-of-the-planet-of-capitalism/)
+
 ## Fonti
 - [baharnoorizadeh.com](https://baharnoorizadeh.com/)
 - [After Scarcity (Vimeo)](https://vimeo.com/296563987)

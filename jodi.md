@@ -43,6 +43,11 @@ JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorg
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
+- [Whitney Museum — profilo artista](https://whitney.org/artists/15261)
+- [MoMA — profilo artista](https://www.moma.org/artists/48128-jodi)
+
 ## Fonti
 - [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/15261)

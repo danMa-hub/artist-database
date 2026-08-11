@@ -38,6 +38,11 @@ Joler definisce il proprio metodo come **"cartografia critica"** (o "contro-cart
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [SHARE Lab](https://labs.rs/)
+- [SHARE Foundation — chi siamo](https://sharefoundation.info/en/about-us/)
+- [Anatomy of an AI System — progetto ufficiale](https://anatomyof.ai/)
+
 ## Fonti
 - [SHARE Lab](https://labs.rs/)
 - [SHARE Foundation — chi siamo](https://sharefoundation.info/en/about-us/)

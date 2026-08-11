@@ -30,6 +30,11 @@ Dong lavora in performance, fotografia, video e installazioni digitali, esploran
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [catherinechundong.com](https://catherinechundong.com)
+- [Skin Deep](https://catherinechundong.com/skin-deep-2014)
+- [Centre CLARK — profilo artista](https://centreclark.com/en/artists/chun-hua-catherine-dong)
+
 ## Fonti
 - [catherinechundong.com](https://catherinechundong.com)
 - [Skin Deep](https://catherinechundong.com/skin-deep-2014)

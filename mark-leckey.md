@@ -21,6 +21,9 @@ Leckey lavora tra video, scultura, suono e scansione/stampa 3D, indagando lo sta
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [A Month of Making — Gavin Brown's Enterprise](https://gavinbrown.biz/artists/mark_leckey/exhibitions/2014)
+
 ## Fonti
 - [A Month of Making — Gavin Brown's Enterprise](https://gavinbrown.biz/artists/mark_leckey/exhibitions/2014)
 - [Made in Heaven 2004](https://www.youtube.com/watch?v=2rH5Ew_fOTk)

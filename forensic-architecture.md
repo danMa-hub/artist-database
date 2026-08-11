@@ -25,6 +25,11 @@ Forensic Architecture conduce indagini spaziali su violazioni dei diritti umani 
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [forensic-architecture.org](https://forensic-architecture.org/)
+- [The Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)
+- [Pushbacks — Evros/Meriç](https://forensic-architecture.org/investigation/evros-situated-testimony)
+
 ## Fonti
 - [forensic-architecture.org](https://forensic-architecture.org/)
 - [The Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)

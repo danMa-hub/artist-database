@@ -25,6 +25,9 @@ Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Manuale "Sometimes..." (PDF)](https://www.dropbox.com/s/fafvkvsbe9enjk2/SometimesGuideBook.pdf?dl=0)
+
 ## Fonti
 - [Manuale "Sometimes..." (PDF)](https://www.dropbox.com/s/fafvkvsbe9enjk2/SometimesGuideBook.pdf?dl=0)
 - [HOTR Home Furnishing](https://www.youtube.com/watch?v=lwLx7-XLA1k&t=38s)

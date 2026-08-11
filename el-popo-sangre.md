@@ -32,6 +32,11 @@ Il lavoro di El Popo Sangre applica ai tropi consueti della new media art — av
 
 ## Immagini
 
+*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+- [Vice — "The Surreal CGI Sex-Worlds of El Popo Sangre" ⚠️ contenuto NSFW segnalato dalla testata stessa](https://www.vice.com/en/article/cgi-artist-el-popo-sangre/)
+- [Various Artists — "Paulin Rogues / El Popo Sangre" (1 marzo 2017)](https://variousartists.io/2017-03-01/paulin-rogues-el-popo-sangre/)
+- [WeAndTheColor — "Fantasy – Experimental Animation by El Popo Sangre"](https://weandthecolor.com/fantasy-experimental-animation-el-popo-sangre/77619)
+
 ## Fonti
 - [Vice — "The Surreal CGI Sex-Worlds of El Popo Sangre" ⚠️ contenuto NSFW segnalato dalla testata stessa](https://www.vice.com/en/article/cgi-artist-el-popo-sangre/)
 - [Various Artists — "Paulin Rogues / El Popo Sangre" (1 marzo 2017)](https://variousartists.io/2017-03-01/paulin-rogues-el-popo-sangre/)
