@@ -130,12 +130,20 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Andrew Benson](andrew-benson.md)
 - [Barry Doupé](barry-doupe.md)
 - [Aaron Whitney Björk](aaron-bjork.md) — ⚠️ scheda ancora parziale, fonti limitate, da completare
+- [Kim Laughton](kim-laughton.md)
+- [Geoffrey Lillemon](geoffrey-lillemon.md)
+- [Studio ANF — Andreas Nicolas Fischer](studio-anf-andreas-nicolas-fischer.md)
+- [Jonathan Zawada (zawada.art)](jonathan-zawada.md) — ⚠️ corretta nazionalità: australiano, non polacco/est-europeo come da ipotesi iniziale
+- [Pussykrew](pussykrew.md)
+- [Sturm&Drang / Sturm&Drang Studio](sturm-und-drang-studio.md) — ⚠️ riformulato: progetto curatoriale/educativo Fondazione Prada × ETH Zürich, non studio di produzione CGI commerciale
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), DRAUP, Jun Seo Hahm, Sturm&Drang Studio
+Artefactory Studio, El Popo Sangre, Jun Seo Hahm
+
+⚠️ **DRAUP**: rimosso dalla lista dopo ricerca dedicata — non corrisponde a uno studio di CGI/motion design/arte generativa. L'unica entità reale con questo nome è stata una piattaforma di moda digitale/NFT (fondatrice Dani Loftus, poi acquisita da Tribute Brand e rinominata Fashion.Fun), la cui unica collaborazione artistica rilevante è con l'artista generativo Nicolas Sassoon (già presente in questo database) — non pertinente per una scheda dedicata. Vedi nota in [studio-anf-andreas-nicolas-fischer.md](studio-anf-andreas-nicolas-fischer.md).
 
 ## Prossimi passi
 
