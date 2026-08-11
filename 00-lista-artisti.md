@@ -136,18 +136,22 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Jonathan Zawada (zawada.art)](jonathan-zawada.md) — ⚠️ corretta nazionalità: australiano, non polacco/est-europeo come da ipotesi iniziale
 - [Pussykrew](pussykrew.md)
 - [Sturm&Drang / Sturm&Drang Studio](sturm-und-drang-studio.md) — ⚠️ riformulato: progetto curatoriale/educativo Fondazione Prada × ETH Zürich, non studio di produzione CGI commerciale
+- [ArtefactoryLab](artefactorylab.md) — ⚠️ riformulato: studio di CGI/VR architettonica per grandi studi di architettura (Jean Nouvel, Herzog & de Meuron, OMA, Gehry), non collettivo di arte contemporanea
+- [El Popo Sangre (Paulin Rogues)](el-popo-sangre.md) — ⚠️ avviso di contenuto: opere con immaginario sessualmente esplicito, trattate in scheda con cautela e senza link diretti a materiale NSFW
+- [Jun Seo Hahm](jun-seo-hahm.md)
+
+**Con queste ultime quattro schede, l'intera lista "da scrivere da zero" è stata completata.**
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
-Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
-
-Artefactory Studio, El Popo Sangre, Jun Seo Hahm
+*(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*
 
 ⚠️ **DRAUP**: rimosso dalla lista dopo ricerca dedicata — non corrisponde a uno studio di CGI/motion design/arte generativa. L'unica entità reale con questo nome è stata una piattaforma di moda digitale/NFT (fondatrice Dani Loftus, poi acquisita da Tribute Brand e rinominata Fashion.Fun), la cui unica collaborazione artistica rilevante è con l'artista generativo Nicolas Sassoon (già presente in questo database) — non pertinente per una scheda dedicata. Vedi nota in [studio-anf-andreas-nicolas-fischer.md](studio-anf-andreas-nicolas-fischer.md).
 
 ## Prossimi passi
 
 1. ~~Sviluppare le schede stub già create per i "nuovi"~~ — **completato**: tutte e 13 le schede "nuovi" sono ora sviluppate alla stessa profondità delle schede più estese del database.
-2. Scrivere da zero le schede della sezione "da scrivere" (in corso), con priorità a chi è citato più volte nei programmi (es. Rosa Menkman, Hito Steyerl, Vladan Joler, JODI).
+2. ~~Scrivere da zero le schede della sezione "da scrivere"~~ — **completato**: tutti i nominativi della sezione "da scrivere" (circa 50, più i 13 "nuovi") sono stati sviluppati alla stessa profondità delle schede più estese del database, con priorità iniziale a chi era citato più volte nei programmi (Hito Steyerl, Rosa Menkman, Vladan Joler, JODI, ecc.).
 3. Verificare a fondo (non solo migrare) le schede del primo batch — vedi regola "verifica sostanziale" in [`README.md`](README.md).
 4. Elaborare foto/video restanti della mostra "Strange Rules" (28 foto, 4 video caricati — solo una parte è stata processata finora) e delle altre mostre di Venezia (Canicula, Biennale Arsenale/Giardini).
+5. Follow-up su schede segnalate come parziali o da rivedere: [Aaron Whitney Björk](aaron-bjork.md) (fonti scarse, da completare con ricerca dedicata), e verifica diretta sui siti ufficiali per le schede la cui ricerca ha incontrato il blocco di rete sul WebFetch (segnalato nei rispettivi Appunti).
