@@ -43,6 +43,8 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 - [Ludwig Museum — The Garden](https://www.ludwigmuseum.hu/en/work/garden-21st-century-amateur-film)
 - [Imaginary Cameras (e-flux)](https://www.e-flux.com/announcements/254279/tama-s-waliczkyimaginary-cameras/)
 - [Ludwig Museum — Imaginary Cameras, Padiglione Ungherese](https://www.ludwigmuseum.hu/en/exhibition/tamas-waliczky-imaginary-cameras-hungarian-pavilion-58th-international-exhibition-art-la)
+- [Conferenza dell'artista, video 1 (YouTube)](https://www.youtube.com/watch?v=8HXjYevXfdo)
+- [Conferenza dell'artista, video 2 (YouTube, da 12:33)](https://www.youtube.com/watch?v=b9yU7f7J1UM&t=753s)
 
 ---
 

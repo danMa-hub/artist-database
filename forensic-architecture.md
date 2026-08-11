@@ -35,3 +35,5 @@ Forensic Architecture conduce indagini spaziali su violazioni dei diritti umani 
 
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive, fonte unica, contenuto integralmente ripreso nella parte organizzata.
+- Nessun link YouTube/Vimeo dedicato trovato nella scheda REF: i video di ricostruzione di ogni indagine sono incorporati direttamente nelle rispettive pagine forensic-architecture.org/investigation/... già in Fonti — da aprire direttamente per la visione/download.
+- Sotto-indagini aggiuntive del caso Beirut segnalate nella scheda REF ma non ancora scorporate in Opere principali: *Destruction of Destruction* e *The Welders* (entrambe pagine dedicate su forensic-architecture.org).

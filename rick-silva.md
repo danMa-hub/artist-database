@@ -41,3 +41,4 @@ La ricerca di Silva esplora nozioni di paesaggio e natura selvaggia nel XXI seco
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive (migrata e riorganizzata col nuovo template).
 - Collaborazione ricorrente con **Nicolas Sassoon** (già presente come scheda a sé) su SIGNALS/CORES.
+- Nessun link YouTube/Vimeo dedicato trovato nella scheda REF: i video delle opere sono ospitati direttamente nei siti di progetto già in Fonti (silvafieldguide.com, westernfronts.com, enpleinair.org, s-i-g-n-a-l-s.com) — da aprire direttamente per la visione/download, non essendoci un canale YouTube/Vimeo centralizzato individuato.
