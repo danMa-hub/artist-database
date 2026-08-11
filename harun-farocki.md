@@ -22,6 +22,7 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 ### Serious Games 1-4 (2009-2010)
 **Descrizione:** serie sull'uso di simulazioni videoludiche nell'addestramento militare e nella terapia dei veterani (tra cui *Watson is Down*, *Three Dead*, *Immersion*).
 **Lettura critica:** mostra come lo stesso dispositivo tecnico (il motore di simulazione) prepari alla guerra e curi il suo trauma, cortocircuitando addestramento e cura.
+**Video:** [Serious Games 1: Watson is Down (video)](https://www.youtube.com/watch?v=P1fa8jZ01rE) · [Serious Games 2: Three Dead (video)](https://www.youtube.com/watch?v=KH5MmRX1Cns) · [Serious Games 3: Immersion (video)](https://www.youtube.com/watch?v=XrXAd6p4EaM)
 
 ### Parallel I-IV (2012-2014)
 **Descrizione:** serie in due canali sincronizzati che confronta la storia estetica della computer grafica nei videogiochi — dalle linee astratte dei primi giochi anni '80 (*Mystery House* 1980, *Pitfall* 1982, *King's Quest* 1984) al fotorealismo — con le regole e i limiti dei mondi di gioco e dei loro protagonisti ("homunculi" senza genitori né maestri, con un set limitato di interazioni).
