@@ -14,10 +14,12 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 ### Facial Weaponization Suite (2012-2014)
 **Descrizione:** serie di maschere fisiche amorfe, stampate in 3D a partire dai dati biometrici aggregati di più individui queer (es. "Fag Face Mask", "Transgender Mask"), indossate in workshop e performance documentati in video.
 **Lettura critica:** creando una "faccia collettiva" mostruosa, le maschere negano all'algoritmo un volto leggibile — un atto di opacità collettiva contro la logica biometrica dell'individuo normalizzato.
+**Video:** [documentazione (Vimeo)](https://vimeo.com/76104217)
 
 ### Biometric Mirror (2019)
 **Descrizione:** installazione interattiva: un'IA analizza il volto dello spettatore e "predice" (in modo volutamente inaffidabile) sessualità, criminalità, stato emotivo, sulla base di dataset distorti.
 **Lettura critica:** mette in scena l'assurdità pseudo-scientifica di queste classificazioni (echi della frenologia ottocentesca), esponendo la violenza performativa del capitalismo della sorveglianza.
+**Video:** [pagina progetto, zachblas.com](https://zachblas.com/works/biometric-mirror/)
 
 ### Contra-Internet: Jubilee 2033 (2018)
 **Descrizione:** film sci-fi queer in CGI e live-action, remake di *Jubilee* (1978) di Derek Jarman: una setta di ribelli tenta di fuggire dalla Silicon Valley e dal "Contra-Internet".
@@ -33,6 +35,8 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 - [zachblas.com](https://zachblas.com/)
 - [Facial Weaponization Suite](https://zachblas.com/works/facial-weaponization-suite/)
 - [Contra-Internet: Jubilee 2033 — trailer](https://vimeo.com/261314972)
+- [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)
+- [The Right to Be Opaque — talk, transmediale (YouTube)](https://www.youtube.com/watch?v=Pbcr-n1e-IA)
 
 ---
 

@@ -22,6 +22,7 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 ### Domestic Robocop (2009)
 **Descrizione:** film girato dal punto di vista di un piccolo robot domestico di sorveglianza, che alterna compiti banali (fare il tè) a compiti inquietanti (monitorare i proprietari).
 **Lettura critica:** anticipa la tesi secondo cui gli strumenti non sono mai neutri: cura e controllo sono già confuse nello sguardo della macchina.
+**Video:** [cortometraggio completo (Vimeo)](https://vimeo.com/7430198)
 
 ## Immagini
 
@@ -29,6 +30,9 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 - [keiichimatsuda.com](https://keiichimatsuda.com/)
 - [Hyper-Reality](https://vimeo.com/166807261)
 - [Prism](https://vimeo.com/66014028)
+- [Keiichi Matsuda spiega la sua visione della realtà aumentata (Dezeen, YouTube)](https://www.youtube.com/watch?v=91-gM-d6s3c)
+- [Hyper-Reality: A New Vision of the Future (WIRED, YouTube)](https://www.youtube.com/watch?v=nE5U3vB3aGg)
+- [The Future of Our Senses, talk OFFF (YouTube)](https://www.youtube.com/watch?v=p1n8SuxO_YA)
 
 ---
 

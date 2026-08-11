@@ -36,6 +36,10 @@ Dong lavora in performance, fotografia, video e installazioni digitali, esploran
 - [Artist Talk — Montréal Arts Interculturels](https://vimeo.com/308843796)
 - [Documentazione performance "Skin Deep"](https://www.youtube.com/watch?v=w3UwWgUIhHY)
 - [Centre CLARK — profilo artista](https://centreclark.com/en/artists/chun-hua-catherine-dong)
+- [Art Asia Pacific — profilo artista](http://artasiapacific.com/Blog/ChunHuaCatherineDong)
+- [The Wind that Cut Through the Sky — pagina opera](https://catherinechundong.com/the-wind-that-cut-through-the-sky)
+- [Husband and Wife — pagina opera](https://catherinechundong.com/husband-and-wife)
+- [Meet Me Halfway — pagina opera](https://catherinechundong.com/meet-me-halfway)
 
 ---
 
