@@ -126,12 +126,16 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 - [Diego Marcon](diego-marcon.md)
 - [Katie Torn](katie-torn.md)
 - [Eva Papamargariti](eva-papamargariti.md)
+- [Hyphen-Labs](hyphen-labs.md)
+- [Andrew Benson](andrew-benson.md)
+- [Barry Doupé](barry-doupe.md)
+- [Aaron Whitney Björk](aaron-bjork.md) — ⚠️ scheda ancora parziale, fonti limitate, da completare
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 Presenti come nome/link/placeholder vuoto su Drive (nella cartella "new refs", nell'Indice REFs o nella wishlist del documento indice), ma senza alcun testo scritto.
 
-Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Hyphen-Labs, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), DRAUP, Andrew Benson, Aaron Whitney Björk, Barry Doupé, Jun Seo Hahm, Sturm&Drang Studio
+Artefactory Studio, Geoffrey Lillemon, El Popo Sangre, Kim Laughton, zawada.art, pussykrew, Studio A N F (Andreas Nicolas Fischer), DRAUP, Jun Seo Hahm, Sturm&Drang Studio
 
 ## Prossimi passi
 
