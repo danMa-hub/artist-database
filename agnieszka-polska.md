@@ -26,6 +26,7 @@ Polska lavora principalmente con video, animazione digitale e installazioni audi
 ### The Demon's Brain (2018-2019)
 **Descrizione:** intreccia fonti storiche medievali e teoria economica contemporanea, attraverso lettere immaginate di un mercante del XIV secolo.
 **Lettura critica:** riflessione sull'ansia del debito e sulla continuità della logica capitalista nel tempo — i sistemi di potere restano invariati, solo digitalizzati.
+**Video:** [talk con estratto dell'opera (YouTube)](https://www.youtube.com/watch?v=iFSb162j4Ts)
 
 ![The Demon's Brain, still — attribuzione da confermare](../immagini/agnieszka-polska/the-demons-brain-01.png)
 
@@ -55,6 +56,11 @@ Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Bienn
 - [culture.pl — profilo artista](https://culture.pl/en/artist/agnieszka-polska)
 - [The New Sun (video)](https://www.youtube.com/watch?v=B30QlvuaRD8)
 - [What the Sun Has Seen (video)](https://www.youtube.com/watch?v=dQcA7G-b0jE)
+- [Talk dell'artista (YouTube)](https://www.youtube.com/watch?v=fXBHhsfMg2s)
+- [Video/opera aggiuntivo 1 (YouTube)](https://www.youtube.com/watch?v=Ba4-EfUxPMI)
+- [Video/opera aggiuntivo 2 (YouTube)](https://www.youtube.com/watch?v=Kbl0N2QJkMo)
+- [Video/opera aggiuntivo 3 (YouTube)](https://www.youtube.com/watch?v=fydVzT2GnZs)
+- [Documentazione aggiuntiva (Vimeo)](https://vimeo.com/446830355)
 - [MUDAM Luxembourg — collezione](https://www.mudam.com/collection/agniezka-polska)
 - [Nosbaum Reding — biografia](https://www.nosbaumreding.com/en/artists/biography/77/agnieszka-polska-bio)
 - [Galerie Georg Kargl — pagina artista](https://www.georgkargl.com/en/artist/agnieszka-polska)

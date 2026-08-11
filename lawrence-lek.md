@@ -31,22 +31,36 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 ### Geomancer (2017)
 **Descrizione:** film CGI ambientato nella Singapore del 2065, realizzato in un game engine: un'IA satellite adolescente scende sulla Terra desiderando diventare un'artista, e fallisce nel farsi riconoscere dal mondo dell'arte, che la considera solo una macchina.
 **Lettura critica:** interroga il feticismo umanistico del "genio" e dell'originalità quando la creatività stessa diventa un problema di elaborazione dati; seconda opera della trilogia Sinofuturista (con *Sinofuturism* e *AIDOL*).
+**Video:** [trailer (Vimeo)](https://vimeo.com/210494259) · [Capitolo 3 — Archaeology of the Future (Vimeo)](https://vimeo.com/251303726)
 
 ![Geomancer, il satellite senziente sorvola Marina Bay Sands, Singapore](../immagini/lawrence-lek/geomancer-01.png)
+
+### 2065 (2015–in corso)
+**Descrizione:** serie in corso di videogiochi open-world e installazioni che estendono il worldbuilding e l'ambientazione singaporiana di *Geomancer*: una voce fuori campo introduce l'antefatto immaginario di una società post-lavoro, dove l'adozione diffusa dell'IA ha generato un corrispondente appetito di intrattenimento e produzione culturale infinita.
+**Lettura critica:** prosegue su formato videoludico interattivo, anziché filmico, la stessa ricerca sul lavoro automatizzato e il tempo libero post-umano di *Geomancer*.
+**Video:** [gameplay, "Let's Play: Lawrence Lek plays 2065" (Vimeo)](https://vimeo.com/807541674)
 
 ### Nøtel (2015–in corso)
 **Descrizione:** brand speculativo di un hotel di lusso globale interamente automatizzato: nessun personale umano, ogni servizio erogato da algoritmi, sorveglianza tramite droni e riconoscimento facciale; installazioni, video e performance musicali dal vivo.
 **Lettura critica:** apoteosi del "non-luogo" nell'era algoritmica — un lusso perturbante perché privo di ogni traccia di vita organica, logica ultima del capitalismo di servizio.
+**Video:** [trailer (Vimeo)](https://vimeo.com/299908741/4573da9465)
 
 ### AIDOL (2019)
 **Descrizione:** lungometraggio CGI (83 min), terza opera della trilogia Sinofuturista: Diva, popstar umana la cui fama sta svanendo, ingaggia Geomancer come "ghostwriter" IA per una canzone di ritorno al successo alle e-Sports Olympics del 2065. Colonna sonora scritta e orchestrata dall'artista, pubblicata su Hyperdub Records.
 **Lettura critica:** critica all'industria culturale e alla società dello spettacolo — la creatività è completamente sussunta dal capitale, l'IA rappresenta il lavoro alienato e invisibile che produce valore mentre l'umana è il "brand" pubblico.
+**Video:** [colonna sonora completa (Bandcamp)](https://lawrencelek.bandcamp.com/) · [playlist colonna sonora "temple" (YouTube)](https://www.youtube.com/playlist?list=PLL2yWwSKDtJOPCFaOtJ6b7TiwsyBBzDlX)
 
 ![AIDOL (probabile, non certo): figura incappucciata in una giungla, "I met all the stars there, the producers, the designers"](../immagini/lawrence-lek/aidol-01.png)
+
+### Theta (2022, trailer del progetto NOX)
+**Descrizione:** cortometraggio CGI ambientato nella "SimBeijing", replica intelligente di Pechino costruita per testare auto a guida autonoma: segue un'auto di polizia autonoma e senziente, Theta, che pattuglia le strade di una città ormai deserta, di cui lo spettatore scopre progressivamente il motivo dell'abbandono.
+**Lettura critica:** anteprima narrativa del mondo poi sviluppato compiutamente in *NOX* — la voce del veicolo senziente come narratore di un'assenza umana radicale.
+**Video:** [trailer (Vimeo)](https://vimeo.com/729758489)
 
 ### NOX (2023, LAS Art Foundation, Berlino)
 **Descrizione:** la mostra più grande dell'artista fino a quel momento: il pubblico entra in una struttura della Farsight Corporation, conglomerato IA immaginario che addestra e "cura" le proprie auto a guida autonoma senzienti — ciascuna con un ruolo (consegne, pattugliamento, piacere) e una personalità corrispondente. La narrazione (audio locativo, video CGI, installazione, componenti videoludiche, circa un'ora) segue Enigma-76, un'auto da consegna senziente in crisi esistenziale dopo essersi "guastata" scattando troppe fotografie e riempiendo la propria memoria, fino a un programma di riabilitazione spirituale imposto dal cliente umano ([LAS Art Foundation](https://www.las-art.foundation/programme/nox); [Wallpaper](https://www.wallpaper.com/art/exhibitions-shows/lawrence-lek-nox-las-art-foundation-berlin)).
 **Lettura critica:** immagina le conseguenze psicologiche di un futuro popolato da sistemi intelligenti e macchine senzienti — la "terapia" delle auto ribalta la gerarchia umano/macchina, mettendo in scena l'ansia e la cura più che il controllo.
+**Video:** [conversazione con l'artista e il professor Iyad Rahwan (YouTube)](https://www.youtube.com/watch?v=84NLH8bzqEM) · [guida alla mostra, LAS Art Foundation](https://www.las-art.foundation/explore/nox-exhibition-guide)
 
 ![NOX, fotogramma del titolo — "Home of Nonhuman Excellence"](../immagini/lawrence-lek/nox-titlecard.png)
 ![NOX, veduta aerea della città simulata (attribuzione probabile, non certa)](../immagini/lawrence-lek/nox-city-01.png)
