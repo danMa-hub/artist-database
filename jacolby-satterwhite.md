@@ -31,6 +31,7 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 ### We Are in Hell When We Hurt Each Other (2020)
 **Descrizione:** video HD a colori e animazione 3D con sonoro, 24:22 minuti. Avatar femme-bot neri (modellati sul corpo dell'artista in motion capture, vestito digitalmente) danzano vogue attraverso un'Arcadia boschiva; l'opera si chiude con un tributo commemorativo a Breonna Taylor. Mostrata da Mitchell-Innes & Nash, New York (2020) e in seguito al Blaffer Art Museum di Houston.
 **Lettura critica:** inserita tra i momenti artistici più significativi del 2020 secondo la copertura del *New York Times* (da verificare direttamente) — l'opera più esplicitamente politica del suo percorso fino a quel momento, con un riferimento diretto e nominato alla violenza razziale contemporanea.
+**Video:** [estratto (Vimeo)](https://vimeo.com/461561190) · [pagina mostra, Mitchell-Innes & Nash](https://www.miandn.com/exhibitions/jacolby-satterwhite)
 
 ### A Metta Prayer — The Great Hall Commission (2023-24, Metropolitan Museum of Art, New York)
 **Descrizione:** commissione video immersiva a 6 canali per la Great Hall del Met (in mostra ottobre 2023-gennaio 2024), ispirata alla preghiera buddista metta ("gentilezza amorevole"). Fonde coreografia, video, animazione, illuminazione e musica in un mondo generato al computer che incorpora rese 3D di oltre 100 oggetti della collezione permanente del museo (tra cui figure in terracotta e una maschera Noh) insieme a sequenze dal vivo. In tournée al Museum of Fine Arts, Houston (maggio-ottobre 2024).

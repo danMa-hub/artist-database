@@ -47,6 +47,7 @@ Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda
 - [Pilar Corrias — biografia](https://www.pilarcorrias.com/artists/39-ian-cheng/biography/)
 - [Life After BOB](https://lifeafterbob.io/)
 - [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
+- [Intervista aggiuntiva sull'opera dell'artista (YouTube)](https://www.youtube.com/watch?v=kg1k8BmTqNg&list=RDQM1vZbQLV6YWE&index=2)
 - [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)
 - [Philippe Vandenbroeck — "Ian Cheng: An Emissaries Guide to Worlding" (Medium, 2018)](https://philippevandenbroeck.medium.com/ian-cheng-an-emissaries-guide-to-worlding-2018-5a97f95b41d6)
 

@@ -22,6 +22,29 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 ### Olympia (the real-time disintegration into ruins of the Berlin Olympic stadium over the course of a thousand years)
 **Descrizione:** simulazione generativa in tempo reale che proietta il disfacimento dello stadio olimpico di Berlino nell'arco di mille anni.
 **Lettura critica:** dilata la durata oltre la scala della percezione umana individuale, portando alle estreme conseguenze la sua ricerca sulla temporalità.
+**Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/Olympia-The-real-time-disintegration-into-ruins-of-the-Berlin-Olympic)
+
+### Oil Workers (2013)
+**Descrizione:** opera video discussa dall'artista in una conversazione con la curatrice Sara Dolfi Agostini, realizzata — per sua stessa ammissione — "lavorando con l'acqua ma il risultato era petrolio": una riflessione sul lavoro, sulla figura dell'operaio come "zombie" storico della modernità (una figura senza un posto nella società, "svuotata" di tutto tranne il proprio gesto superficiale) e sul lavoratore migrante come figura resa invisibile pur occupando spazio.
+**Lettura critica:** l'artista collega esplicitamente la figura dell'operaio/zombie al lavoratore migrante contemporaneo — un raro momento in cui la sua ricerca formale sulla durata si aggancia direttamente a una critica sociale nominata.
+**Video:** [David Claerbout in conversazione con Sara Dolfi Agostini su Oil Workers (YouTube)](https://www.youtube.com/watch?v=3nQVjL6k6ZU)
+
+### The Pure Necessity (2016)
+**Descrizione:** opera video dell'artista.
+**Video:** [estratto/documentazione (Vimeo)](https://vimeo.com/502677017)
+
+### Wildfire (meditation on fire) (2019-2020)
+**Descrizione:** opera video dell'artista.
+**Video:** [estratto/documentazione (Vimeo)](https://vimeo.com/480728352)
+
+### KING (after Alfred Wertheimer's 1956 picture of a young man named Elvis Presley)
+**Descrizione:** opera che riparte da una fotografia storica del 1956 di Alfred Wertheimer a un giovane Elvis Presley, applicando il consueto metodo dell'artista di dilatazione/animazione dell'immagine fissa.
+**Lettura critica:** prosegue la linea di lavoro — già vista in *Vietnam, 1967* — che parte da un'unica fotografia storica iconica per interrogarne lo statuto ontologico attraverso l'animazione.
+**Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/KING-after-Alfred-Wertheimer-s-1956-picture-of-a-young-man-named-1)
+
+### The confetti piece (2015-2018)
+**Descrizione:** opera video dell'artista.
+**Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/the-confetti-piece-2015-2018)
 
 ### The Silence of the Lens (saggio, e-flux Journal #73, 2016)
 **Descrizione:** testo teorico dell'artista sul passaggio dalla fotografia analogica (lens-based) allo scanning e all'immagine 3D.
@@ -33,8 +56,11 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 - [davidclaerbout.com](https://davidclaerbout.com/)
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
 - [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
+- ["On Dark Optics", lecture e-flux, New York, 11 marzo 2019 (YouTube)](https://www.youtube.com/watch?v=udVGSu5A2lw)
+- [David Claerbout in conversazione su Oil Workers (YouTube)](https://www.youtube.com/watch?v=3nQVjL6k6ZU)
 
 ---
 
 ## Appunti da organizzare
 - Fonte: scheda REF originale su Drive (migrata e riorganizzata col nuovo template). Contiene molte citazioni dirette dell'artista (interviste, talk e-flux) da cui è stata sintetizzata la poetica — utile riascoltare le fonti audio/video originali per citazioni più precise.
+- Opere aggiunte in un secondo passaggio (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) direttamente dai link nella scheda REF originale — descrizioni volutamente minime, da approfondire con ricerca dedicata se necessario.
