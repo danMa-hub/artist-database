@@ -142,6 +142,13 @@ Sviluppate alla stessa profondità delle schede più estese del database, con pr
 
 **Con queste ultime quattro schede, l'intera lista "da scrivere da zero" è stata completata.**
 
+Aggiunte successive, emerse dal documento "draft CGI artists" (transcript ChatGPT trovato su Drive, bassa affidabilità come fonte ma spunto valido — vedi `TODO-al-computer.md`):
+
+- [Kate Cooper](kate-cooper.md) — CGI su corpo femminile, economia della bellezza, sfruttamento
+- [Jordan Wolfson](jordan-wolfson.md) — CGI/animatronica, violenza e spettatorialità — ⚠️ avviso di contenuto per *Real Violence*
+- [Ed Fornieles](ed-fornieles.md) — simulazioni digitali, performance su social media, post-internet
+- [WangShui](wangshui.md) — CGI/IA generativa, corpo e tecnologia, identità post-umana
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*
