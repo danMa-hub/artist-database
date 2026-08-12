@@ -149,6 +149,13 @@ Aggiunte successive, emerse dal documento "draft CGI artists" (transcript ChatGP
 - [Ed Fornieles](ed-fornieles.md) — simulazioni digitali, performance su social media, post-internet
 - [WangShui](wangshui.md) — CGI/IA generativa, corpo e tecnologia, identità post-umana
 
+Aggiunte dalla visita alla Biennale Arte 2026, Arsenale (11 agosto 2026 — vedi [`mostre/2026-08-11-biennale-arsenale.md`](../mostre/2026-08-11-biennale-arsenale.md)):
+
+- [Michael Joo](michael-joo.md) — stampa 3D/blockchain/scansione, ecologia dei coralli, corpo disincarnato
+- [Wu Ziyang](wu-ziyang.md) — IA generativa/VR, chatbot come agente narrante, speculazione tecnologica
+- [Kader Attia](kader-attia.md) — ⚠️ inclusione mirata su una sola opera (*Whisper of Traces*, critica dell'IA senza media digitali), non profilo generale — vedi nota in testa alla scheda
+- [Black Myth: Wukong (Game Science)](black-myth-wukong.md) — ⚠️ caso limite: videogioco esposto come opera d'arte, legittimazione critica ancora aperta — vedi nota in testa alla scheda
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*
