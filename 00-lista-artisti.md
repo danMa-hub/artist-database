@@ -156,6 +156,20 @@ Aggiunte dalla visita alla Biennale Arte 2026, Arsenale (11 agosto 2026 — vedi
 - [Kader Attia](kader-attia.md) — ⚠️ inclusione mirata su una sola opera (*Whisper of Traces*, critica dell'IA senza media digitali), non profilo generale — vedi nota in testa alla scheda
 - [Black Myth: Wukong (Game Science)](black-myth-wukong.md) — ⚠️ caso limite: videogioco esposto come opera d'arte, legittimazione critica ancora aperta — vedi nota in testa alla scheda
 
+Aggiunte dalla mostra CANICULA, Fondazione In Between Art Film (Complesso dell'Ospedaletto, 10 agosto 2026 — vedi [`mostre/README.md`](../mostre/README.md)):
+
+- [Massimo D'Anolfi e Martina Parenti](massimo-danolfi-martina-parenti.md) — ⚠️ fit debole: documentario d'archivio più che new media
+- [Janis Rafa](janis-rafa.md) — video/scultura, sguardo non-antropocentrico, eco-femminismo
+- [Wang Tuo](wang-tuo.md) — video/pittura/performance, post-umano, ibridazione corpo-macchina
+- [Roman Khimei e Yarema Malashchuk](roman-khimei-yarema-malashchuk.md) — ⚠️ fit debole: documentario ibrido, memoria/guerra in Ucraina
+- [P. Staff](p-staff.md) — installazione luce/suono come tecnologia percettiva — vedi anche scheda gemella in `research-database`
+- [Yuyan Wang](yuyan-wang.md) — editing algoritmico, found footage digitale, automazione
+- [Maya Watanabe](maya-watanabe.md) — video/installazione multicanale, memoria e violenza
+
+Aggiunta dalla mostra "Screen Melancholy" (Li Yi-Fan), Palazzo delle Prigioni — evento collaterale "Taiwan in Venice" 2026 (vedi [`mostre/README.md`](../mostre/README.md)):
+
+- [Li Yi-Fan](li-yi-fan.md) — CGI/game engine in tempo reale, "digital puppetry", stampa 3D — segnalato come fondamentale per il modulo di animazione CGI
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*
