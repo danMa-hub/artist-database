@@ -170,6 +170,32 @@ Aggiunta dalla mostra "Screen Melancholy" (Li Yi-Fan), Palazzo delle Prigioni �
 
 - [Li Yi-Fan](li-yi-fan.md) — CGI/game engine in tempo reale, "digital puppetry", stampa 3D — segnalato come fondamentale per il modulo di animazione CGI
 
+## 🇮🇹 Scena italiana (ricerca dedicata, 19 agosto 2026)
+
+Due giri di ricerca paralleli — uno dal lato istituzioni/festival/biennali (MAXXI, Pirelli HangarBicocca, MEET Digital Culture Center, Biennale di Venezia), uno dal lato gallerie/critica/accademia (Artribune, Flash Art Italia, NABA/IUAV/Brera) — per mappare artisti italiani o basati in Italia nel perimetro tematico stretto del database (new media/3D/CGI/IA a livello critico/concettuale, non CG commerciale o tutorial). Diego Marcon (già in database) confermato come primo caso di riferimento per profondità del template.
+
+- [Quayola (Davide Quayola)](quayola.md) — CGI generativa in dialogo con storia dell'arte/archeologia, scultura robotica, Golden Nica Ars Electronica 2013
+- [Mauro Martino](mauro-martino.md) — IA/data-visualization, MIT-IBM Watson AI Lab, Padiglione Italia Biennale 2021
+- [Marco Cadioli](marco-cadioli.md) — pioniere mondi virtuali (Second Life, Google Earth), oggi docente NetArt — cofondatore Link Art Center Brescia
+- [Federico Solmi](federico-solmi.md) — satira animata del potere, modellazione 3D/motion capture/game engine, Biennale di Venezia 2011 — ⚠️ caso limite geografico: attivo negli USA da 25+ anni
+- [Nicola Verlato](nicola-verlato.md) — pittura/scultura iperrealista costruita da modello 3D, Padiglione Italia Biennale 2009 — ⚠️ caso limite di medium: output finale fisico, non nativo digitale
+- [Francesco D'Isa](francesco-disa.md) — pratica IA-generativa con apparato filosofico esplicito, primo graphic novel italiano generato con IA
+- [Miltos Manetas](miltos-manetas.md) — ⚠️ non italiano (greco), incluso per forte presenza istituzionale italiana: Padiglione Internet Biennale 2009, personale MAXXI 2018, fondatore del movimento NEEN
+- [Elisa Giardina Papa](elisa-giardina-papa.md) — pratica IA/net-art critica su lavoro digitale invisibile e genere, Biennale di Venezia 2022 — 🔗 presente anche in `research-database` con taglio complementare (lavoro sessuale/erotico digitale)
+
+**Candidati emersi ma non ancora sviluppati** (documentazione troppo debole, orientamento troppo decorativo/commerciale, o fuori dal perimetro tecnico stretto):
+- 🔍 Domenico Quaranta — non un artista ma il critico/curatore chiave della scena new media italiana (Link Art Center, docente a Brera); nodo di rete utile, non scheda perché non produce opere proprie
+- 🔍 Fabio Giampietro (Milano) — CGI/VR, Lumen Prize 2017, ma output recente più vicino a NFT/crypto-art e "immersive art" decorativo che a pratica critica
+- 🔍 Lorenza Liguori (Milano) — 3D/AI visual artist, ma orientamento design/decorativo, nessuna documentazione critico-museale solida
+- 🔍 Filippo Minelli — pratica solida e istituzionale (Biennale 2011, Manifesta 12, MACRO Roma), ma medium fotografia/performance/street-art, non 3D/CGI/IA
+- 🔍 Marco Barotti — scultura sonora cinetica/data-driven, Ars Electronica, ma base a Berlino (non Italia) e più vicino a sound/kinetic art
+- 🔍 Andrea Crespi (Milano) — volti androidi generativi, "Artificial Beauty" alla Fabbrica del Vapore, ma orientamento prevalentemente NFT/crypto-art decorativo
+- 🔍 Ryts Monet (Bari) — buon curriculum internazionale ma pratica non centrata su 3D/CGI/IA come medium primario
+- 🔍 Alterazioni Video (collettivo, Milano) — pratica critica solida (progetto "Incompiuto") ma medium video/fotografia/attivismo urbano
+- 🔍 Francesco Monico (Venezia) — pioniere storico telematic art/bioarte, ex direttore NABA Scuola di Nuove Tecnologie, ma documentazione sulla pratica artistica individuale recente troppo scarsa
+- 🔍 Giuliana Cunéaz (Aosta) — pioniera dei new media in Italia, ma fonti trovate soprattutto promozionali/di galleria minore
+- 🔍 Silvio Lorusso — figura interessante sul "post-digitale", ma produzione più teorico-editoriale/design che pratica artistica esposta
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*
