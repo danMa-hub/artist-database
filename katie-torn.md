@@ -15,25 +15,45 @@ Torn usa software 3D provenienti dalle industrie del cinema, della pubblicità e
 **Descrizione:** video/installazione animata in 3D. Una "figura femminile distopica si è fusa con un cumulo di detriti... un ecosistema architettonico virtuale fatto di gif, modelli 3D, plastica e liquidi finti", forme biomorfe che "espellono e ingeriscono liquido dai colori accesi", suggerendo una forza vitale simile a petrolio o sangue. Commissionata/mostrata da Denver Digerati, esposta al Rocky Mountain College of Art + Design e al Denver Performing Arts Complex.
 **Lettura critica:** discussa da digiart21 come esempio di "commistione a disagio tra innocenza e adulterazione" — la figura femminile e i rifiuti materiali diventano indistinguibili, un unico organismo ibrido.
 
+![Breathe Deep — fotogramma](immagini/katie-torn/breathe-deep.jpg)
+
+**Approfondimento:** [digiart21 — Breathe Deep](http://www.digiart21.org/art/breathe-deep)
+
 ### Snow White (2013)
 **Descrizione:** pigmento su carta, 135x97 cm. Una natura morta basata sul corpo femminile che richiama le forme del Cubismo e del Futurismo, con un trattamento atmosferico della luce che evoca la pittura fiamminga secentesca dei bouquet floreali. Mostrata nella collettiva "PostPictures" alla bitforms gallery di New York (19 dicembre 2013-25 gennaio 2014), insieme a Claudia Hart, Rollin Leonard, Sara Ludy, Shane Mecklenburger, Jonathan Monaghan (già presente in questo database) e Clement Valla — mostra che rilegge esplicitamente la storica "Pictures" di Douglas Crimp (1977) per una generazione di autori di immagini nativi di internet.
 **Lettura critica:** dimostra come il vocabolario storico-artistico (natura morta, Cubismo, Futurismo) possa essere riletto direttamente attraverso il rendering digitale del corpo, senza soluzione di continuità con la storia della pittura.
+
+![Snow White — pigmento su carta](immagini/katie-torn/snow-white.jpg)
+
+**Approfondimento:** [bitforms gallery — Snow White](https://www.bitforms.art/artwork/snow-white/)
 
 ### @RealSelfCindy (2016)
 **Descrizione:** serie video a 6 canali commissionata da Daata Editions. Torn si esibisce da sola davanti a una videocamera collegata a un social network, esaminando il proprio corpo/persona attraverso filtri che deformano volto e corpo aggiungendo dettagli vegetali come fiori, piante, ali e frutti esotici, in un "ritratto quasi carnevalesco che ricorda le decomposizioni cubiste". Attraverso la lente di Instagram, umano e avatar, soggetto e oggetto si confondono a formare un'identità "vera" in cui la mente può trasformare il corpo in qualunque cosa immagini.
 **Lettura critica:** una delle opere più esplicite dell'artista sul tema del filtro come strumento di auto-trasformazione — non maschera la propria identità ma la moltiplica in forme vegetali/ibride.
 
+![@RealSelfCindy — fotogramma](immagini/katie-torn/realself-cindy.jpg)
+
+**Approfondimento:** [Daata Editions — @RealSelfCindy](https://daata-editions.com/artists/katie-torn)
+
 ### Low Tide, trittico (2016-2017): Gremlin, Mermaid, Squid
 **Descrizione:** video animati in 3D in HD (su chiavette USB, in loop, durate variabili), fulcro della seconda mostra personale dell'artista alla galleria Upfor di Portland (26 luglio-30 agosto 2017). Ibridi femminili-creature marine "sopraffatti dai propri ambienti" — una sirena che espelle sostanze simili al petrolio da un groviglio di detriti, un'altra (ispirata ai video-selfie sui social media) in posa davanti alla camera con filtri in stile Snapchat sovrapposti a volto e corpo.
 **Lettura critica:** la galleria Upfor descrive il lavoro come rivelatore di "complesse ansie legate ad ambientalismo, consumismo e corpo" — colloca le figure ibride su un immaginario fondale oceanico per riflettere sugli effetti della mercificazione, della plastica e delle realtà virtuali sull'identità.
+
+![Low Tide — fotogramma dal trittico](immagini/katie-torn/low-tide.jpg)
+
+**Approfondimento:** [Upfor Gallery — Low Tide](https://upfor.gallery/low-tide)
 
 ### These Rocks Won't Lose Their Shape (serie "The New Romantics", con Eyebeam)
 **Descrizione:** animazione 3D in loop infinito di una figura "bionda da stereotipo Barbie" in posa tra oggetti di scena "sotto il mare" e detriti di plastica, con la camera che scorre sul suo corpo mentre viene scolorito da un ambiente tossico; il movimento di camera è esplicitamente ripreso da un video stock trovato dall'artista cercando il termine "donna attraente".
 **Lettura critica:** un caso diretto di appropriazione critica del linguaggio pubblicitario/stock-footage — la camera che "vende" un corpo femminile viene riusata per mostrarne invece la contaminazione.
 
+![These Rocks Won't Lose Their Shape — fotogramma](immagini/katie-torn/these-rocks.jpg)
+
+**Approfondimento:** [Sedition — These Rocks Won't Lose Their Shape](https://www.seditionart.com/katie-torn/these-rocks-won-t-lose-their-shape)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, bitforms gallery e Sedition.
 - [katietorn.com — sito ufficiale](https://katietorn.com/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)
 - [Eyebeam — pagina artista](https://eyebeam.org/artists/katie-torn/)
