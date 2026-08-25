@@ -15,6 +15,10 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 **Descrizione:** ricostruzione e stampa 3D, in resina traslucida, di dodici statue (da Hatra e Ninive) distrutte da ISIS al museo di Mosul nel 2015; ogni scultura contiene al proprio interno, visibile, una scheda di memoria o chiavetta USB con tutta la ricerca (immagini, mappe, file 3D).
 **Lettura critica:** non è un atto di restauro — Allahyari non cerca di creare una copia perfetta per un museo, ma un "pacchetto dati" in-archiviabile: incorporando la scheda di memoria dentro l'oggetto fisico, crea un **data-ghost** (fantasma di dati), rendendo oggetto e dati inseparabili e rifiutando che l'artefatto venga decontestualizzato o assorbito passivamente in un archivio occidentale. Un atto di *digital disobedience* contro la **violenza d'archivio** (Derrida, Foucault) — il concetto secondo cui gli archivi non sono registri passivi ma strumenti di potere che attivamente costruiscono, classificano e quindi cancellano la storia.
 
+![Material Speculation: ISIS — scultura in resina traslucida](immagini/morehshin-allahyari/material-speculation-isis.webp)
+
+**Approfondimento:** [morehshin.com — Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
+
 ### The 3D Additivist Manifesto / Cookbook (2015-2016, con Daniel Rourke)
 **Descrizione:** un manifesto video e un *Cookbook* (libro di ricette) che invita artisti e attivisti a spingere la stampa 3D oltre il suo "hype utopico e la sua critica distopica" — una raccolta di contributi che esplorano il potenziale sovversivo, critico e "strano" della stampa 3D in ambiti come critica politica e sociale, sovversione e attivismo, speculazione ed estetica, mutazione corporea e postumanesimo. Tra i progetti raccolti nel Cookbook:
   - **NefertitiHack** (Nora Al-Badri e Nikolai Nelles) — scansione "clandestina" del busto di Nefertiti al Neues Museum di Berlino, dati rilasciati pubblicamente: atto di "pirateria museale" sul colonialismo e la proprietà culturale.
@@ -33,17 +37,29 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Lettura critica:** l'"Additivismo" è una critica diretta al **soluzionismo tecnologico** (la convinzione neoliberista che ogni problema sociale complesso possa essere risolto con un'app o una nuova tecnologia): Allahyari e Rourke propongono di usare la stampa 3D per "la speculazione, la provocazione e la stranezza", vedendo il potenziale della stampante 3D non come strumento di consumo ma come dispositivo per la mutazione e l'intervento politico radicale.
 
+![The 3D Additivist Cookbook — copertina](immagini/morehshin-allahyari/additivist-cookbook.jpg)
+
+**Approfondimento:** [additivism.org](https://additivism.org/)
+
 ### She Who Sees the Unknown (2016-in corso)
 **Descrizione:** serie di sculture 3D, installazioni immersive, testi e un'esperienza web che ricerca e "riconfigura" figure femminili e queer "mostruose" (come i jinn) della mitologia mediorientale, presentate come figure di potere, ambiguità e conoscenza.
 **Lettura critica:** applica il **femminismo speculativo** (nella scia di Donna Haraway, che usa figure non-umane, mostruose o ibride per immaginare futuri oltre le categorie binarie del patriarcato). Il jinn è un dispositivo teorico perfetto: né umano né divino, né buono né cattivo, una figura ontologicamente ambigua che sfida le categorie fondamentali dell'esistenza. Usandolo, Allahyari decostruisce il *tecno-orientalismo* (la feticizzazione occidentale della tecnologia asiatica/mediorientale) e l'archivio patriarcale che ha demonizzato queste figure — un atto di "re-figuring" del mostruoso, che reclama l'ignoto e l'ibrido come fonti di potere femminista e decoloniale.
+
+![She Who Sees the Unknown](immagini/morehshin-allahyari/she-who-sees-the-unknown.jpg)
+
+**Approfondimento:** [shewhoseestheunknown.com](https://shewhoseestheunknown.com/)
 
 ### Moon-Faced (2021)
 **Descrizione:** installazione video multicanale che usa IA generativa (reti antagoniste generative, GAN) per "ri-animare" e trasformare fotografie d'archivio della famiglia dell'artista in Iran, con un focus sulle figure femminili (l'artista, sua madre, sua nonna): i volti si fondono, si trasformano, si glitchano.
 **Lettura critica:** si allinea a una forma di **spettrologia (hauntology) digitale** (concetto derivato da Derrida: il presente "infestato" dai futuri perduti e dai traumi irrisolti del passato, qui mediati dalla tecnologia). Allahyari non usa l'IA per creare un "deepfake" perfetto — al contrario, usa il glitch e la morfosi dell'IA per visualizzare l'imperfezione, il trauma e la natura spettrale della memoria: l'IA non "resuscita" il passato, ne mostra le cicatrici e l'irrecuperabilità, una critica poetica all'idea dell'archivio digitale come luogo di conservazione perfetta.
 
+![ماه طلعت (Moon-Faced) — installazione, "What Models Make Worlds", Ford Foundation Center for Social Justice, 2023](immagini/morehshin-allahyari/moon-faced.jpg)
+
+**Approfondimento:** [morehshin.com — Moon-Faced](https://morehshin.com/moon-faced)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere/serie principali, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, additivism.org e shewhoseestheunknown.com.
 - [morehshin.com](https://www.morehshin.com/)
 - [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
 - [She Who Sees the Unknown](https://www.morehshin.com/she-who-sees-the-unknown)
