@@ -15,17 +15,29 @@ Solmi impiega la satira estrema per mettere alla berlina la corruzione delle fig
 **Descrizione:** ciclo presentato in mostra personale allo Haifa Museum of Art (dicembre 2015-maggio 2016, a cura di Hadas Yossifon). Combina animazione disegnata a mano con animazione da videogioco, tecnica video e idioma cinematografico; le opere video presentano molteplici strati di dipinti e disegni trasformati in ambienti tridimensionali.
 **Lettura critica:** prima grande indagine museale del linguaggio ibrido pittura/animazione/game engine dell'artista, focalizzata sulla mitologia e la retorica del potere americano.
 
+![American Circus — veduta della mostra](immagini/federico-solmi/american-circus.jpeg)
+
+**Approfondimento:** [federicosolmi.com — American Circus](https://www.federicosolmi.com/american-circus)
+
 ### The Great Farce (2016-2017)
 **Descrizione:** installazione video multicanale (nove canali) che combina pittura acrilica, tecnica mista, foglia oro su MDF tagliato al laser, schermo LED, plexiglass e loop video. Tra le opere più ambiziose dell'artista per complessità tecnica, scala fisica e ampiezza dei contenuti storici trattati. Presentata in mostra personale al Block Museum of Art della Northwestern University (2024); acquisita dalla Phillips Collection di Washington DC.
 **Lettura critica:** una "farsa" satirica sulla storia americana che mette in scena, come marionette digitali animate via motion capture, i fondatori e le figure fondative della nazione — spingendo alle estreme conseguenze il dispositivo caratteristico dell'artista: la rianimazione grottesca e artificiale del mito fondativo del potere.
+
+![The Great Farce Portable Theater](immagini/federico-solmi/the-great-farce.jpg)
+
+**Approfondimento:** [federicosolmi.com — The Great Farce](https://www.federicosolmi.com/the-great-farce/)
 
 ### The Bathhouse (2020) / Joie de Vivre (mostra, 2022-2023)
 **Descrizione:** video-dipinto multicanale (cinque canali, circa sei metri di larghezza) che raffigura un eccesso di gozzoviglia di leader di epoche storiche diverse nell'ambientazione di un bagno termale romano. Presentato nella mostra personale "Joie de Vivre" al Morris Museum di Morristown, NJ (settembre 2022-febbraio 2023), che ha approfondito per la prima volta in chiave monografica il processo tecnico dell'artista attraverso questo caso di studio.
 **Lettura critica:** l'ambientazione del bagno termale come spazio di sospensione del potere — leader di epoche e culture diverse mescolati fuori dal tempo, nudi e ridicolizzati, in una critica del consumismo e della vanità del potere che attraversa le epoche storiche.
 
+![The Bathhouse — video-dipinto](immagini/federico-solmi/the-bathhouse.jpeg)
+
+**Approfondimento:** [Luis De Jesus Los Angeles — Joie de Vivre](https://www.luisdejesus.com/projects/federico-solmi21)
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
-- [Sito ufficiale dell'artista](https://www.federicosolmi.com/)
+
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali".
 - [Ronald Feldman Gallery — pagina artista](https://feldmangallery.com/artist-home/federico-solmi-)
 - [Luis De Jesus Los Angeles — pagina artista](https://www.luisdejesus.com/artists/federico-solmi2)
 - [Block Museum of Art, Northwestern University — The Great Farce (2024)](https://www.blockmuseum.northwestern.edu/exhibitions/2024/federico-solmi-the-great-farce.html)
