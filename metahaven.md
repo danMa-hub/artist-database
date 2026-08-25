@@ -15,30 +15,46 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 **Descrizione:** serie di saggi pubblicati su *e-flux journal* (parte I, n. 37, settembre 2012; parte II, n. 38, ottobre 2012; parte III "All Tomorrow's Clouds", n. 50, dicembre 2013), che apre con la frase "Siamo i prigionieri volontari del cloud; siamo sorvegliati da governi che non abbiamo eletto." Affronta la "super-giurisdizione" statunitense esercitata attraverso leggi come il Patriot Act, applicata globalmente tramite la proprietà americana dell'infrastruttura cloud, in un formato che unisce prosa da "policy paper amplificato" a diagrammi in stile infografica sull'architettura di internet.
 **Lettura critica:** un testo che anticipa di anni il dibattito mainstream sulla sovranità dei dati, scritto da uno studio di design piuttosto che da accademici — un caso paradigmatico di teoria critica prodotta con gli strumenti visivi del design stesso.
 
+⚠️ Nessuna immagine trovata per questa serie di saggi in questa sessione: e-flux journal non restituisce immagini associate all'articolo al fetch diretto.
+
 ### Black Transparency: The Right to Know in the Age of Mass Surveillance (mostra 2013-14, libro 2015)
 **Descrizione:** progetto espositivo (Bureau Europa, Maastricht, 2013; Future Gallery, Berlino, 2014) e libro (Sternberg Press, 2015) che esamina il "come", non il "cosa", della trasparenza — il paradosso per cui le campagne di trasparenza in stile WikiLeaks dipendono da mezzi opachi e propagandistici. Include un'intervista al designer anonimo del logo di WikiLeaks e materiale sullo statuto mutevole della Crimea su Google Maps.
 **Lettura critica:** il lavoro che dà il nome alla teoria centrale di Metahaven, mostrando come persino la trasparenza radicale sia sempre mediata da scelte di design e comunicazione.
+
+![Black Transparency — veduta dell'installazione, Kunsthal Charlottenborg. Foto: Anders Sune Berg](immagini/metahaven/black-transparency.jpg)
 
 ### The Sprawl (Propaganda About Propaganda) (2015/2016)
 **Descrizione:** documentario a lungometraggio, installazione multicanale e progetto web episodico, commissionato nel 2014 da Lighthouse e The Space. Diretto da Metahaven con la direzione della fotografia di Remko Schnorr e colonna sonora originale del musicista elettronico Kuedo. Un documentario ibrido e non lineare costruito in brevi segmenti ("shard") calibrati sui tempi di attenzione da internet piuttosto che sulla durata cinematografica; affronta la disinformazione attorno all'abbattimento del volo MH17 e la guerra di framing tra RT e CNN, con interviste a Benjamin H. Bratton, Maryam Monalisa Gharavi e Peter Pomerantsev. Presentato in anteprima all'IFFR (International Film Festival Rotterdam) 2016; mostrato anche a ICA Londra e HKW Berlino.
 **Lettura critica:** l'opera più rilevante per un corso di animazione/immagine in movimento digitale — mette in scena, nella propria stessa forma frammentata "a shard", la tesi che intende argomentare sulla propaganda dell'era dei social media.
 **Video:** [The Sprawl, interfaccia ufficiale a episodi (sprawl.space)](http://sprawl.space/shards/shard-14/) · [The Sprawl, playlist completa (YouTube)](https://www.youtube.com/playlist?list=PLzOamWyeo-sYBnjVoDd1JxmAUvrSV3dPg)
 
+![The Sprawl (Propaganda About Propaganda) — HD video still. Courtesy Lighthouse e The Space](immagini/metahaven/the-sprawl.webp)
+
 ### Information Skies (2016)
 **Descrizione:** film HD di 24 minuti, scritto e diretto da Van der Velden e Kruk, fotografia di Remko Schnorr, colonna sonora del produttore M.E.S.H. Girato in ungherese con sottotitoli inglesi, ambientato nella Foresta Nera, immagina un futuro prossimo in cui VR/AR sono ormai pervasive, esplorando autenticità, classe sociale e sublimazione tecnologica. Commissionato dall'11ª Biennale di Gwangju (2016).
 **Lettura critica:** sposta il metodo di Metahaven dal saggio/documentario alla finzione speculativa, mantenendo lo stesso impianto critico sulla mediazione tecnologica dell'esperienza.
+
+![Information Skies — fotogramma](immagini/metahaven/information-skies.jpg)
 
 ### Eurasia (Questions on Happiness) (2018)
 **Descrizione:** film di 64 minuti commissionato congiuntamente da Stedelijk Museum di Amsterdam, ICA Londra e Sharjah Art Foundation, presentato in anteprima nell'ambito di "Metahaven: EARTH" allo Stedelijk (ottobre 2018-febbraio 2019, a cura di Karen Archey) — la prima grande mostra museale che affianca il lavoro cinematografico a quello di design dello studio. Girato negli Urali sudorientali e in Macedonia, combina documentario, animazione e materiale d'archivio per esaminare la produzione ideologica lungo la "Nuova Via della Seta".
 **Lettura critica:** conferma la maturazione dello studio verso un cinema d'autore a tutti gli effetti, pur mantenendo l'impianto di ricerca geopolitica che caratterizza tutto il loro lavoro precedente.
 
+![Eurasia (Questions on Happiness) — still. Courtesy Metahaven](immagini/metahaven/eurasia.jpg)
+
+**Approfondimento:** [Stedelijk Museum Amsterdam — Metahaven: EARTH](https://www.stedelijk.nl/en/exhibitions/metahaven)
+
 ### Chaos Theory (2021-2024)
 **Descrizione:** film di 25 minuti presentato in mostra personale nella serie Film & Video del Guggenheim Museum Bilbao (22 febbraio-9 giugno 2024) — un "poema cinematografico" strutturato attorno a due protagoniste, interpretate da Valentina Di Mondo e Georgina Dávid.
 **Lettura critica:** lavoro recente che conferma la continuità dell'indagine sulla forma del racconto per immagini in un'epoca di sorveglianza e disinformazione diffusa, spostando il registro verso una dimensione più lirica e meno saggistica.
 
+![Chaos Theory](immagini/metahaven/chaos-theory.jpg)
+
+**Approfondimento:** [Guggenheim Bilbao — Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali". Nessuna immagine reperita per la serie di saggi *Captives of the Cloud* — vedi nota nella sezione corrispondente.
 - [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
 - [Guggenheim Bilbao — comunicato stampa Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
 - [Stedelijk Museum Amsterdam — "Metahaven: EARTH"](https://www.stedelijk.nl/en/exhibitions/metahaven)
