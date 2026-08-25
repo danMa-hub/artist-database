@@ -16,28 +16,41 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 **Lettura critica:** creando una "faccia collettiva" mostruosa, le maschere negano all'algoritmo un volto leggibile — un atto di opacità collettiva contro la logica biometrica dell'individuo normalizzato.
 **Video:** [documentazione (Vimeo)](https://vimeo.com/76104217)
 
+![Facial Weaponization Suite — performance con maschera collettiva](immagini/zach-blas/facial-weaponization-suite.jpg)
+
+**Approfondimento:** [zachblas.info — Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)
+
 ### Biometric Mirror (2019)
 **Descrizione:** installazione interattiva: un'IA analizza il volto dello spettatore e "predice" (in modo volutamente inaffidabile) sessualità, criminalità, stato emotivo, sulla base di dataset distorti.
 **Lettura critica:** mette in scena l'assurdità pseudo-scientifica di queste classificazioni (echi della frenologia ottocentesca), esponendo la violenza performativa del capitalismo della sorveglianza.
-**Video:** [pagina progetto, zachblas.com](https://zachblas.com/works/biometric-mirror/)
+
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: il dominio zachblas.com citato nella fonte originale non risulta più attivo (il sito ufficiale corrente è zachblas.info), e nessuna pagina dedicata a "Biometric Mirror" è stata trovata su di esso — da verificare anche l'attribuzione dell'opera, poiché un progetto omonimo del 2018 è documentato come lavoro di Niels Wouters (University of Melbourne), non di Zach Blas.
 
 ### Contra-Internet: Jubilee 2033 (2018)
 **Descrizione:** film sci-fi queer in CGI e live-action, remake di *Jubilee* (1978) di Derek Jarman: una setta di ribelli tenta di fuggire dalla Silicon Valley e dal "Contra-Internet".
 **Lettura critica:** critica dell'ideologia californiana — l'internet non come spazio di liberazione ma apice del controllo neoliberista; il "Contra-Internet" come eterotopia di solidarietà queer.
 
+![Contra-Internet: Jubilee 2033 — fotogramma](immagini/zach-blas/contra-internet-jubilee.jpg)
+
+**Approfondimento:** [zachblas.info — Contra-Internet: Jubilee 2033](https://zachblas.info/works/contra-internet-jubilee-2033/)
+
 ### The Doors (2019)
 **Descrizione:** installazione video con deepfake e motion capture: un Jim Morrison "zombie" tiene una conferenza TED tossica su nootropi e ottimizzazione personale.
 **Lettura critica:** mostra come la promessa di liberazione della controcultura sia stata cooptata dal tecno-capitalismo come mera ottimizzazione delle prestazioni.
 
+![The Doors — installazione video, Edith-Russ-Haus für Medienkunst, Oldenburg](immagini/zach-blas/the-doors.jpg)
+
+**Approfondimento:** [zachblas.info — The Doors](https://zachblas.info/works/the-doors/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [zachblas.com](https://zachblas.com/)
-- [Facial Weaponization Suite](https://zachblas.com/works/facial-weaponization-suite/)
+Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista. Il dominio zachblas.com citato nelle fonti originali non è più attivo: l'indirizzo corrente è zachblas.info. Nessuna immagine reperita per *Biometric Mirror*, la cui attribuzione andrebbe verificata (vedi nota nella relativa sezione).
+- [zachblas.info — sito ufficiale](https://zachblas.info/)
+- [Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)
 
 ## Fonti
-- [zachblas.com](https://zachblas.com/)
-- [Facial Weaponization Suite](https://zachblas.com/works/facial-weaponization-suite/)
+- [zachblas.info — sito ufficiale](https://zachblas.info/)
+- [Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)
 - [Contra-Internet: Jubilee 2033 — trailer](https://vimeo.com/261314972)
 - [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)
 - [The Right to Be Opaque — talk, transmediale (YouTube)](https://www.youtube.com/watch?v=Pbcr-n1e-IA)
