@@ -17,28 +17,43 @@ La pratica di Papamargariti attraversa immagine in movimento, materiale stampato
 **Descrizione:** installazione video/tessile site-specific per la serie "Stowaway" del New Museum (spazio Shaft, tra il terzo e il quarto piano), visibile fino al 19 giugno 2016. Video che si espande nel vano scale del museo; paesaggio distorto di superfici sovrapposte (la pelle dell'artista, contenitori per alimenti, simulazioni di piante/oceano) collage su tessuti sintetici (pile, Lycra Sheen, camoscio, voile) resistenti a vento/acqua/fuoco, con filmati da drone, Google Maps e dispositivi portatili, renderizzati in 3ds Max/After Effects/RealFlow.
 **Lettura critica:** riflette sull'idea di "natura costruita" — non solo il paesaggio, ma l'idea stessa di "naturale" come già ricostruita; documenta le tracce umane (rifiuti, discariche, turbine eoliche) come prova che "sintetico" e "biologico" oggi coesistono indissolubilmente.
 
+![Factitious Imprints — installazione, New Museum](immagini/eva-papamargariti/factitious-imprints.jpg)
+
+**Approfondimento:** [Metronom — Factitious Imprints](https://www.metronom.it/en/digital-video-wall/factitious-imprints-eva-papamargariti/)
+
 ### Precarious Inhabitants (2017, TRANSFER Gallery, New York)
 **Descrizione:** installazione immersiva multischermo (27 maggio-7 luglio 2017; ripresentata alla Galleria Umberto Di Marino, Napoli, nella mostra "Every Breath You Take", dicembre 2018-febbraio 2019, a cura di Alberta Romano) — una versione a tre canali adattata del video "Always a Body, Always a Thing" più un'opera a pavimento a quattro schermi; la galleria trasformata in una "grotta di proiezione" buia. Affronta simbiosi e trasformazione tra corpi umani, IA/macchina, animale e sintetico — amorfismo, liquidità, specie invasive, plasticizzazione, biomimetica, malformazione corporea reale negli anfibi, e l'ontologia dei dispositivi di tracciamento.
 **Lettura critica:** una delle opere più esplicite dell'artista sul tema della simbiosi tra corpo biologico e dispositivo tecnologico, con riferimenti diretti a casi reali documentati (malformazioni anfibie) invece che a scenari puramente speculativi.
+
+⚠️ Nessuna immagine trovata: l'unica immagine reperita su TRANSFER Gallery era un piccolo screenshot dell'interfaccia web, non un'immagine dell'opera — scartata come non rappresentativa.
 
 ### But for now all I can promise is that things will become weirder (2018, 6ª Biennale di Atene)
 **Descrizione:** video HD a canale singolo, 12:22 minuti, presentato alla 6ª Biennale di Atene (ANTI, 2018). Combina sequenze animate al computer, testo, suono e frammenti filmati; si apre con un narratore che spiega come "ingannare" un contapassi tramite la danza; esplora l'accumulo intorpidente e la sovrapposizione di informazioni, immagini ed eventi online, e la gerarchia sfumata tra dato digitale ed esperienza corporea fisica.
 **Lettura critica:** letta, nel testo della mostra "RE-FIGURE-GROUND", come narrazione digitale che interroga storia e presente per ipotizzare futuri alternativi e non binari.
 
+⚠️ Nessuna immagine trovata per questa opera specifica.
+
 ### Always a Body, Always a Thing (2022, con componente AR)
 **Descrizione:** opera video con componente AR, commissionata da PCAI (Polygreen Culture & Art Initiative) per la collettiva "Sheltered Gardens", Atene (2022). Esplora trasformazione e fluidità morfologica/ontologica attraverso casi reali di animali acquatici (pesci, rane) che ingeriscono e mutano a causa della plastica, insieme a masse amorfe che appaiono in contesti naturali; riflette sulla plastica come materiale che nasce dalla natura e vi ritorna come rifiuto non biodegradabile che ha "assorbito" elementi di vita e tempo.
 **Lettura critica:** applica il metodo consolidato dell'artista (casi reali documentati + speculazione formale) a un tema ambientale ancora più diretto — l'inquinamento da plastica letto attraverso il corpo animale reale.
+
+![Always a Body, Always a Thing — installazione, PCAI](immagini/eva-papamargariti/always-a-body-always-a-thing.jpg)
+
+**Approfondimento:** [pcai.gr — Always a Body, Always a Thing](https://www.pcai.gr/collection/work-in-progress-4)
 
 ### Uh Everything Looks So Fresh – Oh Everything Is So Rotten! (2020, mostra personale VR, Nicoletti Contemporary, Londra)
 **Descrizione:** mostra personale in realtà virtuale (luglio 2020) in cui i visitatori navigano ambienti CGI simulati composti da film, stampe digitali e suono; il limbo immaginato come al tempo stesso disastro e spazio di riflessione/sollievo, un'allegoria in cui la crescita è tanto pericolosa quanto la stagnazione.
 **Lettura critica:** una delle prime opere dell'artista realizzate interamente per la fruizione in VR, invece che come video da galleria — un adattamento diretto del suo linguaggio consolidato al nuovo formato immersivo.
 
+![Uh Everything Looks So Fresh – Oh Everything Is So Rotten! — veduta della mostra, Nicoletti Contemporary](immagini/eva-papamargariti/uh-everything-looks-so-fresh.jpg)
+
+**Approfondimento:** [nicoletticontemporary.com — Uh Everything Looks So Fresh](https://www.nicoletticontemporary.com/eva-papamargariti)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per tre delle cinque opere, incluse sotto la relativa descrizione in "Opere principali".
 - [Onassis Foundation — profilo artista](https://www.onassis.org/people/eva-papamargariti)
 - [Eugster || Belgrade — pagina artista](https://www.eugster-belgrade.com/artists/eva-papamargariti/)
-- [New Museum Digital Archive — Factitious Imprints](https://newmuseum.org/exhibitions/view/eva-papamargariti-factitious-imprints)
 
 ## Fonti
 - [Onassis Foundation — profilo artista](https://www.onassis.org/people/eva-papamargariti)
