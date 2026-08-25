@@ -15,20 +15,29 @@ Forensic Architecture conduce indagini spaziali su violazioni dei diritti umani 
 **Descrizione:** indagine multi-capitolo sull'esplosione del porto di Beirut (2020), articolata in *Destruction of Destruction* e *The Welders*, che ricostruisce la dinamica dell'evento e le responsabilità.
 **Lettura critica:** mostra come la ricostruzione forense digitale possa restituire una cronologia verificabile laddove le versioni ufficiali sono insufficienti o reticenti.
 
+![The Beirut Port Explosion — fotogramma dalla ricostruzione 3D](immagini/forensic-architecture/beirut-port-explosion.jpg)
+
+**Approfondimento:** [forensic-architecture.org — The Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)
+
 ### Pushbacks Across the Evros/Meriç River: Situated Testimony
 **Descrizione:** indagine sui respingimenti di migranti al confine greco-turco lungo il fiume Evros/Meriç.
 **Lettura critica:** la "testimonianza situata" combina racconto diretto e ricostruzione spaziale per rendere visibile una violenza di stato normalmente invisibile o negata.
+
+![Pushbacks Across the Evros/Meriç River — fotogramma](immagini/forensic-architecture/pushbacks-evros-meric.jpg)
+
+**Approfondimento:** [forensic-architecture.org — Situated Testimony](https://forensic-architecture.org/investigation/evros-situated-testimony)
 
 ### A City Within a Building: The Mariupol Drama Theatre
 **Descrizione:** progetto con Forensis e il Center for Spatial Technologies: archivio ed interviste ai sopravvissuti all'attacco russo al teatro di Mariupol, che prima della distruzione era anche un rifugio e luogo di auto-organizzazione comunitaria.
 **Lettura critica:** l'edificio distrutto diventa archivio di una "città dentro un edificio" — solidarietà e resistenza documentate attraverso ricostruzione spaziale.
 
+![A City Within a Building — veduta del teatro di Mariupol](immagini/forensic-architecture/mariupol-drama-theatre.jpg)
+
+**Approfondimento:** [BAK — A City Within a Building](https://bakonline.org/en/making+public/program/a+city+within+a+building/) · [forensic-architecture.org](https://forensic-architecture.org/investigation/a-city-within-a-building-the-mariupol-drama-theatre)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [forensic-architecture.org](https://forensic-architecture.org/)
-- [The Beirut Port Explosion](https://forensic-architecture.org/investigation/beirut-port-explosion)
-- [Pushbacks — Evros/Meriç](https://forensic-architecture.org/investigation/evros-situated-testimony)
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali" — il sito ufficiale [forensic-architecture.org](https://forensic-architecture.org/) è una SPA React senza immagini leggibili via markup, quindi le immagini sono state recuperate da fonti terze (Hyperallergic, YouTube, BAK).
 
 ## Fonti
 - [forensic-architecture.org](https://forensic-architecture.org/)
