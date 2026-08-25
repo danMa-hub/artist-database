@@ -17,22 +17,36 @@ Il lavoro di Hahm è costantemente descritto — da lui stesso e dalla critica �
 **Descrizione:** animazione a disegni (disegnata a mano), 4 minuti e 31 secondi, realizzata come lavoro finale da studente al CalArts. Secondo la pagina progetto dell'artista, raffigura "due oggetti che si incontrano in una successione di schermi incrociati", con un oggetto che si separa dall'altro — un lavoro di impianto formalista, incentrato sul meccanismo stesso del movimento animato.
 **Lettura critica:** riportato come vincitore del secondo posto categoria Moving Image agli Adobe Design Achievement Award 2004; questa affermazione è auto-riportata dall'artista e non è stata rintracciata in modo indipendente in un archivio ufficiale dei vincitori — da trattare con cautela ("secondo l'artista") fino a verifica diretta.
 
+![Mosition — fotogramma](immagini/jun-seo-hahm/mosition.jpg)
+
+**Approfondimento:** [junseohahm.com — Mosition](https://junseohahm.com/Mosition)
+
 ### Karnival (serie, 2007-2009)
 **Descrizione:** serie di brevissimi episodi di animazione 2D (dieci episodi) incentrati sui "comportamenti imprevedibili di personaggi unici", prodotta presso Bent Image Lab.
 **Lettura critica:** opera principale discussa da *It's Nice That* (2018) nell'ambito della lettura kimo-kawaii/uncanny valley — l'occasione in cui l'artista descrive il proprio metodo di "reverse-biology" nella costruzione dei personaggi.
+
+![Karnival — still dalla serie](immagini/jun-seo-hahm/karnival.jpg)
+
+**Approfondimento:** [junseohahm.com — Karnival](https://junseohahm.com/Karnival)
 
 ### Walking Follows Form (2014)
 **Descrizione:** cortometraggio CGI 3D (circa 2 minuti e 45 secondi) che esplora come la struttura corporea di un personaggio ne determini lo stile/pattern di camminata.
 **Lettura critica:** presentato al **DOT MOV Festival 2014** di Tokyo (fonte indipendente: l'archivio del festival su SHIFT, piattaforma giapponese di cultura digitale/media art) — la fonte terza più solida reperita per questo artista, indipendente dal suo stesso sito. L'artista è stato inoltre artista ospite a Pictoplasma Berlino 2016 (Contemporary Character Design Conference), anche se non è confermato che *Walking Follows Form* specificamente sia stata l'opera proiettata in quell'occasione.
 **Video:** [Walking Follows Form (Vimeo)](https://vimeo.com/96460120)
 
+![Walking Follows Form — fotogramma](immagini/jun-seo-hahm/walking-follows-form.jpg)
+
 ### Fiction Fauna (progetto in corso)
 **Descrizione:** progetto collaborativo (con un collaboratore/studio indicato come "LUV") che sviluppa un cast di "animali domestici biologici" — creature artificiali con personalità basate su IA e proprie storie individuali, estendendo la pratica di character design dell'artista dallo schermo a un contesto transmediale/di IP più ampio.
 **Lettura critica:** rappresenta l'evoluzione più recente della ricerca dell'artista sulla "biologia inversa", applicata non più solo all'animazione ma alla costruzione di personaggi-prodotto con proprie narrazioni autonome.
 
+![Fiction Fauna — set di personaggi](immagini/jun-seo-hahm/fiction-fauna.jpg)
+
+**Approfondimento:** [fictionfauna.com](https://www.fictionfauna.com/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, Vimeo e fictionfauna.com.
 - [junseohahm.com — sito ufficiale](https://junseohahm.com/)
 - [junseohahm.com — pagina Mosition](https://junseohahm.com/Mosition)
 - [junseohahm.com — pagina Karnival](https://junseohahm.com/Karnival)
