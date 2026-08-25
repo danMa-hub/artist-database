@@ -15,16 +15,26 @@ Manetas è tra i primi artisti a trattare sistematicamente l'estetica della cult
 **Descrizione:** primo Padiglione Internet nella storia della Biennale di Venezia, ideato e curato da Manetas come spazio dedicato all'arte nata e diffusa in Rete.
 **Lettura critica:** un gesto curatoriale-istituzionale prima ancora che un'opera: rivendica per l'arte di Internet uno status pari a quello dei padiglioni nazionali, in un momento in cui la net art non aveva ancora una collocazione stabile nel sistema delle grandi manifestazioni.
 
+![Padiglione Internet, Biennale di Venezia 2009](immagini/miltos-manetas/padiglione-internet.jpg)
+
+**Approfondimento:** [manetas.com — Padiglione Internet](https://cargocollective.com/manetas/PADIGLIONE-INTERNET-2009)
+
 ### Internet Paintings (dagli anni 2000)
 **Descrizione:** ciclo pittorico in corso da oltre vent'anni, che ritrae con la tecnica della pittura a olio o acrilica su tela soggetti tratti dal mondo dei computer e di Internet: laptop, cavi, joystick, interfacce, personaggi di videogiochi.
 **Lettura critica:** la scelta di un medium "antico" come la pittura per ritrarre l'iconografia più effimera e aggiornabile della cultura digitale mette in tensione permanenza e obsolescenza tecnologica, uno dei temi ricorrenti della ricerca dell'artista.
+
+![Internet Paintings — "Now from the Screen (The Ho Chi Minh Trail)", 1996](immagini/miltos-manetas/internet-paintings.jpg)
+
+**Approfondimento:** [internetpaintings.manetas.com](https://internetpaintings.manetas.com/)
 
 ### Le pitture Internet (2018, personale, MAXXI, Roma)
 **Descrizione:** mostra personale istituzionale a cura di Bartolomeo Pietromarchi presso il MAXXI di Roma, dedicata al ciclo degli Internet Paintings.
 **Lettura critica:** la prima grande consacrazione museale italiana per un ciclo pittorico che da vent'anni lavora sulla soglia tra pittura tradizionale e cultura visiva di Internet — riconoscimento istituzionale del MAXXI, tra le principali istituzioni italiane dedicate all'arte contemporanea e ai nuovi media, al lavoro di Manetas.
 
+⚠️ Nessuna immagine specifica della mostra MAXXI trovata in questa sessione — vedi l'immagine di *Internet Paintings* qui sopra per il ciclo pittorico oggetto della mostra.
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+Immagine per due delle tre opere (Padiglione Internet e Internet Paintings), inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
 - [Sito ufficiale dell'artista / archivio "Internet Paintings"](https://internetpaintings.manetas.com/)
 - [Pinksummer Contemporary Art — pagina artista](https://www.pinksummer.com/en/miltos-manetas/)
 - [Galleria Valentina Bonomo — biografia](https://galleriabonomo.com/portfolio-item/miltos-manetas-biografia/)
