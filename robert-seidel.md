@@ -15,13 +15,21 @@ Seidel spinge l'astrazione verso il sublime e l'organico, attingendo a metodi de
 **Descrizione:** film sperimentale di 10:01 minuti (durata che richiama il sistema binario di Leibniz), basato su fonti reali della vita dell'artista: scansioni 3D della propria testa e mano, movimenti captati in motion capture, dati di risonanza magnetica del proprio cervello, fusi in animazione 3D e simulazione fisica per costruire un ritratto emotivo astratto di un incidente d'auto.
 **Lettura critica:** considerato una pietra miliare nell'animazione digitale sperimentale — ridefinisce il filmmaking digitale fondendo dato biomedico, simulazione fisica e narrazione emotiva senza mai mostrare un'immagine figurativa diretta.
 
+![_grau — fotogramma](immagini/robert-seidel/grau.jpg)
+
+**Approfondimento:** [robertseidel.com — _grau](https://robertseidel.com/grau/)
+
 ### Phyletic Museum, Jena (proiezione architetturale)
 **Descrizione:** trasformazione dell'intera facciata del Museo di Storia Naturale (Phyletisches Museum) di Jena in una "creatura vivente", tramite proiezione mappata sull'intero edificio, coreografia di luci e colonna sonora sincronizzata.
 **Lettura critica:** porta la ricerca sull'organico e il biologico dalla scala del corpo individuale a quella dell'architettura pubblica.
 
+![Processes: Living Paintings — proiezione sulla facciata del Phyletisches Museum, Jena](immagini/robert-seidel/phyletic-museum.jpg)
+
+**Approfondimento:** [robertseidel.com — Processes: Living Paintings](https://robertseidel.com/processes/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
 - [robertseidel.com — sito ufficiale](https://robertseidel.com/)
 - [robertseidel.com — _grau](https://robertseidel.com/grau/)
 - [Light Cone — profilo artista](https://lightcone.org/en/filmmaker-1057-robert-seidel)
