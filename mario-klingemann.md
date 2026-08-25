@@ -18,26 +18,40 @@ Klingemann inizia a lavorare con le reti neurali e, dal 2015-16, con le GAN, ann
 **Lettura critica:** inquadrata da Sotheby's e dalla stampa come storicamente significativa proprio perché l'"opera" è il sistema generativo autonomo stesso, non un'immagine fissa — sollevando interrogativi su autorialità, proprietà e cosa costituisca "l'opera" quando l'output è infinito e mai ripetuto. *Dazed* ha offerto una lettura più scettica del risultato modesto della vendita rispetto al clamore mediatico.
 **Video:** [documentario Onkaos su Memories of Passersby I (YouTube)](https://www.youtube.com/watch?v=V8ApauQwfUw)
 
+![Memories of Passersby I — fotogramma dal documentario](immagini/mario-klingemann/memories-of-passersby.jpg)
+
 ### Neural Glitch, serie (2018)
 **Descrizione:** un corpo di esperimenti (titolati con timestamp numerici, es. "Neural Glitch 1541266710") iniziato nell'aprile 2018, in cui Klingemann altera manualmente i pesi interni addestrati delle proprie GAN personalizzate, causando una lettura e una distorsione errate degli input, sia visiva sia semantica. Il lavoro video correlato in trittico "Mistaken Identity" è stato esposto allo ZKM Karlsruhe durante il Beyond Festival (ottobre 2018).
 **Lettura critica:** presentata da *Issues in Science and Technology* come un metodo per esporre la "scatola nera" convoluzionale di un momento tecnico specifico e storicamente circoscritto dell'architettura GAN — un'estetica inseparabile da quell'era tecnica particolare, non riproducibile con modelli successivi.
 
+![Neural Glitch — dalla serie](immagini/mario-klingemann/neural-glitch.jpg)
+
+**Approfondimento:** [Issues in Science and Technology — Neural Glitch](https://issues.org/klingemann-neural-glitch/)
+
 ### Circuit Training (2019)
 **Descrizione:** installazione interattiva mostrata nella mostra "AI: More Than Human" del Barbican, Londra (2019, curata da Suzanne Livingston e Maholo Uchida). I visitatori vengono fotografati per costruire in tempo reale un insieme di dati di addestramento, poi valutano/selezionano gli output prodotti dalla rete, insegnando al sistema — dal vivo, davanti al pubblico — quali tratti visivi ottengano approvazione, mettendo in scena esplicitamente un ciclo di feedback umano/ottimizzazione dell'attenzione.
 **Lettura critica:** ⚠️ non risulta confermato alcun riconoscimento del Prix Ars Electronica specificamente per quest'opera (talvolta riportato in fonti secondarie) — l'unico riconoscimento Ars Electronica confermato nella carriera dell'artista è la menzione d'onore 2020 per *Appropriate Response* (vedi sotto).
+
+![Circuit Training — fotogramma dalla documentazione video](immagini/mario-klingemann/circuit-training.jpg)
 
 ### Appropriate Response (2020)
 **Descrizione:** installazione interattiva: un inginocchiatoio in legno posto davanti a un pannello a schede meccaniche (split-flap, stile aeroportuale) di 125 lettere, che esegue un modello linguistico GPT-2 addestrato su misura. Quando un visitatore si inginocchia, il sistema genera per lui un breve testo di risposta unico — messo in scena con iconografia religiosa/oracolare esplicita, interrogando quanto significato una macchina (o un essere umano) possa comprimere in 125 caratteri, e quanto facilmente le persone proiettino intenzione o saggezza su un output algoritmico. Riceve una menzione d'onore, categoria Interactive Art+, Prix Ars Electronica 2020; mostrata nell'ambito di CyberArts 2020.
 **Lettura critica:** l'opera che dimostra con più chiarezza l'interesse dell'artista per la proiezione umana di significato su output puramente statistici — l'iconografia religiosa (l'inginocchiatoio) non è casuale ma sottolinea direttamente il parallelo tra oracolo e algoritmo.
 **Video:** [documentazione di Appropriate Response (Vimeo)](https://vimeo.com/394544451)
 
+![Appropriate Response — fotogramma dalla documentazione video](immagini/mario-klingemann/appropriate-response.jpg)
+
 ### The Butcher's Son (2017), serie "Imposture"
 **Descrizione:** parte di una serie di sei stampe in cui Klingemann incatena più GAN in sequenza: una figura stilizzata generata casualmente innesca una prima GAN che produce una proto-immagine "pittorica" a bassa risoluzione, progressivamente ampliata e dettagliata da stadi GAN successivi addestrati su immagini figurative raccolte da internet. Frequentemente accostata (dalla critica Luba Elliott su *Flash Art*) alla figurazione distorta di Francis Bacon, pur non contenendo alcun riferimento diretto a immagini di Bacon come fonte. Vince il Lumen Prize Gold Award (2018). Un disegno collegato all'opera è nella collezione permanente del Victoria & Albert Museum.
 **Lettura critica:** dimostra come un processo puramente algoritmico e concatenato possa produrre risultati visivamente affini a una tradizione pittorica specifica (l'espressionismo figurativo di Bacon) senza alcuna citazione diretta — sollevando la domanda se questa somiglianza sia significativa o solo una coincidenza statistica.
 
+![The Butcher's Son — dalla serie "Imposture", Lumen Prize Gold Award 2018](immagini/mario-klingemann/the-butchers-son.webp)
+
+**Approfondimento:** [Lumen Prize — The Butcher's Son](https://lumenprize.org/2018-winners/mario-klingemann)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube, Vimeo, Issues in Science and Technology e Lumen Prize.
 - [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
 - [Sotheby's — approfondimento editoriale sull'IA e Klingemann](https://www.sothebys.com/en/articles/artificial-intelligence-and-the-art-of-mario-klingemann)
 - [Issues in Science and Technology — "Neural Glitch"](https://issues.org/klingemann-neural-glitch/)
