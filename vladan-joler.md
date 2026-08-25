@@ -15,30 +15,50 @@ Joler definisce il proprio metodo come **"cartografia critica"** (o "contro-cart
 **Descrizione:** prima parte di una trilogia investigativa di SHARE Lab (le altre due: *Human Data Banks and Algorithmic Labour*, *Quantified Lives on Discount*) che mappa come Facebook converta l'attività degli utenti in dati monetizzabili — un lavoro immateriale, secondo Joler, svolto gratuitamente da oltre un miliardo di utenti profilati, che genera ricchezza concentrata nei proprietari della piattaforma.
 **Lettura critica:** una delle prime cartografie critiche a rendere visibile, con il rigore di un'indagine giornalistica, l'architettura di estrazione dei dati dietro l'interfaccia apparentemente gratuita dei social network.
 
+![Facebook Algorithmic Factory — mappa diagrammatica](immagini/vladan-joler/facebook-algorithmic-factory.png)
+
+**Approfondimento:** [SHARE Lab — Facebook Algorithmic Factory](https://labs.rs/en/facebook-algorithmic-factory-immaterial-labour-and-data-harvesting/)
+
 ### Anatomy of an AI System (2018, con Kate Crawford)
 **Descrizione:** diagramma "esploso" e saggio di accompagnamento che mappano nascita, vita e morte di un singolo dispositivo Amazon Echo lungo tre registri estrattivi — risorse materiali (estrazione mineraria di terre rare, logistica), lavoro umano (dalle miniere ai magazzini ai call center) e dati (i flussi raccolti da Alexa). Visualizza l'IA non come software ma come infrastruttura industriale ed estrattiva su scala planetaria.
 **Lettura critica:** entrata nelle collezioni permanenti di MoMA e V&A, l'opera ha vinto il Beazley Designs of the Year 2019 (premio assoluto) e una menzione d'onore al S+T+ARTS Prize — riconoscimento istituzionale raro per un lavoro nato come indagine open-access piuttosto che come oggetto da mercato dell'arte.
 **Video:** [Anatomy of an AI System, presentazione (YouTube)](https://www.youtube.com/watch?v=i_EZwV6wGP0)
 
+![Anatomy of an AI System — diagramma esploso](immagini/vladan-joler/anatomy-of-ai.jpg)
+
+**Approfondimento:** [anatomyof.ai — progetto ufficiale](https://anatomyof.ai/)
+
 ### The Nooscope Manifested: AI as Instrument of Knowledge Extractivism (2020, con Matteo Pasquinelli)
 **Descrizione:** grande cartografia diagrammatica in forma di "manifesto" sui limiti tecnici ed epistemici del machine learning, pubblicata anche come articolo peer-reviewed sulla rivista *AI & Society* (Springer). Posiziona una critica alla pretesa dell'IA di possedere un'"intelligenza" autonoma, sganciata dal lavoro, dai dati e dal lavoro di classificazione umano da cui in realtà dipende.
 **Lettura critica:** rara nel panorama della critica all'IA per l'unione di rigore accademico (pubblicazione peer-reviewed) e forma visiva immediatamente leggibile anche fuori dal contesto accademico.
+
+![The Nooscope Manifested — mappa diagrammatica](immagini/vladan-joler/nooscope.gif)
 
 ### New Extractivism: An Assemblage of Concepts and Allegories (2020-2021)
 **Descrizione:** grande mappa accompagnata da un manuale illustrato (con note a piè di pagina) che intreccia ricerca sul data mining, filosofia, teoria dei media, sociologia e narrativa per rappresentare l'"estrattivismo" come logica unificante che collega colonialismo delle risorse naturali, estrazione di dati ed estrazione di lavoro cognitivo/affettivo umano. Animazione video di Živa Stanojević e Aleksandar Ilić.
 **Lettura critica:** condivide le fondamenta di ricerca con il libro di Kate Crawford *Atlas of AI* (Yale University Press, 2021) — due output distinti che nascono dalla stessa indagine sull'infrastruttura materiale dell'intelligenza artificiale.
 
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
+
 ### Calculating Empires: A Genealogy of Technology and Power, 1500-2025 (2023, con Kate Crawford)
 **Descrizione:** mappa dittica di grande formato (circa 24 metri secondo le fonti) accompagnata da due volumi manoscritti annotati, che ripercorre cinque secoli di intreccio tra sistemi tecnologici e potere imperiale/statale, dalla stampa e il telegrafo fino all'intelligenza artificiale contemporanea. Presentata in anteprima all'Osservatorio della Fondazione Prada, Milano (2023-24); in seguito al KW Institute for Contemporary Art di Berlino, al Rijksmuseum Twenthe e alla Kunsthalle Wien.
 **Lettura critica:** vincitrice del Grand Prize S+T+ARTS 2024 e del Leone d'Argento alla Biennale Architettura di Venezia 2025 — la scala storica di cinque secoli sposta il metodo della cartografia critica dall'analisi di un singolo sistema tecnico (l'Echo, Facebook) a una genealogia di lunghissimo periodo del potere tecnologico.
+
+![Calculating Empires — dettaglio della mappa dittica](immagini/vladan-joler/calculating-empires.png)
+
+**Approfondimento:** [calculatingempires.net — progetto ufficiale](https://calculatingempires.net/)
 
 ### Invisible Infrastructures — sorveglianza di Stato in Serbia (dal 2014, SHARE Lab/SHARE Foundation)
 **Descrizione:** indagine basata su richieste di accesso agli atti (FOIA) sul modo in cui i principali operatori di telecomunicazione serbi hanno concesso a organi statali accesso diretto e indipendente ai metadati delle comunicazioni conservati, aggirando l'obbligo di ordine giudiziario stabilito dalla Corte costituzionale serba nel 2013. Parte della serie più ampia "Invisible Infrastructures" del laboratorio, che comprende anche mappature dei flussi di dati.
 **Lettura critica:** dimostra come il metodo di Joler non si applichi solo alle grandi piattaforme globali ma anche, con lo stesso rigore investigativo, al contesto politico locale serbo — coerente con le sue recenti prese di posizione pubbliche sulla crescente sorveglianza di Stato in Serbia.
 
+![Invisible Infrastructures — mappa dell'architettura di sorveglianza](immagini/vladan-joler/invisible-infrastructures.png)
+
+**Approfondimento:** [SHARE Lab — Invisible Infrastructures](https://labs.rs/en/invisible-infrastructures-surveillance-achitecture/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da SHARE Lab, anatomyof.ai, calculatingempires.net e Fritz.ai. Nessuna immagine reperita con attribuzione certa per *New Extractivism*.
 - [SHARE Lab](https://labs.rs/)
 - [SHARE Foundation — chi siamo](https://sharefoundation.info/en/about-us/)
 - [Anatomy of an AI System — progetto ufficiale](https://anatomyof.ai/)
