@@ -15,30 +15,56 @@ Ridler inizia a usare il machine learning come materiale artistico nel 2017, sce
 **Descrizione:** installazione di 10.000 fotografie/stampe Polaroid di singoli tulipani, scattate a mano nell'arco di circa tre mesi (una stagione di fioritura) a Utrecht, Paesi Bassi; su ogni stampa Ridler scrive a mano i metadati (colore, condizione/pattern delle striature) — funziona sia come opera d'arte (un "patchwork vibrante" installativo) sia come letterale dataset di addestramento per il machine learning, usato in seguito per *Mosaic Virus*.
 **Lettura critica:** mette in primo piano il lavoro di costruzione del dataset normalmente invisibile nei sistemi IA — *Bloomberg* ha dedicato all'opera un articolo dal titolo "A British Artist Gathered 10,000 Tulips to Show AI Is Beautiful". Candidata ai Beazley Designs of the Year 2019 (Design Museum, Londra).
 
+![Myriad (Tulips) — installazione](immagini/anna-ridler/myriad-tulips.webp)
+
+**Approfondimento:** [annaridler.com/works/myriad-tulips](https://annaridler.com/works/myriad-tulips)
+
 ### Mosaic Virus (2018, versione aggiornata 2019)
 **Descrizione:** installazione video (formato variabile secondo le fonti: schermo singolo o a più canali) di tulipani generati da IA (GAN) il cui colore, striatura e "fioritura" sono controllati in tempo reale dal prezzo in tempo reale del Bitcoin — quando il prezzo sale, i tulipani diventano più fortemente striati, in eco al fatto che i tulipani striati ("spezzati") erano la varietà più pregiata e costosa durante la tulip mania olandese degli anni 1630. Addestrata sul dataset di *Myriad (Tulips)* tramite una GAN.
 **Lettura critica:** discussa da *Hyperallergic* ("Using AI to Produce 'Impossible' Tulips") e da *Fast Company* ("17th-century Tulip Mania is alive and well—on the blockchain") come un accostamento diretto e insieme critico tra due forme di volatilità del valore — quella storica del mercato dei bulbi e quella contemporanea delle criptovalute.
 **Video:** [intervista sull'opera alla mostra Network Effects, Oodi Helsinki (Vimeo)](https://vimeo.com/399861718)
 
+![Mosaic Virus — fotogramma](immagini/anna-ridler/mosaic-virus-2018.jpeg)
+
+**Approfondimento:** [annaridler.com/works/mosaic-2018](https://annaridler.com/works/mosaic-2018)
+
 ### Bloemenveiling (2019, con David Pfau)
 **Descrizione:** asta online di brevi video di tulipani generati da IA, realizzata in collaborazione con il ricercatore IA David Pfau, tramite smart contract su Ethereum. Ogni giorno viene messo all'asta un nuovo video di tulipano IA; le offerte (incluse quelle di bot progettati dagli stessi artisti per stimolare la domanda speculativa) avvengono on-chain, e lo smart contract avvia un conto alla rovescia per cui il video acquistato "appassisce" e scade dopo circa una settimana, imitando un vero fiore reciso — una critica alla scarsità artificiale e alle aste speculative, che cita le storiche osterie d'asta dei fiori olandesi dell'epoca della tulip mania.
 **Lettura critica:** terza opera della serie sui tulipani/speculazione dopo *Myriad (Tulips)* e *Mosaic Virus* — discussa da *ARTnews* nel contesto più ampio delle "GAN e NFT" come strumenti degli artisti nello spazio cripto.
+
+![Bloemenveiling — installazione, Kunsthalle Zürich](immagini/anna-ridler/bloemenveiling.jpg)
+
+**Approfondimento:** [annaridler.com/works/bloemen](https://annaridler.com/works/bloemen)
 
 ### Fall of the House of Usher I e II (2017)
 **Descrizione:** film animato di 12 minuti che rielabora l'adattamento cinematografico muto e sperimentale del 1929 di James Sibley Watson e Melville Webber del racconto di Poe (1839). Ridler realizza circa 200 disegni a inchiostro fatti a mano a partire da fotogrammi del film del 1929, li usa per addestrare una GAN pix2pix, e genera l'animazione fotogramma per fotogramma dall'output della rete — con momenti visibili di "collasso" verso la fine dell'opera, in cui la generazione della rete neurale si destabilizza, un'eco formale dei temi di decadimento e crollo del racconto e delle ansie contemporanee sull'IA stessa. *Fall of the House of Usher II* espone separatamente i 200 disegni a inchiostro originali come opera-dataset.
 **Lettura critica:** una delle prime opere dell'artista a rendere esplicito, nella forma stessa dell'immagine, il momento in cui il sistema addestrato smette di "funzionare" correttamente — trasformando un difetto tecnico in climax narrativo.
 
+![Fall of the House of Usher — fotogramma](immagini/anna-ridler/fall-of-the-house-of-usher.webp)
+
+**Approfondimento:** [annaridler.com/works/fall-1](https://annaridler.com/works/fall-1)
+
 ### Every Single Iris on the Internet (the first 100,000 images) (2023)
 **Descrizione:** video che scorre attraverso 100.000 immagini etichettate "iris" estratte da LAION-5B (un dataset pubblico su larga scala comunemente usato per addestrare modelli di IA generativa), fermandosi quando incontra un link rotto ("iris fantasma"). Gioca sul doppio significato di "iris" (fiore/parte dell'occhio) e fa riferimento al canonico dataset Iris flower, creato dallo statistico Ronald Fisher e pubblicato per la prima volta sulla rivista *Annals of Eugenics* (1936).
 **Lettura critica:** interroga le storie nascoste e i punti ciechi dei dataset fondativi del machine learning, e rivendica un modo di guardare le immagini lento, umano e attento, contro uno puramente statistico — Ridler ha dichiarato che l'obiettivo è guardare ogni immagine "con un occhio umano invece che come un semplice pattern compreso attraverso la significatività statistica".
+
+![Every Single Iris on the Internet — fotogramma](immagini/anna-ridler/every-single-iris.jpeg)
+
+**Approfondimento:** [annaridler.com/works/every_single_iris](https://annaridler.com/works/every_single_iris)
+
+⚠️ Il sito ufficiale data quest'opera 2025, non 2023 come riportato sopra — discrepanza da verificare.
 
 ### Laws of Ordered Form (2020)
 **Descrizione:** opera in più parti che usa immagini e testi tratti da enciclopedie vittoriane ed edoardiane per mostrare come le tassonomie e i sistemi di classificazione storici continuino a plasmare i dataset di immagini del machine learning contemporaneo. Commissionata come parte del programma digitale annuale "Data / Set / Match" della Photographers' Gallery di Londra sull'importanza dei dataset di immagini (Londra, 3 febbraio-30 luglio 2020); inclusa in seguito nella mostra "BIAS" alla Science Gallery Dublin.
 **Lettura critica:** estende la critica dell'artista dai dataset costruiti da lei stessa ai dataset storici già esistenti (le enciclopedie), dimostrando come la classificazione non sia mai un atto neutro, in nessuna epoca.
 
+![Laws of Ordered Form — installazione](immagini/anna-ridler/laws-of-ordered-form.webp)
+
+**Approfondimento:** [annaridler.com/works/laws](https://annaridler.com/works/laws)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [annaridler.com](https://annaridler.com).
 - [annaridler.com — sito ufficiale, CV](https://annaridler.com/about/cv)
 - [Bloomberg — "A British Artist Gathered 10,000 Tulips to Show AI Is Beautiful"](https://www.bloomberg.com/news/articles/2019-08-13/a-british-artist-gathered-10-000-tulips-to-show-ai-is-beautiful)
 - [Victoria & Albert Museum — Myriad (Tulips), collezione](https://collections.vam.ac.uk/item/O1737545)
