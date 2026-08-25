@@ -17,19 +17,35 @@ Il metodo centrale di Cooper: acquista o costruisce corpi femminili in CG fotore
 **Descrizione:** installazione video CG a due canali, prima opera dell'artista in CGI, con un avatar acquistato su TurboSquid. Prima al KW Institute for Contemporary Art di Berlino (mostra del premio Schering Stiftung Art Award, settembre 2014-gennaio 2015). Raffigura donne in CG impeccabili in abbigliamento sportivo che corrono in ambienti digitali sterili, con primi piani su apparecchi ortodontici/paradenti.
 **Lettura critica:** interroga la posizione del corpo femminile nella storia della produzione dell'immagine digitale e del capitalismo dei consumatori.
 
+![Rigged — fotogramma video](immagini/kate-cooper/rigged.jpg)
+
+**Approfondimento:** [KW Institute for Contemporary Art — Kate Cooper: RIGGED](https://www.kw-berlin.de/en/exhibitions/kate-cooper-rigged)
+
 ### We Need Sanctuary (2016)
 **Descrizione:** video CG il cui titolo deriva da "sanctuary sites", aree del corpo nascoste che le terapie farmacologiche non possono raggiungere. Mostra una donna in CG apparentemente perfetta ma in evidente disagio (rossetto che sembra sanguinare) mentre compie atti di lavoro/cura.
 **Lettura critica:** il corpo come sito conteso di sfruttamento e rappresentazione, secondo il testo curatoriale del Beursschouwburg di Bruxelles.
+
+![We Need Sanctuary — video still](immagini/kate-cooper/we-need-sanctuary.jpg)
 
 ### Symptom Machine (2017, con Theo Cook, colonna sonora Bonaventure)
 **Descrizione:** video a colori con sonoro, 10:11 minuti. Una figura in CG si dibatte lungo un nastro trasportatore blu brillante infinito, diventando sempre più ammaccata e insanguinata.
 **Lettura critica:** il collasso della figura si legge come resistenza del corpo in CG contro le "forze invisibili" (lavoro, aspettativa di genere) che lo strutturano (descrizione dello SCAD Museum of Art).
 
+![Symptom Machine — fotogramma video](immagini/kate-cooper/symptom-machine.jpg)
+
+**Approfondimento:** [SCAD Museum of Art — Symptom Machine](https://www.scadmoa.org/exhibitions/symptom-machine)
+
 ### Infection Drivers (2018/2019, Stedelijk Museum, Amsterdam)
 **Descrizione:** video CG: una figura CG nuda indossa una tuta gonfiabile che si espande/si ritira, limitandone il movimento.
 **Lettura critica:** "un corpo in conflitto con se stesso" — l'apparato di potenziamento diventa una gabbia letterale sul corpo genderizzato (descrizione dello Stedelijk).
 
+![Infection Drivers — video still](immagini/kate-cooper/infection-drivers.jpg)
+
+**Approfondimento:** [Stedelijk Museum Amsterdam — Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
+
 ## Immagini
+
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da KW Berlin, meer.com, YouTube ed elephant.art.
 
 ## Fonti
 - [Stedelijk Museum — profilo artista](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
