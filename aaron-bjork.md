@@ -20,7 +20,9 @@ La pratica di Björk è descritta come basata sulla ricerca, incentrata sulla "t
 ![A Chair Can Be Hurled — documentazione](immagini/aaron-bjork/a-chair-can-be-hurled-documentation.gif)
 ![A Chair Can Be Hurled — AC_01](immagini/aaron-bjork/ac_01.png)
 
-Scaricate dal sito ufficiale, pagina dell'opera *A Chair Can Be Hurled*: [aaronbjork.com/A-chair-can-be-hurled](https://aaronbjork.com/A-chair-can-be-hurled).
+**Approfondimento:** [aaronbjork.com/A-chair-can-be-hurled](https://aaronbjork.com/A-chair-can-be-hurled)
+
+Scaricate dal sito ufficiale. Come segnalato in "Opere principali", per questo artista le fonti non hanno permesso di individuare altre opere singole con titolo e descrizione — l'immagine sopra è l'unica raccolta finora.
 
 ## Fonti
 - [aaronbjork.com — sito ufficiale](https://aaronbjork.com/Bio)

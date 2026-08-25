@@ -17,11 +17,15 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ![E. chromi — Scatalog, group shot](immagini/alexandra-daisy-ginsberg/e-chromi-group.jpg)
 
+**Approfondimento:** [daisyginsberg.com/work/artwork](https://www.daisyginsberg.com/work/artwork) (opera non ha una pagina dedicata separata sul sito attuale)
+
 ### Growth Assembly (2009, con Sascha Pohflepp)
 **Descrizione:** progetto di tesi MA al RCA: sette illustrazioni ad acquerello in stile storia naturale (più una stampa in tipo C) che immaginano piante modificate geneticamente per "far crescere" oggetti/strumenti manufatti invece di produrli industrialmente — una critica alla produzione dipendente da estrazione e trasporto. Menzione speciale ai VIDA Art & Artificial Life Awards 12.0 (2010).
 **Lettura critica:** un esempio paradigmatico di speculative design nel senso di Dunne & Raby — un oggetto "impossibile" usato per rendere visibile e discutibile un sistema di produzione alternativo.
 
 ![Growth Assembly — installazione](immagini/alexandra-daisy-ginsberg/growth-assembly-installation.jpg)
+
+**Approfondimento:** [daisyginsberg.com/work/artwork](https://www.daisyginsberg.com/work/artwork) (opera non ha una pagina dedicata separata sul sito attuale)
 
 ### The Substitute (2019)
 **Descrizione:** installazione video/sonora immersiva che "resuscita" digitalmente il rinoceronte bianco settentrionale (Ceratotherium simum cottoni), funzionalmente estinto, realizzata dopo la morte nel 2018 di Sudan, l'ultimo maschio della specie. Il movimento/comportamento del rinoceronte è generato con ricerca IA di Google DeepMind (un agente artificiale che impara a navigare il proprio recinto virtuale); la sua immagine e il suo suono sono costruiti da 23 ore di filmati dell'ultima mandria, e la sua forma/suono si spostano da astratti/voxelizzati a realistici man mano che "impara". Pone la domanda del perché gli umani perseguano la de-estinzione/nuove forme di vita trascurando le specie a rischio esistenti. Nella collezione permanente del Cooper Hewitt, Smithsonian Design Museum; mostrata anche come parte di "The Lost Rhino" al Natural History Museum di Londra.
@@ -30,6 +34,8 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ![The Substitute — installazione, Naturhistorisches Museum Bern (foto Nelly Rodriguez)](immagini/alexandra-daisy-ginsberg/the-substitute-installation.jpg)
 
+**Approfondimento:** [daisyginsberg.com/work/the-substitute](https://www.daisyginsberg.com/work/the-substitute)
+
 ### Machine Auguries (2019-, serie ricorrente/site-specific)
 **Descrizione:** installazione sonora e luminosa di un "coro dell'alba" di canto degli uccelli generato dall'IA, compresso a circa 10 minuti, costruita addestrando una GAN (Generative Adversarial Network) — due reti neurali in chiamata e risposta — su migliaia di registrazioni sul campo di specie di uccelli iconiche per ciascuna città ospitante, in collaborazione con ornitologi e archivisti sonori locali. Interroga come l'inquinamento acustico urbano e la tecnologia stiano omogeneizzando ed erodendo il canto e le popolazioni degli uccelli. Prima versione: Somerset House/A/D/O by MINI, Londra (2019); versioni successive al Toledo Museum of Art (Ohio, 2023) e al Bildmuseet di Umeå, Svezia (2024-25, prima personale svedese).
 **Lettura critica:** *Artnet News* le ha dedicato un ampio articolo — l'opera usa la stessa tecnologia (le GAN) che genera in altri contesti volti o immagini false per generare invece un suono che è al tempo stesso artificiale e un lutto per un fenomeno naturale in declino.
@@ -37,11 +43,15 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ![Machine Auguries — installazione, Bildmuseet Umeå](immagini/alexandra-daisy-ginsberg/machine-auguries-bildmuseet.jpg)
 
+**Approfondimento:** [daisyginsberg.com/work/machine-auguries](https://www.daisyginsberg.com/work/machine-auguries)
+
 ### Pollinator Pathmaker (dal 2021, in espansione)
 **Descrizione:** strumento algoritmico, sviluppato con orticoltori, scienziati dell'impollinazione e Google Arts & Culture, che progetta schemi di piantumazione ottimizzati per le preferenze sensoriali degli impollinatori piuttosto che per l'estetica umana; descritto come ambizione di diventare "la più grande opera d'arte climate-positive al mondo". Uno strumento pubblico gratuito permette a chiunque di generare la propria "edizione" del piano di piantumazione. Prime due installazioni viventi aperte nel 2022: un'aiuola di 55 metri all'Eden Project, Cornovaglia, e undici aiuole (circa 250 metri) nei Kensington Gardens, commissionate dalla Serpentine di Londra. Prima edizione internazionale commissionata da LAS Art Foundation, aperta nel giugno 2023 fuori dal Museum für Naturkunde di Berlino. Vince il Grand Prize for Artistic Exploration del premio S+T+ARTS della Commissione Europea (2023).
 **Lettura critica:** l'opera che porta a compimento lo spostamento della pratica dell'artista dallo speculative design fittizio a un intervento reale, vivente e in crescita nel paesaggio — non un'immagine o un oggetto di un giardino possibile, ma un giardino reale progettato algoritmicamente.
 
 ![Pollinator Pathmaker — Serpentine, Kensington Gardens (foto Royston Hunt)](immagini/alexandra-daisy-ginsberg/pollinator-pathmaker-serpentine.jpg)
+
+**Approfondimento:** [daisyginsberg.com/work/pollinator-pathmaker](https://www.daisyginsberg.com/work/pollinator-pathmaker)
 
 ### Resurrecting the Sublime (dal 2019, con Sissel Tolaas e Christina Agapakis)
 **Descrizione:** collaborazione con la ricercatrice olfattiva Sissel Tolaas e la biologa sintetica Christina Agapakis (Ginkgo Bioworks), con il sostegno di IFF Inc. Usa DNA estratto da esemplari di erbario ottocenteschi (Harvard University Herbaria) di specie di fiori resi estinti dalla distruzione coloniale dell'habitat, per ricostruire computazionalmente le loro molecole odorose, poi ricrea e diffonde questi odori in installazioni immersive a vetrina — inquadrata esplicitamente non come "de-estinzione" ma come un modo per rendere percepibile l'assenza e la perdita ecologica/coloniale. Mostrata alla Biennale di Architettura di Venezia 2021 ("One Planet", con Christina Agapakis e Sissel Tolaas).
@@ -49,9 +59,11 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ![Resurrecting the Sublime — installazione, Biennale di Venezia 2021](immagini/alexandra-daisy-ginsberg/resurrecting-the-sublime.jpg)
 
+**Approfondimento:** [daisyginsberg.com/work/resurrecting-the-sublime](https://www.daisyginsberg.com/work/resurrecting-the-sublime)
+
 ## Immagini
 
-Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [daisyginsberg.com](https://www.daisyginsberg.com).
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [daisyginsberg.com](https://www.daisyginsberg.com).
 
 ## Fonti
 - [daisyginsberg.com — sito ufficiale](https://www.daisyginsberg.com/)

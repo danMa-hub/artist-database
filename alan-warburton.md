@@ -20,17 +20,23 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 ![RGBFAQ — fotogramma 1](immagini/alan-warburton/rgbfaq-still-01.jpg)
 ![RGBFAQ — fotogramma 2](immagini/alan-warburton/rgbfaq-still-02.jpg)
 
+**Approfondimento:** [alanwarburton.co.uk/rgbfaq](https://alanwarburton.co.uk/rgbfaq)
+
 ### Fairytales of Motion
 **Descrizione:** commissionato da Tate Exchange sul tema "Movement": ripercorre la storia dell'animazione e del motion capture, fino ai lati oscuri della tecnologia del movimento.
 **Lettura critica:** interroga cosa accade quando le nostre azioni vengono "codificate" o sfruttate dalla tecnologia di cattura del movimento.
 
 ![Fairytales of Motion — title card](immagini/alan-warburton/fairytales-of-motion-title.png)
 
+**Approfondimento:** [alanwarburton.co.uk/fairytales](https://alanwarburton.co.uk/fairytales)
+
 ### Goodbye Uncanny Valley (2017)
 **Descrizione:** manifesto critico sul superamento della "valle perturbante" nella CGI, sostenendo che nel 2017 la battaglia per il fotorealismo è ormai vinta.
 **Lettura critica:** la "valle perturbante" non è più un problema tecnico ma una condizione culturale — viviamo in un mondo dove l'immagine sintetica è già più credibile e funzionale del reale.
 
 ![Goodbye Uncanny Valley — fotogramma](immagini/alan-warburton/goodbye-uncanny-valley-01.png)
+
+**Approfondimento:** [alanwarburton.co.uk/goodbye-uncanny-valley](https://alanwarburton.co.uk/goodbye-uncanny-valley)
 
 ### Spectacle, Commodity, Hardcore (2013)
 **Descrizione:** *(da fonte non verificata)* riflessione in animazione 3D sull'estetica pornografica e consumistica della CGI.
@@ -43,11 +49,15 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 
 ![Homo Economicus — fotogramma](immagini/alan-warburton/homo-economicus-01.png)
 
+**Approfondimento:** [alanwarburton.co.uk/homo-economicus](https://alanwarburton.co.uk/homo-economicus)
+
 ### Psychometrics (2015/2016)
 **Descrizione:** video HD CGI sui dati psicometrici e la cultura del self-improvement da TED talk, dove amici e brand diventano intercambiabili sui social network.
 **Lettura critica:** il corpo tradotto in vettori numerici — identità digitale e controllo nella cultura networked del tardo capitalismo, dove "ridurre l'entropia, massimizzare la coerenza" diventa imperativo personale; mette in luce la dimensione bio-politica dell'immagine digitale, anticipando riflessioni oggi centrali nella teoria post-Internet.
 
 ![Psychometrics — fotogramma](immagini/alan-warburton/psychometrics-01.png)
+
+**Approfondimento:** [alanwarburton.co.uk/psychometrics](https://alanwarburton.co.uk/psychometrics)
 
 ### Hyperreal Digital Mannequins (2019)
 **Descrizione:** *(da fonte non verificata)* indaga l'estetica dei modelli 3D e delle figure umane create per pubblicità e moda virtuale.
