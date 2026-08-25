@@ -17,10 +17,10 @@ La pratica di Björk è descritta come basata sulla ricerca, incentrata sulla "t
 
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [aaronbjork.com — sito ufficiale](https://aaronbjork.com/Bio)
-- [Art Center College of Design — profilo docente](https://www.artcenter.edu/about/get-to-know-artcenter/people/detail.html?breadcrumb=565f1aae4d9b6fce4bd8c5f2&accdID=0177578)
-- [CURRENTS New Media — pagina artista](https://currentsnewmedia.org/artist/aaron-bjork-2/)
+![A Chair Can Be Hurled — documentazione](../immagini/aaron-bjork/a-chair-can-be-hurled-documentation.gif)
+![A Chair Can Be Hurled — AC_01](../immagini/aaron-bjork/ac_01.png)
+
+Scaricate dal sito ufficiale, pagina dell'opera *A Chair Can Be Hurled*: [aaronbjork.com/A-chair-can-be-hurled](https://aaronbjork.com/A-chair-can-be-hurled).
 
 ## Fonti
 - [aaronbjork.com — sito ufficiale](https://aaronbjork.com/Bio)

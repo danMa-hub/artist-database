@@ -39,10 +39,10 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [daisyginsberg.com — sito ufficiale](https://www.daisyginsberg.com/)
-- [MoMA — pagina artista](https://www.moma.org/artists/39480)
-- [MoMA — Talk to Me, E. chromi](https://www.moma.org/interactives/exhibitions/2011/talktome/objects/145508/)
+![The Substitute — installazione, Naturhistorisches Museum Bern (foto Nelly Rodriguez)](../immagini/alexandra-daisy-ginsberg/the-substitute-installation.jpg)
+![Pollinator Pathmaker — Serpentine, Kensington Gardens (foto Royston Hunt)](../immagini/alexandra-daisy-ginsberg/pollinator-pathmaker-serpentine.jpg)
+
+Scaricate dal sito ufficiale: [daisyginsberg.com/work/the-substitute](https://www.daisyginsberg.com/work/the-substitute) e [daisyginsberg.com/work/pollinator-pathmaker](https://www.daisyginsberg.com/work/pollinator-pathmaker).
 
 ## Fonti
 - [daisyginsberg.com — sito ufficiale](https://www.daisyginsberg.com/)

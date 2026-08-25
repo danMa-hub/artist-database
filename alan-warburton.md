@@ -46,10 +46,10 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [alanwarburton.co.uk](https://alanwarburton.co.uk)
-- [RGBFAQ](https://alanwarburton.co.uk/rgbfaq)
-- [Fairytales of Motion](https://alanwarburton.co.uk/fairytales)
+![RGBFAQ — fotogramma 1](../immagini/alan-warburton/rgbfaq-still-01.jpg)
+![RGBFAQ — fotogramma 2](../immagini/alan-warburton/rgbfaq-still-02.jpg)
+
+Scaricate dal sito ufficiale: [alanwarburton.co.uk/rgbfaq](https://alanwarburton.co.uk/rgbfaq).
 
 ## Fonti
 - [alanwarburton.co.uk](https://alanwarburton.co.uk)
