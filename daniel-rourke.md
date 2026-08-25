@@ -15,16 +15,23 @@ Rourke lavora principalmente come scrittore e teorico più che come artista visi
 **Descrizione:** manifesto video e "cookbook" open source, compendio gratuito di oltre 100 progetti di artisti, attivisti e teorici — file .obj/.stl per la stampa 3D insieme a testi critici e fittizi, template e "ricette" (im)pratiche per vivere nel proprio tempo contraddittorio. Vincitore della Vilém Flusser Residency for Artistic Research a Transmediale Berlino (2016), pubblicato come 3D-PDF gratuito. Oggi è una risorsa critica chiave nell'insegnamento di fabbricazione 3D, design speculativo e cultura digitale in fablab, università e istituzioni artistiche.
 **Lettura critica:** vedi la scheda di **Morehshin Allahyari** (già in database) per l'analisi dettagliata dei singoli progetti del Cookbook — Rourke ne è co-autore e co-curatore paritario.
 
+![The 3D Additivist Cookbook — copertina](immagini/daniel-rourke/3d-additivist-cookbook.jpg)
+
+**Approfondimento:** [additivism.org](https://additivism.org/)
+
 ### On the Far Side of the Marchlands (con Morehshin Allahyari, Cathrine Disney, Keeley Haftner, Brittany Ransom)
 **Descrizione:** mostra collettiva alla galleria Schering Stiftung con uno "zoo" di figure ibride, da insetti stupidi/intelligenti a post-umani miopi/lungimiranti.
 **Lettura critica:** estende in chiave curatoriale-collettiva la ricerca di Rourke sul postumano come figura speculativa per pensare oltre le categorie correnti.
 
+![On the Far Side of the Marchlands — veduta della mostra, Schering Stiftung](immagini/daniel-rourke/on-the-far-side-of-the-marchlands.jpg)
+
+**Approfondimento:** [scheringstiftung.de — On the Far Side of the Marchlands](https://www.scheringstiftung.de/en/exhibitions/on-the-far-side-of-the-marchlands/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per entrambe le opere, inclusi sotto la relativa descrizione in "Opere principali".
 - [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
 - [Goldsmiths — pagina docente](https://www.gold.ac.uk/media-communications/staff/rourke-daniel/)
-- [additivism.org](https://additivism.org/)
 
 ## Fonti
 - [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
