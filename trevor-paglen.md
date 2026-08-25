@@ -15,21 +15,33 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 **Descrizione:** installazione audio interattiva che guida i partecipanti attraverso stati ipnotici, in cabine sensoriali private con sensori per il battito cardiaco e un menu di percorsi audioguidati (misticismo apofatico, deframmentazione neurologica, ipnosi ericksoniana). Caratteristica insolita per un'opera d'arte: non usa alcuna immagine.
 **Lettura critica:** scommette che il linguaggio parlato, usato con precisione, possa funzionare come "codice eseguibile" per generare un mondo interiore — le immagini evocate ipnoticamente dall'inconscio del partecipante possono essere più immersive e toccanti di qualunque immagine mostrata direttamente. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia, visitata 9 agosto 2026.)
 
+⚠️ Nessuna immagine per coerenza con l'opera stessa, che non ne usa alcuna.
+
 ### The Last Pictures (2012–)
 **Descrizione:** un disco di 100 immagini micro-incise, racchiuso in un guscio dorato, lanciato in orbita geostazionaria a bordo di un satellite per le telecomunicazioni — un archivio speculativo per spettatori futuri, ispirato alle pitture rupestri, ai segnali di avvertimento delle scorie nucleari e ai Golden Records di Carl Sagan.
 **Lettura critica:** riflette sulla durata (le orbite geostazionarie possono restare stabili per miliardi di anni) e su cosa scegliere di comunicare a un futuro remoto e sconosciuto.
+
+![The Last Pictures — il disco con le 100 immagini micro-incise](immagini/trevor-paglen/last-pictures.jpg)
+
+**Approfondimento:** [Creative Time — The Last Pictures](https://creativetime.org/projects/the-last-pictures/)
 
 ### Limit Telephotography / Blank Spots on the Map: The Dark Geography of the Pentagon's Secret World (2009, libro + serie fotografica)
 **Descrizione:** immagini composite catturate con teleobiettivi lunghi fino a un miglio, che rivelano droni e "siti neri" (basi militari classificate, strutture di detenzione, società di facciata della CIA) altrimenti invisibili.
 **Lettura critica:** rende visibile — letteralmente, tramite la tecnica fotografica — l'architettura nascosta del potere statale contemporaneo.
 
+![National Security Agency, 2013 — dalla serie Limit Telephotography](immagini/trevor-paglen/limit-telephotography.jpg)
+
 ### ImageNet Roulette / Excavating AI (2019, con Kate Crawford)
 **Descrizione:** progetto critico (sito web interattivo + saggio) che espone i bias razzisti, sessisti e classisti incorporati nei dataset di training usati per addestrare sistemi di visione artificiale, in particolare ImageNet.
 **Lettura critica:** mostra come l'intelligenza artificiale non sia neutra: classifica il mondo secondo le categorie — spesso pregiudiziali — di chi ha costruito il dataset.
 
+![Excavating AI — immagine illustrativa del saggio, dal dataset "Diversity in Faces"](immagini/trevor-paglen/excavating-ai.png)
+
+**Approfondimento:** [excavating.ai — saggio integrale](https://www.excavating.ai/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Creative Time, Wikimedia Commons ed excavating.ai. Nessuna immagine per *Voyager*, opera che non ne usa alcuna per propria natura.
 - [paglen.com](https://paglen.com/)
 - [Ocula — biografia](https://ocula.com/artists/trevor-paglen/)
 - [MacArthur Foundation — Trevor Paglen](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
