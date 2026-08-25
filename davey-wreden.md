@@ -15,14 +15,21 @@ Wreden realizza videogiochi narrativi che smontano dall'interno le convenzioni d
 **Descrizione:** il giocatore controlla Stanley, un impiegato che segue (o disobbedisce) le istruzioni di un narratore onnisciente; ogni scelta genera diramazioni narrative multiple.
 **Lettura critica:** esplora l'agency del giocatore mettendo in scena il conflitto tra libertà apparente e struttura autoriale — sovverte le convenzioni narrative del videogioco dall'interno.
 
+![The Stanley Parable — screenshot](immagini/davey-wreden/the-stanley-parable.jpg)
+
+**Approfondimento:** [everythingunlimitedltd.com](https://everythingunlimitedltd.com/)
+
 ### The Beginner's Guide
 **Descrizione:** gioco narrativo di circa un'ora e mezza, senza meccaniche, obiettivi o goal tradizionali; racconta — tramite un commento in prima persona di Wreden stesso — la storia di un amico sviluppatore alle prese con qualcosa che non riesce a comprendere.
 **Lettura critica:** riflette sul rapporto tra autore, opera e interprete, e sui limiti etici della lettura critica applicata alla vita di un'altra persona.
 
+![The Beginner's Guide — screenshot](immagini/davey-wreden/the-beginners-guide.jpg)
+
+**Approfondimento:** [everythingunlimitedltd.com](https://everythingunlimitedltd.com/) · [thebeginnersgui.de](http://www.thebeginnersgui.de/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [everythingunlimitedltd.com](https://everythingunlimitedltd.com/)
+Immagine e link di approfondimento per entrambe le opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [everythingunlimitedltd.com](https://everythingunlimitedltd.com/).
 
 ## Fonti
 - [everythingunlimitedltd.com](https://everythingunlimitedltd.com/)
