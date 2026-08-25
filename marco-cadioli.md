@@ -17,20 +17,38 @@ Fin dai primi anni Duemila la ricerca di Cadioli si concentra sullo sfumare il c
 **Descrizione:** serie fotografica realizzata all'interno del mondo virtuale Second Life, che documenta eventi, protagonisti e vita quotidiana della piattaforma nei suoi anni di massima visibilità mediatica. Confluita nel libro "Io, reporter in Second Life" (Shake Edizioni, 2007) e in una prima personale, "REPLICA", in occasione dell'apertura della sede in Second Life della galleria Overfoto di Napoli.
 **Lettura critica:** tra le prime pratiche italiane di fotografia documentaria applicata sistematicamente a un mondo virtuale, con l'artista nel ruolo esplicito di "reporter" — un dispositivo critico che tratta lo spazio virtuale con lo stesso statuto epistemico del reale.
 
+![Marco Manray reporter in Second Life — vernissage virtuale](immagini/marco-cadioli/marco-manray.jpg)
+
+**Approfondimento:** [marcocadioli.com — Marco Manray](https://marcocadioli.com/marco-manray/)
+
 ### Google Melon (2011) e Google Error (2012)
 **Descrizione:** opere realizzate attraversando le geografie di Google Maps e Google Earth fino a raggiungere i punti in cui l'illusione iperrealistica della rappresentazione satellitare del software si incrina, rivelando errori di cucitura, texture deformate e artefatti di rendering.
 **Lettura critica:** letti come un'archeologia degli errori del software cartografico — momenti in cui la superficie "neutra" della rappresentazione geografica computazionale tradisce la propria natura costruita e fallibile.
+
+![Google Melon — artefatto di rendering satellitare](immagini/marco-cadioli/google-melon.jpg)
+
+![Google Error — artefatto di rendering satellitare](immagini/marco-cadioli/google-error.jpg)
+
+**Approfondimento:** [marcocadioli.com — Google Melon](https://marcocadioli.com/google-melon/) · [marcocadioli.com — Google Error](https://marcocadioli.com/google-error/)
 
 ### Back to the Metaverse (2022)
 **Descrizione:** mostra personale a SMDOT/Contemporary Art di Udine, che affianca opere del 2007 a nuove installazioni, coprendo un arco di quindici anni dalle prime esperienze nei mondi virtuali fino alla recente esplosione di interesse mediatico per il "metaverso".
 **Lettura critica:** un bilancio retrospettivo che mette in prospettiva storica l'attuale narrativa del "metaverso", mostrando come gran parte delle sue promesse e dei suoi problemi fossero già presenti — e già indagati artisticamente — nell'esperienza di Second Life di quindici anni prima.
 
+![Back to the Metaverse](immagini/marco-cadioli/back-to-the-metaverse.jpeg)
+
+**Approfondimento:** [marcocadioli.com — Back to the Metaverse](https://marcocadioli.com/back-to-the-metaverse/)
+
 ### Database for Human Training (2019) e Watching the Sea (2019)
 **Descrizione:** opere che affrontano l'addestramento dell'intelligenza artificiale al riconoscimento delle emozioni facciali (Database for Human Training) e una situazione di osservazione condivisa del mare tra un umano e una macchina, rappresentata come una forma di simbiosi tra logiche differenti (Watching the Sea).
 **Lettura critica:** segnano lo spostamento della ricerca dell'artista dai mondi virtuali "abitati" (Second Life) all'intelligenza artificiale come nuovo territorio da esplorare con lo stesso spirito da reporter/etnografo delle opere precedenti.
 
+![Database for Human Training](immagini/marco-cadioli/database-for-human-training.jpg)
+
+**Approfondimento:** [marcocadioli.com — Database for Human Training](https://marcocadioli.com/database-for-human-training/) · [marcocadioli.com — Watching the Sea](https://marcocadioli.com/watching-the-sea/)
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+Immagine per ciascuna opera/coppia di opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
 - [Sito ufficiale dell'artista](https://marcocadioli.com/)
 - [SMDOT/Contemporary Art, Udine — Back to the Metaverse](https://www.smdot.net/artists/marco-cadioli/)
 - [Arshake — Marco Cadioli, Back to the Metaverse](https://www.arshake.com/en/marco-cadioli-back-to-the-metaverse/)
