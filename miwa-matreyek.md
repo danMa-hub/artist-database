@@ -15,13 +15,20 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 **Descrizione:** performance dal vivo che combina animazione proiettata e la sagoma d'ombra dell'artista, in un viaggio visivo e musicale attraverso la storia della Terra — dagli inizi epici dell'universo al mondo complesso dell'umanità; ispirata all'amore dell'artista per la fisica e i musei di storia naturale.
 **Lettura critica:** al tempo stesso semi-scientifica (come sfogliare un'enciclopedia per bambini) ed emotiva, surreale, onirica — la figura umana in ombra si fa piccola dentro processi geologici e cosmici di scala immensa.
 
+![This World Made Itself — la sagoma d'ombra dell'artista nel mondo proiettato](immagini/miwa-matreyek/this-world-made-itself.webp)
+
+**Approfondimento:** [miwamatreyek.com — This World Made Itself](http://miwamatreyek.com/thisworldmadeitself/)
+
 ### Infinitely Yours
 **Descrizione:** performance dal vivo, spesso presentata in doppio programma con *This World Made Itself*, che esplora temi affini di trasformazione e scala attraverso lo stesso linguaggio ombra-animazione.
 **Lettura critica:** non ancora documentata nel dettaglio in questa scheda.
 
-## Immagini
+![Infinitely Yours — la sagoma d'ombra dell'artista nel mondo proiettato](immagini/miwa-matreyek/infinitely-yours.webp)
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+**Approfondimento:** [miwamatreyek.com — Infinitely Yours](http://miwamatreyek.com/infinitelyyours/)
+
+## Immagini
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
 - [miwamatreyek.com — sito ufficiale](http://miwamatreyek.com/thisworldmadeitself/)
 - [TED Ideas — "A fantastical interpretation of the Earth's formation"](https://ideas.ted.com/miwa-matreyek-newest-surreal-performance/)
 - [Virginia Tech News — profilo artista](https://news.vt.edu/articles/2021/09/mac-miwamatreyek.html)
