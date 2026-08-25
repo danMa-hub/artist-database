@@ -15,11 +15,16 @@ Stanley non è un artista in senso tradizionale ma un informatico la cui piattaf
 **Descrizione:** piattaforma online di arte collaborativa basata sul concetto di "arte evolutiva": sfrutta algoritmi euristici per generare immagini secondo un preciso protocollo di filiazione (da cui il titolo, Pic-breed, "immagine-allevare"). Le immagini vengono "allevate" quasi come fossero animali attraverso CPPN (Compositional Pattern Producing Networks, reti neurali che producono pattern compositivi).
 **Lettura critica:** una dimostrazione concreta, ante-litteram rispetto al boom dell'IA generativa attuale, di come la creatività possa emergere da un processo collaborativo distribuito tra molti utenti e un sistema algoritmico, senza un singolo autore. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia.)
 
+⚠️ Nessuna immagine scaricabile trovata in questa sessione: il sito picbreeder.net non restituisce contenuti al fetch diretto (nessun tag `<img>` in pagina), e le pagine con esempi di immagini evolute (ResearchGate, ACM) sono protette da paywall/blocco dello scraping. Da recuperare con accesso diretto al sito o alle pubblicazioni accademiche originali.
+
 ## Immagini
+
+Nessuna immagine reperita per l'unica opera in scheda — vedi nota nella sezione "Opere principali".
 
 ## Fonti
 - Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
-- Sito ufficiale/portfolio: **non ancora cercato** — da fare.
+- [picbreeder.net — sito ufficiale del progetto](https://picbreeder.net)
+- [kenstanley.net — sito ufficiale dell'autore](https://www.kenstanley.net/home)
 
 ---
 
