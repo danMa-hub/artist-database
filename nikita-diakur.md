@@ -18,18 +18,24 @@ La cifra distintiva di Diakur è l'**"animazione interattiva"** (termine coniato
 **Lettura critica:** vince il Nelvana Grand Prize per il miglior corto d'animazione indipendente all'Ottawa International Animation Festival 2017, il Grand Prix di Animated Encounters Bristol, il New Talent Award di Fantoche e una menzione d'onore al Prix Ars Electronica — descritto come l'apertura di "una nuova frontiera" per l'animazione CG proprio nell'abbracciare la casualità simulata invece di sopprimerla.
 **Video:** [Ugly, film integrale (Vimeo)](https://vimeo.com/281529369)
 
+![Ugly — fotogramma](immagini/nikita-diakur/ugly.jpg)
+
 ### Fest (2018)
 **Descrizione:** cortometraggio di 3 minuti che raffigura una scena caotica di rave/festa di quartiere in un complesso residenziale grigio in stile "Ostblock" — barbecue, gelati, figure danzanti — costruito ancora una volta con simulazione dinamica/burattinaggio digitale, estendendo il metodo di *Ugly* alla coreografia di gruppo/folla, senza dialogo. Suono e musica di David Kamp (Studio Kamp). Selezione ufficiale ad Annecy (2018), Animafest Zagabria, Fantoche e L'Alternativa (Barcellona).
 **Lettura critica:** la giuria dell'OIAF lo ha premiato "per aver trasformato l'animazione 3D in un teatro di burattini in cui personaggi brutti e posseduti si dissolvono la vita al rave" — vince il Best Technique all'OIAF 2018 e l'Anča Award al Fest Anča 2019.
+
+![Fest — fotogramma](immagini/nikita-diakur/fest.jpg)
 
 ### Backflip (2022)
 **Descrizione:** cortometraggio di 12 minuti e 30 secondi (co-produzione Germania/Francia con Miyu Productions). Premessa: troppo spaventato per tentare davvero un salto mortale all'indietro, Diakur crea un avatar digitale e lo addestra a eseguire l'acrobazia usando tecniche di apprendimento per rinforzo/machine learning (derivate dal paper di ricerca "DeepMimic"), lasciando che l'avatar "si eserciti" tramite tentativi ed errori simulati su un processore multi-core. Combina l'estetica basata sulla simulazione dell'artista con un processo esplicito di machine learning come soggetto stesso dell'opera, e un dispositivo autobiografico (la paura reale dell'artista per l'acrobazia).
 **Lettura critica:** *Short of the Week* sottolinea come Diakur usi il machine learning "non come un espediente facile" ma per esplorare ambizione, paura, il desiderio di controllo contro l'accettazione dell'incertezza, e il cambiamento tecnologico. Selezione ufficiale al Festival di Annecy 2022, al Toronto International Film Festival e all'Ottawa International Animation Festival 2022 (nota della giuria: "Sperimentando con un design concettuale che va oltre le aspettative tradizionali dell'animazione... ha messo in discussione le nostre percezioni sulla senzienza").
 **Video:** [Backflip, documentazione (Vimeo)](https://vimeo.com/868805980)
 
+![Backflip — fotogramma](immagini/nikita-diakur/backflip.jpg)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo e YouTube.
 - [Ottawa International Animation Festival — vincitori 2017 (Animation World Network)](https://www.awn.com/news/nikita-diakurs-ugly-masaaki-yuasas-night-short-walk-girl-win-grand-prizes-oiaf-2017)
 - [It's Nice That — su Ugly](https://www.itsnicethat.com/articles/nikita-diakurs-ugly-animation-010518)
 - [Engadget — su Ugly](https://www.engadget.com/2018-08-17-ugly-nikita-diakur-animation-dynamic-simulation.html)
