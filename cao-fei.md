@@ -16,26 +16,45 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 **Lettura critica:** letta come risposta alla manifattura globalizzata "Made in China" — trasforma i lavoratori da forza produttiva anonima in soggetti con desideri e narrazioni proprie, senza però nascondere la durezza dell'ambiente di fabbrica.
 **Video:** [estratto (Vimeo, Sprüth Magers)](https://vimeo.com/412341500)
 
+![Whose Utopia — fotogramma](immagini/cao-fei/whose-utopia.jpg)
+
+**Approfondimento:** [MoMA — Whose Utopia, collezione](https://www.moma.org/collection/works/399823)
+
 ### i.Mirror by China Tracy (aka: Cao Fei) — Second Life Documentary Film (2007)
 **Descrizione:** "documentario virtuale" di 28 minuti che segue l'avatar Second Life dell'artista, China Tracy, includendo una storyline romantica con un altro avatar, "Hug Yue". Presentato come parte del China Tracy Pavilion alla 52ª Biennale di Venezia (2007), dentro il Padiglione cinese ufficiale curato da Hou Hanru.
 **Lettura critica:** complica la consueta paura che i mondi virtuali sostituiscano la realtà — mostra invece un'intimità e una connessione autentiche formatesi attraverso una relazione tra avatar, rivelando al tempo stesso le identità di "prima vita" dietro gli avatar.
+
+![i.Mirror — fotogramma](immagini/cao-fei/i-mirror.jpg)
+
+**Approfondimento:** [MoMA — i.Mirror by China Tracy, collezione](https://www.moma.org/collection/works/118832)
 
 ### RMB City: A Second Life City Planning (2007-2011/2012)
 **Descrizione:** città virtuale costruita da Cao Fei e dal suo studio dentro Second Life — un amalgama di iconografia delle megalopoli cinesi (la torre della CCTV, strutture che richiamano Tienanmen, un panda gigante, edifici fluttuanti). La costruzione inizia nel 2008, con una realizzazione in tempo reale presentata alla Serpentine Gallery di Londra (estate/autunno 2008); apertura al pubblico nel gennaio 2009. "RMB" sta per Ren Min Bi, la valuta cinese.
 **Lettura critica:** riflette sullo sviluppo urbano costiero rapido della Cina sotto il capitalismo globale; secondo alcune fonti, Hans Ulrich Obrist, Julia Peyton-Jones e Anthony Gormley sarebbero entrati in RMB City tramite avatar per un'apertura in anteprima.
 
+![RMB City — veduta della città virtuale](immagini/cao-fei/rmb-city.jpg)
+
+**Approfondimento:** [caofei.com — RMB City](https://www.caofei.com/works.aspx?id=56&year=-1&wtid=2)
+
 ### Nova (2019) e HX Project (2019-2020)
 **Descrizione:** *Nova* è un video HD di 109 minuti e 53 secondi, la produzione a più alto budget dell'artista fino a quel momento, che fonde fantascienza e film storico, ambientato nella città immaginaria di "Nova" — una reinvenzione futura di Hongxia (il quartiere di Pechino dove ha sede lo studio dell'artista) — incentrato su una scienziata informatica in missione segreta. *Nova* fa parte del più ampio HX Project, installazione in più parti dedicata al distretto del Teatro Hongxia di Pechino, ex polo industriale/elettronico di assistenza sovietica degli anni '50 dove sarebbe stato sviluppato il primo computer cinese: comprende una sala di proiezione per *Nova*, una sala archivistica/documentaria con una pubblicazione originale, una sala VR ("The Eternal Wave", 2020) e un'area di ricezione. Mostrato al Centre Pompidou e alla Sharjah Biennial 15 (2023).
 **Lettura critica:** sposta la ricerca dell'artista sull'identità virtuale da Second Life a un impianto fantascientifico più ampio e a più alto budget, radicato però in un luogo fisico e storico specifico (il quartiere Hongxia) invece che in un non-luogo virtuale generico.
+
+![Nova — immagine dell'opera](immagini/cao-fei/nova.jpg)
+
+**Approfondimento:** [caofei.com — Nova](https://www.caofei.com/works.aspx?id=82&year=2019&wtid=3)
 
 ### Meta-mentary (2022) e Duotopia (2022-2024)
 **Descrizione:** *Meta-mentary* è un video HD verticale a canale singolo (28:17 minuti) in cui Cao Fei intervista persone per le strade di Pechino e altre città cinesi sulle loro opinioni riguardo al "metaverso", culminando in un vero "Metaverse Demonstration Mall" (centro commerciale virtuale riservato ai soci). *Duotopia* è un progetto sviluppato dentro Yuanbang Mega City, piattaforma metaverso cinese, con protagonista Oz — un avatar non binario e tentacolare "immaginato quindici anni dopo la nascita di China Tracy e RMB City" — presentato in una mostra personale da Sprüth Magers, Berlino (2023), che trasforma l'intero spazio della galleria con nuove opere su metaverso, VR e coscienza uomo-macchina.
 **Lettura critica:** *frieze* inquadra la retrospettiva "Meta-mentary" al Lenbachhaus (2024), costruita attorno a questi lavori dell'era metaverso, come il tracciato di uno spostamento dall'utopismo tecnologico color confetto (come l'installazione gonfiabile *Asia One Octopus*, 2024) verso un registro "oscuramente distopico".
 
+![Duotopia — Oz (2022)](immagini/cao-fei/duotopia-oz.jpg)
+
+**Approfondimento:** [Sprüth Magers — Cao Fei, Duotopia](https://spruethmagers.com/exhibitions/cao-fei-duotopia-berlin/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [caofei.com — sito ufficiale, CV](https://www.caofei.com/about_cv.aspx)
+Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da MoMA, dal sito ufficiale [caofei.com](https://www.caofei.com) e da Sprüth Magers.
 - [Vitamin Creative Space — pagina artista](https://vitamincreativespace.com/en/?artist=caofei)
 - [MoMA — pagina artista](https://www.moma.org/artists/35159-cao-fei)
 
