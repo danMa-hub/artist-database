@@ -15,21 +15,31 @@ La ricerca di Silva esplora nozioni di paesaggio e natura selvaggia nel XXI seco
 **Descrizione:** 18 brevi animazioni 3D che mescolano birdwatching e ornitologia con teorie multiverso/quantistiche: specie di uccelli "glitch", oscillanti tra rappresentazione e astrazione.
 **Lettura critica:** riformula la convenzione naturalistica della guida da campo per mettere in crisi l'idea di documentazione "oggettiva" della natura.
 
+![The Silva Field Guide to Birds of a Parallel Future — fotogramma](immagini/rick-silva/silva-field-guide.jpg)
+
 ### Western Fronts: Cascade Siskiyou, Gold Butte, Grand Staircase-Escalante, Bears Ears (2022)
 **Descrizione:** video sperimentale che combina riprese aeree da drone e fotogrammetria con animazione 3D, sulle minacce politiche ed ecologiche a quattro monumenti nazionali USA.
 **Lettura critica:** il paesaggio scansionato si riduce a poligoni in scala di grigi — un'immagine di distopia prossima ventura, quella dell'estrazione di risorse assistita da computer vision.
+
+![Western Fronts — fotogramma](immagini/rick-silva/western-fronts.jpg)
 
 ### En Plein Air (2012-2013)
 **Descrizione:** l'artista porta il laptop in luoghi remoti del Pacific Northwest e delle Montagne Rocciose, creando ogni opera in loco, in reazione diretta al terreno; ogni "schizzo" è marcato con data/ora/condizioni meteo.
 **Lettura critica:** adozione sovversiva dei preset di generazione paesaggistica di default nei software 3D — mostra come il software abiliti ma anche imponga i modi in cui ricreiamo la natura sullo schermo.
 
+![En Plein Air](immagini/rick-silva/en-plein-air.jpg)
+
 ### SIGNALS / CORES (con Nicolas Sassoon)
 **Descrizione:** progetto collaborativo di video-installazioni 3D su paesaggi oceanici e geologici alterati, rocce scansionate in 3D.
 **Lettura critica:** riflessione su contaminazione, mutazione ed ecologie future a partire da survey oceanografici e climatici.
 
+![SIGNALS / CORES](immagini/rick-silva/signals-cores.jpg)
+
+**Approfondimento:** [s-i-g-n-a-l-s.com](https://s-i-g-n-a-l-s.com/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo e s-i-g-n-a-l-s.com.
 - [ricksilva.net](https://ricksilva.net/)
 - [The Silva Field Guide to Birds of a Parallel Future](https://silvafieldguide.com/)
 - [Western Fronts](https://westernfronts.com/)
