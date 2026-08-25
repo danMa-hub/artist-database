@@ -18,34 +18,53 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Lettura critica:** opera-chiave sulla politica della visibilità/invisibilità, sulla risoluzione come categoria di potere e sullo sguardo militarizzato — ampiamente insegnata nei corsi di teoria dei media proprio per il taglio didattico-parodico che rende esplicito, mentre lo mette in scena, il proprio impianto teorico.
 **Video:** [How Not to Be Seen, video integrale (YouTube)](https://www.youtube.com/watch?v=LE3RlrVEyuo)
 
+![How Not to Be Seen — fotogramma](immagini/hito-steyerl/how-not-to-be-seen.jpg)
+
 ### November (2004)
 **Descrizione:** video-documentario di circa 25 minuti, commissionato da Manifesta, che rielabora un film in Super-8 di arti marziali femministe girato dalla stessa Steyerl nel 1983, interpretato dall'amica Andrea Wolf, montato insieme a materiale della televisione curda e spezzoni di Bruce Lee. Andrea Wolf si unì in seguito al PKK e fu uccisa nel 1998 nel conflitto turco-curdo, diventando una figura di martirio.
 **Lettura critica:** un'indagine su come il materiale documentario, la propaganda e la finzione si confondano nella circolazione delle immagini, e su come le immagini costruiscano memoria politica e martirio — tema biografico che ritorna in opere successive come *Is the Museum a Battlefield?*.
+
+![November — fotogramma](immagini/hito-steyerl/november.webp)
+
+**Approfondimento:** [Esther Schipper — November](https://www.estherschipper.com/artists/102-hito-steyerl/works/17895-hito-steyerl-november-2004/)
 
 ### Lovely Andrea (2007)
 **Descrizione:** documentario di 30 minuti realizzato per documenta 12 (Kassel): Steyerl torna a Tokyo, dove in gioventù aveva lavorato brevemente come modella di bondage giapponese (kinbaku/shibari) sotto lo pseudonimo "Andrea", per rintracciare una fotografia di bondage del 1987 che la ritrae.
 **Lettura critica:** usa la ricerca stessa come dispositivo per riflettere su bondage, autorappresentazione, cultura popolare e consenso nella circolazione delle immagini.
 
+⚠️ Nessuna immagine trovata.
+
 ### Is the Museum a Battlefield? (2013)
 **Descrizione:** video HD a due canali, 40 minuti, nato come lecture-performance alla 13ª Biennale di Istanbul. Parte da un bossolo vuoto ritrovato da Steyerl vicino a una fossa comune a Van, in Turchia (dove Andrea Wolf potrebbe essere morta), per risalire ai legami finanziari tra produttori di armi e sponsorizzazione di musei e biennali.
 **Lettura critica:** rende esplicito, con rigore quasi investigativo, il modo in cui il sistema dell'arte è materialmente intrecciato con l'industria bellica — non una metafora, ma una filiera di finanziamento tracciabile.
+
+⚠️ Nessuna immagine trovata.
 
 ### Factory of the Sun (2015)
 **Descrizione:** videoinstallazione (colore, sonoro, circa 23 minuti) presentata al Padiglione Tedesco della 56ª Biennale di Venezia, con un allestimento a griglia illuminata di blu e sdraio per il pubblico. Racconta la storia surreale di lavoratori i cui movimenti forzati in uno studio di motion capture vengono convertiti in luce solare artificiale e dati, montando insieme telegiornale, documentario, videogiochi, riprese da drone/sorveglianza, pubblicità e video di danza da YouTube.
 **Lettura critica:** il lavoro più ambizioso di world-building dell'artista fino a quel momento, che estende i temi dell'immagine povera e della circolazione a un ambiente immersivo e ludiforme, mettendo in scena resistenza collettiva sotto sorveglianza totale dei dati.
 
+![Factory of the Sun — veduta dell'installazione](immagini/hito-steyerl/factory-of-the-sun.webp)
+
+**Approfondimento:** [Esther Schipper — Factory of the Sun](https://www.estherschipper.com/artists/102-hito-steyerl/works/21673/)
+
 ### HellYeahWeFuckDie (2016)
 **Descrizione:** installazione video multipla, il cui titolo riprende le cinque parole più usate nei testi delle canzoni pop in lingua inglese degli anni 2010 secondo un'analisi di Billboard. Due ambienti in cartongesso e alluminio, ciascuno con un video in loop: uno mostra filmati reperiti online di robot umanoidi maltrattati nei test di laboratorio; l'altro, più piccolo, mostra riprese di Cizre, città curda al confine turco-siriano devastata dagli scontri tra Stato turco e PKK. Presentata a Skulptur Projekte Münster (2017).
 **Lettura critica:** accosta violenza sui corpi robotici e violenza sui corpi umani reali in una stessa griglia di visibilità mediatica, chiedendo allo spettatore di riconoscere l'equivalenza — o l'incommensurabilità — tra le due immagini.
+
+⚠️ Nessuna immagine trovata.
 
 ### Liquidity Inc. (2014)
 **Descrizione:** video (colore, sonoro, 30 minuti) con installazione architettonica (rampa curva, tatami blu da judo, pouf). Ritratto di Jacob Wood, analista finanziario che perde il lavoro nel crollo del 2008 e diventa lottatore di arti marziali miste, montato con la sintassi di internet (hashtag, GIF, meme), usando la liquidità — anche nel senso del "sii come l'acqua" di Bruce Lee — come metafora che collega fluidità finanziaria, meteo e flusso di informazione.
 **Lettura critica:** un ritratto biografico che diventa allegoria diretta della precarietà economica sotto il neoliberismo, senza mai abbandonare il registro ironico e pop tipico dell'artista.
 
+![Liquidity Inc. — veduta dell'installazione](immagini/hito-steyerl/liquidity-inc.webp)
+
+**Approfondimento:** [Esther Schipper — Liquidity Inc.](https://www.estherschipper.com/artists/102-hito-steyerl/works/17893/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [Esther Schipper — biografia ufficiale (galleria rappresentante)](https://www.estherschipper.com/artists/102-the-work-of-hito-steyerl/biography/)
+Immagine per quattro delle sette opere, incluse sotto la relativa descrizione in "Opere principali", da YouTube ed Esther Schipper.
 - [Andrew Kreps Gallery — pagina artista](https://www.andrewkreps.com/artists/the-work-of-hito-steyerl)
 - [MoMA — How Not to Be Seen, collezione](https://www.moma.org/collection/works/181784)
 
