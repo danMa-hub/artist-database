@@ -17,30 +17,49 @@ Il lavoro di Doupé è descritto costantemente come CGI "grezza" e a basso costo
 **Descrizione:** animazione al computer di circa 29-30 minuti, parte di una terna di opere prodotte tra il 2004 e il 2006. Prosegue "l'esame di spazi psichici instabili" dell'artista, usando immagini familiari (una persona che spacca legna, sale le scale, un carro trainato da cavalli nel deserto, monache) che diventano progressivamente meno identificabili, oniriche, con ambienti e personaggi innaturali.
 **Lettura critica:** distribuita dal Video Data Bank di Chicago — tra le prime opere a definire il metodo dell'artista di costruzione narrativa a partire da materiale del subconscio.
 
+![At the Heart of a Sparrow — fotogramma](immagini/barry-doupe/at-the-heart-of-a-sparrow.jpg)
+
+**Approfondimento:** [barrydoupe.ca/videos/at-the-heart-of-a-sparrow](https://www.barrydoupe.ca/videos/at-the-heart-of-a-sparrow)
+
 ### Ponytail (2008)
 **Descrizione:** primo lungometraggio dell'artista, 92 minuti. Anteprima alla Whitechapel Gallery di Londra. Segue diversi personaggi "afflitti" e come trovano una risoluzione; l'artista lo descrive come un lavoro "audace e frammentato".
 **Lettura critica:** consolida su formato lungo il metodo narrativo disgiunto già sviluppato nelle opere brevi precedenti.
+
+![Ponytail — fotogramma](immagini/barry-doupe/ponytail.jpg)
+
+**Approfondimento:** [barrydoupe.ca/videos/ponytail](https://www.barrydoupe.ca/videos/ponytail)
 
 ### The Colors That Combine to Make White Are Important (2012)
 **Descrizione:** lungometraggio di 119 minuti che esplora le strutture di potere in una fabbrica giapponese di vetro in fallimento; due trame parallele (l'indagine su un dipendente sospetto; un dipinto rubato) convergono in quella che viene descritta come "un'esposizione grezza su genere e desiderio". Vince il premio per il miglior lungometraggio a Cinewest flEXiff 2012 (Sydney, Australia); anteprima statunitense all'Onion City Film Festival, Chicago, 2012.
 **Lettura critica:** amplia il registro dell'artista dallo spazio psichico individuale a una critica più esplicita delle strutture di potere istituzionali/lavorative.
 **Video:** [The Colors That Combine to Make White Are Important, estratto (Vimeo)](https://vimeo.com/49591657)
 
+![The Colors That Combine to Make White Are Important — fotogramma](immagini/barry-doupe/the-colors-that-combine.jpg)
+
+**Approfondimento:** [barrydoupe.ca/videos/the-colors-that-combine-to-make-white-are-important](https://www.barrydoupe.ca/videos/the-colors-that-combine-to-make-white-are-important)
+
 ### Distracted Blueberry (2019)
 **Descrizione:** opera lunga e durazionale (durata riportata in modo incoerente tra le fonti, circa 4 ore e 33-35 minuti), cinque anni di produzione. Segue una band di arte performativa attraverso "incontri poetici"; esplora mascolinità, sessualità maschile, pulsione di morte, violenza, umorismo, "il nulla e il qualcosa". Contiene contenuto animato sessuale/violento esplicito.
 **Lettura critica:** l'opera più ambiziosa in termini di durata e complessità tematica della carriera dell'artista — la lunghezza stessa diventa parte del dispositivo, richiedendo allo spettatore un impegno temporale insolito per un'opera d'animazione.
 **Video:** [trailer di Distracted Blueberry (YouTube)](https://www.youtube.com/watch?v=0u363s-sa_4)
 
+![Distracted Blueberry — fotogramma dal trailer](immagini/barry-doupe/distracted-blueberry.jpg)
+
+**Approfondimento:** [barrydoupe.ca/videos/distracted-blueberry](https://www.barrydoupe.ca/videos/distracted-blueberry) — ⚠️ pagina con contenuto esplicito, scelta l'immagine del trailer come la meno esplicita disponibile.
+
 ### Red House (2022)
 **Descrizione:** cortometraggio di 3 minuti, animazione 2D disegnata a mano realizzata con computer Amiga e software Deluxe Paint IV; sound design di James Whitman. Esplora in modo giocoso "la metamorfosi in relazione alla stabilità e alla struttura dell'abitare".
 **Lettura critica:** mostrato nella collettiva "Breaking the Joints" al Sapieha Palace di Vilnius (2025) — dimostra il ritorno dell'artista a tecnologie storiche (l'Amiga) dopo il lavoro in CGI più recente, in continuità con la sua serie di opere/dipinti realizzati con lo stesso computer durante la produzione di *Distracted Blueberry*.
 
+![Red House — fotogramma](immagini/barry-doupe/red-house.jpg)
+
+**Approfondimento:** [barrydoupe.ca/videos/red-house](https://www.barrydoupe.ca/videos/red-house)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [barrydoupe.ca](https://www.barrydoupe.ca).
 - [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
 - [Media Queer — biografia e filmografia](https://www.mediaqueer.ca/artist/barry-doupe)
-- [Wil Aballe Art Projects (WAAP) — sito della galleria](https://www.waapart.com/)
 
 ## Fonti
 - [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)

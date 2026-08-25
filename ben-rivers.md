@@ -17,31 +17,54 @@ Rivers gira principalmente in pellicola 16mm bianco e nero (talvolta scaduta), c
 **Descrizione:** primo lungometraggio dell'artista (circa 88 minuti, 16mm bianco e nero), ritratto intimo e quasi senza parole di Jake Williams, un uomo che ha lavorato per anni in mare per accumulare abbastanza denaro da ritirarsi in un'esistenza isolata in una casa fatiscente nelle Highlands scozzesi (Aberdeenshire). Nasce dal precedente cortometraggio *This Is My Land* (2006), anch'esso dedicato a Williams. Debutta alla 68ª Mostra del Cinema di Venezia (sezione Orizzonti), vincendo il Premio FIPRESCI della critica internazionale e il CPH:DOX Award di Copenhagen.
 **Lettura critica:** *Sight & Sound* lo colloca in un "territorio liminale popolare e fertile, non del tutto documentario, non del tutto finzione" — Rivers avrebbe acquistato le ultime confezioni della sua pellicola 16mm bianco e nero Kodak Plus X preferita, appena prima che venisse discontinuata, sviluppandola a mano nel proprio lavello di cucina.
 
+![Two Years at Sea — fotogramma](immagini/ben-rivers/two-years-at-sea.jpg)
+
+**Approfondimento:** [lux.org.uk/work/two-years-at-sea](https://lux.org.uk/work/two-years-at-sea/)
+
 ### Slow Action (2011, originariamente installazione a 4 schermi, 2010)
 **Descrizione:** ibrido tra documentario speculativo e fantascienza in quattro parti, girato su quattro isole reali (Lanzarote, Gunkanjima/Giappone, Tuvalu e Somerset), che applica il concetto di "biogeografia insulare" per immaginare come società umane isolate potrebbero evolversi dopo secoli di innalzamento del livello del mare — presentate come false "utopie" etnografiche. Realizzato in collaborazione con lo scrittore di fantascienza speculativa Mark von Schlegell, autore della narrazione/testo. Esposto per la prima volta come installazione alla Matt's Gallery di Londra, poi presentato come film all'International Film Festival Rotterdam (2011).
 **Lettura critica:** *Cinema Scope* lo ha incluso, insieme a *Sack Barrow* e *Two Years at Sea*, in un "focus" dedicato al triplice registro documentario/finzione/speculativo dell'opera di Rivers.
+
+![Slow Action — fotogramma](immagini/ben-rivers/slow-action.jpg)
+
+**Approfondimento:** [lux.org.uk/work/slow-action](https://lux.org.uk/work/slow-action/)
 
 ### A Spell to Ward Off the Darkness (2013, con Ben Russell)
 **Descrizione:** lungometraggio co-diretto con Ben Russell che segue il musicista Robert A.A. Lowe attraverso tre ambientazioni: una comune sull'isola estone di Vormsi, un ritiro solitario nella natura selvaggia finlandese, e un'esibizione come frontman di una band black metal. Esplora vita comunitaria/utopica, solitudine e ritualità estatica. Debutta al Locarno Film Festival (2013); vince il CPH:DOX New Vision Award a Copenhagen.
 **Lettura critica:** approfondito da *Cinema Scope* e *Filmmaker Magazine* — un'opera che, a differenza dei ritratti di eremiti solitari tipici di Rivers, esplora la comunità e il rituale collettivo.
 
+![A Spell to Ward Off the Darkness — fotogramma](immagini/ben-rivers/a-spell-to-ward-off-the-darkness.jpeg)
+
+**Approfondimento:** [benrivers.com/a-spell-to-ward-off-the-darkness](https://www.benrivers.com/a-spell-to-ward-off-the-darkness)
+
 ### The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers (2015)
 **Descrizione:** lungometraggio di 98 minuti, 16mm CinemaScope, girato in Marocco. Costruzione stratificata di finzione/documentario/favola attorno a un adattamento del racconto di Paul Bowles del 1947 "A Distant Episode". Il regista Oliver Laxe interpreta una versione di se stesso mentre dirige il proprio film, *Las Mimosas*, in Marocco, prima di abbandonare il set ed entrare nella narrazione più allucinatoria di Rivers, di cattività e trasformazione. Mati Diop è accreditata nel cast (ruolo specifico non confermato con fonte diretta).
 **Lettura critica:** approfondito estesamente da *Cinema Scope* ("Leeching Upon the Lifeblood of the Real") e dal BFI, che ha pubblicato un pezzo dello stesso Rivers sui film che hanno influenzato l'opera; *Variety* lo definisce un "surreale, sconvolgente viaggio mentale".
+
+![The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers — fotogramma](immagini/ben-rivers/the-sky-trembles.jpg)
+
+**Approfondimento:** [lux.org.uk — catalogo, con fotogramma dell'opera](https://lux.org.uk/artist/ben-rivers/)
 
 ### Bogancloch (2024)
 **Descrizione:** seguito/opera compagna di *Two Years at Sea*, che torna, oltre un decennio dopo, a Jake Williams e alla sua esistenza solitaria nella fattoria di Bogancloch nelle Highlands scozzesi, osservata attraverso le stagioni. Presentato in anteprima nella Concorso Internazionale del 77° Locarno Film Festival (agosto 2024).
 **Lettura critica:** recensito da *Sight & Sound*, *Cineuropa*, *The Film Stage* e *In Review Online* — letto come una prosecuzione, più che un semplice sequel, della stessa indagine sulla solitudine scelta, questa volta arricchita dal tempo trascorso e dal cambiamento dello stesso soggetto.
 
+![Bogancloch — fotogramma](immagini/ben-rivers/bogancloch.jpg)
+
+**Approfondimento:** [benrivers.com/bogancloch](https://www.benrivers.com/bogancloch)
+
 ### Mare's Nest (2025)
 **Descrizione:** lungometraggio più recente dell'artista, co-produzione Regno Unito/Francia/Canada, basato sull'atto unico teatrale di Don DeLillo "The Word for Snow". Segue una ragazzina, Moon, attraverso un mondo strano e privo di adulti, fondendo finzione, documentario, saggio poetico e favola — proseguendo l'interesse dell'artista per scenari speculativi/post-catastrofici e protagonisti solitari, ora con temi ecologici in primo piano. Anteprima mondiale nel Concorso Internazionale del 78° Locarno Film Festival (9 agosto 2025); vince il Pardo Verde.
 **Lettura critica:** l'opera più recente segna uno spostamento tematico esplicito verso l'ecologia e verso una protagonista bambina, invece dei consueti eremiti adulti maschi.
 
+![Mare's Nest — fotogramma](immagini/ben-rivers/mares-nest.jpg)
+
+**Approfondimento:** [benrivers.com/mares-nest](https://www.benrivers.com/mares-nest)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [benrivers.com](https://www.benrivers.com) e da [lux.org.uk](https://lux.org.uk/artist/ben-rivers/) per le opere più datate.
 - [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
-- [LUX — pagina artista](https://lux.org.uk/artist/ben-rivers/)
 - [MoMA — pagina artista](https://www.moma.org/artists/132137)
 
 ## Fonti
