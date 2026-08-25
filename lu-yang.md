@@ -15,21 +15,33 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 **Descrizione:** opera basata sul principio del sistema stereotattico e sulla stimolazione cerebrale profonda (deep brain stimulation, RTMS) applicata al sistema limbico, per estendere e simulare stati delusionali.
 **Lettura critica:** riflessione dell'artista sulla propria produzione passata/presente/futura — dove risiede la coscienza? È legata al cervello? Secondo capitolo di una serie iniziata con *Moving God*, tra religione e neuroscienza.
 
+![Delusional Mandala — fotogramma](immagini/lu-yang/delusional-mandala.jpg)
+
 ### Delusional World
 **Descrizione:** prima performance live-streaming dell'artista: una danzatrice contemporanea dotata di tecnologia di motion capture proietta avatar digitali fantastici — divinità deliranti, mutanti ispirati ai manga, cyborg.
 **Lettura critica:** il corpo della performer diventa interfaccia per generare identità multiple e instabili in tempo reale.
+
+![Delusional World — fotogramma dalla performance in live-streaming](immagini/lu-yang/delusional-world.jpg)
+
+**Approfondimento:** [ACMI — Delusional World](https://www.acmi.net.au/works/118044--delusional-world/)
 
 ### The Great Adventure of Material World
 **Descrizione:** mitologia videoludica che affronta domande sull'esistenza di "sé" e "altro", e sulla vita oltre la morte, attraverso cut scene, salti temporali e ricominciamenti (redo).
 **Lettura critica:** i videogiochi come nuovo regno di reincarnazione narrativa — destabilizzano il senso lineare del tempo proprio del cinema del XX secolo.
 
+![The Great Adventure of Material World — fotogramma](immagini/lu-yang/great-adventure.jpg)
+
 ### DOKU
 **Descrizione:** reincarnazione digitale dell'artista in un "universo digitale parallelo", costruita con scansione facciale 3D ad alta fedeltà (50 espressioni facciali catturate e ricostruite in blend shape fotorealistici); usata anche come piattaforma collaborativa aperta ad altri artisti, musicisti, danzatori, scienziati.
 **Lettura critica:** Doku rappresenta una visione non-dualistica dell'esistenza — nessun corpo fisico, nessun confine, un'identità che nasce dalla coscienza collettiva umana e trascende lingua e cultura.
 
+![DOKU — l'avatar di reincarnazione digitale dell'artista](immagini/lu-yang/doku.jpg)
+
+**Approfondimento:** [doku.asia — Digital Reincarnation](https://doku.asia/digital-reincarnation)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo, ACMI e Dazed.
 - [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)
 
 ## Fonti
