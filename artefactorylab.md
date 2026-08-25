@@ -17,21 +17,30 @@ ArtefactoryLab produce immagini, animazioni ed esperienze VR per conto di studi 
 **Descrizione:** visualizzazioni CGI (render accreditati a Eric Anton) per il museo progettato da Jean Nouvel ad Abu Dhabi, caratterizzato da un'imponente cupola traforata che produce un effetto di "pioggia di luce". Le immagini vengono prodotte con diversi anni di anticipo rispetto al completamento reale dell'edificio.
 **Lettura critica:** un caso di studio paradigmatico del ruolo persuasivo/anticipatorio della CGI architettonica in contesti di concorso e raccolta fondi — il confronto fra i render "dell'edificio completato" prodotti anni prima e la fotografia reale dell'edificio finito offre un ottimo spunto didattico sulla natura promissoria di questo genere di immagine.
 
+![Louvre Abu Dhabi — render](immagini/artefactorylab/louvre-abu-dhabi-render.jpg)
+
+**Approfondimento:** [architizer.com — ArtefactoryLab CGI rendering for AJNl Louvre Abu Dhabi](https://architizer.com/idea/115024/)
+
 ### La Poste du Louvre, render per Atelier(s) Alfonso Femia / 5+1AA, Parigi
 **Descrizione:** immagini architettoniche/render per il progetto di ristrutturazione del celebre edificio della Poste du Louvre a Parigi, affiancate da un modello fisico in ceramica realizzato da Danilo Trogu.
 **Lettura critica:** esempio della collaborazione dello studio con il patrimonio architettonico storico parigino, in dialogo con lo studio 5+1AA (Alfonso Femia, Gianluca Peluffo).
+
+![La Poste du Louvre — render](immagini/artefactorylab/la-poste-du-louvre-render.jpg)
+
+**Approfondimento:** [atelierfemia.com — La Poste du Louvre](https://www.atelierfemia.com/en/siglaprog/ppl/)
 
 ### Sturm&Drang Studio, partecipazione al programma di conversazioni (2021, Fondazione Prada × ETH Zürich)
 **Descrizione:** ArtefactoryLab compare come ospite del ciclo di conversazioni pubbliche online "Sturm&Drang Studio" (a partire dal 7 aprile 2021), il programma educativo per 185 studenti dell'ETH Zürich che affianca la mostra "Sturm&Drang" all'Osservatorio Fondazione Prada di Milano (già scheda dedicata in questo database).
 **Lettura critica:** ⚠️ correzione importante: il ruolo documentato dello studio è quello di **ospite del programma di conversazioni/workshop educativo** ("Studio"), non di artista con opere esposte nella mostra fisica in galleria — distinzione da mantenere con precisione in una scheda didattica.
 **Video:** [YouTube — "STURM&DRANG STUDIO | Artefactory lab"](https://www.youtube.com/watch?v=pirOQxnV5Nk)
 
+![Sturm&Drang Studio — fotogramma dal video](immagini/artefactorylab/sturm-drang-studio-youtube.jpg)
+
+**Approfondimento:** [youtube.com/watch?v=pirOQxnV5Nk](https://www.youtube.com/watch?v=pirOQxnV5Nk)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [artefactorylab.com — sito ufficiale](https://www.artefactorylab.com/en/)
-- [artefactorylab.com — pagina progetti](https://www.artefactorylab.com/en/projets/)
-- [Architizer — profilo studio](https://architizer.com/firms/artefactorylab/)
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali". Il sito ufficiale [artefactorylab.com](https://www.artefactorylab.com/en/) usa una galleria WebGL/canvas non estraibile via markup, quindi le immagini sono state recuperate da fonti terze che le ospitano con credito allo studio (Architizer, atelierfemia.com, YouTube).
 
 ## Fonti
 - [artefactorylab.com — sito ufficiale](https://www.artefactorylab.com/en/)
