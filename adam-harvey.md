@@ -17,35 +17,44 @@ La pratica di Harvey si colloca all'incrocio tra "design anti-sorveglianza" (tec
 **Descrizione:** trucco e acconciatura anti-riconoscimento facciale, sviluppati come tesi di master all'ITP della NYU; il nome cita il camuffamento navale "Dazzle" della Prima guerra mondiale (schemi di pittura per navi ispirati al cubismo, dell'artista britannico Norman Wilkinson). Usa pattern asimmetrici e ad alto contrasto che spezzano i tratti su cui si basano gli algoritmi di rilevamento del volto. Rimane leggibile allo sguardo umano; progettato per ingannare specificamente la visione artificiale.
 **Lettura critica:** l'opera fondativa dell'intero percorso dell'artista, discussa già nel 2011 come "antidoto" alla sorveglianza — recentemente inclusa nella mostra "Camouflage: Designed to Deceive" all'International Spy Museum di Washington D.C. (aperta il 1° marzo 2026).
 
+![CV Dazzle — look 06](immagini/adam-harvey/cvdazzle-06.jpg)
+![CV Dazzle — saliency map](immagini/adam-harvey/cvdazzle-saliency-map.jpg)
+
 ### Stealth Wear (2013)
 **Descrizione:** linea di abbigliamento anti-drone/anti-termocamera (burqa, hijab, felpa con cappuccio-mantello, sciarpa, t-shirt) realizzata con tessuto metallizzato che riflette il calore e maschera la firma termica di chi la indossa dalle telecamere termiche montate sui droni. Sviluppata con la stilista Johanna Bloomfield.
 **Lettura critica:** discussa da *Dezeen*, *The Daily Beast* e *NBC News* — sposta il camuffamento anti-sorveglianza dal riconoscimento facciale (visibile) alla sorveglianza termica/aerea (invisibile), ampliando il registro tecnico dell'intera ricerca.
 
+![Stealth Wear — poster](immagini/adam-harvey/stealth-wear-poster.jpg)
+![Stealth Wear — anti-drone burqa](immagini/adam-harvey/stealth-wear-burqa.jpg)
+
 ### HyperFace (sviluppo dal 2013, prima presentazione dicembre 2016, lanciata come tessuto a Sundance nel gennaio 2017)
 **Descrizione:** pattern di camuffamento che generano "falsi volti" per sovraccaricare/confondere il punteggio di confidenza dei rilevatori di volti, invece di limitarsi a nascondere il volto reale, mirati ad algoritmi specifici (ad esempio il rilevatore di volto frontale predefinito di OpenCV). Collaborazione con lo studio di design Hyphen-Labs, presentato all'interno del progetto "NeuroSpeculative AfroFeminism" di Hyphen-Labs.
 **Lettura critica:** una strategia più aggressiva del semplice occultamento — non nascondere il volto, ma inondare il sistema di falsi positivi, un'inversione concettuale rispetto a *CV Dazzle*.
+
+![HyperFace — pattern con Hyphen-Labs](immagini/adam-harvey/hyperface-01.jpg)
 
 ### MegaPixels (dal 2017, con Jules LaPlace)
 **Descrizione:** progetto di ricerca artistica indipendente sull'etica, le origini e l'uso militare/commerciale a valle dei dataset di addestramento per il riconoscimento facciale (ad esempio MS-Celeb-1M/MS1M, Duke MTMC). Combina giornalismo di dati con strumenti di riconoscimento facciale personalizzati per tracciare chi ha costruito, scaricato e usato questi dataset — incluse organizzazioni di difesa/intelligence e aziende come Megvii/Face++, SenseTime, Hikvision, Amazon, Microsoft, IBM, Google. Risultato: almeno tre dataset chiusi (incluso MS-Celeb-1M di Microsoft e Duke MTMC), citazioni accademiche censurate, scuse pubbliche di un autore.
 **Lettura critica:** un caso raro di ricerca artistica con conseguenze materiali dirette e verificabili sull'infrastruttura tecnica dell'IA di sorveglianza, non solo una critica simbolica.
 **Video:** [lezione alla Chaos Communication Camp 2019, "MegaPixels: Face Recognition Training Datasets"](https://media.ccc.de/c/camp2019)
 
+![MegaPixels — header del progetto](immagini/adam-harvey/megapixels-header.jpg)
+
 ### Exposing.ai (lanciato nel gennaio 2021, con Jules LaPlace)
 **Descrizione:** strumento di ricerca pubblico che permette agli utenti Flickr (caricamenti 2004-2020) di verificare se le proprie fotografie sono state incorporate in importanti dataset di addestramento biometrico/facciale usati per la ricerca e lo sviluppo di sorveglianza IA (accademica, commerciale, militare). Sviluppato durante le fellowship 2020 alla HfG Karlsruhe/KIM e al Weizenbaum Institut, in seguito in collaborazione con il Surveillance Technology Oversight Project (STOP).
 **Lettura critica:** rende concreto e personale, per il singolo utente, un problema altrimenti astratto — non "i dataset esistono", ma "questa specifica foto tua potrebbe essere in questo specifico dataset".
+
+![Exposing.ai — immagine del progetto](immagini/adam-harvey/exposing-ai.jpg)
 
 ### VFRAME — Visual Forensics and Advanced Metadata Extraction (dal 2017 circa, con Jules LaPlace e collaboratori)
 **Descrizione:** toolkit di visione artificiale per ricercatori per i diritti umani e giornalisti investigativi (ad esempio Syrian Archive), per rilevare oggetti come munizioni a grappolo attraverso milioni di fotogrammi video di zone di conflitto.
 **Lettura critica:** mostra il doppio uso della visione artificiale nel lavoro di Harvey — non solo minaccia da cui difendersi (come in CV Dazzle e Stealth Wear), ma anche strumento per i diritti umani quando messo al servizio dell'accountability, non della sorveglianza.
 
+![VFRAME — fotogrammetria di munizioni a grappolo](immagini/adam-harvey/vframe-photogrammetry.png)
+
 ## Immagini
 
-![CV Dazzle — look 06](immagini/adam-harvey/cvdazzle-06.jpg)
-![CV Dazzle — saliency map](immagini/adam-harvey/cvdazzle-saliency-map.jpg)
-![Stealth Wear — poster](immagini/adam-harvey/stealth-wear-poster.jpg)
-![Stealth Wear — anti-drone burqa](immagini/adam-harvey/stealth-wear-burqa.jpg)
-
-Scaricate dal sito ufficiale: [adam.harvey.studio/cvdazzle](https://adam.harvey.studio/cvdazzle/) e [adam.harvey.studio/stealth-wear](https://adam.harvey.studio/stealth-wear/).
+Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [adam.harvey.studio](https://adam.harvey.studio).
 
 ## Fonti
 - [adam.harvey.studio — sito ufficiale](https://adam.harvey.studio/about/)
