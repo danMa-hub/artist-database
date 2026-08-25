@@ -21,14 +21,20 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 **Descrizione:** corso universitario online per 185 studenti, lanciato il 22 febbraio 2021, che imita componenti e flussi di lavoro dell'industria digitale della CGI.
 **Lettura critica:** prima fase del progetto complessivo — un esperimento pedagogico che rovescia il rapporto fra teoria e pratica, facendo della simulazione del lavoro industriale lo strumento stesso di critica dell'industria.
 
+![Sturm&Drang Studio — fotogramma dal video "Sturm&Drang Studio | Meriem Bennani"](immagini/sturm-und-drang/studio-course.jpg)
+
 ### Sturm&Drang, mostra all'Osservatorio Fondazione Prada (9 settembre 2021–23 gennaio 2022)
 **Descrizione:** mostra articolata in quattro ambienti tematici che ricostruiscono il "making of" della produzione CGI in ambiti quali videogiochi, fantascienza e ingegneria high-tech, preceduta da una serie di conversazioni online a partire dal 7 aprile 2021. Tra i partecipanti/collaboratori documentati: Markus Gross (VP di Disney Research Studios), ArtefactoryLab (già presente in questo database), l'artista Meriem Bennani, Sybil Montet, Sara Sadik, Emanuel Rossetti.
 **Lettura critica:** *STIRworld* descrive la mostra come capace di "smontare i dentro e fuori della CGI"; il progetto si distingue per la scelta di rendere visibile l'infrastruttura tecnica e produttiva dell'immagine digitale, di solito invisibile allo spettatore finale.
 **Video:** [YouTube — "Sturm&Drang Studio | Meriem Bennani"](https://www.youtube.com/watch?v=HCAnRGvSKSw)
 
+![Sturm&Drang — veduta della mostra, Osservatorio Fondazione Prada, Milano](immagini/sturm-und-drang/exhibition.jpg)
+
+**Approfondimento:** [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da un fotogramma YouTube e da STIRworld. Il sito ufficiale di Fondazione Prada blocca sistematicamente ogni tentativo di accesso automatico (HTTP 403), in tutte le tecniche provate in questa sessione.
 - [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
 - [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)
 - [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
