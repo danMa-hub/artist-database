@@ -15,11 +15,20 @@ Artista audiovisiva peruviana la cui pratica è centrata sull'installazione vide
 **Descrizione:** girato negli scavi delle fosse comuni delle vittime del conflitto armato interno peruviano (vent'anni di violenza); loop di un'ora, la camera scorre su terreni stratificati dove emergono frammenti di ossa, denti, bordi di stoffa consunta, strumenti archeologici.
 **Lettura critica:** sfuma il confine fra resti umani e paesaggio; prima personale museale dell'artista negli USA al Rose Art Museum, Brandeis University.
 
+![Liminal — fotogramma](immagini/maya-watanabe/liminal.jpg)
+
+**Approfondimento:** [Rose Art Museum — Maya Watanabe: Liminal](https://www.brandeis.edu/rose/exhibitions/2019/maya-watanabe.html)
+
 ### Jarkov (2025-26, CANICULA)
 **Descrizione:** installazione video incentrata su Jarkov, un mammut lanoso di circa 20.000 anni ritrovato nella tundra artica e conservato a -12°C in una rete di gallerie scavate nel permafrost siberiano; la camera si muove lentamente in corridoi ghiacciati tra resti del mammut (ossa, molari), montata in una sala buia e inclinata come coreografia frammentata fra primi piani taglienti e visioni ambientali indistinte. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
 **Lettura critica:** stessa tensione riconoscibilità/astrazione già presente in *Liminal*, spostata dalla violenza politica umana alla conservazione/estinzione su scala geologica.
 
+![Jarkov — fotogramma, mostra CANICULA](immagini/maya-watanabe/jarkov.jpg)
+
+**Approfondimento:** [Fondazione In Between Art Film — Jarkov](https://inbetweenartfilm.com/maya-watanabe-jarkov/)
+
 ## Immagini
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal Rose Art Museum e dal sito ufficiale della mostra CANICULA.
 
 ## Fonti
 - [Dutch Art Institute — pagina artista](https://dutchartinstitute.eu/page/19417/maya-watanabe)
