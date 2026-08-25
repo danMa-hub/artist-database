@@ -17,25 +17,36 @@ Il lavoro di El Popo Sangre applica ai tropi consueti della new media art — av
 **Descrizione:** definita dallo stesso materiale promozionale come "una commedia spaziale in tre atti" incentrata su temi assurdi e surreali. L'opera (o una sua scena, "Act 1, Scene 2") è stata presentata come edizione NFT 1/1 all'interno della collettiva inaugurale di Superchief Gallery NFT, "Season 1 Starter Pack" (circa 300 artisti partecipanti).
 **Lettura critica:** rappresenta l'ingresso dell'artista nel circuito delle edizioni digitali/NFT, otto anni dopo la stesura originale del progetto — un caso di lunga gestazione fra concezione e realizzazione.
 
+⚠️ Nessuna immagine: la piattaforma NFT che ospita l'opera non è stata consultata per questa scheda per il rischio di contenuto esplicito non filtrato — scegliere con cautela se recuperata in futuro.
+
 ### Fantasy (2016)
 **Descrizione:** cortometraggio animato sperimentale, scritto e diretto nel 2016, presentato secondo la stampa specializzata nell'ambito dell'evento internazionale "Forest For the Trees" a Portland, Oregon.
 **Lettura critica:** coperto da *WeAndTheColor* come esempio della cifra visiva distintiva dell'artista nel formato del cortometraggio.
 **Video:** [Fantasy (Vimeo)](https://vimeo.com/180222262) — ⚠️ link non verificato per contenuto: raccomandata visione preventiva da parte di un adulto prima di un uso didattico.
 
+![Fantasy — fotogramma](immagini/el-popo-sangre/fantasy.jpg)
+
+**Approfondimento:** [WeAndTheColor — Fantasy](https://weandthecolor.com/fantasy-experimental-animation-el-popo-sangre/77619) (fonte curata, immagine scelta come meno esplicita disponibile)
+
 ### Through the Looking Glass, mostra (Superchief Gallery, New York, ca. 2016-2017)
 **Descrizione:** mostra presso lo spazio newyorkese di Superchief Gallery, definita dalla stampa come l'occasione in cui l'artista viene "scovato" dall'ambiente della new media art newyorkese dopo un periodo di relativa oscurità nel campo dell'arte 3D.
 **Lettura critica:** segna il passaggio dell'artista da pratica indipendente/underground a circuito espositivo riconosciuto della new media art statunitense.
+
+⚠️ Nessuna immagine: nessuna fonte con documentazione fotografica della mostra individuata senza passare da Vice (NSFW segnalato dalla testata stessa) — da recuperare con cautela in futuro.
 
 ### Tacoma, video musicale per Bottler (2022)
 **Descrizione:** video musicale diretto per il singolo "Tacoma" del duo brooklinese Bottler, pubblicato il 6 aprile 2022.
 **Lettura critica:** *Frisson* inquadra l'opera come "un commento critico sull'umanità e sulla cultura digitale", condotto tramite saturazione cromatica estrema e immagini lampeggianti — un esempio del registro più esplicitamente satirico, meno legato al contenuto sessuale, della produzione dell'artista.
 
+![Tacoma — fotogramma dal video musicale per Bottler](immagini/el-popo-sangre/tacoma.jpg)
+
+**Approfondimento:** [YouTube — Bottler, Tacoma (Official Music Video)](https://www.youtube.com/watch?v=TatdM5tObws)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+⚠️ Artista con avviso di contenuto esplicito (vedi nota metodologica generale del database). Immagine trovata solo per le 2 opere (*Fantasy*, *Tacoma*) documentate da fonti curate non esplicite (WeAndTheColor, YouTube ufficiale); per *POSTICHE* e *Through the Looking Glass* non sono state consultate le fonti disponibili (piattaforma NFT, Vice) per il rischio di contenuto non filtrato — scegliere con cautela se recuperate in futuro, restando nel registro meno esplicito disponibile.
 - [Vice — "The Surreal CGI Sex-Worlds of El Popo Sangre" ⚠️ contenuto NSFW segnalato dalla testata stessa](https://www.vice.com/en/article/cgi-artist-el-popo-sangre/)
 - [Various Artists — "Paulin Rogues / El Popo Sangre" (1 marzo 2017)](https://variousartists.io/2017-03-01/paulin-rogues-el-popo-sangre/)
-- [WeAndTheColor — "Fantasy – Experimental Animation by El Popo Sangre"](https://weandthecolor.com/fantasy-experimental-animation-el-popo-sangre/77619)
 
 ## Fonti
 - [Vice — "The Surreal CGI Sex-Worlds of El Popo Sangre" ⚠️ contenuto NSFW segnalato dalla testata stessa](https://www.vice.com/en/article/cgi-artist-el-popo-sangre/)
