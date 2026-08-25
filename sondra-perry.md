@@ -17,30 +17,46 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 **Descrizione:** video a due canali, colore e sonoro, 25:24 minuti. Narrazione familiare semi-autobiografica (i parenti di Perry interpretano se stessi — seppelliscono una bandiera in giardino, sbucciano patate dolci, scene di più generazioni) proiettata su pareti adiacenti in chroma-green. Mostrata in "Greater New York" al MoMA PS1 (2015-16).
 **Lettura critica:** una delle prime opere a introdurre il vocabolario del chroma-key come dispositivo narrativo, non solo tecnico, per raccontare la memoria familiare nera.
 
+![Lineage for a Multiple-Monitor Workstation: Number One — veduta dell'installazione, "Greater New York", MoMA PS1. Foto: Pablo Enriquez](immagini/sondra-perry/lineage.jpg)
+
 ### Resident Evil, con Graft and Ash for a Three Monitor Workstation e Wet and Wavy Looks—Typhon coming on for a Three-Monitor Workstation (2016)
 **Descrizione:** prima mostra istituzionale personale, The Kitchen, New York (novembre-dicembre 2016), con quasi tutte le pareti della galleria dipinte in Rosco Chroma Key Blue. Comprende la grande proiezione *Resident Evil* (il cui titolo cita il videogioco del 1996), costruita da riprese ravvicinate e distorte della pelle della stessa Perry; *Graft and Ash for a Three Monitor Workstation*, una cyclette collegata a tre monitor su cui un avatar digitale recita un monologo su lavoro e capitalismo (oggi nella collezione permanente del Whitney Museum); *Wet and Wavy Looks—Typhon coming on for a Three-Monitor Workstation*, un vogatore resistente all'acqua riempito di gel per capelli e collegato a tre monitor, il cui titolo cita direttamente il dipinto di J.M.W. Turner del 1840 sul massacro della nave Zong (oggi nella collezione del MoMA).
 **Lettura critica:** l'ambiente interamente blu della mostra trasforma la galleria stessa in un enorme "schermo verde" concettuale — temi di brutalità poliziesca, violenza razzializzata e circolazione/distorsione digitale delle immagini di corpi neri attraversano tutte e tre le opere.
+
+![Graft and Ash for a Three Monitor Workstation](immagini/sondra-perry/resident-evil.jpg)
 
 ### IT'S IN THE GAME '17 (2017)
 **Descrizione:** video incentrato sul fratello gemello di Perry, Sandy Perry, giocatore di basket di Division I alla Georgia State University, la cui immagine e le cui statistiche sono state concesse in licenza dalla NCAA a EA Sports per i propri videogiochi cestistici senza il suo consenso — l'opera affianca il vero avatar digitale del fratello a uno creato dalla stessa Perry, interrogando la vendita e lo sfruttamento delle identità digitalizzate di atleti neri. Mostrata da Bridget Donahue (2018) e successivamente nella collettiva "Difference Machines: Technology and Identity in Contemporary Art" al Buffalo AKG Art Museum (2021-22).
 **Lettura critica:** rende concreto, con un caso biografico diretto e documentabile, il tema più ampio della proprietà e dello sfruttamento commerciale del corpo nero digitalizzato.
 **Video:** [IT'S IN THE GAME '17, documentazione (Vimeo)](https://vimeo.com/239709507)
 
+![IT'S IN THE GAME '17 — fotogramma](immagini/sondra-perry/its-in-the-game.jpg)
+
 ### Typhoon coming on (2018)
 **Descrizione:** installazione video/sonora immersiva, prima mostra personale europea, Serpentine Galleries, Londra (marzo-maggio 2018), poi ICA Miami e LUMA Westbau Zurigo. L'animazione centrale rielabora il dipinto di J.M.W. Turner del 1840 *Slavers Throwing Overboard the Dead and Dying, Typhoon Coming On* ("La nave degli schiavi"), che raffigura il massacro della Zong del 1781, quando l'equipaggio gettò in mare 133 persone ridotte in schiavitù per incassare un'assicurazione. L'oceano animato — costruito con il modificatore Ocean di Blender — è reso nel colore viola "di errore" che i software di simulazione mostrano quando una simulazione va in crash.
 **Lettura critica:** trasforma un errore tecnico del software (il colore di crash) in immagine storica e politica — l'oceano viola diventa insieme citazione pittorica, glitch tecnico e memoria del Middle Passage.
+
+![Typhoon coming on — veduta dell'installazione, Serpentine Galleries](immagini/sondra-perry/typhoon-coming-on.jpg)
+
+**Approfondimento:** [Serpentine Galleries — Typhoon coming on](https://www.serpentinegalleries.org/whats-on/sondra-perry-typhoon-coming-on/)
 
 ### Flesh Wall (2016-2020)
 **Descrizione:** animazione di un'immagine fortemente processata e ingrandita della pelle della stessa Perry, ampliata alla scala di Times Square per il programma di arte pubblica "Midnight Moment" (Times Square Arts), proiettata su oltre 70 cartelloni digitali ogni notte a mezzanotte per tutto febbraio 2021.
 **Lettura critica:** porta il gesto intimo dell'ingrandimento della propria pelle nel più grande schermo pubblicitario pubblico degli Stati Uniti — un cortocircuito diretto tra corpo privato e spettacolo commerciale di massa.
 
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
+
 ### couch and fern, GLITTER AND THE LION'S MANE (2020-2023)
 **Descrizione:** installazione con un divano capovolto e uno schermo video incassato (riprese da un'auto in movimento), una poltrona da barbiere ricoperta di funghi criniera di leone, e un audio con una conversazione tra Perry e la psicoterapeuta Bola Shonubi sulla vita della nonna di Perry come mezzadra nel Sud degli Stati Uniti sotto le leggi Jim Crow, e sulla ricerca di quella terra da parte della stessa Perry. Mostrata nella personale "Sondra Perry: ██████████" da Bridget Donahue, New York (2023); acquisita dall'Art Institute of Chicago nel novembre 2024.
 **Lettura critica:** l'opera più recente sposta il registro dal corpo e dalla pelle alla memoria di terra e generazione — invecchiamento, trauma generazionale nero e guarigione, con un impianto meno tecnologico in superficie ma continuo nella ricerca sulla memoria familiare avviata già in *Lineage*.
 
+![couch and fern, GLITTER AND THE LION'S MANE — veduta della mostra, Art Institute of Chicago](immagini/sondra-perry/couch-and-fern.jpg)
+
+**Approfondimento:** [Art Institute of Chicago — couch and fern, GLITTER AND THE LION'S MANE](https://www.artic.edu/artworks/179315/couch-and-fern-glitter-and-the-lion-s-mane-2020-2021-2022-2023-1934-1-8-ga)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Serpentine Galleries, Vimeo e Art Institute of Chicago. Nessuna immagine reperita per *Flesh Wall*.
 - [sondraperry.com — sito ufficiale](https://sondraperry.com)
 - [Whitney Museum — Graft and Ash for a Three Monitor Workstation, collezione](https://whitney.org/collection/works/59924)
 - [MoMA — Resident Evil (2016), collezione](https://www.moma.org/collection/works/219405)
