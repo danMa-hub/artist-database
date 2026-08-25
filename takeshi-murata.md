@@ -17,30 +17,54 @@ Murata è ampiamente riconosciuto come uno dei pionieri del "datamoshing" come t
 **Descrizione:** lavoro di animazione digitale precoce (precede le opere glitch su found footage): forme floreali/organiche morfano l'una nell'altra, con riferimenti alla psichedelia anni Sessanta e al glitch art. Parte della serie "Melter" (Melter, Melter 2, e in seguito la scultura fisica Melter 3-D, 2014). Mostrata in "Takeshi Murata: Melter 2" al Contemporary Art Museum St. Louis.
 **Lettura critica:** dimostra che l'interesse dell'artista per la morfologia astratta precede, e non solo segue, la sua svolta verso il found footage glitchato — un filo conduttore coerente lungo tutta la carriera.
 
+![Melter 2 — fotogramma](immagini/takeshi-murata/melter-2.jpg)
+
+**Approfondimento:** [Electronic Arts Intermix — Melter 2](https://www.eai.org/titles/melter-2)
+
 ### Monster Movie (2005)
 **Descrizione:** video datamoshed su found footage, materiale sorgente dal film del 1981 *Caveman*. Descritto come "una sorta di dipinto in movimento", con una manipolazione fotogramma per fotogramma che "si decompone e si ricompone trenta volte al secondo", rivelando "un mostro sotto la superficie dell'immagine". Ampiamente citata come l'opera che "ha catapultato il datamoshing nel mondo dell'arte". Nella collezione permanente dello Smithsonian American Art Museum.
 **Lettura critica:** opera fondativa del genere — trasforma un difetto tecnico di compressione video in un intero linguaggio estetico riconoscibile, poi ripreso da innumerevoli artisti successivi.
 **Video:** [Monster Movie, video integrale (YouTube)](https://www.youtube.com/watch?v=t1f3St51S9I)
 
+![Monster Movie — fotogramma, collezione Smithsonian American Art Museum](immagini/takeshi-murata/monster-movie-saam.jpg)
+
+**Approfondimento:** [Smithsonian American Art Museum — Monster Movie](https://americanart.si.edu/artwork/monster-movie-86385)
+
 ### Untitled (Silver) (2006)
 **Descrizione:** video a canale singolo, bianco e nero, con sonoro (circa 10-11 minuti), materiale sorgente dal film horror di Mario Bava del 1960 *La maschera del demonio*, colonna sonora di Robert Beatty e Ellen Molle. Nella collezione del SFMOMA.
 **Lettura critica:** descritta dalla critica come prova della "formidabile abilità di Murata nel disciplinare i pixel in schemi vorticosi" — applica il metodo del datamoshing a un materiale sorgente di culto cinefilo, non solo a footage pop generico.
+
+![Untitled (Silver) — fotogramma](immagini/takeshi-murata/untitled-silver.jpg)
+
+**Approfondimento:** [Electronic Arts Intermix — Untitled (Silver)](https://www.eai.org/titles/untitled-silver)
 
 ### Untitled (Pink Dot) (2006/2007)
 **Descrizione:** video datamoshed che usa footage alterato dal film *Rambo* (*First Blood*, 1982); un punto rosa pulsante si sovrappone a sequenze d'azione con Stallone che si decompongono in forme fluide e campi di colore. Mostrata in "Black Box: Takeshi Murata" all'Hirshhorn (2007); *Pink Dot* è nella collezione permanente del museo.
 **Lettura critica:** l'immagine action-movie iper-mascolina viene letteralmente sciolta dal processo di datamoshing — un cortocircuito diretto tra contenuto (violenza spettacolare) e forma (dissoluzione dell'immagine).
 
+![Untitled (Pink Dot) — fotogramma](immagini/takeshi-murata/pink-dot-eai.jpg)
+
+**Approfondimento:** [Electronic Arts Intermix — pagina artista Takeshi Murata](https://www.eai.org/artists/takeshi-murata/titles)
+
 ### Serie di nature morte CGI, tra cui Problem Areas (2013)
 **Descrizione:** elaborate composizioni vanitas rese in 3D, che combinano simboli tradizionali della natura morta (teschi, frutta tagliata, uova) con detriti tecnologici/di consumo (iPhone incrinati, bottiglie di birra, nastri VHS), renderizzate con CGI iperrealistica; Murata ha dichiarato di essersi insegnato le tecniche CGI tramite video tutorial su YouTube, non tramite formazione in studio. L'esempio meglio documentato è *Problem Areas* (2013), video musicale per Oneohtrix Point Never (Daniel Lopatin), dall'album *R Plus Seven* (Warp Records) — accosta oggetti reali e oggetti resi in CGI fino a renderli quasi indistinguibili.
 **Lettura critica:** segna lo spostamento più significativo della carriera dell'artista, dal glitch su footage trovato alla costruzione ex novo di immagini iperrealistiche — mantenendo però lo stesso interesse per il decadimento e l'eccesso visivo.
+
+![Problem Areas — fotogramma, video per Oneohtrix Point Never](immagini/takeshi-murata/problem-areas.jpg)
+
+**Approfondimento:** [ANIMAL New York — su Problem Areas](https://animalnewyork.com/2013/08/01/takeshi-muratas-immaculate-cgi-still-life-video-for-oneohtrix-point-never/)
 
 ### OM Rider (2013)
 **Descrizione:** opera narrativa animata in CGI di circa 11:39 minuti (colonna sonora di Robert Beatty), che raffigura "un incontro omicida tra un licantropo punk e un anziano signore elegante", fondendo estetica noir retrò, videoludica e giallo all'italiana. Proiettata nel programma di cortometraggi animati del Sundance Film Festival 2015. Mostrata da Salon 94 e Ratio 3 (accompagnata da un ologramma, *Midnight*, Ratio 3, novembre-dicembre 2013).
 **Lettura critica:** segna il pieno passaggio dell'artista all'animazione CGI narrativa — non più solo manipolazione di footage esistente, ma costruzione di una storia originale interamente generata al computer.
 
+![OM Rider — fotogramma](immagini/takeshi-murata/om-rider.jpg)
+
+**Approfondimento:** [Electronic Arts Intermix — pagina artista Takeshi Murata](https://www.eai.org/artists/takeshi-murata/titles)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Electronic Arts Intermix, Smithsonian American Art Museum e ANIMAL New York.
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
 - [Smithsonian American Art Museum — Monster Movie, collezione](https://americanart.si.edu/artwork/monster-movie-86385)
 - [Hirshhorn Museum — mostra "Black Box: Takeshi Murata" (2007)](https://hirshhorn.si.edu/exhibitions/black-box-takeshi-murata/)
