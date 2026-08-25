@@ -15,36 +15,50 @@ Dong lavora in performance, fotografia, video e installazioni digitali, esploran
 **Descrizione:** parole cariche di esotizzazione e discriminazione razziale vengono proiettate sul corpo dell'artista tramite tecnologia di realtà aumentata.
 **Lettura critica:** cortocircuito diretto tra proiezioni esterne stereotipate e identità intima — il corpo come superficie su cui si scrive lo stereotipo razziale.
 
+![Skin Deep — documentazione della performance](immagini/chun-hua-catherine-dong/skin-deep.jpg)
+
+**Approfondimento:** [chunhuacatherinedong.com/portfolio/skin-deep-2](https://chunhuacatherinedong.com/portfolio/skin-deep-2/)
+
 ### I Have Been There (2015–)
 **Descrizione:** l'artista porta una fotografia del proprio volto davanti al corpo in diverse città del mondo.
 **Lettura critica:** un gesto che riflette sul rapporto tra presenza e assenza, visibilità e cancellazione, migrazione e radicamento.
 
+![I Have Been There — New York](immagini/chun-hua-catherine-dong/i-have-been-there.jpg)
+
+**Approfondimento:** [chunhuacatherinedong.com/portfolio/i-have-been-there-new-york](https://chunhuacatherinedong.com/portfolio/i-have-been-there-new-york/)
+
 ### The Wind that Cut Through the Sky (2019)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.
+
+⚠️ Nessuna immagine: titolo non trovato nel portfolio del sito ufficiale attuale — da verificare se il titolo è corretto o l'opera è stata rimossa dal sito.
 
 ### Husband and Wife (2020)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.
 
+⚠️ Nessuna immagine: titolo non trovato nel portfolio del sito ufficiale attuale (esistono lavori correlati come *Absent Husband* e *Husbands and I*, ma non un'opera con questo titolo esatto) — da verificare.
+
 ### Meet Me Halfway (2021)
 **Descrizione:** non ancora documentata nel dettaglio in questa scheda.
 
+![Meet Me Halfway — documentazione](immagini/chun-hua-catherine-dong/meet-me-halfway.jpg)
+
+**Approfondimento:** [chunhuacatherinedong.com/portfolio/meet-me-halfway](https://chunhuacatherinedong.com/portfolio/meet-me-halfway/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [catherinechundong.com](https://catherinechundong.com)
-- [Skin Deep](https://catherinechundong.com/skin-deep-2014)
+Immagine e link di approfondimento per tre delle cinque opere, incluse sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale — attenzione: l'URL corretto è **[chunhuacatherinedong.com](https://chunhuacatherinedong.com)**, non `catherinechundong.com` come riportato in precedenza (dominio inesistente/errato).
 - [Centre CLARK — profilo artista](https://centreclark.com/en/artists/chun-hua-catherine-dong)
 
 ## Fonti
-- [catherinechundong.com](https://catherinechundong.com)
-- [Skin Deep](https://catherinechundong.com/skin-deep-2014)
+- [chunhuacatherinedong.com](https://chunhuacatherinedong.com)
+- [Skin Deep](https://chunhuacatherinedong.com/portfolio/skin-deep-2/)
 - [Artist Talk — Montréal Arts Interculturels](https://vimeo.com/308843796)
 - [Documentazione performance "Skin Deep"](https://www.youtube.com/watch?v=w3UwWgUIhHY)
 - [Centre CLARK — profilo artista](https://centreclark.com/en/artists/chun-hua-catherine-dong)
 - [Art Asia Pacific — profilo artista](http://artasiapacific.com/Blog/ChunHuaCatherineDong)
-- [The Wind that Cut Through the Sky — pagina opera](https://catherinechundong.com/the-wind-that-cut-through-the-sky)
-- [Husband and Wife — pagina opera](https://catherinechundong.com/husband-and-wife)
-- [Meet Me Halfway — pagina opera](https://catherinechundong.com/meet-me-halfway)
+- The Wind that Cut Through the Sky — pagina opera non trovata sul sito ufficiale [chunhuacatherinedong.com](https://chunhuacatherinedong.com)
+- Husband and Wife — pagina opera non trovata sul sito ufficiale [chunhuacatherinedong.com](https://chunhuacatherinedong.com)
+- [Meet Me Halfway — pagina opera](https://chunhuacatherinedong.com/portfolio/meet-me-halfway/)
 
 ---
 
