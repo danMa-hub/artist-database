@@ -15,9 +15,13 @@ La pratica di Stern è centrata su **provocazioni corporee**: chiede ai propri s
 **Descrizione:** performance digitale e archivio analogico: Stern lega al proprio corpo uno scanner da tavolo, un laptop e una batteria portatile costruita su misura, e "performa" immagini nell'esistenza scansionando erba, foglie, oggetti e l'ambiente fisico circostante mentre si muove; le immagini vengono poi manipolate al computer e rese di nuovo fisiche tramite stampe di alta qualità.
 **Lettura critica:** capovolge la scansione da gesto statico e tecnico a performance corporea ed ecologica — l'immagine digitale nasce da un attrito fisico diretto tra corpo, strumento e ambiente, non da una ripresa a distanza.
 
+![Compressionism — performance con scanner](immagini/nathaniel-stern/compressionism.jpg)
+
+**Approfondimento:** [nathanielstern.com — Compressionism](https://nathanielstern.com/artwork/compressionism/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per l'unica opera in scheda, dal sito ufficiale dell'artista.
 - [nathanielstern.com — sito ufficiale](https://nathanielstern.com/)
 - [nathanielstern.com — Compressionism, documentazione](https://nathanielstern.com/artwork/compressionism/)
 - [Wikipedia — Nathaniel Stern](https://en.wikipedia.org/wiki/Nathaniel_Stern)
