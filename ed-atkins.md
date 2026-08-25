@@ -16,48 +16,64 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 **Lettura critica:** primo lavoro maturo sul corpo digitale come "guscio vuoto" che performa emozioni senza poterle davvero provare.
 **Video:** [versione integrale su YouTube (37'24")](https://www.youtube.com/watch?v=yVMN0Y6rM-0)
 
+![Us Dead Talk Love — fotogramma](immagini/ed-atkins/us-dead-talk-love.jpg)
+
 ### Warm, Warm, Warm Spring Mouths (2013)
 **Descrizione:** un protagonista maschile disincarnato, realizzato in CGI e motion capture, legge "The Morning Roundup" (poesia di Gilbert Sorrentino) mentre l'ambiente intorno a lui cambia continuamente.
 **Lettura critica:** un'opera insieme perturbantemente realistica e riconoscibilmente artificiale — il testo poetico letto ad alta voce diventa la "pelle" psicologica di un corpo altrimenti vuoto.
 **Video:** [Parte 1](https://www.youtube.com/watch?v=Xt5sAIyIej0) · [Parte 2](https://www.youtube.com/watch?v=vFfNTmKoBSU)
 
-![Warm, Warm, Warm Spring Mouths (probabile, non certa): volto con scritte "ASS HOLE" (capovolta), "Cunt", "Don't Cry"](../immagini/ed-atkins/warm-warm-warm-01.jpeg)
-![Warm, Warm, Warm Spring Mouths (probabile, non certa): testa reclinata su un tavolo tra bicchieri e sigarette](../immagini/ed-atkins/warm-warm-warm-02.jpeg)
+![Warm, Warm, Warm Spring Mouths (probabile, non certa): volto con scritte "ASS HOLE" (capovolta), "Cunt", "Don't Cry"](immagini/ed-atkins/warm-warm-warm-01.jpeg)
+![Warm, Warm, Warm Spring Mouths (probabile, non certa): testa reclinata su un tavolo tra bicchieri e sigarette](immagini/ed-atkins/warm-warm-warm-02.jpeg)
 
 ### Ribbons (2014)
 **Descrizione:** un avatar digitale canta ballate malinconiche in un ambiente da bar iperreale.
 **Lettura critica:** la performance del sentimento (canto, ubriachezza, confessione) rivela la sua stessa artificialità.
+
+![Ribbons — fotogramma](immagini/ed-atkins/ribbons.jpg)
+
+**Approfondimento:** [stedelijk.nl — Ribbons](https://www.stedelijk.nl/en/collection/96446-ed-atkins-ribbons)
 
 ### Safe Conduct (2016)
 **Descrizione:** installazione video, rilettura surreale dei rituali di sicurezza aeroportuale, interpretata da un avatar motion-captured.
 **Lettura critica:** ansia e sorveglianza istituzionale filtrate attraverso il corpo digitale.
 **Video:** [ED ATKINS - SAFE CONDUCT - HIRSHHORN 2017](https://www.youtube.com/watch?v=eUgU0dziZG4)
 
+![Safe Conduct — fotogramma](immagini/ed-atkins/safe-conduct.jpg)
+
 ### Old Food (2017-2018)
 **Descrizione:** installazione che combina quattro monumentali attaccapanni carichi di costumi d'opera presi in prestito dal Deutsche Oper di Berlino (quasi 280 metri lineari, esposti esattamente come archiviati, per secolo e tema) con elementi video: i personaggi verbosi dei lavori precedenti sono ora resi muti, capaci solo di gemere e ansimare, intrappolati in un ciclo senza fine di sentimentalismo. L'installazione è accompagnata da un pezzo per pianoforte del compositore svizzero Jürg Frey, otto accordi lenti e sospesi in loop.
 **Lettura critica:** i costumi vuoti — gusci di identità storiche mai indossate in scena durante la mostra — dialogano con i corpi digitali vuoti dei video: entrambi sono superfici che promettono un'interiorità che non arriva mai.
 
-![Old Food, veduta d'installazione con attaccapanni di costumi e monitor video](../immagini/ed-atkins/old-food-01.jpeg)
+![Old Food, veduta d'installazione con attaccapanni di costumi e monitor video](immagini/ed-atkins/old-food-01.jpeg)
 
 ### Refuse.exe (2019)
 **Descrizione:** film digitale in cui oggetti collassano, si glitchano e si ricompongono.
 **Lettura critica:** l'instabilità della materia virtuale come metafora della fragilità stessa del reale.
 **Video:** [Ed Atkins, Refuse.exe (2019)](https://www.youtube.com/watch?v=FY0ilvPGl7k)
 
+![Refuse.exe — fotogramma](immagini/ed-atkins/refuse-exe.jpg)
+
 ### The Worm (2021)
 **Descrizione:** film basato su una conversazione registrata con la madre dell'artista.
 **Lettura critica:** distanza e connessione emotiva mediate dalla tecnologia digitale.
+
+![The Worm — fotogramma](immagini/ed-atkins/the-worm.jpg)
+
+**Approfondimento:** [moma.org — The Worm](https://www.moma.org/collection/works/447112)
 
 ### Pianowork 2 (2023)
 **Descrizione:** avatar motion-captured che esegue un brano al pianoforte.
 **Lettura critica:** l'emozione della performance musicale sopravvive anche quando il corpo che la produce è dichiaratamente assente.
 
+⚠️ Nessuna immagine trovata: le fonti individuate (Mimic Productions, Gladstone Gallery, Instagram/Facebook) non espongono immagini dirette scaricabili automaticamente.
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Opere principali" — fotogrammi Vimeo/YouTube per i lavori senza immagine diretta disponibile, più fonti dirette (MoMA, Stedelijk) dove trovate.
 - [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
 - [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)
-- [Gladstone Gallery — biografia](https://www.gladstonegallery.com/cn/artist/ed-atkins/biography)
+- [Gladstone Gallery — biografia](https://www.gladstonegallery.com/artist/ed-atkins)
 
 ## Fonti
 - [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
