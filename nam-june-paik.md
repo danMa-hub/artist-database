@@ -15,30 +15,46 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 **Descrizione:** un televisore fisicamente alterato/danneggiato in modo che il segnale trasmesso collassi in un'unica linea di luce verticale o orizzontale; Paik ruota l'apparecchio di 90 gradi, trasformando un ricevitore rotto in un oggetto scultoreo minimalista. Nato da un televisore che si era accidentalmente rotto durante il trasporto per la mostra di Wuppertal del 1963, un incidente che Paik accoglie e trasforma in titolo con riferimento alla concentrazione meditativa zen.
 **Lettura critica:** i curatori dello Smithsonian la leggono come una trasformazione del malfunzionamento in meditazione — collegata direttamente all'estetica del caso influenzata da Cage e al minimalismo.
 
+![Zen for TV](immagini/nam-june-paik/zen-for-tv.jpg)
+
+**Approfondimento:** [Smithsonian American Art Museum — Zen for TV](https://americanart.si.edu/artwork/zen-tv-76252)
+
 ### TV Bra for Living Sculpture (1969, con Charlotte Moorman)
 **Descrizione:** due piccoli tubi TV alloggiati in custodie di plexiglass, indossati come un reggiseno sul petto di Charlotte Moorman tramite cinghie di vinile/plastica trasparente, mentre esegue dal vivo musica per violoncello. Moorman può alterare le immagini trasmesse tramite un pedale o un magnete legato al polso, distorcendo l'immagine in tempo reale. Presentata per la prima volta alla Howard Wise Gallery, New York (maggio 1969), in parte come risposta al suo arresto per oscenità del 1967.
 **Lettura critica:** letta come umanizzazione ed erotizzazione della tecnologia, che costringe la TV in una relazione ibrida con il corpo e la performance — punto di riferimento per il discorso sulla fusione corpo-tecnologia e per una lettura femminista/adiacente al femminismo della performance.
+
+![TV Bra for Living Sculpture — Charlotte Moorman, Howard Wise Gallery, 1969. Foto: Peter Moore](immagini/nam-june-paik/tv-bra.jpg)
 
 ### Global Groove (1973)
 **Descrizione:** video a canale singolo, colore e sonoro, 28 minuti e 30 secondi, prodotto al TV Lab di WNET Channel 13 dove Paik è artista residente, con John Godfrey. Un collage elettronico/"manifesto radicale sulla comunicazione globale", che monta pubblicità giapponesi, Charlotte Moorman al TV Cello con indosso la TV Bra, il volto di Richard Nixon distorto magneticamente, segmenti di "Participation TV", performance di John Cage, Merce Cunningham, Allen Ginsberg, con un uso intenso di sintesi video, colorazione e montaggio stratificato.
 **Lettura critica:** Electronic Arts Intermix (distributore ufficiale) lo inquadra come profeticamente anticipatore di un futuro panorama televisivo saturo di media — ampiamente insegnato come il "manifesto fondativo" della videoarte.
 **Video:** [Global Groove, film integrale (PBS American Masters)](https://www.pbssocal.org/shows/american-masters/special/global-groove-full-film)
 
+![Global Groove — fotogramma](immagini/nam-june-paik/global-groove.jpg)
+
 ### TV Buddha (1974, esistono più versioni)
 **Descrizione:** scultura video a circuito chiuso: una statua antica del Buddha (Paik acquista una statua del XVIII secolo su Canal Street, New York) siede di fronte a un televisore; una telecamera sopra il televisore riprende dal vivo la statua e la ritrasmette sullo schermo che il Buddha guarda, così che la statua "osserva" perpetuamente la propria immagine in diretta. Realizzata per riempire uno spazio vuoto in una mostra del 1974 alla Galerie Bonino, New York.
 **Lettura critica:** letta come meditazione su auto-riflessione, sorveglianza, cicli di feedback e il collasso della tradizione contemplativa orientale nei media elettronici occidentali — descritta dalla critica come anticipatrice della cultura del "selfie"/dell'auto-immagine a circuito chiuso.
+
+![TV Buddha](immagini/nam-june-paik/tv-buddha.jpg)
 
 ### Good Morning, Mr. Orwell (1984)
 **Descrizione:** trasmissione satellitare internazionale in diretta, andata in onda il 1° gennaio 1984, che collega WNET (New York) e il Centre Pompidou (Parigi), con collegamenti aggiuntivi a emittenti in Germania e Corea del Sud. Include performance di Laurie Anderson, Merce Cunningham, Peter Gabriel, Allen Ginsberg e altri; Paik progetta la grafica televisiva di collegamento e coordina il mix internazionale. Concepita esplicitamente come replica alla visione distopica della tecnologia-come-sorveglianza di George Orwell in *1984*. Raggiunge un pubblico stimato di oltre 25 milioni di spettatori nel mondo. Paik dichiara: "Non vedo il video come un medium dittatoriale, ma come uno liberatorio... un simbolo di come la televisione satellitare possa attraversare i confini internazionali e colmare enormi divari culturali."
 **Lettura critica:** la realizzazione pratica del concetto di "electronic superhighway" — arte come telecomunicazione globale e democratizzata a due vie, non come controllo unidirezionale della trasmissione.
 
+⚠️ Nessuna immagine trovata per questa trasmissione in questa sessione: né il sito del Nam June Paik Art Center né MoMA hanno restituito un'immagine al fetch diretto.
+
 ### Electronic Superhighway: Continental U.S., Alaska, Hawaii (1995)
 **Descrizione:** grande scultura/installazione video — installazione a 51 canali (incluso un feed a circuito chiuso), elettronica personalizzata, tubi al neon, acciaio e legno; oltre 300 monitor televisivi e circa 50 lettori video/DVD disposti nella forma di una mappa degli Stati Uniti (circa 15x40x4 piedi). Ogni stato mostra clip video in loop che citano la cultura popolare/mitologia di quello stato (ad esempio *Il mago di Oz* per il Kansas), mentre il neon disegna la rete autostradale interstatale. In mostra permanente allo Smithsonian American Art Museum di Washington D.C. dal 2006.
 **Lettura critica:** letta come visualizzazione della collisione tra il sistema autostradale interstatale di metà secolo, la televisione via cavo e l'internet emergente degli anni '90 in un unico sistema nervoso nazionale/elettronico — la realizzazione concreta del concetto di "electronic superhighway" coniato nel rapporto Rockefeller del 1974.
 
+![Electronic Superhighway: Continental U.S., Alaska, Hawaii](immagini/nam-june-paik/electronic-superhighway.jpg)
+
+**Approfondimento:** [Smithsonian American Art Museum — Electronic Superhighway](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Smithsonian American Art Museum, M+ Museum, Wikipedia e YouTube. Nessuna immagine reperita per *Good Morning, Mr. Orwell* — vedi nota nella sezione corrispondente.
 - [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
 - [Smithsonian American Art Museum — Electronic Superhighway: Continental U.S., Alaska, Hawaii](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
 - [MoMA — Global Groove, collezione](https://www.moma.org/collection/works/107679)
