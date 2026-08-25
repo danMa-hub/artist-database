@@ -17,25 +17,45 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 **Descrizione:** prima mostra personale di LaTurbo, e prima messa in scena "offline" (in spazio fisico), presentata simultaneamente nella galleria TRANSFER e dentro Second Life. Sculture digitali stampate con inchiostro archivistico su Dibond; gli acquirenti ricevevano anche un file .TIFF ad alta risoluzione su chiavetta USB ed erano invitati a riprodurre l'oggetto. Le opere venivano prezzate e vendute in Bitcoin, esplicitamente per provocare una discussione su valore e speculazione nell'arte. Opera centrale: *Rainbow Six* (2013).
 **Lettura critica:** una delle prime opere a trattare la vendita in criptovaluta non come semplice mezzo di pagamento ma come parte integrante del significato dell'opera — anticipando di anni il dibattito sull'arte NFT.
 
+![New Sculpt — dettaglio di Rainbow Six](immagini/laturbo-avedon/new-sculpt.png)
+
+**Approfondimento:** [TRANSFER Gallery — LaTurbo Avedon](https://transfergallery.com/category/laturbo-avedon/)
+
 ### New Sculpt Restoration (2023, Onassis ONX Studio, New York, con TRANSFER)
 **Descrizione:** rimessa in scena, a distanza di dieci anni, di *New Sculpt*, esplicitamente inquadrata come progetto di conservazione dei media: TRANSFER e l'Integrated Design and Media Program della NYU Tandon hanno svolto un lavoro di conservazione sul materiale time-based originale; la mostra culmina nel primo raduno di FORA, un consorzio di conservazione e infrastruttura decentralizzata (con Gray Area).
 **Lettura critica:** rende esplicito un problema raramente affrontato nell'arte digitale — come conservare un'opera nata su un formato di file e una piattaforma (Second Life) che nel frattempo sono cambiati o sono diventati obsoleti.
+
+![New Sculpt Restoration — veduta della mostra](immagini/laturbo-avedon/new-sculpt-restoration.png)
+
+**Approfondimento:** [Onassis/ONX Studio — New Sculpt Restoration](https://www.onx.studio/onx-programming/fora-new-sculpt)
 
 ### Morning Mirror / Evening Mirror (2021, Whitney Museum, artport)
 **Descrizione:** quattordici video di sorvolo digitale attraverso un appartamento in 3D, inquadrati dentro uno specchio virtuale sovrapposto al sito web del Whitney; sette scene "all'alba" e sette "al tramonto" si alternano quotidianamente. Commissionata come parte del programma di arte digitale (artport) del Whitney.
 **Lettura critica:** Christiane Paul la definisce particolarmente risonante nel momento pandemico di isolamento fisico e maggiore vita digitale — lo specchio come dispositivo che riflette non un volto ma un intero spazio abitativo virtuale.
 
+![Morning Mirror / Evening Mirror — fotogramma](immagini/laturbo-avedon/morning-mirror-evening-mirror.jpg)
+
+**Approfondimento:** [Whitney Museum — Morning Mirror / Evening Mirror](https://whitney.org/exhibitions/laturbo-avedon)
+
 ### Your Progress Will Be Saved (2020, Fortnite Creative, Factory International/Manchester International Festival)
 **Descrizione:** installazione in modalità Fortnite Creative che ricrea "The Factory" (la futura sede fisica del MIF) dentro il videogioco, prima che l'edificio reale aprisse — descritta come la prima grande struttura culturale ricostruita in Fortnite in anticipo sulla sua apertura nel mondo reale. Visitabile tramite un codice isola di Fortnite Creative, accompagnata da un sito compagno "scegli la tua avventura" e da visite guidate su Twitch, incluse sessioni con l'artista Molly Soda.
 **Lettura critica:** un caso precoce e diretto di uso di un videogioco commerciale mainstream come vera e propria sede espositiva istituzionale, non solo come riferimento estetico.
+
+![Your Progress Will Be Saved — The Factory ricostruita in Fortnite Creative](immagini/laturbo-avedon/your-progress-will-be-saved.webp)
+
+**Approfondimento:** [Factory International — Your Progress Will Be Saved](https://factoryinternational.org/whats-on/your-progress-will-be-saved/)
 
 ### Pardon Our Dust (2022, MAK - Museum of Applied Arts, Vienna)
 **Descrizione:** nuova installazione digitale/simulazione virtuale in cui l'avatar stesso di LaTurbo guida i visitatori attraverso paesaggi in costante costruzione/decostruzione (riferimento al titolo della mostra e alla volatilità del Web3). Presentata su più schermi più una proiezione a parete, con sedute a sacco; usa un renderizzatore di sequenze di immagini basato su machine learning per produrre astrazioni pittoriche mutevoli.
 **Lettura critica:** una delle poche opere dell'artista a impiegare direttamente il machine learning come strumento generativo, non solo l'ambiente 3D costruito manualmente.
 
+![Pardon Our Dust — veduta della mostra, MAK Vienna](immagini/laturbo-avedon/pardon-our-dust.jpeg)
+
+**Approfondimento:** [MAK Vienna — Pardon Our Dust](https://www.mak.at/en/program/exhibitions/la_turbo_avedon)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da TRANSFER Gallery, Whitney Museum, Factory International e MAK Vienna.
 - [laturboavedon.com — sito ufficiale](https://www.laturboavedon.com/about)
 - [TRANSFER Gallery — pagina dedicata all'artista](https://transfergallery.com/category/laturbo-avedon/)
 - [Whitney Museum — Morning Mirror / Evening Mirror](https://whitney.org/exhibitions/laturbo-avedon)
