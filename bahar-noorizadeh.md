@@ -19,27 +19,47 @@ Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo 
 **Descrizione:** film-saggio che combina filmati d'archivio sovietici (spesso didattici e propagandistici) con sequenze CGI di un avatar IA senza corpo, per raccontare il progetto cibernetico sovietico degli anni '60 — in particolare l'OGAS, tentativo di rete informatica pan-sovietica per pianificare l'economia — e la sua visione di un "socialismo automatizzato".
 **Lettura critica:** un'opera *hauntologica*: Noorizadeh rianima il fantasma del socialismo cibernetico, un futuro perduto in cui automazione e IA erano immaginate come strumenti per superare scarsità e lavoro, non per massimizzare profitto e sorveglianza (come nel modello Silicon Valley). L'avatar IA media tra questo passato utopico fallito e il nostro presente distopico, chiedendo se un'altra forma di computazione sia ancora possibile.
 
+![After Scarcity — fotogramma](immagini/bahar-noorizadeh/after-scarcity-still.jpg)
+
+**Approfondimento:** [dis.art/after-scarcity](https://www.dis.art/after-scarcity) · [KADIST — After Scarcity](https://kadist.org/work/after-scarcity/)
+
 ### Free to Choose
 **Descrizione:** "fantascienza finanziaria" operistica narrata da Milton Friedman: nella Hong Kong del 1997 post-crollo, un CEO viaggia nel futuro per prendere in prestito denaro dal proprio sé più anziano; sullo sfondo, il mito di Friedman di Hong Kong come esempio di capitalismo puro senza pianificazione statale.
 **Lettura critica:** smonta il mito neoliberista di Hong Kong come esempio di libero mercato — dimostra come, nonostante il primato storico nell'edilizia popolare pubblica, la città oggi detenga uno dei divari di ricchezza più profondi del pianeta; il sistema bancario del credito diventa una macchina del tempo del potere.
+
+![Free to Choose — fotogramma](immagini/bahar-noorizadeh/free-to-choose-still.jpg)
+
+**Approfondimento:** [otolithgroup.org — Free to Choose](https://otolithgroup.org/public-programme/free-to-choose/)
 
 ### Teslaism: Economics after the end of the end of the future (2022)
 **Descrizione:** videogioco musicale di corse in terza persona con Elon Musk e la sua auto a guida autonoma/amante/life coach, ambientato nella Berlino della Gigafactory; commissionato originariamente per la mostra *Tresor 31: Techno, Berlin, and the Great Freedom*.
 **Lettura critica:** nomina il "Teslaismo" (che succede al Post-fordismo) come nuovo regime di produzione e consumo basato su storytelling finanziario e "imagineering" del futuro — il CEO teslaista come artista del collage che intreccia tweet, meme e balletti in narrazioni perennemente rimandate.
 
+![Teslaism — fotogramma](immagini/bahar-noorizadeh/teslaism-still.png)
+
+**Approfondimento:** [transmediale 2023 — Teslaism](https://2023.transmediale.de/en/artwork/teslaism-economics-at-the-end-of-the-end-of-the-future)
+
 ### The Red City of the Planet of Capitalism (2021)
 **Descrizione:** installazione video (commissionata per il Padiglione tedesco "2038", Biennale di Architettura di Venezia 2021) che rivisita i progetti disurbanisti sovietici del 1929 di Mikhail Okhitovich e Moisei Ginzburg — pensati per eliminare la differenza tra città e campagna sostituendo la metropoli con una rete di infrastrutture, case mobili e servizi su scala URSS — ricostruiti in 3D a partire dai pochi disegni superstiti, con la voce narrante che legge la lettera di Ginzburg a Le Corbusier.
 **Lettura critica:** traccia una genealogia alternativa e non capitalista dell'infrastruttura in rete — un "Web 0.0" cibernetico sovietico, la cui ambizione emancipatoria fu interrotta dal Grande Terrore (Okhitovich fu il primo architetto inviato nei campi).
+
+![The Red City of the Planet of Capitalism — installazione](immagini/bahar-noorizadeh/red-city-of-the-planet-of-capitalism.jpg)
+
+**Approfondimento:** [e-flux Architecture — The Red City of the Planet of Capitalism](https://www.e-flux.com/architecture/cascades/391412/the-red-city-of-the-planet-of-capitalism/)
 
 ### Ultima Ratio (2022)
 **Descrizione:** installazione video ipnotica dominata da astrazioni CGI fluide e renderizzate — liquidi metallici, forme algoritmiche che si fondono e trasformano, superfici digitali perfette — accompagnate da una narrazione teorica sulla "logica" (ratio) come principio operativo del capitale.
 **Lettura critica:** esplora il **capitalismo computazionale**: la logica astratta (contratti smart, finanza algoritmica, ottimizzazione logistica) ha sostituito la politica come *ratio ultima* del potere; l'estetica CGI deliberatamente seducente e priva di attrito riflette la natura astratta, disincarnata e inumana di questo regime.
 
+⚠️ **Discrepanza da verificare**: non risulta nessuna opera dell'artista intitolata semplicemente "Ultima Ratio (2022)" con la descrizione sopra (astrazioni CGI di liquidi metallici). L'unica opera con un titolo simile reperibile è *Ultima Ratio Δ Mountain of the Sun* (2017, 13 min) — un film girato dal vivo sull'industria dell'hashish nella valle della Bekaa, Libano, molto diverso nel contenuto da quanto descritto qui. L'immagine sotto documenta questa opera del 2017 (in mostra insieme ad *After Scarcity* a Mercer Union, Toronto, 2019); la descrizione testuale sopra potrebbe riferirsi a un'opera diversa non ancora identificata, o essere un errore di una sessione di ricerca precedente — da chiarire prima di usare questa scheda in aula.
+
+![Ultima Ratio Δ Mountain of the Sun — veduta dell'installazione, Mercer Union (foto Toni Hafkenscheid)](immagini/bahar-noorizadeh/ultima-ratio-mountain-of-the-sun-installation.jpg)
+
+**Approfondimento:** [Pejman Foundation — Ultima Ratio Δ Mountain of the Sun](https://pejman.foundation/ultima-ratio-δ-mountain-of-the-sun/) · [Mercer Union — governance machines and the future of futures](https://www.mercerunion.org/exhibitions/noorizadeh-governance-machines-and-the-future-of-futures)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [baharnoorizadeh.com](https://baharnoorizadeh.com/)
-- [The Red City of the Planet of Capitalism — testo, e-flux](https://www.e-flux.com/architecture/cascades/391412/the-red-city-of-the-planet-of-capitalism/)
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali" — recuperate da fonti terze (dis.art, Otolith Group, transmediale, e-flux, Mercer Union) poiché il sito ufficiale [baharnoorizadeh.com](https://baharnoorizadeh.com/) è testuale, senza immagini incorporate.
 
 ## Fonti
 - [baharnoorizadeh.com](https://baharnoorizadeh.com/)
