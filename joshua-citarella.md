@@ -15,11 +15,18 @@ Citarella studia la frammentazione algoritmica di internet in comunità di nicch
 **Descrizione:** installazione che raccoglie un campionario di merchandise da content creator — t-shirt, cappelli e altri capi drop-ship — insieme a opere di artisti che operano sul livello dei protocolli che regolano produzione e circolazione dei contenuti online.
 **Lettura critica:** il merch come "tecnologia del consenso": una volta indossato, diventa prova di appartenenza a una comunità ideologica — la più antica forma analogica di comunicazione politica, oggi al servizio di ecosistemi social frammentati algoritmicamente. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia.)
 
+![The Online Marketplace of Ideas — fotogramma dalla conversazione video con New Models](immagini/joshua-citarella/online-marketplace-of-ideas.jpg)
+
+**Approfondimento:** [joshuacitarella.com](https://www.joshuacitarella.com)
+
 ## Immagini
+
+Immagine per l'unica opera in scheda, da un video di presentazione su YouTube. Trovato anche il sito ufficiale dell'artista, non individuato nella ricerca originale: [joshuacitarella.com](https://www.joshuacitarella.com).
 
 ## Fonti
 - Testo di sala, "Strange Rules", Palazzo Diedo, Venezia (foto scattata dal docente, 9 agosto 2026)
-- Sito ufficiale/portfolio: **non ancora cercato** — da fare.
+- [joshuacitarella.com — sito ufficiale](https://www.joshuacitarella.com)
+- [New Models — "The Online Marketplace of Ideas w/ Joshua Citarella"](https://newmodels.substack.com/p/the-online-marketplace-of-ideas-w)
 
 ---
 
