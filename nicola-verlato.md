@@ -15,16 +15,26 @@ Verlato costruisce le proprie opere attraverso un processo che ibrida tecniche p
 **Descrizione:** dipinti e sculture realizzati a partire da un modello 3D del volto di James Dean, presentati nell'installazione del Padiglione Italia alla 53ª Biennale di Venezia 2009 ("Collaudi", a cura di Beatrice Buscaroli e Luca Beatrice).
 **Lettura critica:** tra le prime opere dell'artista a rendere esplicito, in un contesto istituzionale di primo piano, il passaggio dal modello digitale tridimensionale all'opera pittorica/scultorea finita — un processo che diventerà la cifra stabile della sua ricerca successiva.
 
+![Il Duce, ciclo per il Padiglione Italia, Biennale di Venezia 2009](immagini/nicola-verlato/il-duce.jpg)
+
 ### The Merging: beyond the end (2020, mostra personale, Postmasters Gallery, New York)
 **Descrizione:** prima personale dell'artista alla Postmasters Gallery di New York (19 settembre-31 ottobre 2020), storica galleria con un programma dedicato da decenni al rapporto tra arte e nuove tecnologie (tra i primi spazi commerciali statunitensi a esporre net art).
 **Lettura critica:** colloca esplicitamente la ricerca pittorica di Verlato — apparentemente distante, in superficie, dai linguaggi "nativi digitali" — all'interno del discorso critico sulle nuove tecnologie applicate all'arte, per via del processo di modellazione 3D che la sottende.
+
+![The Merging: beyond the end — veduta della mostra, Postmasters Gallery](immagini/nicola-verlato/the-merging.jpg)
+
+**Approfondimento:** [Postmasters Gallery — The Merging: beyond the end](https://www.postmastersart.com/archive/verlato20/verlato20.html)
 
 ### Myth Generation (2024-2025, mostra personale, Museo di San Domenico, Imola)
 **Descrizione:** mostra personale a Imola Musei (Museo di San Domenico) che comprende, tra gli altri nuclei, un ciclo dedicato a Pier Paolo Pasolini e a icone pop come James Dean, riletti attraverso il metodo ibrido pittura/modellazione 3D dell'artista.
 **Lettura critica:** applica il metodo della "metafisica dell'ovvio" — corpo modellato digitalmente, poi reso in pittura iperrealista di ascendenza barocca — a figure della cultura italiana del Novecento, portando la ricerca dell'artista a confrontarsi con l'iconografia nazionale.
 
+![Myth Generation — "Actaeon", Museo di San Domenico, Imola](immagini/nicola-verlato/myth-generation.jpg)
+
+**Approfondimento:** [Imola Musei — Myth Generation](https://imolamusei.it/mostre/nicola-verlato-myth-generation/)
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Jonathan Levine Projects, Postmasters Gallery e Imola Musei.
 - [Sito ufficiale dell'artista](https://www.nicolaverlato.com/)
 - [Galleria Giovanni Bonelli, Milano — pagina artista](https://www.galleriagiovannibonelli.com/artista/nicola-verlato/)
 - [Postmasters Gallery — The Merging: beyond the end (2020)](https://www.postmastersart.com/archive/verlato20/verlato20.html)
