@@ -17,35 +17,55 @@ In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discuss
 **Descrizione:** lavoro di web design e direzione artistica svolto come direttore creativo dell'e-zine pionieristica *Word*; conservato nella collezione permanente del SFMOMA come artefatto di design/net art.
 **Lettura critica:** uno dei primi esempi di web design trattato retrospettivamente come opera d'arte da un museo maggiore — anticipa di decenni il riconoscimento istituzionale del design di interfaccia come pratica artistica.
 
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione.
+
 ### C404: Prototype #38 (2002)
 **Descrizione:** applet Java/Flash commissionato dal Whitney Museum per la serie "Gate Page" del portale artport (2001-2006).
 **Lettura critica:** colloca Sodeoka tra i primi artisti net art a ricevere una commissione diretta da un museo maggiore statunitense per un'opera nativamente web-based.
+
+![C404: Prototype #38 — fotogramma, collezione Whitney Museum](immagini/yoshi-sodeoka/c404.jpg)
+
+**Approfondimento:** [Whitney Museum — C404: Prototype #38](https://whitney.org/collection/works/16781)
 
 ### Elephant, video musicale per Tame Impala (2012)
 **Descrizione:** video ufficiale commissionato da Kevin Parker/Tame Impala/Modular Recordings: Sodeoka elabora riprese dal vivo girate dal collettivo australiano Silentlights attraverso effetti di colore e feedback in stile analogico, descritti dalla stampa musicale come evocativi della sequenza "Star Gate" di *2001: Odissea nello spazio*.
 **Lettura critica:** dimostra come il vocabolario visivo maturato nella net art e nel glitch possa entrare senza compromessi nel formato mainstream del video musicale.
 **Video:** [Elephant, video ufficiale (Vimeo)](https://vimeo.com/53343768)
 
+![Elephant — fotogramma, video per Tame Impala](immagini/yoshi-sodeoka/elephant.jpg)
+
 ### You Must Burn!, video musicale per Metallica (2023, con Tim Saccenti)
 **Descrizione:** video ufficiale co-diretto con Tim Saccenti per il ciclo dell'album *72 Seasons*.
 **Lettura critica:** il credito più visibile e mainstream della carriera recente dell'artista — mostra la portata della sua estetica ben oltre la nicchia dell'arte digitale, fino a una delle band metal più famose al mondo.
 **Video:** [You Must Burn!, video ufficiale (YouTube)](https://www.youtube.com/watch?v=YBq9Kfdp6O4)
 
+![You Must Burn! — fotogramma, video per Metallica](immagini/yoshi-sodeoka/you-must-burn.jpg)
+
 ### GIF Psychedelica (serie in corso)
 **Descrizione:** serie di loop GIF in corso, animazioni allucinatorie di colore e forma iper-sature, esposte online e in galleria.
 **Lettura critica:** discussa da Vice/The Creators Project come "eruzioni cromatiche di colore" ed "esplosioni pixelate" — il caso più puro del linguaggio visivo distintivo di Sodeoka, senza la mediazione del formato commerciale del video musicale.
+
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione, trattandosi di una serie in corso senza pagina dedicata univoca.
 
 ### 1.618? (2023, mostra personale, CALM & PUNK GALLERY, Tokyo)
 **Descrizione:** prima mostra personale in Giappone (1-17 dicembre 2023): brevi animazioni video che usano generazione di immagini tramite IA e simulazione fisica delle particelle, sui temi della sezione aurea, del meteo e del comportamento di sciame/insetto. Include edizioni limitate in collaborazione con la piattaforma Infinite Objects.
 **Lettura critica:** segna lo spostamento recente del lavoro dell'artista verso l'IA generativa e la simulazione fisica, mantenendo la stessa sensibilità cromatica e ipnotica del lavoro precedente.
 
+![1.618? — veduta della mostra, CALM & PUNK GALLERY, Tokyo](immagini/yoshi-sodeoka/1618.png)
+
+**Approfondimento:** [CALM & PUNK GALLERY — comunicato mostra "1.618?"](https://calmandpunk.com/en/exhibition/yoshi-sodeoka-solo-exhibition-%E3%80%8E1-618%E3%80%8F/)
+
 ### Infinite Ascent (2025, Times Square Arts "Midnight Moment")
 **Descrizione:** realizzata in collaborazione con Public Works Administration: un collage a volo d'uccello che segue il flusso migratorio degli uccelli sopra lo skyline di New York, mostrato ogni notte dalle 23:57 a mezzanotte per tutto gennaio 2025 su oltre 92 cartelloni elettronici a Times Square — la più grande e longeva esposizione di arte digitale pubblica al mondo.
 **Lettura critica:** porta il linguaggio intimo e da schermo dell'artista alla scala pubblica massima possibile, mantenendo però un soggetto (la migrazione degli uccelli) di registro quasi contemplativo rispetto al contesto pubblicitario circostante.
 
+![Infinite Ascent — veduta dell'installazione, Times Square. Foto: Michael Hull](immagini/yoshi-sodeoka/infinite-ascent.avif)
+
+**Approfondimento:** [Times Square Arts — Infinite Ascent](https://www.timessquarenyc.org/tsq-arts-projects/infinite-ascent)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da Whitney Museum, Vimeo, YouTube, CALM & PUNK GALLERY e Times Square Arts. Nessuna immagine reperita con attribuzione certa per *Word* (1995) e *GIF Psychedelica* (serie in corso).
 - [sodeoka.com — sito ufficiale](https://sodeoka.com)
 - [SFMOMA — Word website (1995), collezione](https://www.sfmoma.org/artwork/97.488/)
 - [Whitney Museum — C404: Prototype #38, collezione](https://whitney.org/collection/works/16781)
