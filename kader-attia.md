@@ -21,14 +21,28 @@ Sul piano tecnologico, l'impegno di Attia è **prevalentemente discorsivo/teoric
 **Descrizione:** installazione labirintica — corridoio con statue rituali africane e arte moderna, contenitori in rete di erbe essiccate (tracce mnemoniche), corde ricoperte di frammenti di specchio che formano una "foresta". Vista dall'utente alla Biennale Arte 2026, 11 agosto 2026.
 **Lettura critica:** testo curatoriale di Mohamed Amer Meziane; propone l'IA come daímön greco anziché come feticcio del capitale — critica antropologica/spirituale non occidentale della tecnologia digitale, realizzata senza usare media digitali.
 
+![Whisper of Traces — veduta dell'installazione, Biennale Arte 2026. Foto: Andrea Rossetti](immagini/kader-attia/whisper-of-traces.jpg)
+
+**Approfondimento:** [Galleria Continua — Whisper of Traces](https://www.galleriacontinua.com/special-projects/whisper-of-traces-244/description)
+
 ### The Repair (from Occident to Extra-Occidental Cultures) (2012, Documenta 13)
 **Descrizione:** installazione con sculture rituali africane accostate a foto di soldati della Prima guerra mondiale con ricostruzioni facciali chirurgiche.
 **Lettura critica:** opera fondativa del concetto di "repair" nell'intero corpus dell'artista.
 
+![The Repair (from Occident to Extra-Occidental Cultures) — veduta dell'installazione al Fridericianum, Documenta 13. Foto: Haupt & Binder / Universes in Universe](immagini/kader-attia/the-repair.jpg)
+
+**Approfondimento:** [universes.art — The Repair, Documenta 13](https://universes.art/en/documenta/2012/photo-tour/fridericianum/22-kader-attia)
+
 ### Reflecting Memory (2016, Prix Marcel Duchamp; poi Block Museum, Northwestern, 2017)
 **Descrizione:** video-documentario e sculture a specchio sulla sindrome dell'arto fantasma come metafora della memoria traumatica coloniale/genocidaria.
 
+![Reflecting Memory — fotogramma dal documentario](immagini/kader-attia/reflecting-memory.jpg)
+
+**Approfondimento:** [Northwestern University — Kader Attia: Reflecting Memory](https://www.blockmuseum.northwestern.edu/exhibitions/2017/kader-attia-reflecting-memory.html)
+
 ## Immagini
+
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Galleria Continua, universes.art e contemporarylocus.it.
 
 ## Fonti
 - [Lehmann Maupin — biografia](https://www.lehmannmaupin.com/artists/kader-attia/biography)
