@@ -17,33 +17,57 @@ JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorg
 **Descrizione:** il sito web originale del duo, online dall'agosto 1995: un paesaggio di pagine in HTML grezzo — colori che colano, animazioni, link rotti o privi di senso, immagini ASCII generate nascondendo nel codice sorgente uno schema di bomba all'idrogeno che il browser interpreta erroneamente come markup. Incluso nella sezione net art di documenta X (Kassel, 1997), curata da Simon Lamunière.
 **Lettura critica:** opera fondativa del net.art storico — la superficie visibile (caos apparente) e il codice sorgente (immagine nascosta, deliberata) costituiscono due livelli di lettura sovrapposti, entrambi necessari per comprendere l'opera.
 
+![wwwwwwwww.jodi.org — screencapture del sito](immagini/jodi/wwwwwwwww.png)
+
 ### Untitled Game (1996-2001)
 **Descrizione:** serie di modifiche (comunemente citate come quattordici) del videogioco Quake I, che riducono la complessa grafica 3D del gioco ad ambienti geometrici quasi astratti in bianco, nero e grigio, mantenendo intatti gameplay e sonoro originali. Una delle varianti più note colloca il giocatore dentro un cubo vorticoso in bianco e nero, risultato di un glitch del motore grafico scoperto e sfruttato da JODI.
 **Lettura critica:** oggetto di uno studio di conservazione interdisciplinare pubblicato da Rhizome — un caso di studio su come conservare un'opera che dipende da un motore di gioco obsoleto e da un glitch specifico di quella versione software.
+
+![Untitled Game — fotogramma](immagini/jodi/untitled-game.jpg)
+
+**Approfondimento:** [EAI — Untitled Game](https://www.eai.org/titles/untitled-game)
 
 ### SOD (1999)
 **Descrizione:** modifica di Wolfenstein 3D (1992): il mondo di gioco — un dungeon nazista da cui fuggire — viene decostruito in un labirinto architettonico quasi astratto di pattern geometrici in bianco, nero e grigio, disorientante ma ancora giocabile nella sua struttura. Conservata nella collezione permanente dello ZKM di Karlsruhe.
 **Lettura critica:** lo ZKM descrive il risultato come "un labirinto quasi astratto di forme geometriche pure", "vagamente architettonico ed estremamente disorientante" — l'opera trasforma l'atto di giocare in un esercizio percettivo di spaesamento.
 
+![SOD — installazione, collezione ZKM](immagini/jodi/sod.jpg)
+
+**Approfondimento:** [ZKM Karlsruhe — SOD](https://zkm.de/en/artworks/sod)
+
 ### My%sktop / My Desktop (2002-, "desktop performance")
 **Descrizione:** performance dal vivo registrate collegando un Macintosh con Mac OS 9 (poi versioni successive) a una videocamera davanti al pubblico: JODI porta deliberatamente l'interfaccia al collasso — file che si aprono a ritmo vertiginoso, centinaia di finestre sovrapposte, suoni di errore di sistema in cascata. Presentata come installazione video a quattro schermi, in mostra permanente al MoMA di New York dal 2019.
 **Lettura critica:** il MoMA la descrive come un'indagine su come "sistemi informatici apparentemente razionali possano provocare comportamenti irrazionali" — la performance rende visibile, in tempo reale, la fragilità dell'interfaccia che diamo per scontata.
+
+![My%Desktop — fotogramma video](immagini/jodi/my-desktop.jpg)
+
+**Approfondimento:** [MoMA — My%Desktop, collezione](https://www.moma.org/collection/works/193145)
 
 ### %WRONG Browser (2001-2011)
 **Descrizione:** undici browser web alternativi/opere d'artista (wrongbrowser.org, wrongbrowser.com, wrongbrowser.co.kr, ecc.) che trasformano il contenuto di qualsiasi sito visitato in interfacce visive distorte nello stile JODI, dirottando l'interfaccia grafica del browser stesso e sovvertendo la logica predefinita della navigazione web. Oggetto di un progetto accademico di analisi e conservazione alla LMU di Monaco.
 **Lettura critica:** sposta il gesto di manipolazione dal singolo sito al browser come tale — l'infrastruttura stessa attraverso cui si accede al web diventa il campo dell'intervento artistico.
 
+![%WRONG Browser — screencapture](immagini/jodi/wrong-browser.png)
+
 ### Max Payne Cheats Only (2008)
 **Descrizione:** conclude la serie di appropriazioni videoludiche di JODI, questa volta a partire dal gioco Max Payne: il personaggio giocabile viene smontato e ricomposto in "micro-trattamenti" ripetitivi e privi di senso derivati dai codici cheat del gioco.
 **Lettura critica:** segue le convenzioni della programmazione artistica per portare alle estreme conseguenze un metodo già collaudato — il cheat, pensato per aggirare le regole del gioco, diventa qui materiale compositivo.
+
+![Max Payne Cheats Only — fotogramma](immagini/jodi/max-payne-cheats-only.jpg)
+
+**Approfondimento:** [EAI — Max Payne Cheats Only 1](https://www.eai.org/titles/max-payne-cheats-only-1)
 
 ### goodmorning goodnight (Whitney Artport, serie "Sunrise/Sunset")
 **Descrizione:** commissione web per il sito del Whitney Museum: sovrappone foto di alba/tramonto geolocalizzate (da Panoramio) a testo scorrevole recuperato da Livedash (strumento di ricerca su sottotitoli TV), sincronizzato con una transizione cromatica giorno/notte dello sfondo del sito.
 **Lettura critica:** applica l'estetica del "wrong"/glitch tipica di JODI a un contesto istituzionale — il sito di un museo — trasformandolo in un'opera che vive e cambia nel tempo reale della sua fruizione.
 
+![goodmorning goodnight — fotogramma video](immagini/jodi/goodmorning-goodnight.jpg)
+
+**Approfondimento:** [Whitney Museum — JODI: goodmorning goodnight](https://whitney.org/exhibitions/jodi)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti museali (ZKM, MoMA, Monoskop), EAI e YouTube.
 - [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/15261)
 - [MoMA — profilo artista](https://www.moma.org/artists/48128-jodi)
