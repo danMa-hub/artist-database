@@ -17,30 +17,46 @@ Ratté comincia a lavorare, parallelamente agli studi di produzione cinematograf
 **Descrizione:** progetto audiovisivo nato nel 2008 come progetto solista del musicista Roger Tellier-Craig, ampliato nel 2010 a duo con l'ingresso di Ratté come artista video. Include i primi lavori *L'entre-Deux* (2010) e *Le Labyrinthe* (2010), e l'album *Visites Possibles and Sightings: Music for the videos of Sabrina Ratté* (2015, etichetta Where To Now?), con colonne sonore create appositamente per i suoi video *Visites Possibles* (realizzato per il collettivo online Computers Club) e la serie *Sightings* (realizzata per l'etichetta video Undervolt & Co).
 **Lettura critica:** un raro caso di collaborazione musica-immagine strutturata come vera co-produzione, non come colonna sonora aggiunta a posteriori — la musica di Tellier-Craig è scritta appositamente per i video già esistenti di Ratté.
 
+![Le Révélateur — fotogramma](immagini/sabrina-ratte/le-revelateur.gif)
+
 ### Floralia (2021)
 **Descrizione:** serie video in quattro parti (Floralia I-IV) con sound design di Andrea-Jane Cornell. Raffigura ecosistemi speculativi/estinti in un archivio virtuale, con riferimenti espliciti al saggio "Manifesto cyborg" di Donna Haraway e agli scrittori di fantascienza Ursula K. Le Guin e Greg Egan; esiste come serie di installazioni/proiezioni, grande murale e versione VR.
 **Lettura critica:** l'opera in cui il riferimento teorico (Haraway) diventa esplicito e dichiarato, non solo implicito nell'estetica ibrida analogico/digitale.
 **Video:** [Floralia I (YouTube)](https://www.youtube.com/watch?v=WDdVEkAtQao)
 
+![Floralia III — fotogramma](immagini/sabrina-ratte/floralia.jpeg)
+
+**Approfondimento:** [Ellephant Gallery — Sabrina Ratté](https://ellephant.org/artists/sabrina-ratte)
+
 ### Terraforma (2022)
 **Descrizione:** installazione video/scultorea commissionata da Hermès Horloger per Watches & Wonders, Ginevra 2022. Dodici vetrine interattive con sculture stampate in 3D (prodotte tramite scansioni fotogrammetriche del corpo della stessa artista, alterate digitalmente) illuminate da proiezioni video HD; esplora tempo, ubiquità e dialogo tra virtuale e fisico.
 **Lettura critica:** una rara commissione dal mondo del lusso/orologeria che applica il vocabolario ibrido analogico/digitale di Ratté a una scala espositiva completamente diversa da quella della galleria d'arte.
+
+![Terraforma — veduta dell'installazione, Watches & Wonders. Foto: Alicia Dubuis](immagini/sabrina-ratte/terraforma.jpg)
 
 ### Futurs Spéculaires (2023)
 **Descrizione:** prima mostra personale istituzionale a Montréal, all'Arsenal Contemporary Art, organizzata con la galleria Ellephant (25 maggio-13 agosto 2023). Installazioni, video, opere interattive e una sala immersiva che esplorano natura/tecnologia, utopia/distopia e il virtuale come registro sempre più primario dell'esistenza.
 **Lettura critica:** la mostra che consolida, su scala museale nella sua città natale, l'intero percorso dell'artista dagli esordi analogici alle installazioni ibride più recenti.
 
+![Futurs Spéculaires — veduta della mostra, Arsenal Contemporary Art. Foto: Paul Litherland](immagini/sabrina-ratte/futurs-speculaires.jpg)
+
 ### Aurae (2023)
 **Descrizione:** prima retrospettiva (non esaustiva) francese, La Gaîté Lyrique, Parigi (17 marzo-6 novembre 2023). Il titolo riprende uno dei primi video dell'artista e l'etimologia della parola "aura". Combina proiezioni video, animazione, stampe, fotogrammetria, scultura e dispositivi spaziali.
 **Lettura critica:** la mostra più ampia dedicata finora al percorso dell'artista, che ne ripercorre l'evoluzione dal video sintetizzato analogico ai più recenti lavori scultorei e fotogrammetrici.
+
+![Aurae — veduta della mostra, La Gaîté Lyrique. Foto: Vinciane Lebrun](immagini/sabrina-ratte/aurae.jpg)
 
 ### Realia (2025)
 **Descrizione:** prima mostra personale italiana, Milano Design Week/Porta Venezia Design District, MEET Digital Culture Center (7-13 aprile 2025). Esplora la convergenza tra tecnologia e biologia; include *Plane of Incidence I e II* (2024) — oggetti elettronici abbandonati digitalizzati e trasformati in nuove forme di vita tramite scansione 3D e Blender — e ripropone *Floralia* (2021).
 **Lettura critica:** conferma l'espansione internazionale recente del lavoro dell'artista, con un accento crescente sulla trasformazione di scarti tecnologici reali in nuove forme organiche simulate.
 
+![Plane of Incidence I, da Realia](immagini/sabrina-ratte/realia.png)
+
+**Approfondimento:** [Ellephant Gallery — Sabrina Ratté](https://ellephant.org/artists/sabrina-ratte)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da Ellephant Gallery.
 - [Ellephant Gallery — pagina artista](https://ellephant.org/artists/sabrina-ratte)
 - [Galerie Charlot — pagina artista](https://www.galeriecharlot.com/en/75/Sabrina-Ratte)
 - [MOMENTA Biennale de l'image — pagina artista](https://momentabiennale.com/en/artist/sabrina-ratte/)
