@@ -15,26 +15,37 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 **Descrizione:** film-saggio che mette in relazione fotografie aeree, sistemi di puntamento e altre forme di modellazione e simulazione.
 **Lettura critica:** indaga come leggere paesaggi e immagini aeree nel loro senso materiale e operativo, non solo rappresentativo.
 
+![Immagini del mondo e iscrizione della guerra — fotogramma](immagini/harun-farocki/images-of-the-world.jpg)
+
+**Approfondimento:** [harunfarocki.de — Images of the World and the Inscription of War](http://www.harunfarocki.de/films/1980s/1988/images-of-the-world-and-the-inscription-of-war.html)
+
 ### Eye/Machine I-III (2001-2003)
 **Descrizione:** trilogia di video-installazioni su sistemi d'arma autonomi e visione artificiale in ambito industriale e militare.
 **Lettura critica:** è qui che Farocki introduce il concetto di immagine operativa, osservando il passaggio dalla rappresentazione alla primazia dell'operazione — l'immagine come parte di un ciclo di calcolo e azione, non di contemplazione.
+
+![Eye/Machine — fotogramma](immagini/harun-farocki/eye-machine.jpg)
+
+**Approfondimento:** [harunfarocki.de — Eye/Machine](http://www.harunfarocki.de/installations/2000s/2000/eye-machine.html)
 
 ### Serious Games 1-4 (2009-2010)
 **Descrizione:** serie sull'uso di simulazioni videoludiche nell'addestramento militare e nella terapia dei veterani (tra cui *Watson is Down*, *Three Dead*, *Immersion*).
 **Lettura critica:** mostra come lo stesso dispositivo tecnico (il motore di simulazione) prepari alla guerra e curi il suo trauma, cortocircuitando addestramento e cura.
 **Video:** [Serious Games 1: Watson is Down (video)](https://www.youtube.com/watch?v=P1fa8jZ01rE) · [Serious Games 2: Three Dead (video)](https://www.youtube.com/watch?v=KH5MmRX1Cns) · [Serious Games 3: Immersion (video)](https://www.youtube.com/watch?v=XrXAd6p4EaM)
 
+![Serious Games 1: Watson is Down — fotogramma](immagini/harun-farocki/serious-games-watson-is-down.jpg)
+
 ### Parallel I-IV (2012-2014)
 **Descrizione:** serie in due canali sincronizzati che confronta la storia estetica della computer grafica nei videogiochi — dalle linee astratte dei primi giochi anni '80 (*Mystery House* 1980, *Pitfall* 1982, *King's Quest* 1984) al fotorealismo — con le regole e i limiti dei mondi di gioco e dei loro protagonisti ("homunculi" senza genitori né maestri, con un set limitato di interazioni).
 **Lettura critica:** ricostruisce un'evoluzione ideale dell'estetica dei videogiochi come specchio deformante ma ricco di informazioni su libertà d'azione, regole e artificio — "le animazioni al computer dispongono di un terzo tipo di vento", diverso da quello reale e da quello filmico.
 **Video:** [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
 
+![Parallel I-IV — fotogramma](immagini/harun-farocki/parallel-i-iv.jpg)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale [harunfarocki.de](http://www.harunfarocki.de), YouTube e Internet Archive.
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
 - [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
-- [Parallel I-IV, versione integrale (Internet Archive)](https://archive.org/details/parallel-i-iv-2014)
 
 ## Fonti
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
