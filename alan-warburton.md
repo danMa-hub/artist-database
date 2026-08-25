@@ -46,8 +46,8 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 
 ## Immagini
 
-![RGBFAQ — fotogramma 1](../immagini/alan-warburton/rgbfaq-still-01.jpg)
-![RGBFAQ — fotogramma 2](../immagini/alan-warburton/rgbfaq-still-02.jpg)
+![RGBFAQ — fotogramma 1](immagini/alan-warburton/rgbfaq-still-01.jpg)
+![RGBFAQ — fotogramma 2](immagini/alan-warburton/rgbfaq-still-02.jpg)
 
 Scaricate dal sito ufficiale: [alanwarburton.co.uk/rgbfaq](https://alanwarburton.co.uk/rgbfaq).
 

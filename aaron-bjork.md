@@ -17,8 +17,8 @@ La pratica di Björk è descritta come basata sulla ricerca, incentrata sulla "t
 
 ## Immagini
 
-![A Chair Can Be Hurled — documentazione](../immagini/aaron-bjork/a-chair-can-be-hurled-documentation.gif)
-![A Chair Can Be Hurled — AC_01](../immagini/aaron-bjork/ac_01.png)
+![A Chair Can Be Hurled — documentazione](immagini/aaron-bjork/a-chair-can-be-hurled-documentation.gif)
+![A Chair Can Be Hurled — AC_01](immagini/aaron-bjork/ac_01.png)
 
 Scaricate dal sito ufficiale, pagina dell'opera *A Chair Can Be Hurled*: [aaronbjork.com/A-chair-can-be-hurled](https://aaronbjork.com/A-chair-can-be-hurled).
 

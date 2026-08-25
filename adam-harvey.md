@@ -40,10 +40,10 @@ La pratica di Harvey si colloca all'incrocio tra "design anti-sorveglianza" (tec
 
 ## Immagini
 
-![CV Dazzle — look 06](../immagini/adam-harvey/cvdazzle-06.jpg)
-![CV Dazzle — saliency map](../immagini/adam-harvey/cvdazzle-saliency-map.jpg)
-![Stealth Wear — poster](../immagini/adam-harvey/stealth-wear-poster.jpg)
-![Stealth Wear — anti-drone burqa](../immagini/adam-harvey/stealth-wear-burqa.jpg)
+![CV Dazzle — look 06](immagini/adam-harvey/cvdazzle-06.jpg)
+![CV Dazzle — saliency map](immagini/adam-harvey/cvdazzle-saliency-map.jpg)
+![Stealth Wear — poster](immagini/adam-harvey/stealth-wear-poster.jpg)
+![Stealth Wear — anti-drone burqa](immagini/adam-harvey/stealth-wear-burqa.jpg)
 
 Scaricate dal sito ufficiale: [adam.harvey.studio/cvdazzle](https://adam.harvey.studio/cvdazzle/) e [adam.harvey.studio/stealth-wear](https://adam.harvey.studio/stealth-wear/).
 

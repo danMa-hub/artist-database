@@ -39,8 +39,8 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 ## Immagini
 
-![The Substitute — installazione, Naturhistorisches Museum Bern (foto Nelly Rodriguez)](../immagini/alexandra-daisy-ginsberg/the-substitute-installation.jpg)
-![Pollinator Pathmaker — Serpentine, Kensington Gardens (foto Royston Hunt)](../immagini/alexandra-daisy-ginsberg/pollinator-pathmaker-serpentine.jpg)
+![The Substitute — installazione, Naturhistorisches Museum Bern (foto Nelly Rodriguez)](immagini/alexandra-daisy-ginsberg/the-substitute-installation.jpg)
+![Pollinator Pathmaker — Serpentine, Kensington Gardens (foto Royston Hunt)](immagini/alexandra-daisy-ginsberg/pollinator-pathmaker-serpentine.jpg)
 
 Scaricate dal sito ufficiale: [daisyginsberg.com/work/the-substitute](https://www.daisyginsberg.com/work/the-substitute) e [daisyginsberg.com/work/pollinator-pathmaker](https://www.daisyginsberg.com/work/pollinator-pathmaker).
 
