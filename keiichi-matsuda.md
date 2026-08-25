@@ -15,18 +15,26 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 **Descrizione:** cortometraggio di 6 minuti girato in soggettiva a Medellín, Colombia: segue Juliana, lavoratrice della gig economy, il cui campo visivo è saturato da un'interfaccia AR — pubblicità olografiche, icone religiose che offrono "punti salvezza", un assistente virtuale invadente.
 **Lettura critica:** aggiorna la "società dello spettacolo" (Debord) all'era dell'interattività: l'interfaccia non è più fuga ma strumento di lavoro e controllo; la "realtà di base" (la povertà di Medellín) traspare solo quando il sistema va in crash.
 
+![Hyper-Reality — fotogramma](immagini/keiichi-matsuda/hyper-reality.jpg)
+
+**Approfondimento:** [keiichimatsuda.com](https://keiichimatsuda.com/)
+
 ### Prism (2013)
 **Descrizione:** cortometraggio minimalista: una coppia vive in una smart home perfettamente integrata e apparentemente invisibile nell'interfaccia, che in realtà raccoglie costantemente dati su consumo, salute ed emozioni.
 **Lettura critica:** espone l'inganno dell'interfaccia "frictionless" — la gestione della casa come forma di gestione (e ottimizzazione) della vita stessa.
+
+![Prism — fotogramma](immagini/keiichi-matsuda/prism.jpg)
 
 ### Domestic Robocop (2009)
 **Descrizione:** film girato dal punto di vista di un piccolo robot domestico di sorveglianza, che alterna compiti banali (fare il tè) a compiti inquietanti (monitorare i proprietari).
 **Lettura critica:** anticipa la tesi secondo cui gli strumenti non sono mai neutri: cura e controllo sono già confuse nello sguardo della macchina.
 **Video:** [cortometraggio completo (Vimeo)](https://vimeo.com/7430198)
 
+![Domestic Robocop — fotogramma](immagini/keiichi-matsuda/domestic-robocop.png)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo.
 - [keiichimatsuda.com](https://keiichimatsuda.com/)
 
 ## Fonti
