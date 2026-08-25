@@ -17,29 +17,45 @@ La pratica di Carrè attraversa fumetto, incisione, scultura/ceramica e animazio
 **Descrizione:** primo romanzo grafico lungo dell'artista, 80 pagine, bianco e nero, disegnato con pennino e pennello. Una famiglia viene sedotta/perseguitata da un canto simile a quello di una sirena proveniente da una laguna; ogni membro della famiglia reagisce in modo diverso (il nonno viene richiamato a rispettare e temere la natura; la giovane figlia Zoey percepisce qualcosa che non riesce ancora a comprendere).
 **Lettura critica:** letto in relazione alla tradizione letteraria del gotico sudista (O'Connor, McCullers) e a riferimenti horror cinematografici (*Il mostro della laguna nera*, *La morte corre sul fiume*).
 
+![The Lagoon — copertina](immagini/lilli-carre/the-lagoon.jpg)
+
+**Approfondimento:** [lillicarre.com — The Lagoon](https://www.lillicarre.com/the-lagoon)
+
 ### Heads or Tails (2012, raccolta di racconti a fumetti, Fantagraphics)
 **Descrizione:** storie sviluppate nell'arco di circa cinque anni, unificate dai temi della dualità, della scelta e dell'ambivalenza ("facce della stessa medaglia"). Include racconti come "The Thing About Madeline" (una narrazione sul doppio) e "Rainbow Moment". Lo stile grafico cambia da racconto a racconto (matita bianco e nero contro colore/collage).
 **Lettura critica:** recensita sia da *Slate* sia da *The Comics Journal* (vedi sopra) — la struttura a raccolta di racconti autonomi permette all'artista di variare radicalmente registro grafico da un pezzo all'altro, mantenendo però una coerenza tematica sulla dualità.
+
+![Heads or Tails — copertina](immagini/lilli-carre/heads-or-tails.jpg)
 
 ### How She Slept at Night (2007, cortometraggio animato)
 **Descrizione:** un uomo cerca di ricordare sua moglie, con la memoria che si erode in dettagli scarsi e sfuggenti. Presentato al Sundance Film Festival 2007, in un doppio programma con un corto di Wes Anderson.
 **Lettura critica:** tra i primi riconoscimenti festivalieri di rilievo dell'artista come animatrice, non solo come autrice di fumetti.
 
+![How She Slept at Night — fotogramma dal trailer, Sundance Institute](immagini/lilli-carre/how-she-slept-at-night.jpg)
+
 ### Swap Meet (2015, cortometraggio animato collaborativo)
 **Descrizione:** collaborazione a staffetta tra 14 animatori internazionali: ciascuno crea un'immagine di sfondo e la scambia con un altro artista, che la anima sopra. Sequenze oniriche e surreali (un cane-palloncino che cammina su pianeti, un telefono che sputa fuori un angelo, una farfalla di carta).
 **Lettura critica:** un raro esempio, nel corpus dell'artista, di collaborazione strutturata con altri animatori internazionali, che mette alla prova la coerenza del suo stile a contatto con mani e sensibilità diverse.
+
+![Swap Meet — locandina](immagini/lilli-carre/swap-meet.jpg)
 
 ### Private Properties (2020, cortometraggio animato)
 **Descrizione:** animazione disegnata a mano e in continua metamorfosi, in cui un soggiorno si contrae e si espande, con una credenza, una serratura, un rubinetto e oggetti personali che transitano continuamente l'uno nell'altro. Proiettato nella sezione Bright Future dell'International Film Festival Rotterdam (IFFR) 2020.
 **Lettura critica:** l'IFFR la descrive come "un'indagine forense di uno spazio privato che può continuamente cambiare forma" — la metamorfosi disegnata a mano diventa metafora diretta dell'instabilità della memoria e dell'identità domestica.
 
+![Private Properties — fotogramma](immagini/lilli-carre/private-properties.jpg)
+
+**Approfondimento:** [IFFR — Private Properties](https://iffr.com/en/iffr/2020/films/private-properties)
+
 ### Glazing (2022, cortometraggio animato)
 **Descrizione:** un corpo femminile nudo animato si muove, con fotogrammi "sfumati", attraverso pose tratte dalla storia della pittura, abitando e poi rifiutando ciascuna rappresentazione storico-artistica del corpo femminile.
 **Lettura critica:** letto come una critica diretta alla fantasia/oggettificazione incorporata nella tradizione pittorica del nudo — l'animazione permette al corpo di "rifiutare" attivamente pose che nella pittura restano fisse e passive.
 
+![Glazing — fotogramma](immagini/lilli-carre/glazing.jpg)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo, YouTube e TMDB.
 - [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
 - [Guggenheim Foundation — pagina fellow](https://www.gf.org/fellows/lilli-carre/)
 - [CalArts — pagina docente](https://calarts.edu/members/lilli-carre)
