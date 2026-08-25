@@ -17,28 +17,47 @@ Landreth ha coniato e sviluppato il concetto di **"psychorealism"**, dichiarando
 **Descrizione:** realizzato mentre lavora presso Alias/Wavefront per dimostrare un nuovo software di animazione facciale; la premessa: un animatore si confronta con le proprie creazioni, che non sono affatto colpite dalla sua "visione". Candidato all'Oscar per il miglior cortometraggio d'animazione (edizione del 1996, per il film del 1995). Vince il premio World Animation Celebration per la miglior animazione assistita da computer di un professionista (1997).
 **Lettura critica:** primo lavoro a mettere in scena il conflitto — che diventerà centrale nella poetica dell'artista — tra il controllo dell'animatore e l'autonomia apparente dei personaggi animati.
 
+![The End — fotogramma](immagini/chris-landreth/the-end.jpg)
+
+**Approfondimento:** [chrislandreth.com — the end](https://www.chrislandreth.com/the-end)
+
 ### Bingo (1998)
 **Descrizione:** circa 5 minuti e 35 secondi, basato sull'opera teatrale *Disregard This Play* dei Neo-Futurists. Un uomo è circondato da persone che insistono nel dirgli che è "Bingo il Clown", finché non viene gradualmente logorato fino a crederci lui stesso. Primo film prodotto interamente con il nuovo software Maya di Alias|Wavefront, usato come vetrina tecnologica. Vince un Genie Award canadese nel 1999; classificato al 37° posto tra i "100 momenti più influenti nella storia della CG" da CG World Magazine (2003).
 **Lettura critica:** dimostra come uno strumento tecnico nuovo (Maya) possa essere messo al servizio, fin dal primo utilizzo, di un contenuto psicologicamente disturbante — non solo di una dimostrazione tecnica neutra.
+
+![Bingo — fotogramma](immagini/chris-landreth/bingo.jpg)
+
+**Approfondimento:** [chrislandreth.com — bingo](https://www.chrislandreth.com/bingo)
 
 ### Ryan (2004)
 **Descrizione:** 14 minuti, documentario animato sull'ex animatore del National Film Board of Canada Ryan Larkin (celebre per *Walking* e *Street Musique*), che negli anni 2000 vive per strada a Montréal dopo problemi di droga e alcol. Prodotto dal NFB con Copperheart Entertainment; combina audio reale di interviste registrate a Larkin, alla sua ex compagna e ai colleghi, con una visualizzazione 3D soggettiva e psicorealista dei loro stati interiori — corpi e volti mostrano distorsioni/lacerazioni che riflettono trauma e dipendenza. Vince l'Oscar per il miglior cortometraggio d'animazione (2005), oltre a premi a Cannes e il Gran Premio dell'Ottawa International Animation Festival 2004, per un totale di oltre 60 riconoscimenti.
 **Lettura critica:** l'opera che definisce compiutamente lo psychorealism — l'unione tra apparato documentario reale (voci vere, storia vera) e visualizzazione soggettiva iperbolica del trauma psicologico, in un genere ibrido che non è né puro documentario né pura animazione di finzione.
 **Video:** [Ryan, pagina di streaming ufficiale (National Film Board of Canada)](https://www.nfb.ca/film/ryan/)
 
+![Ryan — key art](immagini/chris-landreth/ryan.jpg)
+
+**Approfondimento:** [nfb.ca — Ryan](https://www.nfb.ca/film/ryan/)
+
 ### The Spine (2009)
 **Descrizione:** circa 11 minuti, presentato in anteprima ad Annecy (8 giugno 2009). Ritrae una coppia sposata disfunzionale nello stile psicorealista dell'artista, in cui gli stati mentali/relazionali dei personaggi vengono resi fisicamente e grottescamente visibili. La storia si ispira in parte a una seduta di terapia di coppia di gruppo osservata dall'artista circa vent'anni prima. Prodotto con Steve Hoban e Marcy Page; animazione realizzata al Seneca College; realizzato con Autodesk Maya. Vince il Best of Festival al Melbourne International Animation Festival e il Gran Premio a Cinanima (Portogallo, novembre 2009).
 **Lettura critica:** estende il metodo dello psychorealism dalla biografia documentaria (come in *Ryan*) a una situazione di finzione — dimostrando che la tecnica funziona anche senza un soggetto reale e documentato alle spalle.
+
+![The Spine — fotogramma](immagini/chris-landreth/the-spine.jpg)
+
+**Approfondimento:** [chrislandreth.com — the spine](https://www.chrislandreth.com/the-spine)
 
 ### Subconscious Password (2013)
 **Descrizione:** immersione comica in 3D nella mente dello stesso Landreth, mentre fatica a ricordare il nome di una conoscente a una festa, messa in scena come un finto game show con "aiutanti" celebri; include sequenze bookend dal vivo in pixilation con l'animatore John R. Dilworth nel ruolo dell'amico dimenticato. Prodotto dal NFB con Copperheart Entertainment e l'Animation Arts Centre del Seneca College. Vince il premio per il miglior cortometraggio ad Annecy 2013.
 **Lettura critica:** la ricezione è stata mista — alcuni critici hanno lodato la rappresentazione dell'ansia sociale, altri hanno trovato l'esecuzione irregolare rispetto ai lavori precedenti.
 
+![Subconscious Password — fotogramma](immagini/chris-landreth/subconscious-password.jpg)
+
+**Approfondimento:** [chrislandreth.com — films](https://www.chrislandreth.com/films)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [chrislandreth.com](https://www.chrislandreth.com) e da [nfb.ca](https://www.nfb.ca) per le produzioni National Film Board.
 - [National Film Board of Canada — pagina regista](https://www.nfb.ca/directors/chris-landreth/)
-- [National Film Board of Canada — Ryan, pagina di streaming](https://www.nfb.ca/film/ryan/)
 - [Academy of Motion Picture Arts and Sciences — cerimonia 2005](https://www.oscars.org/oscars/ceremonies/2005)
 
 ## Fonti
