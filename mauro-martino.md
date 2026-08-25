@@ -15,16 +15,28 @@ Il lavoro di Martino si colloca nel punto di incontro tra ricerca scientifica su
 **Descrizione:** installazione interattiva presentata al Padiglione Italia della Biennale di Venezia 2021, realizzata in collaborazione con il Politecnico di Milano; descritta come il primo progetto a unire intelligenza artificiale generativa, voce umana, poesia e paesaggio urbano. Il modello è addestrato su milioni di fotografie scattate durante i lockdown italiani del 2020-2021, che ritraggono lo spazio urbano privato della sua popolazione — strade, muri, edifici vuoti.
 **Lettura critica:** l'opera trasforma un archivio fotografico involontario e collettivo — le città italiane deserte del lockdown — in un paesaggio generativo abitato dalla voce e dalla poesia, facendo della memoria pandemica il materiale grezzo dell'intelligenza artificiale.
 
+![Strolling Cities](immagini/mauro-martino/strolling-cities.jpg)
+
+**Approfondimento:** [strollingcities.com](https://strollingcities.com/)
+
 ### Understanding the Invisible – Mapping the NFT Revolution (2022)
 **Descrizione:** installazione immersiva di data visualization presentata al MEET Digital Culture Center di Milano, che mappa cinque anni di evoluzione del mercato NFT attraverso l'analisi mediante deep learning di circa 10 milioni di NFT, ricostruendone in forma esplorabile l'evoluzione estetica e di mercato.
 **Lettura critica:** applica gli strumenti dell'AI research a un fenomeno culturale-economico di grande attualità (il mercato degli NFT), rendendo visibile su scala macroscopica un'estetica collettiva che i singoli osservatori non potrebbero percepire.
 
+![Understanding the Invisible – Mapping the NFT Revolution](immagini/mauro-martino/understanding-the-invisible.jpg)
+
+**Approfondimento:** [mauromartino.com — Understanding the Invisible](https://mauromartino.com/projects/UnderstandingtheInvisible/index.html)
+
 ### L'immortalità del pensiero (Forever Young: The Dorian Gray Syndrome, MEET, Milano)
 **Descrizione:** opera realizzata per la mostra collettiva "Forever Young: The Dorian Gray Syndrome" al MEET Digital Culture Center di Milano.
-**Lettura critica:** da approfondire — titolo e cornice espositiva confermati da fonte secondaria (Artribune), ma non è stato possibile in questa sessione reperire una descrizione dettagliata dell'opera stessa.
+**Lettura critica:** l'opera chiude la mostra con un ribaltamento del tema centrale: nella ricerca dell'eterna giovinezza, secondo Martino a dover restare giovani sono mente, cervello e creatività, non l'aspetto fisico. L'immagine frontale dei visitatori viene catturata da una telecamera e trasformata via machine learning da immagine 2D ad avatar 3D animato, proiettato sulle pareti dell'Immersive Room del MEET.
+
+![L'immortalità del pensiero — Immersive Room, MEET Digital Culture Center](immagini/mauro-martino/limmortalita-del-pensiero.jpeg)
+
+**Approfondimento:** [MEET Digital Culture Center — Forever Young: The Dorian Gray Syndrome](https://www.meetcenter.it/en/event/forever-young-the-dorian-gray-syndrome/)
 
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da MEET Digital Culture Center.
 - [Sito ufficiale dell'artista](https://mauromartino.com/about.html)
 - [MEET Digital Culture Center — pagina artista](https://www.meetcenter.it/en/guru/mauro-martino/)
 - [MEET — Understanding the Invisible](https://mauromartino.com/projects/UnderstandingtheInvisible/index.html)
