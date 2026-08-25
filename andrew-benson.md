@@ -17,25 +17,38 @@ La pratica di Benson è descritta costantemente attorno a feedback video, softwa
 **Descrizione:** serie numerata e in corso di esempi/"ricette" per Jitter, che copre sintesi video, grafica OpenGL, feedback video e tecniche di visual dal vivo — pacchettizzata e distribuita attraverso il Package Manager di Cycling '74. Ha influenzato direttamente le tecniche glitch di altri artisti.
 **Lettura critica:** il contributo più concreto e citabile dell'artista allo sviluppo di strumenti — lo colloca come costruttore di infrastrutture per la comunità dei visual dal vivo/VJ, non solo come autore di opere video.
 
+![Jitter Recipes — screenshot da un esempio](immagini/andrew-benson/jitter-recipes-screenshot.png)
+
+**Approfondimento:** [Cycling '74 — "Artist Focus: Andrew Benson"](https://cycling74.com/articles/artist-focus-andrew-benson)
+
 ### Deserted (2016)
 **Descrizione:** video di 9:51 minuti, meditazione digitale sull'idea del deserto ed evocazione autobiografica della propria infanzia vicino al deserto del Mojave in California — reimmagina la texture arida del clima (feldspato, sabbia, creosoto, cieli profondi) con strati di feedback senza input, pittura digitale, effetti di colore malfunzionanti e distorsione dell'immagine guidata dalla camera. Girato in un unico lungo piano sequenza usando software video personalizzato in tempo reale.
 **Lettura critica:** inquadra il feedback video/glitch come medium del paesaggio e della memoria — direttamente utile per un'unità didattica su compressione digitale/feedback/astrazione.
 **Video:** [Deserted, film integrale (Vimeo)](https://vimeo.com/179940829)
 
+![Deserted — fotogramma](immagini/andrew-benson/deserted-still.jpg)
+
+**Approfondimento:** [Undervolt & Co. — pagina dell'opera](https://undervolt.co/Andrew-Benson)
+
 ### Gubble (2019)
 **Descrizione:** presentato da Frieze/LIFEWTR a Frieze New York 2019 (programma artisti Series 7). Trae ispirazione da Philip K. Dick, "esplorando una rete di feedback in costante evoluzione e instabile mentre le forme si sviluppano e si distruggono".
 **Lettura critica:** validazione istituzionale tramite il programma video curato di Frieze; lega tematicamente i visual generativi/di feedback a motivi fantascientifici/di instabilità.
+
+![Gubble — fotogramma](immagini/andrew-benson/gubble.jpg)
+
+**Approfondimento:** [Frieze — "Watch: Andrew Benson, Gubble"](https://www.frieze.com/video/watch-andrew-benson-gubble) · [Undervolt & Co. — pagina dell'opera](https://undervolt.co/Andrew-Benson)
 
 ### Totally Normal (2015/2016, per Adult Swim)
 **Descrizione:** cortometraggio digitale diretto da Benson, "che presenta una visione strana del nostro futuro tecnologico", proiettato nell'episodio "NEWNOW" della serie *Off the Air* di Adult Swim, con musica di Zach Schimpf.
 **Lettura critica:** mostra il passaggio dalla pratica sperimentale/da galleria glitch alla televisione via broadcast/animazione per adulti — un esempio utile del percorso professionale reale possibile per artisti di questo ambito.
 
+![Totally Normal — fotogramma](immagini/andrew-benson/totally-normal-still.jpg)
+
+**Approfondimento:** [Vimeo — Totally Normal](https://vimeo.com/161102117) · [Prosthetic Knowledge — su Totally Normal](https://prostheticknowledge.tumblr.com/post/143857920136/totally-normal-digital-short-by-andrew-benson-made)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [pixlpa.com — sito ufficiale](https://pixlpa.com)
-- [Le Random — profilo artista](https://www.lerandom.art/artists/andrew-benson)
-- [Cycling '74 — "Artist Focus: Andrew Benson"](https://cycling74.com/articles/artist-focus-andrew-benson)
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali". Fotogrammi Vimeo via servizio di thumbnail pubblico per Deserted e Totally Normal (video privi di immagine statica scaricabile dalla pagina); immagini dirette per Jitter Recipes (Cycling '74) e Gubble (Undervolt & Co.).
 
 ## Fonti
 - [pixlpa.com — sito ufficiale](https://pixlpa.com)
