@@ -15,31 +15,54 @@ Campbell progetta e costruisce elettronica su misura — riadattando tecnologia 
 **Descrizione:** installazione di 25-26 lampadine (le fonti divergono lievemente sul numero esatto), elettronica su misura, altoparlanti e suono, dimensioni variabili. Targhe a parete portano brevi frammenti di testo che descrivono momenti dell'ultimo giorno di vita del fratello dell'artista; le luci sopra si affievoliscono e lampeggiano secondo pattern legati al tempo di ricordi specifici, senza alcuna rappresentazione spaziale/visiva — puramente temporale ed emotiva. Campbell l'ha descritta come "una poesia o una sinfonia di luce" sulla morte del fratello. Mostrata per la prima volta nella mostra MATRIX 2003 "Memory Array" (UC Berkeley Art Museum); donata in seguito al BAMPFA.
 **Lettura critica:** l'opera più esplicitamente dedicata alla memoria e al tempo nel corpus dell'artista — dimostra che il metodo della bassa risoluzione/quantizzazione può applicarsi non solo all'immagine ma anche al tempo stesso, codificato nel ritmo del lampeggiamento.
 
+![Last Day in the Beginning of March — installazione](immagini/jim-campbell/last-day-in-the-beginning-of-march.jpeg)
+
+**Approfondimento:** [jimcampbell.tv — Last Day in the Beginning of March](https://www.jimcampbell.tv/portfolio/last-day-in-the-beginning-of-march)
+
 ### Exploded View (Commuters) / Exploded Views (2011)
 **Descrizione:** esistono due presentazioni correlate ma distinte sotto titoli simili. Al Museum of the Moving Image, New York (agosto 2011): 1.152 LED bianchi sospesi che estrudono un'immagine 2D nello spazio 3D; dalla maggior parte delle angolazioni un campo casuale lampeggiante, da un punto di vista privilegiato pendolari della Grand Central Station diventano "a malapena decifrabili all'occhio ma stranamente comprensibili alla mente". Al SFMOMA (2011-12), nell'atrio Haas, commissionata dal curatore Rudolf Frieling: migliaia di sfere LED controllate al computer formano una matrice sospesa simile a un lampadario, che mostra quattro film in rotazione durante la mostra, "in parte scultura, in parte schermo cinematografico".
 **Lettura critica:** entrambe le versioni condividono lo stesso principio — l'immagine esiste solo da un punto di vista specifico, altrimenti si dissolve in rumore casuale — ma applicato a scale e contesti istituzionali diversi.
+
+![Exploded Views — installazione](immagini/jim-campbell/exploded-views.jpg)
+
+**Approfondimento:** [jimcampbell.tv — Exploded Views](https://www.jimcampbell.tv/portfolio/exploded-views)
 
 ### Scattered Light (2010)
 **Descrizione:** installazione all'aperto su larga scala in tre parti, Madison Square Park, Manhattan (21 ottobre 2010-28 febbraio 2011), con quasi 2.000 lampadine LED sospese singolarmente, a formare una matrice tridimensionale di circa 6 metri di altezza per 24 di larghezza. Dalla maggior parte delle angolazioni appare come un campo casuale di luci lampeggianti; da punti di vista specifici, si risolve un'immagine riconoscibile — figure simili a ombre basate su filmati di pendolari alla Grand Central Station. Descritta come la più grande opera pubblica di Campbell fino a quel momento.
 **Lettura critica:** recensita da Charlie Finch su *Artnet Magazine* — porta il metodo della soglia percettiva dalla scala della galleria a quella del parco pubblico cittadino, con centinaia di passanti come pubblico non intenzionale.
 **Video:** [documentazione notturna dell'installazione (Vimeo)](https://vimeo.com/21327143)
 
+![Scattered Light — installazione, Madison Square Park (foto James Ewing)](immagini/jim-campbell/scattered-light.webp)
+
+**Approfondimento:** [jimcampbell.tv — Scattered Light](https://www.jimcampbell.tv/portfolio/scattered-light)
+
 ### Home Movies, serie (dal 2006)
 **Descrizione:** stringhe verticali di piccoli LED (ad esempio "Home Movies (300-1)", 2006, con 300 LED; "Home Movies (1040-1)", 2008) appese dal soffitto al pavimento, che proiettano/diffondono filmati amatoriali/familiari trovati (vacanze, compleanni, paesaggi) elaborati fino a renderli quasi illeggibili, simili a "una tenda di perline di luce". Opere successive della serie (come "Home Movies, Pause (David)", 2014) vengono descritte nella recensione di *Artnet* del 2014 come risolte in "immagini archetipiche dell'infanzia".
 **Lettura critica:** applica il metodo della bassa risoluzione non a filmati anonimi ma a materiale familiare intimo — un ponte diretto tra il progetto tecnico dell'artista e la memoria personale, come già in *Last Day in the Beginning of March*.
+
+![Home Movies — installazione](immagini/jim-campbell/home-movies.jpeg)
+
+**Approfondimento:** [jimcampbell.tv — Home Movies](https://www.jimcampbell.tv/portfolio/home-movies-series)
 
 ### Day for Night (2018, commissione pubblica permanente)
 **Descrizione:** installazione permanente sulla corona della Salesforce Tower di San Francisco (ultimi sei piani circa, che si innalzano per 45 metri sopra il piano occupato più alto della torre di 326 metri). Circa 11.000 LED illuminano la corona esterna della torre con immagini in movimento a colori e bassa risoluzione; più videocamere posizionate in giro per San Francisco catturano i ritmi quotidiani della città (maree, vento, meteo, migrazione degli uccelli, attività umana); ogni notte viene mostrata una "sintesi" compressa di quella giornata, visibile fino a 32 km di distanza. Lanciata il 21 maggio 2018; riportata tra le opere di arte pubblica più alte/grandi al mondo.
 **Lettura critica:** la scala urbana definitiva del metodo di Campbell — l'intera città diventa insieme fonte dei dati e pubblico dell'opera, in un ciclo quotidiano di cattura e restituzione.
 
+![Day for Night — installazione, Salesforce Tower](immagini/jim-campbell/day-for-night.jpeg)
+
+**Approfondimento:** [jimcampbell.tv — Day for Night](https://www.jimcampbell.tv/portfolio/day-for-night)
+
 ### The Journey (2013-2014, San Diego International Airport)
 **Descrizione:** oltre 40.000 sfere di vetro LED blu sospese (ciascuna di circa 4 cm di diametro) a formare un "nastro" di luce ondulato largo circa 1,8 metri e lungo 230 metri, che guida i passeggeri dal controllo di sicurezza all'area d'imbarco. Figure ombrose di persone che camminano, nuotano, danzano, e uccelli in volo sembrano muoversi attraverso il campo di luce mentre i viaggiatori vi passano sotto.
 **Lettura critica:** un raro caso di opera di Campbell pensata per l'attraversamento fisico diretto, non solo per l'osservazione da un punto fisso — il visitatore diventa parte del "punto di vista" che risolve l'immagine muovendosi sotto di essa.
 
+![The Journey — installazione, San Diego International Airport](immagini/jim-campbell/the-journey.jpeg)
+
+**Approfondimento:** [jimcampbell.tv — The Journey](https://www.jimcampbell.tv/portfolio/the-journey)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [jimcampbell.tv — sito ufficiale](https://www.jimcampbell.tv/about)
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [jimcampbell.tv](https://www.jimcampbell.tv).
 - [SFMOMA — pagina artista](https://www.sfmoma.org/artist/Jim_Campbell/)
 - [SFMOMA — Exploded Views, collezione](https://www.sfmoma.org/artwork/2012.154.A-G/)
 
