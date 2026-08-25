@@ -15,30 +15,47 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 **Descrizione:** installazione multimediale VR/video che ricostruisce l'ʻōʻō di Kauaʻi, uccello hawaiano estinto, e il suo habitat, a partire da una ricerca iniziata all'American Museum of Natural History di New York. Il vero richiamo di accoppiamento dell'uccello — registrato dell'ultimo maschio vivente, circolato su YouTube prima dell'estinzione funzionale della specie, coincidente con l'anno di nascita dell'artista — è il detonatore emotivo e concettuale dell'opera: l'installazione permette di entrare in un'isola simulata di Kauaʻi dove flora e fauna crescono ed evolvono algoritmicamente, con una partitura generativa di Michael Riesman (direttore musicale del Philip Glass Ensemble). Formato: VR e due video 4K, fogliame scansionato in 3D, hardware personalizzato, luce LED. Vince il premio per la miglior grafica VR al Cinequest 2019 e il Prix du Jury alle Rencontres d'Arles; presentato come parte della shortlist del Future Generation Art Prize 2019 (Kyiv/Venezia).
 **Lettura critica:** un lavoro che usa la tecnologia di simulazione non per costruire un futuro speculativo ma per riportare in vita, letteralmente in forma sonora e visiva, una specie già persa — la simulazione come atto di lutto e di memoria, non di fuga.
 
+![Re-Animated — veduta della mostra, Tranen (foto David Stjernholm)](immagini/jakob-kudsk-steensen/re-animated.webp)
+
+**Approfondimento:** [jakobsteensen.com — Re-Animated](http://www.jakobsteensen.com/re-animated)
+
 ### Catharsis (2018/2020)
 **Descrizione:** installazione immersiva su grande scala che simula una foresta primaria indisturbata, costruita con texture 3D e audio spaziale raccolti sul campo in foreste nordamericane, sviluppata con il collaboratore principale Matt McCorkle. Presentata come un unico piano sequenza continuo che si muove dalle radici sotterranee fino alla chioma degli alberi. Commissionata originariamente dal PinchukArtCentre di Kyiv; mostrata alle Serpentine Galleries (Serpentine North) nel gennaio 2020 come parte di Connect, BTS — il progetto di arte pubblica globale promosso dalla band BTS.
 **Lettura critica:** l'unico piano sequenza continuo, dalle radici alla chioma, mette in scena visivamente l'idea di un ecosistema come sistema unico e ininterrotto, non come somma di elementi separati.
+
+![Catharsis — veduta dell'installazione](immagini/jakob-kudsk-steensen/catharsis.jpg)
+
+**Approfondimento:** [Serpentine Galleries — Catharsis](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-catharsis/)
 
 ### The Deep Listener (2019)
 **Descrizione:** installazione AR site-specific e app, prima commissione di Serpentine Augmented Architecture, realizzata in collaborazione con Google Arts & Culture e l'architetto Sir David Adjaye. Guida i visitatori attraverso Kensington Gardens e Hyde Park (Londra) per vedere/ascoltare cinque specie del parco — platani londinesi, pipistrelli, parrocchetti dal collare, damigelle azzurre e canneti — affrontando estinzione, conservazione ed eredità ecologica sovrapposte all'infrastruttura reale del parco.
 **Lettura critica:** sposta il lavoro di Steensen dallo schermo/visore all'aumento diretto di uno spazio pubblico reale — l'ecologia digitale qui non sostituisce ma si sovrappone all'ecologia fisica esistente.
 **Video:** [The Deep Listener, documentazione (Vimeo)](https://vimeo.com/394495876)
 
+![The Deep Listener — veduta dell'installazione](immagini/jakob-kudsk-steensen/the-deep-listener.jpg)
+
+**Approfondimento:** [Serpentine Galleries — The Deep Listener](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-the-deep-listener/)
+
 ### Berl-Berl (2021)
 **Descrizione:** grande installazione multischermo su due piani della Halle am Berghain di Berlino, commissionata da LAS Art Foundation. Simula le paludi preistoriche del Brandeburgo, unendo paesaggi "perduti" scansionati in 3D a riprese fresche dello Spreewald. Il titolo cita "Berl", antica parola slava per palude, proposta come radice etimologica di "Berlino" (una zona umida prosciugata nel Settecento). Paesaggio sonoro site-specific realizzato con il musicista Arca, il sound artist Matt McCorkle e il sound designer Lugh O'Neill.
 **Lettura critica:** collega la storia geologica sommersa di una città (la palude sotto Berlino) alla sua identità contemporanea, usando il clubbing/Berghain — luogo di culto della cultura techno berlinese — come cassa di risonanza inattesa per una narrazione di deep time ecologico.
 **Video:** [Berl-Berl, documentazione (YouTube)](https://www.youtube.com/watch?v=85I0bjm9lU0) · [Berl-Berl, video alternativo/making-of (YouTube, da 4:07)](https://www.youtube.com/watch?v=GivWvCUbH70&list=PLQjV1I6Kfcoc69Id2vi7iWmp5DpApU_5E&index=2&t=247s)
 
+![Berl-Berl — fotogramma](immagini/jakob-kudsk-steensen/berl-berl.webp)
+
+**Approfondimento:** [jakobsteensen.com — Berl-Berl](http://www.jakobsteensen.com/berlberl)
+
 ### Boreal Dreams (2025)
 **Descrizione:** commissionata dalla Fondation Beyeler (Basilea/Riehen) come controparte contemporanea della mostra "Northern Lights" del museo, allestita nel giardino di sculture dell'edificio progettato da Renzo Piano. Simulazione dal vivo, suono spazializzato e componente interattiva online, che esplora come il cambiamento climatico influenzi il bioma boreale e, per estensione, il sogno e la coscienza; basata su ricerca condotta al Marcell Experimental Forest (Minnesota).
 **Lettura critica:** l'opera più recente porta la ricerca ecologica di Steensen dalla documentazione di ecosistemi esistenti alla proiezione diretta dei loro possibili futuri sotto il cambiamento climatico.
 
+![Boreal Dreams — fotogramma](immagini/jakob-kudsk-steensen/boreal-dreams.webp)
+
+**Approfondimento:** [jakobsteensen.com — Boreal Dreams](http://www.jakobsteensen.com/boreal-dreams)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [jakobsteensen.com — sito ufficiale](http://www.jakobsteensen.com/about)
-- [Serpentine Galleries — Catharsis](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-catharsis/)
-- [Serpentine Galleries — The Deep Listener](https://www.serpentinegalleries.org/whats-on/jakob-kudsk-steensen-the-deep-listener/)
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", dal sito ufficiale [jakobsteensen.com](http://www.jakobsteensen.com) e da Serpentine Galleries.
 
 ## Fonti
 - [jakobsteensen.com — sito ufficiale](http://www.jakobsteensen.com/about)
