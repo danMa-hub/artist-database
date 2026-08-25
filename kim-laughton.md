@@ -15,21 +15,37 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 **Descrizione:** opera in realtà virtuale sostenuta dalla Hillman Photography Initiative del Carnegie Museum of Art, Pittsburgh.
 **Lettura critica:** una delle prime opere dell'artista a entrare nel circuito museale statunitense maggiore, applicando il proprio linguaggio iperreale/perturbante al formato VR.
 
+![Styles and Customs of the 2020s — fotogramma dal demo VR](immagini/kim-laughton/styles-and-customs.jpg)
+
+**Approfondimento:** [Carnegie Museum of Art — Styles and Customs of the 2020s](https://carnegieart.org/exhibition/styles-and-customs-of-the-2020s/)
+
 ### Taobao-Media (progetto in corso, Jeu de Paume, Parigi)
 **Descrizione:** archivio in corso di immagini surreali di prodotti raccolte da Taobao, la piattaforma di e-commerce cinese C2C, presentato nello spazio virtuale del Jeu de Paume nell'ambito della serie "Futurs non-conformes #3" (a cura di Nicolas Maigret e Maria Roszkowska).
 **Lettura critica:** applica il metodo curatoriale/di raccolta (l'archivio come opera) a un materiale specificamente cinese e commerciale — un caso di studio diretto sull'estetica involontaria generata dal commercio online su scala di massa.
+
+![Taobao-Media — dall'archivio](immagini/kim-laughton/taobao-media.jpg)
+
+**Approfondimento:** [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
 
 ### Ixlium (mostra personale, Komiyama Tokyo)
 **Descrizione:** mostra personale dell'artista presso la galleria Komiyama Tokyo.
 **Lettura critica:** segna il consolidamento della base giapponese dell'artista dopo il trasferimento da Shanghai a Tokyo.
 
+![Ixlium — veduta della mostra, Komiyama Tokyo G](immagini/kim-laughton/ixlium.jpeg)
+
+**Approfondimento:** [Komiyama Tokyo G — Ixlium](https://www.komiyamatokyo-g.com/?exhibit=483)
+
 ### Visual per PC Music (QT, EasyFun)
 **Descrizione:** visual e video musicali realizzati per artisti dell'etichetta PC Music, tra cui QT ed EasyFun, con toni satirici rivolti al branding di bevande energetiche e compagnie aeree low-cost.
 **Lettura critica:** applica l'estetica CGI iperreale/post-internet dell'artista al formato del video musicale pop, in un contesto — quello di PC Music — già esso stesso una critica/parodia dell'estetica pop commerciale.
 
+![Visual per EasyFun (PC Music)](immagini/kim-laughton/pc-music.webp)
+
+**Approfondimento:** [It's Nice That — "How the art of PC Music revolutionised a visual world for pop music"](https://www.itsnicethat.com/features/pc-music-graphic-design-010222)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Carnegie Museum of Art (via Vimeo), Jeu de Paume, Komiyama Tokyo G e It's Nice That.
 - [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
 - [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)
 - [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
