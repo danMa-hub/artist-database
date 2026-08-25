@@ -16,27 +16,45 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 **Lettura critica:** la serie fondativa del metodo di Satterwhite — il corpo motion-captured dell'artista e i disegni "inutili" della madre diventano, insieme, il materiale grezzo di un intero universo narrativo personale.
 **Video:** [Reifying Desire Three, film integrale (Vimeo)](https://vimeo.com/44403442)
 
+⚠️ Nessuna immagine trovata con attribuzione certa (le immagini disponibili sulla pagina galleria non erano etichettate per opera specifica).
+
 ### Country Ball 1989-2012 (2012)
 **Descrizione:** video a canale singolo di circa 13 minuti che combina filmati amatoriali reali di un vero barbecue familiare del 1989 in onore di Patricia Satterwhite e delle sue sorelle per la Festa della Mamma, con riprese in green screen della performance dell'artista, replicate in un paesaggio generato al computer ispirato al "Giardino delle delizie" di Hieronymus Bosch e alla cultura ballroom queer. Acquisita dal MoMA nel 2012.
 **Lettura critica:** l'opera in cui il metodo di Satterwhite si rivela con più chiarezza — filmato di famiglia reale e mondo virtuale costruito si fondono in un unico piano narrativo, senza gerarchia tra i due registri.
+
+![Country Ball 1989-2012 — fotogramma](immagini/jacolby-satterwhite/country-ball.jpeg)
+
+**Approfondimento:** [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
 
 ### Blessed Avenue (2018)
 **Descrizione:** video HD a due canali con sonoro, 19:19 minuti (edizione "Jade"), costruito come video musicale per l'album concettuale *Blessed Avenue* dell'artista, che usa frammenti delle registrazioni su cassetta della madre scomparsa. Mostra personale presentata da Gavin Brown's enterprise, Harlem (2018), l'anno in cui Satterwhite entra nella scuderia di Mitchell-Innes & Nash.
 **Lettura critica:** recensita da *frieze*, segna il momento in cui il progetto sonoro (l'album) e quello visivo diventano parti indissociabili della stessa opera, non un accompagnamento l'uno dell'altro.
 
+![Blessed Avenue — fotogramma](immagini/jacolby-satterwhite/blessed-avenue.png)
+
 ### You're at Home / Room for Living (2019)
 **Descrizione:** due mostre personali museali concomitanti — la prima, "Room for Living" al Fabric Workshop and Museum di Philadelphia, la sua prima personale museale in assoluto; la seconda, "You're at Home" a Pioneer Works, Brooklyn, dove debutta il video/installazione "Birds in Paradise" e coincide con l'uscita del suo primo album completo, *Love Will Find a Way Home* (come duo PAT con Nick Weiss), costruito su 155 registrazioni a cappella su cassetta della madre Patricia, mantenendone testi e melodie originali e riambientandole in produzione house elettronica, noise e club decostruito.
 **Lettura critica:** *frieze* definisce le due mostre parallele una prova di come le sue animazioni si estendano "oltre lo schermo fino alla scultura, un album dance sperimentale e il merchandise".
+
+![You're at Home / Room for Living — veduta della mostra](immagini/jacolby-satterwhite/youre-at-home.jpeg)
 
 ### We Are in Hell When We Hurt Each Other (2020)
 **Descrizione:** video HD a colori e animazione 3D con sonoro, 24:22 minuti. Avatar femme-bot neri (modellati sul corpo dell'artista in motion capture, vestito digitalmente) danzano vogue attraverso un'Arcadia boschiva; l'opera si chiude con un tributo commemorativo a Breonna Taylor. Mostrata da Mitchell-Innes & Nash, New York (2020) e in seguito al Blaffer Art Museum di Houston.
 **Lettura critica:** inserita tra i momenti artistici più significativi del 2020 secondo la copertura del *New York Times* (da verificare direttamente) — l'opera più esplicitamente politica del suo percorso fino a quel momento, con un riferimento diretto e nominato alla violenza razziale contemporanea.
 **Video:** [estratto (Vimeo)](https://vimeo.com/461561190) · [pagina mostra, Mitchell-Innes & Nash](https://www.miandn.com/exhibitions/jacolby-satterwhite)
 
+![We Are in Hell When We Hurt Each Other — fotogramma](immagini/jacolby-satterwhite/we-are-in-hell.jpeg)
+
+**Approfondimento:** [Mitchell-Innes & Nash — We Are in Hell When We Hurt Each Other](https://www.miandn.com/exhibitions/jacolby-satterwhite)
+
 ### A Metta Prayer — The Great Hall Commission (2023-24, Metropolitan Museum of Art, New York)
 **Descrizione:** commissione video immersiva a 6 canali per la Great Hall del Met (in mostra ottobre 2023-gennaio 2024), ispirata alla preghiera buddista metta ("gentilezza amorevole"). Fonde coreografia, video, animazione, illuminazione e musica in un mondo generato al computer che incorpora rese 3D di oltre 100 oggetti della collezione permanente del museo (tra cui figure in terracotta e una maschera Noh) insieme a sequenze dal vivo. In tournée al Museum of Fine Arts, Houston (maggio-ottobre 2024).
 **Lettura critica:** la commissione più istituzionalmente prestigiosa della carriera dell'artista fino a quel momento — mette il suo metodo di "citazione digitale" al servizio diretto della collezione di uno dei più grandi musei enciclopedici al mondo, invece che della propria biografia personale.
 **Video:** [intervista all'artista sulla commissione (Met Museum, YouTube)](https://www.youtube.com/watch?v=1OEsz3ByhMc)
+
+![A Metta Prayer — installazione, Great Hall, Metropolitan Museum of Art (foto Hyla Skopitz)](immagini/jacolby-satterwhite/a-metta-prayer.png)
+
+**Approfondimento:** [metmuseum.org — A Metta Prayer](https://www.metmuseum.org/exhibitions/jacolby-satterwhite)
 
 ### 60ª Biennale di Venezia, "Foreigners Everywhere" (2024)
 **Descrizione:** Satterwhite è tra i 331 artisti confermati nella mostra internazionale principale, a cura di Adriano Pedrosa (20 aprile-24 novembre 2024).
@@ -44,8 +62,7 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
+Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizione in "Opere principali", da Mitchell-Innes & Nash. *Reifying Desire* resta senza immagine con attribuzione certa.
 - [MoMA — profilo artista](https://www.moma.org/artists/49586)
 - [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)
 
