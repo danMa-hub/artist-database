@@ -15,19 +15,28 @@ D'Isa affronta l'intelligenza artificiale generativa da una posizione insolita n
 **Descrizione:** graphic novel realizzato interamente con strumenti di AI generativa (Midjourney v3/v4, Stable Diffusion XL) per la parte grafica, con testi dell'autore. La storia segue una ragazza alla ricerca di un'altra ragazza che potrebbe essere lei stessa, insieme a una chimera mutaforma, in una dimensione onirica dove identità, simboli culturali e sensazioni si fondono in un percorso sull'"io" e sul vuoto esistenziale (da cui il titolo, dal sanscrito "vacuità").
 **Lettura critica:** pubblicato in un momento di forte polemica pubblica sull'uso dell'AI generativa in editoria, il libro è stato letto sia come opera pionieristica sia come provocazione sui limiti dell'autorialità — la fonte Fumettologica ne documenta la ricezione controversa.
 
+![Sunyata — copertina](immagini/francesco-disa/sunyata-cover.jpg)
+
+**Approfondimento:** [erisedizioni.org — Sunyata](https://www.erisedizioni.org/prodotto/sunyata/)
+
 ### Error#0 (progetto in corso)
 **Descrizione:** serie di immagini generate spingendo deliberatamente i modelli text-to-image verso l'errore di sistema, tramite prompt costruiti per provocare risposte anomale o fallimentari del software.
 **Lettura critica:** capovolge la logica dominante dell'uso "produttivo" dell'AI generativa, facendo del glitch e del malfunzionamento — non dell'immagine "riuscita" — il centro della ricerca estetica.
+
+⚠️ Nessuna immagine trovata: progetto in corso, poco documentato con immagini pubbliche.
 
 ### Latent Rooms (2026, personale, Rifugio Digitale, Firenze)
 **Descrizione:** mostra personale che raccoglie brevi video generati attraverso diversi modelli di AI generativa, montati e assemblati dall'artista come forma di poesia visiva nata da un processo dialogico con l'intelligenza artificiale.
 **Lettura critica:** l'esposizione presso Rifugio Digitale — spazio fiorentino specificamente dedicato all'arte digitale — consolida la posizione di D'Isa come una delle voci italiane più strutturate, sul piano sia teorico sia pratico, nel dibattito su AI e produzione visiva.
 
+![Latent Rooms — Diffused Portrait #20, dettaglio](immagini/francesco-disa/latent-rooms.jpg)
+
+**Approfondimento:** [Artribune — mostra Rifugio Digitale (2026)](https://www.artribune.com/arte-contemporanea-2/2026/04/mostra-firenze-disa/)
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+
+Immagine e link di approfondimento per due delle tre opere, incluse sotto la relativa descrizione in "Opere principali".
 - [Sito ufficiale dell'artista](https://francescodisa.netlify.app/)
-- [Eris Edizioni — pagina Sunyata](https://www.erisedizioni.org/prodotto/sunyata/)
-- [Artribune — mostra Rifugio Digitale (2026)](https://www.artribune.com/arte-contemporanea-2/2026/04/mostra-firenze-disa/)
 
 ## Fonti
 - [Sito ufficiale dell'artista](https://francescodisa.netlify.app/)
