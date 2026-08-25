@@ -16,34 +16,50 @@ Il tratto distintivo di O'Reilly è un'estetica 3D deliberatamente "low-poly" e 
 **Lettura critica:** dimostrazione precoce e condensata della tesi della "basic animation aesthetics" — forme deliberatamente rozze e artificiali possono comunque portare un peso emotivo e narrativo autentico.
 **Video:** [Please Say Something, film integrale (Vimeo)](https://player.vimeo.com/video/3388129)
 
+![Please Say Something — fotogramma](immagini/david-oreilly/please-say-something.jpg)
+
 ### The External World (2010)
 **Descrizione:** cortometraggio di 17 minuti scritto da Vernon Chatman e David O'Reilly, diretto da O'Reilly: una serie di vignette cupe e satiriche (tra cui "un ragazzo impara a suonare il piano") che intrecciano droga, sesso, violenza e riferimenti pop nello stesso linguaggio visivo low-poly. In anteprima alla 67ª Mostra del Cinema di Venezia, anteprima statunitense a Sundance 2011; vince oltre 40 premi festival, incluso l'IFTA (Irish Film & Television Award) per la miglior animazione.
 **Lettura critica:** una maturazione dell'estetica "brutta"/artificiale verso la satira sociale e politica, oltre il minimalismo puramente emotivo del lavoro precedente.
 **Video:** [The External World, film integrale (Vimeo)](https://vimeo.com/19723116)
 
+![The External World — fotogramma](immagini/david-oreilly/the-external-world.jpg)
+
 ### A Glitch Is a Glitch (Adventure Time, episodio, 2013)
 **Descrizione:** singolo episodio della serie *Adventure Time* (stagione 5, episodio 15, andato in onda il 1° aprile 2013), interamente animato in CGI 3D nello stile proprio di O'Reilly, che lo scrive, storyboarda e dirige. Pendleton Ward, creatore della serie, lo contatta per la prima volta attorno al 2010; la collaborazione si realizza circa tre anni dopo, una volta che O'Reilly si è trasferito a Los Angeles.
 **Lettura critica:** un caso raro di innesto diretto dell'estetica d'autore low-poly dentro una produzione televisiva mainstream per bambini, senza addolcirne il linguaggio visivo.
 
+⚠️ Nessuna immagine trovata: Rhizome (fonte con screenshot documentato) e Adventure Time Wiki bloccano l'accesso automatizzato; da recuperare manualmente.
+
 ### Mountain (2014, videogioco/app, Double Fine Productions)
 **Descrizione:** "simulatore di montagna" minimale: il giocatore risponde a un breve questionario visivo per generare una montagna fluttuante unica, poi si limita in gran parte a osservarla invecchiare, subire intemperie e pronunciare occasionalmente frasi filosofiche o banali. Pensato per restare in esecuzione in background.
 **Lettura critica:** una riduzione all'osso del genere "gioco idle/simulazione", che estende l'interesse di O'Reilly per sistemi che funzionano con un'agentività minima da parte del giocatore.
+
+![Mountain — immagine del gioco](immagini/david-oreilly/mountain.jpg)
+
+**Approfondimento:** [doublefine.com/games/mountain](https://www.doublefine.com/games/mountain)
 
 ### Everything (2017, videogioco, Double Fine Productions)
 **Descrizione:** simulazione assistita da procedure in cui il giocatore può abitare e passare tra oltre 3.000 "cose" giocabili diverse — batteri, animali, edifici, galassie — esplorando scala e interconnessione. Narrato per intero da registrazioni d'archivio di lezioni del filosofo Alan Watts (1965-1973). Il trailer di 11 minuti, costruito con filmati di gioco e la narrazione di Watts, vince il Jury Prize a Vienna Independent Shorts 2017, entra nella longlist degli Oscar per il miglior cortometraggio d'animazione — probabilmente il primo trailer di un videogioco a raggiungere lo status di qualificazione agli Oscar — e vince il Golden Nica al Prix Ars Electronica.
 **Lettura critica:** l'opera che porta a compimento il progetto di O'Reilly di trattare il videogioco come sistema filosofico e non solo come intrattenimento — l'interconnessione tra scale radicalmente diverse (batterio/galassia) diventa argomento estetico oltre che ludico.
 **Video:** [Everything, trailer di lancio PS4 (YouTube)](https://www.youtube.com/watch?v=bwqGSQzE0H0)
 
+![Everything — immagine del gioco](immagini/david-oreilly/everything.jpg)
+
+**Approfondimento:** [doublefine.com/games/everything](https://www.doublefine.com/games/everything)
+
 ### Eye of the Dream (2018-2023)
 **Descrizione:** film/installazione a cupola 360° costruito sul motore di *Everything*, che esplora geometria frattale ed evoluzione "dal Big Bang all'epoca contemporanea". Mostrato al 21st Century Museum of Contemporary Art di Kanazawa e nella mostra "The New Infinity" dei Berliner Festspiele.
 **Lettura critica:** estende il linguaggio sviluppato per *Everything* dal formato videoludico a quello dell'installazione immersiva a cupola, portando l'esperienza di scala cosmica oltre lo schermo del videogioco.
 
+![Eye of the Dream — proiezione, Berliner Festspiele](immagini/david-oreilly/eye-of-the-dream.jpg)
+
+**Approfondimento:** [berlinerfestspiele.de — Eye of the Dream](https://www.berlinerfestspiele.de/en/programm/archiv/the-new-infinity/2018/david-oreilly-eye-of-the-dream)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, incluse sotto la relativa descrizione in "Opere principali", da Vimeo, Double Fine e Berliner Festspiele — manca solo *A Glitch Is a Glitch*, le cui fonti con immagini (Rhizome, Adventure Time Wiki) bloccano l'accesso automatizzato.
 - [Berlinale — Please Say Something, programma 2009](https://www.berlinale.de/en/2009/programme/20097362.html)
-- [Double Fine Productions — Everything](https://www.doublefine.com/games/everything)
-- [Double Fine Productions — Mountain](https://www.doublefine.com/games/mountain)
 
 ## Fonti
 - [Vimeo — canale ufficiale dell'artista](https://vimeo.com/davidoreilly/videos)
