@@ -16,7 +16,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Lettura critica:** affronta sfollamento, biotecnologie, immigrazione, privacy e le nuove tecnologie di controllo (droni militari che sorvegliano l'isola) attraverso un registro che mescola umorismo e realismo "magico".
 **Video:** [Party on the CAPS — trailer, IFFR 2019 (YouTube)](https://www.youtube.com/watch?v=v3nPMddau00) · [talk sulla genesi dell'opera, con trailer lungo (YouTube, da 15:30)](https://www.youtube.com/watch?v=UzArB94HzpI&t=3315s)
 
-![Party on the CAPS, veduta d'installazione con schermi e neon](../immagini/meriem-bennani/party-on-the-caps-01.png)
+![Party on the CAPS, veduta d'installazione con schermi e neon](immagini/meriem-bennani/party-on-the-caps-01.png)
 
 ### Mission Teens
 **Descrizione:** documentario/video su una scuola francese in Marocco.
@@ -28,7 +28,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Lettura critica:** ispirata al dinamismo e al movimento costante della High Line, la scultura cattura in forma astratta l'esperienza frenetica di camminare per le strade affollate di New York.
 **Video:** [making-of di Windy (YouTube)](https://www.youtube.com/watch?v=kLcAu-59IGA)
 
-![Windy, scultura cinetica sulla High Line](../immagini/meriem-bennani/windy-01.png)
+![Windy, scultura cinetica sulla High Line](immagini/meriem-bennani/windy-01.png)
 
 ### For My Best Family (2024-2025, Fondazione Prada, Milano)
 **Descrizione:** installazione con quasi duecento paia di infradito e scarpe da tip tap che eseguono un brano musicale meccanico.

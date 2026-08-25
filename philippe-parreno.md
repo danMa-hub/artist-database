@@ -15,7 +15,7 @@ Parreno concepisce la mostra stessa come una "partitura vivente" — un'orchestr
 **Descrizione:** scultura mobile che scorre lungo due cavi elettrificati tesi in alto attraverso la sala, trasportando lampadine LED e neon a intensità variabile. Il comportamento non è programmato: una rete di sensori legge in tempo reale l'ambiente interno ed esterno, traducendo dati fisici (maree, pressione atmosferica, umidità) in movimento e luce; a Venezia un calo di pressione (spesso preludio all'acqua alta) rallenta la scultura.
 **Lettura critica:** l'opera non rappresenta Venezia — respira la stessa aria, è soggetta alle stesse pressioni, abita lo stesso tempo: un'estensione della ricerca di Parreno sulla mostra come organismo vivente più che come sequenza di oggetti da contemplare. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia.)
 
-![The Diambulist Humself, la scultura mobile sospesa tra le travi del soffitto](../immagini/philippe-parreno/diambulist-humself-01.jpg)
+![The Diambulist Humself, la scultura mobile sospesa tra le travi del soffitto](immagini/philippe-parreno/diambulist-humself-01.jpg)
 
 ## Immagini
 

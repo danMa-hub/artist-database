@@ -19,7 +19,7 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 **Descrizione:** una distesa infinita di nebbia avvolge una foresta di alberi spogli; ovunque si guardi, si ripetono sempre gli stessi alberi, secondo una prospettiva cilindrica.
 **Lettura critica:** lo spazio computazionale diventa un labirinto senza uscita, un'esperienza di disorientamento costruita matematicamente.
 
-![The Forest, fotogramma — rami spogli in bianco e nero](../immagini/tamas-waliczky/the-forest-01.png)
+![The Forest, fotogramma — rami spogli in bianco e nero](immagini/tamas-waliczky/the-forest-01.png)
 
 ### The Way (1994)
 **Descrizione:** maratoneti che corrono per una città, rappresentati in prospettiva inversa: gli oggetti più lontani appaiono più grandi di quelli vicini.
@@ -29,11 +29,11 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 **Descrizione:** serie di 23 "macchine fotografiche immaginarie" — dispositivi ottici progettati con software digitale ma concepiti per operare con meccanismi analogici — presentate come lightbox e animazioni; nell'atrio i visitatori potevano provare il meccanismo di una delle fotocamere fantastiche in versione digitale interattiva ([e-flux](https://www.e-flux.com/announcements/254279/tama-s-waliczkyimaginary-cameras/); [Ludwig Museum](https://www.ludwigmuseum.hu/en/exhibition/tamas-waliczky-imaginary-cameras-hungarian-pavilion-58th-international-exhibition-art-la)).
 **Lettura critica:** prosegue la ricerca della Trilogia della Prospettiva su un altro fronte — non lo spazio rappresentato, ma il dispositivo stesso di ripresa: quando un inventore crea un nuovo apparecchio, la sua visione del mondo ne predetermina il meccanismo e il carattere delle immagini che produce.
 
-![Imaginary Cameras, render di una delle 23 fotocamere immaginarie su treppiede](../immagini/tamas-waliczky/imaginary-cameras-01.png)
+![Imaginary Cameras, render di una delle 23 fotocamere immaginarie su treppiede](immagini/tamas-waliczky/imaginary-cameras-01.png)
 
 ## Immagini
 
-![Immagine non identificata con certezza (probabilmente legata a studi di figura/motion capture)](../immagini/tamas-waliczky/opera-non-identificata-01.png)
+![Immagine non identificata con certezza (probabilmente legata a studi di figura/motion capture)](immagini/tamas-waliczky/opera-non-identificata-01.png)
 
 ## Fonti
 - [waliczky.net — sito ufficiale](http://www.waliczky.net/)

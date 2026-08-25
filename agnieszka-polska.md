@@ -28,7 +28,7 @@ Polska lavora principalmente con video, animazione digitale e installazioni audi
 **Lettura critica:** riflessione sull'ansia del debito e sulla continuità della logica capitalista nel tempo — i sistemi di potere restano invariati, solo digitalizzati.
 **Video:** [talk con estratto dell'opera (YouTube)](https://www.youtube.com/watch?v=iFSb162j4Ts)
 
-![The Demon's Brain, still — attribuzione da confermare](../immagini/agnieszka-polska/the-demons-brain-01.png)
+![The Demon's Brain, still — attribuzione da confermare](immagini/agnieszka-polska/the-demons-brain-01.png)
 
 ### Altre opere (elenco esteso, da approfondire)
 
@@ -49,7 +49,7 @@ Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Bienn
 
 ## Immagini
 
-![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](../immagini/agnieszka-polska/opera-non-identificata-01.png)
+![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](immagini/agnieszka-polska/opera-non-identificata-01.png)
 
 ## Fonti
 - [zak-branicka.com — galleria dell'artista](https://www.zak-branicka.com/artists/agnieszka-polska)

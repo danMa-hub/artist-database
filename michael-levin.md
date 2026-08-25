@@ -15,8 +15,8 @@ Levin non è un artista in senso tradizionale ma uno scienziato la cui ricerca �
 **Descrizione:** presentazione del caso di studio delle planarie bicefale — vermi con la capacità di rigenerare parti del corpo mancanti. Levin e il suo team alla Tufts University sono riusciti, con tecniche di manipolazione bioelettrica, ad alterare il meccanismo di riproduzione e rigenerazione delle planarie in modo che sviluppino due teste e trasmettano questa caratteristica alla prole.
 **Lettura critica:** anche prive di testa, le planarie mostrano memoria cellulare e abilità cognitive non centralizzate che permettono loro di procurarsi cibo e sopravvivere — la cognizione non richiede necessariamente un cervello centralizzato. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia.)
 
-![Planaria bicefala proiettata in mostra, immagine al microscopio](../immagini/michael-levin/planaria-bicefala-01.jpg)
-![Strumentazione scientifica in mostra (microscopio stereo Wild M420) per l'osservazione delle planarie](../immagini/michael-levin/microscopio-01.jpg)
+![Planaria bicefala proiettata in mostra, immagine al microscopio](immagini/michael-levin/planaria-bicefala-01.jpg)
+![Strumentazione scientifica in mostra (microscopio stereo Wild M420) per l'osservazione delle planarie](immagini/michael-levin/microscopio-01.jpg)
 
 ## Immagini
 
