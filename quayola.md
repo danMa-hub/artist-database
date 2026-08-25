@@ -15,20 +15,34 @@ La pratica di Quayola nasce dal software scritto su misura ("custom computer sof
 **Descrizione:** serie di studi sul movimento umano e le sue riverberazioni nello spazio e nel tempo. A partire da un archivio di filmati sportivi (salto in alto, nuoto, ecc. dai Commonwealth Games), Quayola e Akten generano forme tridimensionali in movimento lungo le stesse traiettorie dei corpi degli atleti, in un sistema astratto che rende visibile la tensione muscolare e la fluidità del movimento. Commissionata dal National Media Museum (UK) per la mostra "In the Blink of an Eye: Media and Movement", legata alle Olimpiadi di Londra 2012.
 **Lettura critica:** vince il Golden Nica 2013 al Prix Ars Electronica (categoria Computer Animation/Film/VFX) — tra i massimi riconoscimenti internazionali per la computer grafica d'artista.
 
+![Forms — still](immagini/quayola/forms.jpg)
+
+**Approfondimento:** [memo.tv — Forms](https://www.memo.tv/works/forms/)
+
 ### Strata (2013 - in corso)
 **Descrizione:** serie che colloca la pratica dell'artista all'interno di un processo di tipo archeologico, per "stratificazione": paesaggi e architetture vengono scomposti computazionalmente in strati sovrapposti che ne rivelano la struttura nascosta.
 **Lettura critica:** la metafora archeologica della stratificazione lega esplicitamente il processo algoritmico dell'artista a una riflessione sul tempo sedimentato nel paesaggio e nell'architettura.
+
+![Strata](immagini/quayola/strata.jpg)
+
+**Approfondimento:** [bitforms gallery — Strata](https://www.bitforms.art/exhibition/quayola-strata/)
 
 ### Jardins d'Été / Remains (2016-2017)
 **Descrizione:** utilizzando la complessità delle formazioni floreali mosse dal vento come dataset, Quayola genera nuovi "dipinti computazionali" in video e stampa, proseguendo la tradizione pittorica delle avanguardie di fine Ottocento nella rappresentazione del paesaggio.
 **Lettura critica:** letto come un aggiornamento algoritmico della tradizione paesaggistica en plein air, in cui il dato ambientale sostituisce l'osservazione diretta dell'occhio pittorico.
 
+![Jardins d'Été](immagini/quayola/jardins-dete.jpeg)
+
 ### Fragments / Captives (dal 2018)
 **Descrizione:** sculture computazionalmente replicate che imitano l'aspetto di frammenti archeologici ritrovati, e sculture "non finite" scolpite robot­icamente e lasciate volutamente incomplete, in esplicito dialogo con i Prigioni di Michelangelo, per documentare il processo computazionale stesso. Presentate in mostra personale a Palazzo Cipolla, Roma (2021, Fondazione Terzo Pilastro Internazionale) e alla bitforms gallery di New York.
 **Lettura critica:** la scultura "non finita" e il frammento archeologico diventano dispositivi per rendere visibile — e apertamente incompleto — il processo algoritmico stesso, invece di nasconderlo dietro un risultato finale levigato.
 
+![Fragments — veduta della mostra](immagini/quayola/fragments.jpg)
+
+**Approfondimento:** [bitforms gallery — Fragments](https://www.bitforms.art/exhibition/quayola-fragments/)
+
 ## Immagini
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da memo.tv e bitforms gallery.
 - [Sito ufficiale dell'artista](https://quayola.com/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/quayola/)
 - [Fondazione Terzo Pilastro Internazionale — Quayola a Palazzo Cipolla (2021)](https://www.fondazioneterzopilastrointernazionale.it/en/project/quayola-a-palazzo-cipolla/)
