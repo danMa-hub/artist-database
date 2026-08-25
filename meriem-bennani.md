@@ -23,6 +23,8 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Lettura critica:** indaga l'identità linguistica e culturale sospesa tra due mondi ("in between languages").
 **Video:** [Art21, New York Close Up — "Meriem Bennani: In Between Languages" (da 3:51)](https://art21.org/watch/new-york-close-up/meriem-bennani-in-between-languages/)
 
+![Mission Teens](immagini/meriem-bennani/mission-teens.jpg)
+
 ### Windy (2022, The High Line, New York — co-commissione con Audemars Piguet Contemporary)
 **Descrizione:** prima scultura pubblica dell'artista: una struttura cinetica alta 9 metri a forma di tornado, composta da circa 200 dischi in schiuma UV/impermeabile che ruotano a velocità diverse su una decina di motori elettrici da bicicletta. Esposta sulla High Line (24th Street) fino a maggio 2023 ([The High Line](https://www.thehighline.org/art/projects/meriem-bennani-windy/)).
 **Lettura critica:** ispirata al dinamismo e al movimento costante della High Line, la scultura cattura in forma astratta l'esperienza frenetica di camminare per le strade affollate di New York.
@@ -34,6 +36,8 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Descrizione:** installazione con quasi duecento paia di infradito e scarpe da tip tap che eseguono un brano musicale meccanico.
 **Lettura critica:** esplora questioni di convivenza e il posto dell'individuo nella comunità, tradotte in un'orchestra di oggetti quotidiani ([Fondazione Prada](https://www.fondazioneprada.org/)).
 
+![For My Best Family — veduta della mostra. Foto: Delfino Sisto Legnani - DSL Studio](immagini/meriem-bennani/for-my-best-family.jpg)
+
 ### Altre opere (elenco esteso, da approfondire)
 
 - **2 Lizards** (2020, con Orian Barki) — serie animata episodica realizzata durante la pandemia di COVID-19, seguita da due lucertole antropomorfe a New York.
@@ -43,7 +47,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
 - [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
