@@ -17,30 +17,50 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Descrizione:** testo/saggio, in seguito messo in scena come installazione a parete, post di blog e video-lezione di un'ora. Pubblicato per la prima volta su Rhizome (New Museum) il 17 dicembre 2013. Argomenta contro la dipendenza dell'afrofuturismo dai tropi alieni/spaziali, orientando l'immaginazione speculativa nera verso il "mondano", il presente materiale e politico. Ripubblicato/esposto dal Pérez Art Museum Miami (PAMM) come opera di collezione.
 **Lettura critica:** un testo teorico che ha avuto un impatto diretto sul discorso critico dell'afrofuturismo contemporaneo — non solo un manifesto artistico personale, ma un intervento di teoria culturale ampiamente citato e insegnato.
 
+⚠️ Nessuna immagine trovata per quest'opera in questa sessione: la pagina PAMM (che ne detiene l'installazione a parete in collezione) ha restituito errore del server a ogni tentativo, e l'archivio dell'artista non include immagini fisse per questo progetto testuale/video.
+
 ### Lessons I-CLXXX (2014-2018)
 **Descrizione:** serie video/"poema filmico" di 180 clip sequenziali di 30 secondi ("canto"), la durata di uno spot pubblicitario televisivo, che combina filmati d'archivio trovati (TV, pubblicità) con materiale d'archivio personale, ispirata al libro *The Grey Album* di Kevin Young. Nelle collezioni permanenti di MoMA e MOCA Los Angeles.
 **Lettura critica:** costruisce un "poema incompleto" della tradizione radicale nera attraverso ripetizione, campionamento e gesto vernacolare — la forma frammentata a "lezioni" numerate riflette la natura necessariamente incompleta di qualsiasi archivio della storia nera.
+
+![Lessons — fotogramma](immagini/martine-syms/lessons.jpg)
+
+**Approfondimento:** [shopgoldenage.com — Lessons](https://shopgoldenage.com/martinesy.ms/projects/lessons)
 
 ### Incense, Sweaters & Ice (2017)
 **Descrizione:** primo lungometraggio dell'artista. Strutturato attorno a messaggi di testo scambiati tra la protagonista "Girl" e il suo partner "WB", sovrapposti a riprese in stile documentario, girato lungo il percorso della Grande Migrazione afroamericana del Novecento (Clarksdale, Mississippi; St. Louis, Missouri; Los Angeles). Presentato in anteprima come opera centrale della sua prima mostra personale museale statunitense, "Projects 106: Martine Syms", MoMA (27 maggio-16 luglio 2017).
 **Lettura critica:** esamina come le strutture razzializzate di sorveglianza e autorappresentazione persistano dal Middle Passage/dalla Grande Migrazione fino alla comunicazione digitale contemporanea.
 
+![Incense Sweaters & Ice — fotogramma del film](immagini/martine-syms/incense-sweaters-ice.jpg)
+
+**Approfondimento:** [shopgoldenage.com — Incense Sweaters & Ice](https://shopgoldenage.com/martinesy.ms/projects/incense-sweaters-ice)
+
 ### She Mad, serie (2015-2021, cinque episodi)
 **Descrizione:** serie video semi-autobiografica in formato sitcom che segue "Martine", una graphic designer/artista emergente iperattiva a Los Angeles. Episodi: *A Pilot for a Show About Nowhere* (2015), *Laughing Gas* (2016), *Intro to Threat Modeling* (2017), *Bitch Zone* (2020), *The Non-Hero* (2021, in stile "Life Story" di TikTok, sul modello di Lil Nas X). L'installazione completa della "Stagione Uno" viene mostrata al MCA Chicago (2 luglio 2022-12 febbraio 2023), in un set immersivo dai toni viola che richiama gli sfondi da chroma-key e *Il colore viola* di Alice Walker.
 **Lettura critica:** *The Art Newspaper* e *Newcity* leggono la serie come un uso delle convenzioni della sitcom e della forma dei social media per esporre le strutture mediali che costruiscono la "banalità" nera e la performance quotidiana dell'identità online e in TV.
+
+![She Mad: Laughing Gas — fotogramma, Art Institute of Chicago](immagini/martine-syms/she-mad.jpg)
+
+**Approfondimento:** [Art Institute of Chicago — SHE MAD: Laughing Gas](https://www.artic.edu/artworks/245038/she-mad-laughing-gas)
 
 ### The African Desperate (2022)
 **Descrizione:** debutto alla regia di lungometraggio dell'artista (co-scritto con Rocket Caleshu), con l'artista Diamond Stingily nel ruolo di Palace Bryant, una laureanda MFA nera nell'ultimo giorno in una scuola d'arte a maggioranza bianca nello stato di New York. Anteprima mondiale all'International Film Festival Rotterdam; anteprima nordamericana come film di chiusura di New Directors/New Films (MoMA/Film at Lincoln Center, 2022); distribuito su MUBI.
 **Lettura critica:** satira e critica della filiera contemporanea dei master in belle arti (MFA) e delle sue dinamiche razziali, condensata nell'arco di una singola giornata allucinatoria.
 **Video:** [The African Desperate, trailer ufficiale (YouTube)](https://www.youtube.com/watch?v=cVSXgmZQezY)
 
+![The African Desperate — fotogramma dal trailer](immagini/martine-syms/the-african-desperate.jpg)
+
 ### Neural Swamp (2022)
 **Descrizione:** installazione video multicanale commissionata, che usa IA e generazione testuale, prima presentazione statunitense al Philadelphia Museum of Art (14 maggio-30 ottobre 2022), secondo volume della Future Fields Commission in Time-Based Media (Philadelphia Museum of Art e Fondazione Sandretto Re Rebaudengo, Torino). Esplora i sistemi automatizzati che "cancellano o sfruttano corpi, voci e narrazioni nere".
 **Lettura critica:** applica la ricerca dell'artista sulla sorveglianza e la rappresentazione razzializzata direttamente ai sistemi di intelligenza artificiale contemporanei, non solo ai media televisivi/digitali precedenti.
 
+![Neural Swamp — veduta dell'installazione, Philadelphia Museum of Art](immagini/martine-syms/neural-swamp.jpg)
+
+**Approfondimento:** [Philadelphia Museum of Art — Neural Swamp](https://www.philamuseum.org/exhibitions/martine-syms-neural-swamp-future-fields-commission)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dall'archivio dell'artista (shopgoldenage.com), Art Institute of Chicago, Philadelphia Museum of Art e YouTube. Nessuna immagine reperita per *The Mundane Afrofuturist Manifesto* — vedi nota nella sezione corrispondente.
 - [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
 - [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)
 - [MoMA — Lessons I-CLXXX, collezione](https://www.moma.org/collection/works/273168)
