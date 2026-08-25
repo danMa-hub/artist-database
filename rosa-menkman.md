@@ -15,27 +15,41 @@ Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come
 **Descrizione:** Network Notebook n. 4 dell'Institute of Network Cultures di Amsterdam; usa strumenti della teoria dell'informazione per costruire un vocabolario critico del glitch art come genere, sostenendo che il glitch oscilli costantemente tra lo statuto di "artefatto" e quello di "processo". Pubblicato in concomitanza con il festival GLI.TC/H, che Menkman co-organizza con Nick Briz, Evan Meaney e Jon Satrom (prima edizione Chicago 2010, seconda in tournée Chicago-Amsterdam-Birmingham 2011, terza Chicago 2012).
 **Lettura critica:** testo fondativo del campo dei "glitch studies", ancora oggi tra i riferimenti più citati della letteratura accademica sull'estetica dell'errore digitale.
 
+![The Glitch Moment(um) — copertina](immagini/rosa-menkman/the-glitch-momentum.png)
+
+**Approfondimento:** [Institute of Network Cultures — The Glitch Moment(um)](https://networkcultures.org/blog/publication/no-04-the-glitch-momentum-rosa-menkman/)
+
 ### The Collapse of PAL (2010-2011)
 **Descrizione:** performance audiovisiva in tre parti ("Eulogy, Obsequies, and Requiem for the blue plains of phosphor") che compone un elogio funebre per lo standard televisivo analogico PAL, combinando segnale PAL proveniente da un NES, image bending, datamoshing e artefatti di interlacciamento; la colonna sonora usa una Cracklebox, codice Morse e audio compresso in DV e volutamente corrotto.
 **Lettura critica:** trasforma l'obsolescenza di uno standard tecnico in un lutto formale — l'errore diventa il linguaggio stesso con cui si racconta la fine di una tecnologia, non solo il suo sintomo.
 **Video:** [The Collapse of PAL, documentazione integrale (Vimeo)](https://vimeo.com/12199201)
+
+![The Collapse of PAL — fotogramma](immagini/rosa-menkman/collapse-of-pal.jpg)
 
 ### Dear Mr. Compression (2010)
 **Descrizione:** video che personifica "Mr. Compression" come destinatario silenzioso di un tentativo di comunicazione da parte dell'artista, che si corrompe progressivamente in artefatti di compressione man mano che l'opera procede.
 **Lettura critica:** un'illustrazione diretta e didattica della tesi del "vernacolo dei formati file" — utile in aula per mostrare visivamente come ogni codec produca il proprio tipo specifico di errore.
 **Video:** [Dear Mr. Compression, documentazione integrale (Vimeo)](https://vimeo.com/11147006)
 
+![Dear Mr. Compression — fotogramma](immagini/rosa-menkman/dear-mr-compression.jpg)
+
 ### A Vernacular of File Formats (2009-2010)
 **Descrizione:** libro d'artista e serie di immagini in cui una stessa fotografia-ritratto viene fatta passare attraverso molteplici codec di compressione, per esporre la grammatica di errore distintiva di ciascun formato.
 **Lettura critica:** una delle prime opere a proporre il file compresso non come degrado neutro dell'immagine originale ma come oggetto esteticamente e politicamente significativo di per sé; una stampa della serie è stata battuta all'asta Sotheby's "Glitch: Beyond Binary" (2023), segno del riconoscimento istituzionale successivo del lavoro.
+
+⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: la pagina Sotheby's del lotto restituisce solo immagini generiche di altri lotti, non identificabili con sicurezza come questa specifica opera.
 
 ### Beyond Resolution (2020)
 **Descrizione:** libro autopubblicato tramite i.R.D. che raccoglie quattro anni di ricerca in forme miste (racconti brevi, un primer di ottica, testi in forma di manifesto), sviluppando la "risoluzione" come categoria politico-tecnica centrale del proprio lavoro.
 **Lettura critica:** estende la critica del glitch dal singolo artefatto visivo all'intera infrastruttura di standardizzazione tecnica — la risoluzione come dispositivo che decide cosa un'immagine (o un sistema) può o non può mostrare.
 
+![Beyond Resolution — copertina](immagini/rosa-menkman/beyond-resolution.jpg)
+
+**Approfondimento:** [beyondresolution.info](https://beyondresolution.info/BIO)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da Institute of Network Cultures, Vimeo e dal blog ufficiale dell'artista.
 - [Blog ufficiale](http://rosa-menkman.blogspot.com/)
 - [beyondresolution.info — piattaforma di ricerca i.R.D.](https://beyondresolution.info/BIO)
 - [Institute of Network Cultures — The Glitch Moment(um), pubblicazione](https://networkcultures.org/blog/publication/no-04-the-glitch-momentum-rosa-menkman/)
