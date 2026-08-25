@@ -17,21 +17,37 @@ La pratica di Fischer è descritta come centrata sulla "manifestazione fisica di
 **Descrizione:** scultura di dati che visualizza gli indici di borsa (S&P 500, Dow Jones Industrial, NASDAQ) da gennaio a novembre 2008, costruita con oltre 150 poligoni in legno tagliati al laser.
 **Lettura critica:** una delle prime opere dell'artista a tradurre in scultura fisica un fenomeno macroeconomico astratto — la crisi finanziaria del 2008 — rendendo tangibile un dato altrimenti solo grafico.
 
+![Indizes — scultura di dati in legno tagliato al laser](immagini/studio-anf/indizes.webp)
+
+**Approfondimento:** [studioanf.com — Indizes](https://studioanf.com/project/indizes-financial-data-sculpture)
+
 ### Fundament (2008)
 **Descrizione:** scultura di dati in legno di faggio e compensato di pioppo, che mette in relazione l'allocazione del PIL mondiale con il volume globale di scambi di derivati finanziari.
 **Lettura critica:** opera complementare a *Indizes*, parte di uno stesso corpo di lavoro sulla scultura come strumento di visualizzazione dei dati economici.
+
+![Fundament — scultura di dati in legno di faggio e compensato di pioppo](immagini/studio-anf/fundament.webp)
+
+**Approfondimento:** [studioanf.com — Fundament](https://studioanf.com/project/fundament-finance-data-sculpture)
 
 ### Schwarm (software, con Brute Force Approach × Schwarm VII)
 **Descrizione:** opera basata su Processing in cui agenti di disegno autonomi (uno sciame di particelle) costruiscono gradualmente una composizione astratta a partire da fotografie sorgente, seguendo un comportamento regolato ma semi-autonomo.
 **Lettura critica:** esemplifica il metodo generativo dell'artista, in cui il sistema stesso — non la mano dell'artista — determina l'esito visivo finale entro regole predefinite.
 
+![Schwarm — composizione generativa ad agenti autonomi](immagini/studio-anf/schwarm.jpg)
+
+**Approfondimento:** [CreativeApplications.Net — Schwarm](https://www.creativeapplications.net/project/schwarm-autonomous-drawing-agents-by-andreas-nicolas-fischer/)
+
 ### A/B til Infinity (2014, con Egyptrixx)
 **Descrizione:** collaborazione multimediale con il musicista torontino Egyptrixx (David Psutka): un album, il video musicale per "Ax//s" e un live set audiovisivo per il tour mondiale 2014 di Egyptrixx.
 **Lettura critica:** estende la pratica generativa dell'artista al formato del live audiovisivo, in dialogo diretto con la produzione musicale elettronica.
 
+![A/B til Infinity — fotogramma dal live set audiovisivo](immagini/studio-anf/ab-til-infinity.jpg)
+
+**Approfondimento:** [CreativeApplications.Net — A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dello studio e da CreativeApplications.Net.
 - [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
 - [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/andreas-nicolas-fischer/)
 - [CreativeApplications.Net — progetto A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)
