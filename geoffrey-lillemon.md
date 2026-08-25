@@ -18,22 +18,33 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 **Lettura critica:** secondo *It's Nice That*, l'opera porta l'intera collezione "nel territorio del surreale" — un caso paradigmatico dell'ibridazione fra CGI d'artista e immagine di moda commerciale che caratterizza tutta la produzione di Lillemon.
 **Video:** [Twelv Magazine — "Digital Artist Geoffrey Lillemon Emotes Bernhard Willhelm S/S2013"](https://twelvny.com/fashion/digital-artist-geoffrey-lillemon-emotes-bernhard-willhelm-ss2013)
 
+![Bernhard Willhelm SS13 — look animato](immagini/geoffrey-lillemon/bernhard-willhelm-ss13.gif)
+
+**Approfondimento:** [commercial.geoffreylillemon.com — Bernhard Willhelm SS13](https://commercial.geoffreylillemon.com/BERNHARD-WILLHELM-SS13)
+
 ### Simulation in Blue (2025, Nxt Museum, Amsterdam)
 **Descrizione:** installazione commissionata dal Nxt Museum di Amsterdam, curata da Bogomir Doringer.
 **Lettura critica:** conferma il consolidamento della pratica dell'artista nel circuito museale dei nuovi media dopo oltre vent'anni di lavoro prevalentemente commerciale/musicale.
+
+![Simulation in Blue — veduta dell'installazione, Nxt Museum](immagini/geoffrey-lillemon/simulation-in-blue.png)
+
+**Approfondimento:** [commercial.geoffreylillemon.com — Nxt Museum: Simulation in Blue](https://commercial.geoffreylillemon.com/NXT-MUSEUM-SIMULATION-IN-BLUE)
 
 ### Like to Death (con il collettivo Stööki)
 **Descrizione:** opera video/CGI realizzata in collaborazione con il collettivo Stööki.
 **Lettura critica:** rappresenta la linea più sperimentale e meno commerciale della produzione dell'artista, in dialogo con altri collettivi della scena digitale internazionale.
 
+⚠️ Nessuna immagine trovata.
+
 ### Space Cowboy, serie NFT (con Highsnobiety / SuperRare)
 **Descrizione:** serie di opere digitali in edizione NFT, realizzata in collaborazione con Highsnobiety e distribuita sulla piattaforma SuperRare.
 **Lettura critica:** *Highsnobiety* la presenta come una risposta "assurdista" alla cultura dello scroll infinito dei social media — un'estensione della sua pratica CGI/surreale nel formato dell'edizione digitale limitata.
 
+⚠️ Nessuna immagine trovata.
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
-- [commercial.geoffreylillemon.com — Biografia ufficiale](https://commercial.geoffreylillemon.com/BIOGRAPHY)
+Immagine e link di approfondimento per due delle quattro opere, incluse sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [commercial.geoffreylillemon.com](https://commercial.geoffreylillemon.com).
 - [cargocollective.com/geoffreylillemon — portfolio](https://cargocollective.com/geoffreylillemon/Geoffrey-Lillemon)
 - [It's Nice That — "You've not seen crazy until you've seen Geoffrey Lillemon's fashion shots"](https://www.itsnicethat.com/articles/geoffrey-lillemon)
 
