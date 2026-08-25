@@ -15,13 +15,19 @@ Leckey lavora tra video, scultura, suono e scansione/stampa 3D, indagando lo sta
 **Descrizione:** oggetti esistenti — incluso il celebre *Rabbit* di Jeff Koons — vengono scansionati e ristampati in 3D come "dupes"; il progetto nasce dalla mostra-collezione *The Universal Addressability of Dumb Things* (Hayward Touring, curata dall'artista in tre anni di ricerca), passata dalla raccolta digitale di oggetti sul desktop alla loro materializzazione fisica tramite stampa 3D.
 **Lettura critica:** non è un'esibizione in sé ma la "produzione della prossima generazione" della mostra: Leckey descrive il momento in cui gli oggetti raccolti, una volta materializzati fisicamente, gli sono sfuggiti di mano — passando dalle sue mani a quelle del pubblico, da presenza viva a "media morti".
 
+![Made in 'Eaven — fotogramma](immagini/mark-leckey/made-in-eaven.jpg)
+
+**Approfondimento:** [Gavin Brown's Enterprise — A Month of Making](https://gavinbrown.biz/artists/mark_leckey/exhibitions/2014)
+
 ### GreenScreenRefrigeratorAction (2010)
 **Descrizione:** un frigorifero smart Samsung nero e lucido riflette sulla propria esistenza attraverso un monologo robotico in prima persona, descrivendo con linguaggio pseudo-scientifico il proprio funzionamento interno.
 **Lettura critica:** mentre creiamo oggetti sempre più intelligenti, Leckey immagina un mondo in cui le cose diventano senzienti, iniziano a comunicare e alterano il nostro ambiente in nuovi ecosistemi digitali — echi del feticismo della merce (la "tavola danzante" di Marx) applicati alla smart technology contemporanea.
 
+![GreenScreenRefrigeratorAction — fotogramma](immagini/mark-leckey/greenscreenrefrigeratoraction.jpg)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Vimeo.
 - [A Month of Making — Gavin Brown's Enterprise](https://gavinbrown.biz/artists/mark_leckey/exhibitions/2014)
 
 ## Fonti
