@@ -16,23 +16,45 @@ Li Yi-Fan lavora come crew di una sola persona: costruisce ambienti, oggetti di 
 ### important_message.mp4 (2019-2020)
 **Descrizione:** video multicanale, 17'30", prima sperimentazione dell'artista con Unreal Engine in tempo reale. Un avatar guida lo spettatore in un "tornado" di teorie del complotto da clickbait, interrogando cosa sia reale in un'epoca di consumo sovrumano di informazione.
 
+![important_message.mp4 — fotogramma](immagini/li-yi-fan/important-message.jpg)
+
+**Approfondimento:** [Cargo Collective — important_message.mp4](https://cargocollective.com/LIYIFAN/Works/important_message-mp4-2020)
+
 ### howdoyouturnthison / 不好意思…請問一下這個怎麼打開 (2021)
 **Descrizione:** video monocanale, 17'30". Formalmente una "lecture" che spiega tecniche di produzione video CG contemporanea, mentre esplora somiglianze/differenze fra immagine CG e realtà; l'artista manovra il proprio avatar che si contorce senza vincoli fisici, sovvertendo la tradizione tecnica del "machinima".
 **Lettura critica:** vince il Visual Arts Award al 20° Taishin Arts Award (2022); in collezione/archivio NTT InterCommunication Center (ICC), Tokyo.
+
+![howdoyouturnthison — fotogramma](immagini/li-yi-fan/howdoyouturnthison.jpg)
+
+**Approfondimento:** [NTT InterCommunication Center — howdoyouturnthison](https://www.ntticc.or.jp/en/archive/works/howdoyouturnthison/)
 
 ### What Is Your Favorite Primitive (2023)
 **Descrizione:** cortometraggio di 30', nella forma satirica di un keynote tech; un protagonista alle prese con questioni etiche e sociali insite negli strumenti software per la produzione di immagini. Debutta alla 13ª Taipei Biennial (2023).
 **Lettura critica:** Golden Harvest Award al Taipei Golden Horse Film Festival — prima volta assegnato a un film sperimentale.
 
+![What Is Your Favorite Primitive — fotogramma](immagini/li-yi-fan/what-is-your-favorite-primitive.webp)
+
+**Approfondimento:** [Taipei Biennial 2023 — Li Yi-Fan](https://www.taipeibiennial.org/2023/content/participant-li-yi-fan)
+
 ### Last Warning / Dernier avertissement (2025, IAC Villeurbanne)
 **Descrizione:** prima personale europea dell'artista, quattro sale con un'opera per sala (incl. *Boring Gray*, 2022-25, e *If You Can't Larp You'll Cry*, 2024, con Harrison Hall e Mat Spisbah).
 **Lettura critica:** approccio radicalmente DIY — l'artista adatta i game engine e sviluppa i lavori tramite sperimentazione costante con la macchina; Patrick Langley (e-flux) la legge come pratica "in trasformazione permanente, sempre un passo avanti alla propria obsolescenza".
+
+![Last Warning / Dernier avertissement — fotogramma dal video di presentazione, IAC Villeurbanne](immagini/li-yi-fan/last-warning.jpg)
+
+**Approfondimento:** [Institut d'art contemporain Villeurbanne — Dernier avertissement / Last Warning](https://www.i-ac.eu/en/exhibitions/24_in-situ/2025/750_DERNIER-AVERTISSEMENT-LAST-WARNING)
 
 ### Screen Melancholy / 鬱卒的平面 (2026, Palazzo delle Prigioni, Venezia — "Taiwan in Venice")
 **Descrizione:** opera site-specific, terza dell'artista con game engine come metodo di produzione ma la prima concepita come installazione site-specific. Video principale di 60 minuti più due video minori, allestiti nel Palazzo delle Prigioni (un tempo collegato al Palazzo Ducale dal Ponte dei Sospiri). Intorno allo schermo, sculture stampate in 3D ingrandite di mani, piedi, gambe, braccia — che fungono anche da sedute per i visitatori. Trama: un "occhio" che torna a casa e istruisce una "famiglia di organi" (fra cui una figura coronata da uno stomaco e una da un'appendice) su nozioni base di "alfabetizzazione all'animazione", tra frammenti in stile meme, mentre cerca il cervello assente — che rimane mancante per tutta la storia. Un "filmmaker umano digitale" dirige "attori digitali" come marionette, in dialoghi fra "organi umani" che riflettono sull'impatto dell'IA sull'umanità. Vista dall'utente alla mostra, 11 agosto 2026.
 **Lettura critica:** il curatore Raphael Fonseca inquadra l'installazione nella metafora dello schermo come finestra (da Leon Battista Alberti alle superfici luminose degli smartphone) e nella "malinconia" prodotta dall'eccesso di immagini/storie compresse in rettangoli portatili; il pubblico, seduto sulle sculture-arti, "specchia" le marionette digitali che a loro volta specchiano il pubblico — un dispositivo che mette in scena la condizione di essere insieme prigionieri, burattinai e marionette.
 
+![Screen Melancholy / 鬱卒的平面 — dall'annuncio della mostra](immagini/li-yi-fan/screen-melancholy.png)
+
+**Approfondimento:** [e-flux — Li Yi-Fan: Screen Melancholy](https://www.e-flux.com/announcements/6787011/li-yi-fanscreen-melancholy)
+
 ## Immagini
+
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", scelte tra le meno esplicite disponibili da fonti istituzionali (ICC Tokyo, Taipei Biennial, IAC Villeurbanne, e-flux) e YouTube, in coerenza con l'avviso di contenuto in testa alla scheda.
 
 ## Fonti
 - [Biennale Arte 2026 — Screen Melancholy, Li Yi-Fan (evento collaterale)](https://www.labiennale.org/en/art/2026/collateral-events/screen-melancholy-li-yi-fan)
