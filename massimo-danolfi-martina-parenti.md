@@ -17,14 +17,24 @@ Cinema del reale costruito attorno a materiali d'archivio (militari, industriali
 **Descrizione:** documentario sulle sperimentazioni militari italiane nel poligono del Salto di Quirra (Sardegna) e i loro effetti su territorio e abitanti; struttura in tre movimenti (indagine geologica, archivio del poligono, vita dei pastori).
 **Lettura critica:** Premio Corso Salani 2012; esempio della loro metodologia di montaggio d'archivio come narrazione stratificata.
 
+![Materia Oscura — locandina](immagini/massimo-danolfi-martina-parenti/materia-oscura.jpg)
+
 ### Spira Mirabilis (2016)
 **Descrizione:** lungometraggio, meditazione sull'eternità attraverso natura e scienza; in concorso per il Leone d'Oro alla 73ª Mostra del Cinema di Venezia.
+
+![Spira Mirabilis — locandina](immagini/massimo-danolfi-martina-parenti/spira-mirabilis.png)
 
 ### 24 Landscapes + A Vision (2026, CANICULA)
 **Descrizione:** installazione video a tre canali che contempla il dramma della vita e il suo divenire ciclico (distruzione/rinnovamento), con progressione cromatica dal buio alla luce. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
 **Lettura critica:** prima incursione del duo in un formato multicanale pensato per lo spazio espositivo anziché per la sala cinematografica.
 
+![24 Landscapes + A Vision — fotogramma, mostra CANICULA](immagini/massimo-danolfi-martina-parenti/24-landscapes.jpg)
+
+**Approfondimento:** [Fondazione In Between Art Film — 24 Landscapes + A Vision](https://inbetweenartfilm.com/en/massimo-danolfi-e-martina-parenti-24-landscapes-a-vision/)
+
 ## Immagini
+
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Wikipedia e dal sito ufficiale della mostra.
 
 ## Fonti
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
