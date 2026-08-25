@@ -16,13 +16,21 @@ Obermaier lavora sull'interazione in tempo reale tra corpo danzante e sistemi di
 **Lettura critica:** porta alle estreme conseguenze estetiche l'integrazione di tecnologie interattive nella performance dal vivo, sviluppando ulteriormente l'estetica della proiezione sul corpo verso un sistema realmente reattivo, non pre-registrato.
 **Video:** [Apparition, Part 1 (2004)](https://www.youtube.com/watch?v=lhWYyayhVv4) · [Apparition HD grand finale (Vimeo)](https://vimeo.com/58661899)
 
+![Apparition — fotogramma della performance](immagini/klaus-obermaier/apparition.jpg)
+
+**Approfondimento:** [Ars Electronica Futurelab — Apparition](https://ars.electronica.art/futurelab/en/projects-apparition/)
+
 ### D.A.V.E. (Digital Amplified Video Engine, 1998)
 **Descrizione:** performance solista in cui immagini proiettate distorcono e amplificano il corpo del danzatore in tempo reale, seguendone i movimenti.
 **Lettura critica:** una delle prime opere a rendere il corpo stesso "schermo" dinamico e reattivo, anticipando il filone del projection mapping performativo.
 
+![D.A.V.E. — fotogramma della performance](immagini/klaus-obermaier/dave.jpg)
+
+**Approfondimento:** [exile.at — D.A.V.E.](https://www.exile.at/dave/project.html)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da exile.at e Vimeo.
 - [exile.at — biografia](https://www.exile.at/ko/klaus_bio.html)
 - [Ars Electronica Futurelab — Apparition](https://ars.electronica.art/futurelab/en/projects-apparition/)
 - [exile.at — Apparition, background](https://www.exile.at/apparition/background.html)
