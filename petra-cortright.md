@@ -15,13 +15,21 @@ Cortright è tra le prime artiste a lavorare con la webcam come medium e a porta
 **Descrizione:** video su YouTube in cui l'artista fissa intensamente la webcam mentre figure di clip art fumettistiche (pizze danzanti, sitar, fulmini, gattini, cuccioli) fluttuano attorno al suo volto, attivate dagli strumenti preimpostati del software webcam. Ogni video era accompagnato da una lunga lista di tag di ricerca — parole apparentemente casuali e banali, copiate da altri YouTuber per attirare traffico, incluse parole esplicite e provocatorie che portarono YouTube a rimuovere l'opera per linguaggio "offensivo".
 **Lettura critica:** un ritratto dell'artista come utente di computer la cui modalità primaria di esistenza è registrare ed essere osservata — a differenza delle camgirl coeve, Cortright non cerca approvazione né reagisce alla presenza di uno spettatore, restando concentrata sul proprio compito. Opera nella collezione permanente del MoMA e nella Net Art Anthology di Rhizome.
 
+![VVEBCAM — fotogramma](immagini/petra-cortright/vvebcam.jpg)
+
+**Approfondimento:** [Rhizome — Net Art Anthology, VVEBCAM](https://anthology.rhizome.org/vvebcam)
+
 ### Digital paintings (2007-in corso)
 **Descrizione:** serie di "dipinti digitali" realizzati manipolando e distorcendo in Photoshop immagini raccolte online, poi stampati su lastre di alluminio; risultati che spaziano dalla figurazione all'astrazione pura.
 **Lettura critica:** trasferisce il gesto pittorico nel dominio del software di fotoritocco, interrogando lo statuto dell'immagine trovata online come materiale pittorico legittimo.
 
+![Digital painting](immagini/petra-cortright/digital-paintings.png)
+
+**Approfondimento:** [Société Berlin — Petra Cortright](https://societeberlin.com/artists/petra-cortright/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo e Société Berlin.
 - [Wikipedia — Petra Cortright](https://en.wikipedia.org/wiki/Petra_Cortright)
 - [Rhizome — Net Art Anthology, VVEBCAM](https://anthology.rhizome.org/vvebcam)
 - [MoMA — VVEBCAM (2007), collezione](https://www.moma.org/collection/works/401436)
