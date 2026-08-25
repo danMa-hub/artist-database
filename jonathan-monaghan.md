@@ -15,25 +15,41 @@ Monaghan lavora esclusivamente con software di animazione 3D/CGI di livello prof
 **Descrizione:** animazione CGI in loop continuo di 15 minuti. Combina riferimenti alla fantascienza, ai videogiochi e alla storia dell'arte (tra i riferimenti citati: Rainbow Road di Super Mario Kart 64, il paesaggismo romantico tedesco, il Technodrome delle Tartarughe Ninja) in una satira del potere corporativo/tecnologico e della ricchezza. Tra le prime opere d'arte registrate sul protocollo blockchain Ascribe (autunno 2013).
 **Lettura critica:** anticipa di anni il dibattito sull'autenticazione blockchain delle opere digitali, applicandolo però a un'opera che è già essa stessa una satira dell'eccesso tecnologico e corporativo.
 
+![Mothership — fotogramma](immagini/jonathan-monaghan/mothership.jpg)
+
 ### Escape Pod (2015)
 **Descrizione:** animazione HD in piano sequenza continuo di circa 20 minuti, in loop senza soluzione di continuità. Attinge alla mitologia greca/nordica della caccia: un cervo dorato si muove attraverso ambienti modernisti dal lusso codificato (tra cui una scena modellata su un walk-in closet di design di lusso, e un oggetto "capsula di fuga" che è un incrocio tra un'astronave da fantascienza, un reliquiario barocco e un router WiFi), evocando autoritarismo, militarizzazione ed eccesso materiale. Prima mostra personale dell'artista da bitforms gallery, New York.
 **Lettura critica:** recensita da Benjamin Sutton su *Hyperallergic* — la scelta di un animale mitologico (il cervo/stag) come protagonista, invece di una figura umana, permette all'opera di restare sospesa tra favola e critica sociale senza mai diventare didascalica.
+
+![Escape Pod — fotogramma](immagini/jonathan-monaghan/escape-pod.jpg)
 
 ### The Disco Beast (2016)
 **Descrizione:** video a canale singolo di 17:14 minuti: un unicorno psichedelico vaga per spazi commerciali vuoti (un centro commerciale abbandonato, la hall di un hotel di lusso), citando l'iconografia medievale degli arazzi dell'unicorno (la cattura) per costruire una "nuova mitologia" sulla reclusione imposta da tecnologia e materialismo. Seconda mostra personale da bitforms (2017); mostrata in seguito alla University of Maryland Art Gallery ("Pause, Play", 2020).
 **Lettura critica:** recensita dal Brooklyn Rail — l'unicorno, simbolo storico di purezza catturabile solo da una vergine, diventa qui simbolo di un desiderio di evasione che gli spazi commerciali contemporanei promettono ma non mantengono mai.
 
+![The Disco Beast — veduta della mostra](immagini/jonathan-monaghan/the-disco-beast.jpg)
+
+**Approfondimento:** [Brooklyn Rail — The Disco Beast](https://brooklynrail.org/2017/12/artseen/JON-MONAGHAN-The-Disco-Beast/)
+
 ### Out of the Abyss (2019)
 **Descrizione:** installazione video a tre canali in loop, 19 minuti. Reimmagina l'iconografia dell'Apocalisse (l'agnello dai sette occhi, i quattro cavalieri) come "bestie del presente", adornate di telecamere di sorveglianza, equipaggiamento antisommossa, selfie stick, scarpe da ginnastica di lusso, sacchetti della spesa biologica e tappetini da yoga — fondendo consumismo e stato di sorveglianza. Realizzata durante una fellowship di studio a VisArts (Rockville, Maryland); recensita dal *Washington Post* (Mark Jenkins, 2019).
 **Lettura critica:** l'opera che porta al massimo grado la fusione tra iconografia religiosa/apocalittica e critica del consumismo/sorveglianza — l'"abisso" del titolo biblico diventa metafora diretta della sorveglianza digitale contemporanea.
+
+![Out of the Abyss — fotogramma](immagini/jonathan-monaghan/out-of-the-abyss.jpg)
+
+**Approfondimento:** [jonathanmonaghan.com — Out of the Abyss](https://jonathanmonaghan.com/work/out-of-the-abyss/)
 
 ### The Gilded Passage (2025)
 **Descrizione:** video animato in 3D di 12 minuti in loop, commissionato da MTA Arts & Design per le pareti LED da 18.000 pixel di Grand Central Madison (il nuovo snodo dei trasporti di New York), trasmesso ogni ora dalle 5 all'1 di notte. Unicorni luminosi sfilano in uno spazio che fonde l'architettura storica di Grand Central con il nuovo atrio digitale — descritto dall'artista e dalla MTA come uno "spazio liminale" che rispecchia il movimento tra realtà materiale e virtuale.
 **Lettura critica:** una delle commissioni di arte digitale pubblica su più larga scala degli Stati Uniti recenti — porta il vocabolario iconografico "mitologico" dell'artista (già visto nell'unicorno di *The Disco Beast*) in uno degli snodi di trasporto più trafficati al mondo.
 
+![The Gilded Passage — fotogramma dall'installazione a Grand Central Madison](immagini/jonathan-monaghan/the-gilded-passage.jpg)
+
+**Approfondimento:** [jonathanmonaghan.com — The Gilded Passage](https://jonathanmonaghan.com/work/gilded-passage/)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da bitforms gallery, Brooklyn Rail e Vimeo.
 - [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)
 - [Crystal Bridges Museum — blog, "Man Without a Movie Camera"](https://crystalbridges.org/blog/jonathan-monaghan-man-without-movie-camera/)
