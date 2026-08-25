@@ -15,13 +15,21 @@ Kaiser lavora fin dalla fine degli anni '90 all'intersezione tra motion capture,
 **Descrizione:** installazione digitale di 7 minuti che fonde danza, disegno e composizione computazionale: il movimento captato dal danzatore-coreografo Bill T. Jones viene trasformato in linee di disegno animate, senza mai mostrare un corpo "pieno" o realistico.
 **Lettura critica:** una meditazione sull'atto di essere catturati e di liberarsi dalla cattura — il corpo diventa gesto grafico puro, presente e assente allo stesso tempo.
 
+![Ghostcatching](immagini/paul-kaiser/ghostcatching.jpg)
+
+**Approfondimento:** [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
+
 ### Loops (2001, con Shelley Eshkar e Marc Downie; coreografia di Merce Cunningham)
 **Descrizione:** ritratto digitale astratto del coreografo Merce Cunningham, derivato da una registrazione in motion capture di un suo assolo per mani e dita; le articolazioni captate diventano nodi in uno spazio 3D collegati da una rete di linee, renderizzata in tempo reale.
 **Lettura critica:** porta la ricerca sulla motion capture oltre la semplice registrazione del movimento, verso un sistema generativo che rielabora il gesto coreografico in tempo reale.
 
+![Loops — fotogramma dal trailer del festival Loikka](immagini/paul-kaiser/loops.jpg)
+
+**Approfondimento:** [OpenEndedGroup — Loops](http://openendedgroup.com/artworks/loops.html)
+
 ## Immagini
 
-*(raccolta diretta non ancora fatta — nessun link a immagine scaricabile confermato in questa sessione, per il blocco di rete sugli strumenti di lettura pagina. Pagine più promettenti da aprire per recuperare immagini delle opere, individuate tra le fonti già raccolte:)*
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da MASS MoCA e YouTube.
 - [OpenEndedGroup — Ghostcatching](http://openendedgroup.com/artworks/gc.html)
 - [MASS MoCA — Ghostcatching](https://massmoca.org/event/ghostcatching/)
 - [Jacob's Pillow Dance Interactive — Dance Notation and Motion Capture](https://danceinteractive.jacobspillow.org/themes-essays/men-in-dance/ghost-notation/)
