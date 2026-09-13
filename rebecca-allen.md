@@ -47,6 +47,12 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 
 **Approfondimento:** [rebeccaallen.com — Life Without Matter](https://www.rebeccaallen.com/projects/life-without-matter)
 
+### Figures Crawling (2013, dalla serie Figures in Motion)
+**Descrizione:** studio del corpo umano in movimento su tre video: un modello maschile e uno femminile ripresi mentre strisciano a terra, con la camera montata dall'alto. Le figure appaiono "genderless", con un aspetto plastico della pelle; i movimenti, per quanto astratti nella resa, restano realistici e non alterati.
+**Lettura critica:** riporta al centro della ricerca dell'artista lo studio diretto del movimento del corpo — un filo che attraversa tutta la carriera, dai primi esperimenti di animazione 3D fino a questi lavori più recenti.
+
+**Approfondimento:** [rebeccaallen.com — Figures Crawling](https://www.rebeccaallen.com/projects/figures-crawling), [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
+
 ## Immagini
 
 Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
@@ -62,9 +68,12 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [The Bush Soul (#1) — rebeccaallen.com](https://www.rebeccaallen.com/projects/bush-soul-number-1)
 - [Life Without Matter — rebeccaallen.com](https://www.rebeccaallen.com/projects/life-without-matter)
 - [MUDAM Luxembourg — profilo artista](https://www.mudam.com/rebecca-allen)
+- [MEET Digital Culture Center — "Synthetic Creatures", retrospettiva Milano (9 maggio–13 settembre 2026)](https://www.meetcenter.it/en/event/rebecca-allen-synthetic-creatures/)
+- [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
 
 ---
 
 ## Appunti da organizzare
 - Citata in *Tecniche di modellazione digitale 3D* e in *Applicazioni digitali per l'arte* come artista che ha posto le basi per le prime sperimentazioni nell'arte digitale.
 - Video da cercare: *Musique Non-Stop* (Kraftwerk) dovrebbe essere reperibile su YouTube; *Life Without Matter* è opera VR, verificare se esiste documentazione video.
+- ✅ Visitata dall'utente la retrospettiva "Synthetic Creatures" al MEET Milano (12 settembre 2026, ultimo giorno) — materiale completo (foto pannelli, video opere) in [`mostre/2026-09-12-meet-rebecca-allen.md`](../mostre/2026-09-12-meet-rebecca-allen.md). Aggiunta l'opera *Figures Crawling* trovata via ricerca web a partire dai pannelli fotografati. 19 video della visita non ancora rivisti (troppo pesanti per questa sessione) — probabilmente documentano altre opere della galleria immersiva, da riprendere in locale insieme alle foto di QR code non decodificabili da qui.
