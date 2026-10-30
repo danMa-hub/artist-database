@@ -1,7 +1,7 @@
 # Sabrina Ratté
 
 **Tag tecnica/formato:** `video` `procedurale-generativo` `modellazione-3d` `live-visual-vjing`
-**Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione` `performance-audiovisiva`
+**Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione` `performance-audiovisiva` `visual-live-e-vjing`
 
 ## Biografia
 Nata nel 1982 a Québec, Canada. Consegue BFA e MFA in produzione cinematografica alla Concordia University di Montréal, oltre a un master in cinema all'Université Paris 8. Vive e lavora tra Montréal e la Francia (Parigi/Marsiglia, a seconda del periodo). Riconoscimenti: medaglia d'oro alle VIII Giochi della Francofonia (2017, categoria arti visive); residenza alla Cité internationale des arts di Parigi; finalista/longlist al Sobey Art Award nel 2019 e nel 2020 — nel 2020, a causa della pandemia, la Sobey Art Foundation e la National Gallery of Canada hanno ristrutturato il premio distribuendo 25.000 dollari canadesi in parti uguali a tutti i 25 artisti in longlist, invece di nominare un solo vincitore: Ratté rientra quindi tra le artiste che hanno ricevuto questa distribuzione, non tra le "vincitrici" in senso tradizionale. Rappresentata dalla galleria Ellephant (Montréal) e da Galerie Charlot (Parigi).

@@ -1,7 +1,7 @@
 # Eva & Franco Mattes
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo` `net-art-sito-web` `video`
-**Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-controllo`
+**Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-controllo` `performance-nei-mondi-virtuali`
 **Tag corso:** `TAD-DCV` `AW`
 **Stato:** da verificare prima di citarli in classe: come si sono conosciuti (fonti divergenti), l'esito dell'azione legale di Nike su Nike Ground, il ruolo di Franco Mattes al MIT ACT, la fonte della definizione «Bonnie e Clyde dell'arte contemporanea» · opere recenti (2023-24: P2P, But I Love Human, Sleep Mode, Copycat, Roomba Cat) da verificare
 
@@ -44,7 +44,7 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 
 ### 13 Most Beautiful Avatars (2006) e Synthetic Performances / Reenactments (2007)
 **Corso:** `AW`
-**Temi:** `avatar-e-corpo-virtuale` `performance-audiovisiva`
+**Temi:** `avatar-e-corpo-virtuale` `performance-nei-mondi-virtuali`
 **Descrizione:** *13 Most Beautiful Avatars* è una serie di ritratti di tredici avatar di Second Life, scelti per la loro resa visiva, realizzati tramite sessioni fotografiche consensuali all'interno del mondo virtuale, in esplicito riferimento ai *13 Most Beautiful Boys* e *13 Most Beautiful Women* di Andy Warhol (1964). L'anno seguente, nell'ambito del festival newyorkese PERFORMA 07, gli artisti rimettono in scena — sempre tramite i propri avatar — alcune opere canoniche della performance art storica: *Shoot* di Chris Burden, *Seedbed* di Vito Acconci, *Tapp und Tastkino* di VALIE EXPORT e una versione di *Imponderabilia* di Marina Abramović.
 **Lettura critica:** Julia Bryan-Wilson (Artforum, 2007) nota come la serie di avatar risulti paradossalmente priva delle imperfezioni che rendevano potenti gli originali warholiani. Le *Synthetic Performances* interrogano invece lo statuto della rievocazione (reenactment) quando il corpo storico dell'artista viene sostituito da un avatar sintetico: la reazione della critica e degli stessi artisti reinterpretati è stata divisa — Marina Abramović avrebbe commentato con ammirazione ("avrei voluto pensarci io"), mentre VALIE EXPORT si sarebbe opposta alla rievocazione della propria opera.
 

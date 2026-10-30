@@ -1,7 +1,7 @@
 # Hito Steyerl
 
 **Tag tecnica/formato:** `video` `desktop-lecture-performance` `installazione`
-**Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro` `performance-audiovisiva`
+**Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro` `performance-audiovisiva` `lecture-performance`
 **Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
@@ -42,7 +42,7 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 
 ### Is the Museum a Battlefield? (2013)
 **Corso:** `TAD-DCV` `TAD-AVM`
-**Temi:** `guerra-e-militare` `performance-audiovisiva`
+**Temi:** `guerra-e-militare` `lecture-performance`
 **Descrizione:** video HD a due canali, 40 minuti, nato come lecture-performance alla 13ª Biennale di Istanbul. Parte da un bossolo vuoto ritrovato da Steyerl vicino a una fossa comune a Van, in Turchia (dove Andrea Wolf potrebbe essere morta), per risalire ai legami finanziari tra produttori di armi e sponsorizzazione di musei e biennali.
 **Lettura critica:** rende esplicito, con rigore quasi investigativo, il modo in cui il sistema dell'arte è materialmente intrecciato con l'industria bellica — non una metafora, ma una filiera di finanziamento tracciabile.
 

@@ -1,7 +1,7 @@
 # Angela Washko
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
-**Tag tema:** `genere-queerness` `game-culture` `performance-audiovisiva`
+**Tag tema:** `genere-queerness` `game-culture` `performance-audiovisiva` `performance-nei-mondi-virtuali`
 **Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
@@ -13,7 +13,7 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 ## Opere principali
 ### Playing a Girl / The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft (dal 2012)
 **Corso:** `TAD-AVM` `TAD-DCV`
-**Temi:** `performance-audiovisiva`
+**Temi:** `performance-nei-mondi-virtuali`
 **Descrizione:** intervento performativo dentro *World of Warcraft*: Washko fonda un "consiglio" fittizio e facilita discussioni sul genere e sul femminismo con i giocatori direttamente nel gioco, incluse conversazioni su avatar di genere diverso dal proprio e su vittim-blaming.
 **Lettura critica:** usa lo spazio ludico come laboratorio sociale per un sondaggio dal vivo sull'opinione pubblica americana riguardo al ruolo delle donne.
 

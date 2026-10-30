@@ -15,6 +15,23 @@ ROOT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
 ESCLUSE = {"README", "informazioni", "contribuire", "tags", "00-lista-artisti", "index", "mostre"}
 RIGHE_TAG = [("tecnica", "**Tag tecnica/formato:**"), ("tema", "**Tag tema:**"), ("corso", "**Tag corso:**")]
 TAG_CORSO = ["TAD-DCV", "TAD-AVM", "AW", "M3D"]
+PADRE = {  # sotto-tag -> categoria ampia: chi usa il sotto-tag compare anche nella categoria
+    "visual-live-e-vjing": "performance-audiovisiva",
+    "video-mapping-e-proiezione": "performance-audiovisiva",
+    "lecture-performance": "performance-audiovisiva",
+    "animazione-dal-vivo": "performance-audiovisiva",
+    "performance-con-corpo-e-motion-capture": "performance-audiovisiva",
+    "performance-nei-mondi-virtuali": "performance-audiovisiva",
+}
+
+
+def espandi(lista):
+    out = list(lista)
+    for x in lista:
+        padre = PADRE.get(x)
+        if padre and padre not in out:
+            out.append(padre)
+    return out
 IMG = re.compile(r"!\[[^\]]*\]\((?!https?:)([^)\s]+)")
 LARGHEZZA_ANTEPRIMA = 480
 
@@ -242,7 +259,9 @@ for f in sorted(ROOT.glob("*.md")):
     opere = tag_opere(righe, set())
     righe = sezioni_comprimibili(video(carosello(righe)))
     f.write_text("\n".join(righe), encoding="utf-8")
+    tag["tema"] = espandi(tag["tema"])
     for o in opere:
+        o["tema"] = espandi(o["tema"])
         for chiave, lista in (("corso", o["corso"]), ("tema", o["tema"])):
             for x in lista:
                 if x not in tag[chiave]:
@@ -294,6 +313,16 @@ def sezione_opere(chiave, tag):
     return "\n".join(righe) + "\n"
 
 
+def sezione_figli(tag):
+    figli = sorted(f for f, padre in PADRE.items() if padre == tag)
+    if not figli:
+        return ""
+    righe = ["Sotto-tag: " + " · ".join(
+        f"[{f}]({slug_tag(f)}.html) ({len(per_tag['tema'].get(f, []))})" for f in figli
+    ), ""]
+    return "\n".join(righe) + "\n"
+
+
 cartella = ROOT / "tag"
 cartella.mkdir(exist_ok=True)
 for chiave, mappa in per_tag.items():
@@ -311,7 +340,7 @@ title: {t}
 
 {len(elenco)} schede ({ {'tecnica': 'tecnica/formato', 'tema': 'tema', 'corso': 'corso'}[chiave] }):
 
-<div class="grid">
+{sezione_figli(t)}<div class="grid">
 {card}
 </div>
 {sezione_opere(chiave, t)}"""

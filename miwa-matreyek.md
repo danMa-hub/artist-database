@@ -1,7 +1,7 @@
 # Miwa Matreyek
 
 **Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo` `animazione-2d`
-**Tag tema:** `corpo-identita` `ecologia-ambiente` `performance-audiovisiva`
+**Tag tema:** `corpo-identita` `ecologia-ambiente` `performance-audiovisiva` `animazione-dal-vivo` `video-mapping-e-proiezione`
 **Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
@@ -13,7 +13,7 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 ## Opere principali
 ### This World Made Itself (2013)
 **Corso:** `TAD-AVM`
-**Temi:** `performance-audiovisiva` `tempo-lungo-e-durata`
+**Temi:** `animazione-dal-vivo` `tempo-lungo-e-durata`
 **Descrizione:** performance dal vivo che combina animazione proiettata e la sagoma d'ombra dell'artista, in un viaggio visivo e musicale attraverso la storia della Terra — dagli inizi epici dell'universo al mondo complesso dell'umanità; ispirata all'amore dell'artista per la fisica e i musei di storia naturale.
 **Lettura critica:** al tempo stesso semi-scientifica (come sfogliare un'enciclopedia per bambini) ed emotiva, surreale, onirica — la figura umana in ombra si fa piccola dentro processi geologici e cosmici di scala immensa.
 
@@ -23,7 +23,7 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 
 ### Infinitely Yours
 **Corso:** `TAD-AVM`
-**Temi:** `performance-audiovisiva`
+**Temi:** `animazione-dal-vivo`
 **Descrizione:** performance dal vivo, spesso presentata in doppio programma con *This World Made Itself*, che esplora temi affini di trasformazione e scala attraverso lo stesso linguaggio ombra-animazione.
 **Lettura critica:** non ancora documentata nel dettaglio in questa scheda.
 

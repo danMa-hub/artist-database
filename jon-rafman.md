@@ -1,7 +1,7 @@
 # Jon Rafman
 
 **Tag tecnica/formato:** `video` `vr-ar` `net-art-sito-web`
-**Tag tema:** `economia-attenzione` `mondi-virtuali-simulazione`
+**Tag tema:** `economia-attenzione` `mondi-virtuali-simulazione` `performance-nei-mondi-virtuali`
 **Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
@@ -13,7 +13,7 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 ## Opere principali
 ### Kool-Aid Man in Second Life (2008-2011)
 **Corso:** `TAD-AVM`
-**Temi:** `avatar-e-corpo-virtuale` `performance-audiovisiva`
+**Temi:** `avatar-e-corpo-virtuale` `performance-nei-mondi-virtuali`
 **Descrizione:** l'artista performa dentro *Second Life* nei panni del Kool-Aid Man, generando conversazioni e situazioni kitsch con altri utenti.
 **Lettura critica:** collassa il registro celebrativo e quello della critica ironica, mostrando come i due si siano confusi nella cultura visiva della sua generazione.
 **Video:** [sito dedicato del progetto, con conversazione tra Jon Rafman e Nicholas O'Brien](http://koolaidmaninsecondlife.com/)

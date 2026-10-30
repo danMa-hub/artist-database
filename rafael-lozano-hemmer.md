@@ -1,7 +1,7 @@
 # Rafael Lozano-Hemmer
 
 **Tag tecnica/formato:** `installazione` `projection-mapping` `data-visualization`
-**Tag tema:** `corpo-identita` `sorveglianza-controllo` `performance-audiovisiva`
+**Tag tema:** `corpo-identita` `sorveglianza-controllo` `performance-audiovisiva` `video-mapping-e-proiezione`
 **Stato:** non ha un dottorato in chimica fisica (solo una laurea triennale): ha un dottorato honorario in Fine Arts (OCAD University, 2025) · da approfondire: Collider (2024)
 
 ## Biografia

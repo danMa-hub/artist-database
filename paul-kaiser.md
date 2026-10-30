@@ -1,7 +1,7 @@
 # Paul Kaiser
 
 **Tag tecnica/formato:** `motion-capture` `performance-dal-vivo` `procedurale-generativo`
-**Tag tema:** `corpo-identita` `performance-audiovisiva`
+**Tag tema:** `corpo-identita` `performance-audiovisiva` `performance-con-corpo-e-motion-capture`
 **Stato:** da cercare una versione integrale di Ghostcatching e Loops: online circolano solo estratti
 
 ## Biografia

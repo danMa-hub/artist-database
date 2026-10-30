@@ -22,7 +22,7 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 
 ### Delusional World
 **Corso:** `AW` `TAD-DCV`
-**Temi:** `avatar-e-corpo-virtuale` `performance-audiovisiva`
+**Temi:** `avatar-e-corpo-virtuale` `performance-con-corpo-e-motion-capture`
 **Descrizione:** prima performance live-streaming dell'artista: una danzatrice contemporanea dotata di tecnologia di motion capture proietta avatar digitali fantastici — divinità deliranti, mutanti ispirati ai manga, cyborg.
 **Lettura critica:** il corpo della performer diventa interfaccia per generare identità multiple e instabili in tempo reale.
 

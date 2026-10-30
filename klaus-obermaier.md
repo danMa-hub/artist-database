@@ -1,7 +1,7 @@
 # Klaus Obermaier
 
 **Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo` `motion-capture`
-**Tag tema:** `corpo-identita` `performance-audiovisiva`
+**Tag tema:** `corpo-identita` `performance-audiovisiva` `performance-con-corpo-e-motion-capture` `video-mapping-e-proiezione`
 **Stato:** da approfondire: Le Sacre du Printemps, Dancing House, EGO
 
 ## Biografia

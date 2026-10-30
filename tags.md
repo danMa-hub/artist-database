@@ -63,6 +63,17 @@ Sotto ogni opera, la riga `**Temi:**` usa questi concetti specifici, che servono
 - `mito-e-rituale` — rito, spiritualità, mito come tecnologia
 - `sogno-e-inconscio` — sogno, onirico, latent space
 
+### Performance audiovisiva e sotto-tag
+
+`performance-audiovisiva` è la categoria ampia. Chi usa uno dei sotto-tag compare automaticamente anche nella categoria: basta scrivere solo il sotto-tag specifico.
+
+- `visual-live-e-vjing` — visual dal vivo, VJing, set audiovisivi (Ikeda, Ratté, SPIME.IM, Lorem)
+- `video-mapping-e-proiezione` — mapping e proiezioni su architetture e oggetti (Lozano-Hemmer, P. Staff, Matreyek)
+- `lecture-performance` — lecture performance e video lecture (Steyerl, Cortright, JODI)
+- `animazione-dal-vivo` — animazione combinata con una performance dal vivo (Matreyek)
+- `performance-con-corpo-e-motion-capture` — corpo reale e motion capture (Obermaier, Kaiser, Eshkar)
+- `performance-nei-mondi-virtuali` — performance dentro giochi e mondi online (Washko, Mattes, Rafman)
+
 ## Corso
 
 Tag in maiuscolo che indicano per quale corso di Daniele Maffeis un artista è utile. Un artista può averne più d'uno. Stanno su una riga a parte, `**Tag corso:**`, sotto gli altri tag.
