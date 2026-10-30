@@ -43,6 +43,7 @@ Ogni scheda ha due parti:
 
 **Tag tecnica/formato:** `tag1` `tag2`
 **Tag tema:** `tag3` `tag4`
+**Tag corso:** `TAD` `M3D` (facoltativa: vedi `tags.md`)
 
 ## Biografia
 Anno di nascita, paese/città di provenienza (e dove opera, se diverso) — le informazioni di base per contestualizzare il lavoro. Può restare breve o approfondirsi quando la biografia è centrale per la poetica dell'artista. Se rilevanti e reperibili, menzionare le mostre/istituzioni più importanti della carriera (non un CV completo: solo ciò che aiuta a capire la rilevanza dell'artista).

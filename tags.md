@@ -29,3 +29,11 @@ Gli stessi tag possono comparire anche accanto a una singola opera, dentro "Oper
 ## Tema / approccio critico
 
 `storia-computer-grafica` `sorveglianza-controllo` `mondi-virtuali-simulazione` `corpo-identita` `economia-attenzione` `ecologia-ambiente` `memoria-archivio` `fantascienza-speculativa` `intelligenza-artificiale-critica` `game-culture` `temporalita-non-lineare` `genere-queerness` `capitalismo-lavoro` `colonialismo-decolonialita`
+
+## Corso
+
+Tag in maiuscolo che indicano per quale corso di Daniele Maffeis un artista è utile. Un artista può averne più d'uno. Stanno su una riga a parte, `**Tag corso:**`, sotto gli altri tag.
+
+- `TAD` — Tecniche di animazione digitale (triennio Design della Comunicazione Visiva e biennio). Chi lavora con l'animazione.
+- `AW` — Mondi virtuali (Audiovisivi per il web). Chi lavora con mondi virtuali, simulazioni, game engine, ambienti online.
+- `M3D` — Tecniche di modellazione digitale 3D. Valgono in generale, ma in particolare per chi lavora sul digitale in modo esplicito: texture mapping, storia della computer grafica, fotogrammetria, rendering.

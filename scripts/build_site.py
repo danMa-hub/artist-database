@@ -13,7 +13,8 @@ from PIL import Image
 
 ROOT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
 ESCLUSE = {"README", "informazioni", "contribuire", "tags", "00-lista-artisti", "index", "mostre"}
-RIGHE_TAG = [("tecnica", "**Tag tecnica/formato:**"), ("tema", "**Tag tema:**")]
+RIGHE_TAG = [("tecnica", "**Tag tecnica/formato:**"), ("tema", "**Tag tema:**"), ("corso", "**Tag corso:**")]
+TAG_CORSO = ["TAD", "AW", "M3D"]
 IMG = re.compile(r"!\[[^\]]*\]\((?!https?:)([^)\s]+)")
 LARGHEZZA_ANTEPRIMA = 480
 
@@ -161,7 +162,7 @@ for f in sorted(ROOT.glob("*.md")):
     righe = f.read_text(encoding="utf-8").split("\n")
     titolo = re.match(r"# (.+)", righe[0]) if righe else None
     nome = titolo.group(1).strip() if titolo else f.stem
-    tag = {"tecnica": [], "tema": []}
+    tag = {"tecnica": [], "tema": [], "corso": []}
     anteprima = None
     for i, riga in enumerate(righe[:15]):
         for chiave, prefisso in RIGHE_TAG:
@@ -206,7 +207,7 @@ for f in sorted(ROOT.glob("*.md")):
     f.write_text("\n".join(righe), encoding="utf-8")
     schede.append({"slug": f.stem, "nome": nome, "tag": tag, "miniatura": miniatura})
 
-per_tag = {"tecnica": {}, "tema": {}}
+per_tag = {"tecnica": {}, "tema": {}, "corso": {t: [] for t in TAG_CORSO}}
 for s in schede:
     for chiave in per_tag:
         for t in s["tag"][chiave]:
@@ -214,7 +215,7 @@ for s in schede:
 
 
 def scheda_card(s, prefisso=""):
-    tutti = s["tag"]["tecnica"] + s["tag"]["tema"]
+    tutti = s["tag"]["corso"] + s["tag"]["tecnica"] + s["tag"]["tema"]
     ricerca = html.escape((s["nome"] + " " + " ".join(tutti)).lower(), quote=True)
     if s["miniatura"]:
         thumb = f'<img loading="lazy" src="{prefisso}{s["miniatura"]}" alt="">'
@@ -244,7 +245,7 @@ title: {t}
 
 [Tutti i tag](index.html) · [Elenco degli artisti](../index.html)
 
-{len(elenco)} schede ({'tecnica/formato' if chiave == 'tecnica' else 'tema'}):
+{len(elenco)} schede ({ {'tecnica': 'tecnica/formato', 'tema': 'tema', 'corso': 'corso'}[chiave] }):
 
 <div class="grid">
 {card}
@@ -254,7 +255,7 @@ title: {t}
 
 indice_tag = ["---", "title: Tag", "---", "", "# Tag", "",
               "[Elenco degli artisti](../index.html) · [Vocabolario dei tag](../tags.html)", ""]
-for chiave, titolo in (("tecnica", "Tecnica e formato"), ("tema", "Tema")):
+for chiave, titolo in (("corso", "Corso"), ("tecnica", "Tecnica e formato"), ("tema", "Tema")):
     indice_tag += [f"## {titolo}", ""]
     for t, elenco in sorted(per_tag[chiave].items()):
         indice_tag.append(f"- [{t}]({slug_tag(t)}.html) ({len(elenco)})")
@@ -289,7 +290,7 @@ title: Artist Database
 
 > **Lavoro in corso.** Le schede sono in parte compilate con l'aiuto dell'intelligenza artificiale e vanno ancora riviste: possono contenere errori, date o titoli da verificare, schede parziali. Controlla sempre le fonti linkate e segnala o correggi ciò che non torna ([come contribuire](contribuire.html)).
 
-[Informazioni sul progetto](informazioni.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
+[Informazioni sul progetto](informazioni.html) · Per corso: [TAD](tag/tad.html), [AW](tag/aw.html), [M3D](tag/m3d.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
 
 <input id="cerca" type="search" placeholder="Cerca un artista o un tag" class="cerca">
 
