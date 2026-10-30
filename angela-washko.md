@@ -1,7 +1,7 @@
 # Angela Washko
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
-**Tag tema:** `genere-queerness` `game-culture`
+**Tag tema:** `genere-queerness` `game-culture` `performance-audiovisiva`
 **Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia

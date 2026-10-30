@@ -1,7 +1,7 @@
 # Shelley Eshkar
 
 **Tag tecnica/formato:** `motion-capture` `performance-dal-vivo` `procedurale-generativo`
-**Tag tema:** `corpo-identita`
+**Tag tema:** `corpo-identita` `performance-audiovisiva`
 **Stato:** da cercare una versione integrale di Ghostcatching e Loops: online circolano solo estratti
 
 ## Biografia

@@ -1,7 +1,7 @@
 # Hito Steyerl
 
 **Tag tecnica/formato:** `video` `desktop-lecture-performance` `installazione`
-**Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro`
+**Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro` `performance-audiovisiva`
 **Tag corso:** `TAD-DCV` `AVM` `M3D`
 
 ## Biografia

@@ -1,7 +1,7 @@
 # Ryoji Ikeda
 
 **Tag tecnica/formato:** `data-visualization` `installazione` `live-visual-vjing`
-**Tag tema:** `storia-computer-grafica` `fantascienza-speculativa`
+**Tag tema:** `storia-computer-grafica` `fantascienza-speculativa` `performance-audiovisiva`
 **Tag corso:** `TAD-DCV` `AVM` `M3D`
 **Stato:** da verificare il ruolo in Dumb Type (fondatore o membro) · da approfondire: the transfinite (2011)
 

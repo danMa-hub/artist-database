@@ -1,7 +1,7 @@
 # Andrew Benson
 
 **Tag tecnica/formato:** `video` `live-visual-vjing` `procedurale-generativo`
-**Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
+**Tag tema:** `storia-computer-grafica` `temporalita-non-lineare` `performance-audiovisiva`
 **Stato:** attenzione all'omonimia: «Andrew Benson» è un nome molto comune, non confonderlo con altri artisti
 
 ## Biografia

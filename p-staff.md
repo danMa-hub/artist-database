@@ -1,7 +1,7 @@
 # P. Staff
 
 **Tag tecnica/formato:** `installazione` `video` `projection-mapping`
-**Tag tema:** `corpo-identita` `genere-queerness`
+**Tag tema:** `corpo-identita` `genere-queerness` `performance-audiovisiva`
 
 ⚠️ **Nota di inquadramento**: P. Staff ha già una scheda nel database gemello `research-database`, incentrata su corpo trans/queer. Questa scheda privilegia la lettura mediale/percettiva della pratica (luce, retina, dispositivo installativo come tecnologia sul corpo dello spettatore) più adatta a un database su new media/video/installazione — la componente queer/trans resta comunque strutturale nella poetica e non va del tutto omessa.
 

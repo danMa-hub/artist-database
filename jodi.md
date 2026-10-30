@@ -1,7 +1,7 @@
 # JODI
 
 **Tag tecnica/formato:** `net-art-sito-web` `videogioco-simulazione` `desktop-lecture-performance`
-**Tag tema:** `economia-attenzione` `storia-computer-grafica`
+**Tag tema:** `economia-attenzione` `storia-computer-grafica` `performance-audiovisiva`
 
 ## Biografia
 JODI è il duo formato da **Joan Heemskerk** (nata nel 1968 a Kaatsheuvel, Paesi Bassi) e **Dirk Paesmans** (nato nel 1965 a Bruxelles, Belgio). Si incontrano nel 1992 alla Jan van Eyck Academie di Maastricht, dove studiano fotografia e video; nel 1993 intraprendono una residenza di 18 mesi al CADRE (Computers in Art and Design Research) della San José State University, in Silicon Valley — il contesto in cui iniziano a lavorare con i media digitali e il web nascente. Il nome JODI nasce dalla contrazione di "Joan" e "Dirk". Il sito jodi.org è online dall'agosto 1995. Vivono e lavorano nei Paesi Bassi. SFMOMA li descrive come "programmatori e coder autodidatti" che "sezionano l'hardware e il software di computer, videogiochi, interfacce del browser web e piattaforme internet". Sono tra le figure fondative del movimento net.art della metà degli anni '90, accanto a Vuk Ćosić, Alexei Shulgin, Olia Lialina, Heath Bunting. Nel 1999 vincono il Webby Award nella categoria Net Art, con un discorso di accettazione di sole cinque parole (limite imposto dalla premiazione) diventato leggendario nell'ambiente. Nel 2014 vincono il primo Prix Net Art (Rhizome/New Museum e Tsinghua University Art and Science Media Lab), 10.000 dollari, giuria che include i curatori Michael Connor, Samantha Culp, Zhang Ga, Sabine Himmelsbach.

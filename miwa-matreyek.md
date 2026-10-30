@@ -1,7 +1,7 @@
 # Miwa Matreyek
 
 **Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo` `animazione-2d`
-**Tag tema:** `corpo-identita` `ecologia-ambiente`
+**Tag tema:** `corpo-identita` `ecologia-ambiente` `performance-audiovisiva`
 **Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia

@@ -1,7 +1,7 @@
 # Nathaniel Stern
 
 **Tag tecnica/formato:** `performance-dal-vivo` `installazione` `fotografia`
-**Tag tema:** `corpo-identita` `ecologia-ambiente`
+**Tag tema:** `corpo-identita` `ecologia-ambiente` `performance-audiovisiva`
 
 ## Biografia
 Artista, scrittore e docente. Professore ordinario di Art and Mechanical Engineering alla University of Wisconsin-Milwaukee (UWM), dove dirige anche lo UWM Startup Challenge al Lubar Entrepreneurship Center. Borsista NEA, Fulbright e NSF.

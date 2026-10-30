@@ -28,7 +28,9 @@ Gli stessi tag possono comparire anche accanto a una singola opera, dentro "Oper
 
 ## Tema / approccio critico
 
-`storia-computer-grafica` `sorveglianza-controllo` `mondi-virtuali-simulazione` `corpo-identita` `economia-attenzione` `ecologia-ambiente` `memoria-archivio` `fantascienza-speculativa` `intelligenza-artificiale-critica` `game-culture` `temporalita-non-lineare` `genere-queerness` `capitalismo-lavoro` `colonialismo-decolonialita`
+`storia-computer-grafica` `sorveglianza-controllo` `mondi-virtuali-simulazione` `corpo-identita` `economia-attenzione` `ecologia-ambiente` `memoria-archivio` `fantascienza-speculativa` `intelligenza-artificiale-critica` `game-culture` `temporalita-non-lineare` `genere-queerness` `capitalismo-lavoro` `colonialismo-decolonialita` `performance-audiovisiva`
+
+`performance-audiovisiva`: live cinema, performance audiovisive dal vivo, lecture performance e animazione in performance (per esempio Miwa Matreyek, SPIME.IM, Lorem).
 
 ## Corso
 

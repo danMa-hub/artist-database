@@ -1,7 +1,7 @@
 # Petra Cortright
 
 **Tag tecnica/formato:** `desktop-lecture-performance` `net-art-sito-web` `video`
-**Tag tema:** `economia-attenzione` `corpo-identita`
+**Tag tema:** `economia-attenzione` `corpo-identita` `performance-audiovisiva`
 
 ## Biografia
 Nata nel 1986 a Santa Barbara, California, figlia di due artisti (padre scultore/incisore e professore alla UC Santa Barbara, madre pittrice). Studia al California College of the Arts di San Francisco (2004) e alla Parsons School of Design di New York (2008). Vive e lavora a Los Angeles.
