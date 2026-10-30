@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `game-engine-realtime` `modellazione-3d` `video`
 **Tag tema:** `sorveglianza-controllo` `capitalismo-lavoro` `intelligenza-artificiale-critica`
 **Tag corso:** `TAD-DCV` `AW`
-**Stato:** scheda avanzata · l'attribuzione di tre immagini alle rispettive opere è probabile ma non certa (vedi Crediti delle immagini)
+**Stato:** scheda avanzata · l'attribuzione di tre immagini alle rispettive opere è probabile ma non certa (vedi Crediti delle immagini) · da aggiungere: NOX High-Rise (Hammer Museum, 2025) e la serie SimBeijing
 
 ## Biografia
 Nato nel 1982 a Francoforte sul Meno, di origini malaysiana-cinesi; infanzia divisa tra Europa e Asia (incluso un periodo a Osaka) prima di stabilirsi nel Regno Unito. Vive e lavora a Londra ([Wikipedia](https://en.wikipedia.org/wiki/Lawrence_Lek); [Ocula](https://ocula.com/artists/lawrence-lek/)). Formazione in architettura: laurea al Trinity College, Università di Cambridge (2004); AA Diploma alla Architectural Association di Londra (2008); Master of Architecture II alla Cooper Union di New York (2012); PhD al Royal College of Art di Londra (2022). Nel 2024 ha vinto il **Frieze Artist Award**; incluso da *Time* tra le 100 persone più influenti nell'IA.
@@ -101,6 +101,12 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 
 ## Interviste e talk
 - Conversazione con l'artista e il professor Iyad Rahwan su *NOX*: vedi il video sotto l'opera.
+- [Berkeley BCNM — Art, Technology and Culture, talk di Lawrence Lek (2020), con trascrizione](https://bcnm.berkeley.edu/news-research/4217/atc-transcript-now-online-lawrence-lek)
+- [L'Officiel Art — «Non-human Perspectives», intervista di Angelica Moschin (2019)](https://www.pressreader.com/france/l-officiel-art/20190701/281509343085922)
+- [Kill Screen — Lawrence Lek e la trilogia sull'IA e la smart city](https://www.killscreen.com/lawrence-lek-ai-consciousness-smart-city-trilogy/)
+- [AQNB — «The weird + eerie»: intervista a Lawrence Lek sulla VR (2017)](https://webarchives.rhizome.org/Q16289/oe_/https://www.aqnb.com/?p=70302)
+- [Los Angeles Review of Books — «Virtual Worlds, Future Minds» (video)](https://lareviewofbooks.org/av/virtual-worlds-future-minds/)
+- [Centrea — proiezione di *Sinofuturism* e talk con Lawrence Lek](https://centrea.org/blogs/archive/sinofuturism-1839-2046-ad)
 
 ## Fonti
 - [lawrencelek.com](https://www.lawrencelek.com/)

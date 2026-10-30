@@ -69,7 +69,9 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 **Approfondimento:** [Galerie — Orbital Reflector](https://galeriemagazine.com/trevor-paglen-orbital-reflector/); [Sky & Telescope](https://skyandtelescope.org/astronomy-news/spacecraft-and-space-missions/spacex-orbiting-sculpture/); [Artnet](https://news.artnet.com/art-world/trevor-paglen-orbital-reflector-lost-space-1533073)
 
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- **Video:** [Louisiana Channel — Trevor Paglen Interview: Moving Through the Night Sky](https://vimeo.com/288119571)
+- [MCA Chicago — Talk: Trevor Paglen (luglio 2018)](https://mcachicago.org/Calendar/2018/07/Talk-Trevor-Paglen)
+- [SSENSE — «The Artist Trevor Paglen, the Surveillance State, and Your Life»](https://www.ssense.com/en-it/editorial/art/this-artist-the-military-industrial-complex-and-your-life)
 
 ## Fonti
 - [paglen.com](https://paglen.com/) (sito ufficiale, da verificare url esatto)

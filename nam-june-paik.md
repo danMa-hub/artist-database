@@ -67,9 +67,19 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 
 **Approfondimento:** [Smithsonian American Art Museum — Electronic Superhighway](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
 
+### Video Synthesizer (Paik-Abe)
+**Descrizione:** strumento per manipolare l'immagine video. In un'intervista via satellite con la ZDF, legata alla retrospettiva alla Kunsthalle di Brema (1999), Paik lo ha definito la sua opera più importante.
+
+**Approfondimento:** [Nam June Paik Art Center](https://njpart.ggcf.kr/events/246)
+
 ## Interviste e talk
 - **Video:** [MoMA, walkthrough di *Zen for TV* (YouTube)](https://www.youtube.com/watch?v=-_EGwhZ64LQ)
 - [Smithsonian American Art Museum — archivio Paik](https://americanart.si.edu/research/paik): oltre 200 videocassette e trascrizioni di interviste, tra cui una a Dick Higgins.
+- [*Nam June Paik: Moon Is the Oldest TV* (2023), documentario di Amanda Kim — recensione BFI](https://www.bfi.org.uk/sight-and-sound/reviews/nam-june-paik-moon-oldest-tv-thoughtful-celebration-video-art-pioneer)
+- [EAI — *Nam June Paik: Edited for Television*: intervista di Calvin Tomkins](https://eai.org/titles/nam-june-paik-edited-for-television)
+- [Nicholas Zurbrugg — «Nam June Paik: An Interview»](https://journals.uc.edu/index.php/vl/article/view/5619)
+- *Nam June Paik – Das Gute Gewissen der Avantgarde* (WDR, 1977) e *Nam June Paik: Lessons from the Video Master* (Skip Blumberg, 2006, 48 minuti): documentari biografici da cercare.
+- [Nam June Paik Art Center — filmati d'archivio, tra cui l'intervista via satellite con ZDF (1999)](https://njpart.ggcf.kr/events/246)
 
 ## Fonti
 - [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)

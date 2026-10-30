@@ -17,7 +17,7 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 ### RGBFAQ (2020, 27'38")
 **Corso:** `M3D` `TAD-DCV`
 **Temi:** `dataset-e-addestramento` `realismo-sintetico`
-**Descrizione:** video-saggio che ripercorre la storia della computer grafica dalla WW2 ai modelli di machine learning, fino ai synthetic dataset usati come "ground truth" per l'addestramento di algoritmi di visione artificiale.
+**Descrizione:** sviluppato nel dottorato di Warburton a Birkbeck e mostrato come video-saggio spaziale all'arebyte Gallery di Londra (17 ottobre 2020 – 30 maggio 2021): video-saggio che ripercorre la storia della computer grafica dalla WW2 ai modelli di machine learning, fino ai synthetic dataset usati come "ground truth" per l'addestramento di algoritmi di visione artificiale.
 **Lettura critica:** l'immagine contemporanea è già molto più di una fotografia tradizionale — un "decoy", una simulazione baudrillardiana che confonde dato e estetica, macchina e umano; l'immagine "ponte" tra XYZ e RGB, spazio e colore, dato ed estetica.
 
 ![RGBFAQ — fotogramma 1](immagini/alan-warburton/rgbfaq-still-01.jpg)
@@ -89,7 +89,9 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 ⚠️ Nessuna immagine: opera non presente tra i progetti elencati sul sito ufficiale attuale — coerente con lo stato "da fonte non verificata" già segnalato.
 
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- [arebyte — Katrina Sluis × Alan Warburton, serie di interviste per RGBFAQ](https://aos.arebyte.com/contents/katrina-sluis-alan-warburton/)
+- [arebyte — Tobias Revell × Alan Warburton](https://aos.arebyte.com/contents/tobias-revell-alan-warburton/)
+- [Studio for Creative Inquiry — RGBFAQ Video Essay](https://studioforcreativeinquiry.org/?p=17131)
 
 ## Fonti
 - [alanwarburton.co.uk](https://alanwarburton.co.uk)

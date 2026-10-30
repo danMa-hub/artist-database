@@ -34,7 +34,7 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 ### Musique Non-Stop (1986, con Kraftwerk)
 **Corso:** `TAD-DCV` `M3D`
 **Temi:** `performance-audiovisiva`
-**Descrizione:** videoclip musicale per Kraftwerk, con cui Allen inizia a collaborare nel 1984; teste digitali stilizzate dei membri della band animate in computer grafica.
+**Descrizione:** Allen ha creato tutto il materiale visivo dell'album *Electric Café* (1986); videoclip musicale per Kraftwerk, con cui Allen inizia a collaborare nel 1984; teste digitali stilizzate dei membri della band animate in computer grafica.
 **Lettura critica:** porta l'animazione digitale del corpo umano nella cultura pop di massa, anticipando l'estetica "robotica" che diventerà un riferimento ricorrente nella computer grafica successiva.
 
 ![Musique Non-Stop](immagini/rebecca-allen/musique-non-stop.jpg)
@@ -71,6 +71,9 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 
 ## Interviste e talk
 - [Serpentine Galleries — «Rebecca Allen on Kraftwerk, Video Games & Artificial Life»](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
+- [Rhizome — «Rebecca Allen's 3D Graphics for Kraftwerk», intervista di Geeta Dayal (2012)](https://old.rhizome.org/editorial/2012/apr/24/rebecca-allens-3d-graphics-kraftwerk)
+- [Rolling Stone Italia — intervista a Rebecca Allen](https://www.rollingstone.it/?p=1030564)
+- [Right Click Save — «Rebecca Allen and the birth of virtual reality»](https://rightclicksave.com/article/rebecca-allen-and-the-birth-of-virtual-reality-interview)
 
 ## Fonti
 - [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)

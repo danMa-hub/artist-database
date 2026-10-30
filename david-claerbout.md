@@ -3,7 +3,7 @@
 **Tag tecnica/formato:** `video` `fotografia`
 **Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
 **Tag corso:** `TAD-DCV` `TAD-AVM`
-**Stato:** descrizioni volutamente minime per cinque opere (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) · da approfondire
+**Stato:** descrizioni volutamente minime per cinque opere (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) · da approfondire · da documentare: Ruurlo, Borculoscheweg, 1910 (1997), Nocturnal Landscapes (1999), The Close, Aircraft (F.A.L.)
 
 ## Biografia
 Artista belga, nato nel 1969 a Kortrijk; vive e lavora tra Anversa e Berlino. Si forma come pittore presso il Nationaal Hoger Instituut voor Schone Kunsten di Anversa (secondo una fonte, anche presso la Rijksakademie di Amsterdam) e si è progressivamente interessato al tempo attraverso indagini sulla natura della fotografia, l'immagine fissa e quella in movimento, passando alla fotografia, al video e alle arti digitali. Realizza installazioni di grande formato che pongono domande su tempo, memoria e verità. Tra le mostre personali recenti in musei: Musée de l'Orangerie, Parigi (2025), Centraal Museum, Utrecht (2024), Milwaukee Art Museum (2022), Garage Museum of Contemporary Art, Mosca (2021); tra le precedenti, SFMOMA, San Francisco (2011). È rappresentato, tra gli altri, da Sean Kelly, Esther Schipper e Galerie Micheline Szwajcer ([EAI](https://www.eai.org/artists/david-claerbout/biography); [SMAK](https://smak.be/en/artists/david-claerbout); [Esther Schipper](https://www.estherschipper.com/artists/53-david-claerbout/biography/)).
@@ -123,6 +123,11 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 - **Video:** [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
 - **Video:** [«On Dark Optics», lecture all'e-flux, New York, 11 marzo 2019 (YouTube)](https://www.youtube.com/watch?v=udVGSu5A2lw)
 - Conversazione con Sara Dolfi Agostini su *Oil Workers*: vedi il video sotto l'opera.
+- Mastertalk «Dark Optics», EYE Filmmuseum, Amsterdam, 24 novembre 2018 (elencato nella [pagina dell'artista su Sean Kelly](https://skny.com/artists/david-claerbout))
+- Intervista sul film *Die reine Notwendigkeit* (*The Pure Necessity*), Städel Museum, Francoforte, 2016 (stessa pagina)
+- [Hamburger Bahnhof — «In Conversation: David Claerbout» (6 aprile 2024)](https://www.smb.museum/en/online-offers/detail/in-conversation-david-claerbout/)
+- [Museum of Non-Visible Art — intervista di Brainard Carey](https://museumofnonvisibleart.com/interviews/david-claerbout/)
+- *The Silence of the Lens* (Hannibal Books, 2022) include una conversazione con Jonathan Pouthier, curatore del Centre Pompidou, su *The Close*, *Aircraft (F.A.L.)*, *Wildfire*, *The Confetti Piece* e *The Pure Necessity*.
 
 ## Fonti
 - [davidclaerbout.com](https://davidclaerbout.com/)

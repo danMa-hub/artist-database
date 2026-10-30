@@ -76,8 +76,25 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 
 **Approfondimento:** [Esther Schipper — Liquidity Inc.](https://www.estherschipper.com/artists/102-hito-steyerl/works/17893/)
 
+### Duty-Free Art (2015)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `finanza-blockchain-dao` `lecture-performance`
+**Descrizione:** video a tre canali di circa 38 minuti, documentazione di una lecture preregistrata che lega le zone di libero scambio e i depositi franchi per l'arte al mercato dell'arte.
+
+**Approfondimento:** [Domus — Hito Steyerl, Duty-Free Art](https://domusweb.it/en/art/2016/03/29/hito_steyerl_duty-free_art.html)
+
+### In Free Fall (2010)
+**Descrizione:** video del 2010 (33'43" secondo il Museo Reina Sofía, 30' secondo Artists Space); descrizione da scrivere.
+
+**Approfondimento:** [Museo Reina Sofía — Hito Steyerl](https://www.museoreinasofia.es/en/exhibition/hito-steyerl)
+
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- [Museo Reina Sofía — Hito Steyerl: scheda della mostra](https://www.museoreinasofia.es/en/exhibition/hito-steyerl)
+- [Wexner Center — «Hito Steyerl 101»: introduzione alle sue lecture performance e ai suoi testi](https://wexarts.org/blog/hito-steyerl-101)
+- [Esther Schipper — artist talk con Hito Steyerl (scheda dell'evento)](https://www.estherschipper.com/news/85-artist-talk-with-hito-steyerl/)
+- [Hyperallergic — Wolgin Lecture 2023, Tyler School of Art](https://hyperallergic.com/803987/hito-steyerl-2023-wolgin-lecture-tyler-school-of-art-and-architecture/)
+- [ICA Miami — ARC: Hito Steyerl in conversazione (scheda dell'evento)](https://icamiami.org/calendar/arc-hito-steyerl-conversation/)
+- Libri: *The Wretched of the Screen* (Sternberg Press, 2012) e *Duty Free Art* (Verso, 2017).
 
 ## Fonti
 - [Esther Schipper — biografia ufficiale (galleria rappresentante)](https://www.estherschipper.com/artists/102-the-work-of-hito-steyerl/biography/)

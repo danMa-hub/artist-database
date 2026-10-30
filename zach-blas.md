@@ -55,6 +55,12 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 ## Interviste e talk
 - **Video:** [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)
 - **Video:** [The Right to Be Opaque — talk, transmediale (YouTube)](https://www.youtube.com/watch?v=Pbcr-n1e-IA)
+- [Vice — «Weaponizing Our Faces: An Interview with Zach Blas»](https://creators.vice.com/en/topic/zach-blas)
+- [Hyperallergic — Alicia Eler, «The Facelessness of Tomorrow Begins Today» (2013, PDF)](https://zachblas.info/wp-content/uploads/2013/04/alicia-eler_the-facelessness-of-tomorrow-begins-today_hyperallergic_2013.pdf)
+- [«Biometrics and Opacity»: una conversazione](https://zachblas.info/publications/biometrics-and-opacity-a-conversation/)
+- [«California Dreamin'»: Zach Blas e Ana Teixeira Pinto in conversazione](https://zachblas.info/?p=5277)
+- [Stedelijk Museum — lecture come visiting fellow 2025 (6 giugno 2025), sulla serie *Silicon Traces*](https://www.stedelijk.nl/en/events/zach-blas-visiting-fellow-en)
+- [ICA Londra (2014) — conversazione con Jack Halberstam: «How I Learned to Stop Worrying and Queer the Internet»](https://archive.ica.art/node/38967)
 
 ## Fonti
 - [zachblas.info — sito ufficiale](https://zachblas.info/)

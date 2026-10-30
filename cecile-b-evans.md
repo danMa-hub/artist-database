@@ -59,9 +59,21 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 
 **Approfondimento:** [Lafayette Anticipations — Amos' World](https://www.lafayetteanticipations.com/en/collection/oeuvre/amos-world-cecile-b-evans)
 
+### Sprung a Leak (2016, Tate Liverpool)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `corpo-post-umano`
+**Descrizione:** nuova commissione della prima personale dell'artista in un'istituzione pubblica britannica: un'opera multidimensionale con due robot umanoidi e un cane robot.
+
+**Approfondimento:** [Tate — comunicato su Cécile B. Evans](https://tate.org.uk/press/press-releases/cecile-b-evans)
+
 ## Interviste e talk
 - **Video:** [talk dell'artista (YouTube)](https://www.youtube.com/watch?v=bSgz3SxIrf4)
 - **Video:** [intervista (YouTube)](https://www.youtube.com/watch?v=nDe_W11KY4c)
+- [Tate Liverpool — curator talk con Lauren Barnes (9 marzo 2017)](https://www.tate.org.uk/whats-on/tate-liverpool/cecile-b-evans/curator-talk-cecile-b-evans)
+- [Tate Liverpool — conversazione con Michael Fisher e Karl Tuyls sulla collaborazione uomo-macchina (4 febbraio 2017)](https://www.tate.org.uk/whats-on/tate-liverpool/cecile-b-evans/conversation-michael-fisher-and-karl-tuyls)
+- [CURA — The Art Room 06: conversazione con Martha Kirszenbaum](https://curamagazine.com/?p=18113)
+- [Lafayette Anticipations — conversazione online con Madeleine Planeix-Crocker](https://www.lafayetteanticipations.com/en/node/9193)
+- [Frieze — Matthew McLean su Cécile B. Evans (2015)](https://www.frieze.com/article/c%C3%A9cile-b-evans)
 
 ## Fonti
 - [cecilebevans.com](https://cecilebevans.com)

@@ -6,7 +6,7 @@
 **Stato:** sintesi: l'opera di Farocki è molto più vasta di quella qui raccolta · la parte sulle immagini operative si basa su due saggi (Parikka, Paglen)
 
 ## Biografia
-Regista, artista e scrittore tedesco (1944-2014). Figura centrale del cinema saggistico e dell'arte dei media critica sulle immagini tecniche, la guerra e il lavoro.
+Regista, artista e scrittore tedesco (1944-2014). Ha realizzato oltre 90 film, per lo più brevi documentari sperimentali; la mostra «Images of War (at a Distance)» al MoMA (2011) è stata la prima grande personale in un museo statunitense ([Wikipedia](https://wikipedia.com/wiki/Harun_Farocki)). Figura centrale del cinema saggistico e dell'arte dei media critica sulle immagini tecniche, la guerra e il lavoro.
 
 ## Poetica e ricerca
 Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operational image*): immagini non prodotte per essere guardate da un occhio umano, ma per essere calcolate, misurate, usate per navigare, colpire un bersaglio, tracciare un oggetto — immagini che passano "dai modi di vedere ai modi di calcolare" (Jussi Parikka). La sua ricerca lega la storia delle immagini tecniche a quella della produzione industriale, della violenza, del lavoro e dei dati, rifiutando di trattarle come mera cultura visiva. Il suo lavoro attraversa decenni indagando come le tecnologie della visione — dai sistemi di puntamento militare ai motori grafici dei videogiochi — costruiscano un modo specifico di vedere (e agire su) il mondo.
@@ -66,8 +66,15 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 
 **Approfondimento:** [Haus der Kunst — Harun Farocki, Counter-Music](https://hausderkunst.de/en/eintauchen/harun-farocki-counter-music)
 
+### Altre opere (elenco da approfondire)
+**Descrizione:** dal catalogo del Video Data Bank: *How to Live in the FRG* (1990), *The Appearance* (1996), *Still Life* (1997), *The Interview* (1997), *The Creators of Shopping Worlds* (2001). Titoli e anni sono quelli del catalogo, le descrizioni vanno ancora scritte.
+
+**Approfondimento:** [Video Data Bank — Harun Farocki](https://vdb.org/node/9912)
+
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- «Nine Minutes in the Yard: A Conversation with Harun Farocki», di Rembert Hüser, in Thomas Elsaesser (a cura di), *Harun Farocki: Working on the Sight-Lines* (2004) — testo a stampa
+- [MACBA — Harun Farocki. To think in images](https://www.macba.cat/en/node/21709): scheda dell'evento, con la lecture «Subtext and subimage» tenuta da Farocki con Roger M. Buergel (non è una registrazione)
+- [Video Data Bank — Harun Farocki](https://vdb.org/node/9912): catalogo e distribuzione dei film
 
 ## Fonti
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)

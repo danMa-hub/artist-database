@@ -51,6 +51,11 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 - **Video:** [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
 - **Video:** [Intervista sull'opera dell'artista (YouTube)](https://www.youtube.com/watch?v=kg1k8BmTqNg)
 - [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)
+- [LUMA Arles — intervista a Ian Cheng, con un talk insieme a Uzodinma Iweala e Rachel Rose](https://luma.org/en/arles/artists-thinkers-a-z/ian-cheng)
+- [Moderna Museet — talk con Ian Cheng e la produttrice Veronica So sull'architettura cognitiva di *BOB*](https://www.modernamuseet.se/stockholm/en/?p=106063)
+- [Serpentine — Ian Cheng: BOB, Emissaries (video)](https://www.serpentinegalleries.org/watch/ian-cheng-bob-emissaries/)
+- [The Brooklyn Rail — Ian Cheng con Osman Can Yerebakan (febbraio 2019)](https://brooklynrail.org/2019/02/art/IAN-CHENG-with-Osman-Can-Yerebakan)
+- *Emissaries Guide to Worlding* ([Serpentine](https://shop.serpentinegalleries.org/products/coming-soon-ian-cheng-emissaries-guide-to-worlding)): il libro include un'intervista di Hans Ulrich Obrist a Cheng.
 
 ## Fonti
 - [iancheng.com](https://iancheng.com/)
