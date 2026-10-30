@@ -17,6 +17,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 
 ![Postcards from Google Earth — esempio](immagini/clement-valla/postcards-from-google-earth.png)
 
+![Postcard from Google Earth (Pont Mirabeau, 43°41'23.4"N 5°40'00.5"E) (2023) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1005-pfge-mirabeau-23x60-small.jpg)
+
+![Postcard from Google Earth (Apalachia, 33°32'41.98"N, 86°38'35.28"W) (2012) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1005-pfge-apalachia.jpg)
+
+![Postcard from Google Earth (Los Angeles 1, 34°1'45.70"N, 118°13'32.98"W) (2012) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1005-pfge-la1.jpg)
+
+![Postcard from Google Earth (Niagara Falls, 43°5'22.07"N, 79° 4'5.97"W) (2012) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1005-pfge-niagra.jpg)
+
 **Approfondimento:** [clementvalla.com — Postcards from Google Earth](https://clementvalla.com/work/postcards-from-google-earth/)
 
 ### Surface Survey (2014)
@@ -24,6 +32,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 **Lettura critica:** esplora il confine sempre più eroso tra reale e virtuale attraverso concetti di archeologia, software e immagini "non pensate per essere viste da un occhio umano" — un antecedente diretto delle "immagini operative" di Farocki e Paglen (già in database).
 
 ![Surface Survey — stampa/scultura da texture map](immagini/clement-valla/surface-survey.jpg)
+
+![Light Map, Wright Filler, Engine, ID: A19610048000 (2014) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1305-ss-image-3286.jpg)
+
+![Surface Midden 1972150 (2014) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1305-ss-image-3289.jpg)
+
+![Surface Survey 1978.412.22 (Feline Altar) (2014) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1305-ss-image-3294.jpg)
+
+![Surface Survey 1989.121 (Chamunda, the Horrific Destroyer of Evil) (2014) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1305-ss-image-3313.jpg)
 
 **Approfondimento:** [clementvalla.com — Surface Survey](https://clementvalla.com/work/surface-survey/)
 
@@ -37,6 +53,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 
 ![Seed Drawings — dal sito ufficiale](immagini/clement-valla/seed-drawings-3.jpg)
 
+![Seed Drawing 91 (2014) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-0910-seed-s91.jpg)
+
+![Seed Drawing 2 (2010) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-0910-seed-s2-44inches.jpg)
+
+![Seed Drawing 31 (2010) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-0910-seed-s31-32inches.jpg)
+
+![Seed Drawing 41 (2010) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-0910-seed-s41-24inches.jpg)
+
 **Approfondimento:** [clementvalla.com — Seed Drawings](https://clementvalla.com/work/seed-drawings.html)
 
 ### Surface Proxy (2014-2015)
@@ -48,6 +72,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 ![Surface Proxy — fotografia di Vinciane Verguethen](immagini/clement-valla/surface-proxy-2.jpg)
 
 ![Surface Proxy — fotografia di Vinciane Verguethen](immagini/clement-valla/surface-proxy-3.jpg)
+
+![Asplenium Scolopendrium Textilograph (2015) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1411-sp-014.jpg)
+
+![Wrapped Apostle (RISD Museum 41.046) (2015) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1411-p1040789.jpg)
+
+![Wrapped Cistern (Metropolitan Museum of Art 33.21.1) (2015) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1411-sp-003.jpg)
+
+![Wrapped Impost Block with Acanthus Decoration (Metropolitan Museum of Art 13.152.1) (2015) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1411-sp-004.jpg)
 
 **Approfondimento:** [clementvalla.com — Surface Proxy](https://clementvalla.com/work/surface-proxy.html); **catalogo:** [*Surface Proxy*, XPO Gallery, Parigi, 2015 (PDF, 51 pagine)](https://clementvalla.com/texts/surface-proxy-xpo-2015.pdf), con il saggio di Christiane Paul «Surface Proxy: Reskinned Relics and Architectures of Mediation»
 
@@ -61,6 +93,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 
 ![pointcloud.garden — dal sito ufficiale](immagini/clement-valla/pointcloud-garden-3.jpg)
 
+![Gradient Canopy (2025) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-2503-gradient-canopy-print.jpg)
+
+![Pointcloud Garden at 17th Contemporary Istanbul (2022) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-2209-pcg-istanbul.jpg)
+
+![Palms, Rainmaker Park, 03 (2021) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1908-191226-rainmaker-033.jpg)
+
+![Suburbs pointcloud.garden (2021) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1908-asters-software.jpg)
+
 **Approfondimento:** [clementvalla.com — pointcloud.garden](https://clementvalla.com/work/pointcloud-garden.html); [pointcloud.garden](https://pointcloud.garden)
 
 ### Google Trees (2019-in corso, con Tobias Nolte)
@@ -72,6 +112,14 @@ Valla indaga come i sistemi di visione artificiale percepiscono il mondo, e come
 ![Google Trees — dal sito ufficiale](immagini/clement-valla/google-trees-2.jpg)
 
 ![Google Trees — dal sito ufficiale](immagini/clement-valla/google-trees-3.jpg)
+
+![A Google Tree (Villa Massimo) (2026) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1904-gt-villa-massimo.jpg)
+
+![A Google Tree (Gradient Canopy) (2025) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1904-gt-gradient-canopy.jpg)
+
+![Google Tree (Asti) (2025) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1904-gt-asti.jpg)
+
+![A Google Tree (Wuppertal) (2024) — dal catalogo del sito ufficiale](immagini/clement-valla/cat-1904-gt-wuppertal.jpg)
 
 **Approfondimento:** [clementvalla.com — Google Trees](https://clementvalla.com/work/google-trees.html); [googletreewuppertal.com](https://googletreewuppertal.com)
 
