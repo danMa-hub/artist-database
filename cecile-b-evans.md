@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `intelligenza-artificiale-critica` `corpo-identita`
+**Tag corso:** `TAD`
 **Stato:** testo in parte generato con IA, da verificare · elenco di sedi, residenze e collezioni da controllare voce per voce · film *Reality or Not* (Lafayette Anticipations, 2023) da confermare
 
 ## Biografia

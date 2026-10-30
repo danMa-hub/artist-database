@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `stampa-3d-scultura`
 **Tag tema:** `fantascienza-speculativa` `colonialismo-decolonialita`
+**Tag corso:** `M3D`
 
 ## Biografia
 Scrittore e artista, lecturer presso il Dipartimento di Media, Communications and Cultural Studies di Goldsmiths, University of London, dove co-dirige il MA in Digital Media. PhD in Art a Goldsmiths con una tesi intitolata *The Practice of Posthumanism*.

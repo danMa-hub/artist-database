@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video`
 **Tag tema:** `corpo-identita` `memoria-archivio`
+**Tag corso:** `TAD`
 
 ## Biografia
 Nato il 4 agosto 1961 a Hartford, Connecticut, Stati Uniti. Consegue un BS in Ingegneria Generale (1984) e un MS in Meccanica Teorica e Applicata (1986) alla University of Illinois Urbana-Champaign. Conduce ricerca sperimentale in fluidodinamica e co-sviluppa la Particle Image Velocimetry (PIV), oggi tecnica standard di misurazione del flusso, detenendo due brevetti correlati. Scopre l'animazione computerizzata lavorando con la professoressa Donna Cox al National Center for Supercomputing Applications (NCSA) di Urbana-Champaign, nel suo Renaissance Experimental Laboratory — un progetto inizialmente extracurricolare. Nel 1994 viene assunto dalla società di software Alias Research (che nel 1995 si fonde con Wavefront Technologies diventando Alias|Wavefront, poi parte di SGI, infine acquisita da Autodesk nel 2006) come animatore interno senior: il suo compito è testare e mettere sotto stress i nuovi strumenti di animazione, e il suo lavoro contribuisce direttamente allo sviluppo di Maya (1998). Vive e lavora a Toronto, Canada, dove è Distinguished Research Artist-in-Residence al Dynamic Graphics Project del Dipartimento di Informatica della University of Toronto; ha insegnato un corso magistrale di informatica e tenuto lezioni nel programma MSc di Biomedical Communications della Facoltà di Medicina. Vince il Premio Oscar per il miglior cortometraggio d'animazione alla 77ª cerimonia (2005) per *Ryan*.

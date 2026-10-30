@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `vr-ar` `video`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `game-culture`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Designer e regista nippo-britannico. *(Anno di nascita indicato in una fonte non verificata come 1980 — da controllare.)*

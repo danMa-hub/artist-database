@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `temporalita-non-lineare`
+**Tag corso:** `TAD`
 
 ## Biografia
 Nata nel 1983 a Los Angeles. Si trasferisce a Chicago per studiare alla School of the Art Institute of Chicago (SAIC), inizialmente con l'intenzione di diventare artista sonora, poi orientandosi verso scrittura creativa, cinema e incisione; consegue il BFA nel 2006. Ottiene in seguito un MFA alla Northwestern University (2016). Ha vissuto e lavorato a lungo a Chicago (base della sua forte associazione con la scena dei fumetti alternativi e dell'animazione sperimentale locale); fonti più recenti (2024) la collocano a Los Angeles, dove insegna al dipartimento di Experimental Animation del CalArts. È co-fondatrice e co-direttrice (con Alexander Stewart) dell'Eyeworks Festival of Experimental Animation, festival annuale fondato nel 2010 con edizioni a Chicago, Los Angeles e New York. Nel 2024 riceve una Guggenheim Fellowship nella categoria Creative Arts/Film-Video. Ha svolto residenze al MacDowell e al Bemis Center for Contemporary Arts. Il suo lavoro è apparso su *The New Yorker*, *The New York Times*, per la Los Angeles Philharmonic, sulla Poetry Foundation, in *Best American Comics* e *Best American Nonrequired Reading*. Rappresentata dalla galleria Western Exhibitions di Chicago.

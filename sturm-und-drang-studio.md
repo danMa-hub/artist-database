@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `game-engine-realtime` `installazione`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 ⚠️ Nota preliminare importante: "Sturm&Drang" e "Sturm&Drang Studio" **non sono uno studio di produzione CGI commerciale**, come inizialmente ipotizzato nella traccia di ricerca, bensì un **progetto curatoriale ed educativo**, nato dalla collaborazione fra **Fondazione Prada** (Milano) e **gta exhibitions**, dipartimento di Architettura del **ETH Zürich**. Curato da **Luigi Alberto Cippini** (Armature Globale), **Fredi Fischli** e **Niels Olsen** (gta exhibitions, ETH Zürich), il progetto indaga le pratiche, le esperienze e gli ambienti della computer-generated imagery (CGI).

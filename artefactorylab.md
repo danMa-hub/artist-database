@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `vr-ar` `animazione-2d`
 **Tag tema:** `storia-computer-grafica`
+**Tag corso:** `M3D`
 
 ## Biografia
 ArtefactoryLab è uno studio parigino specializzato nella rappresentazione visiva di progetti di architettura, urbanistica e paesaggio. Secondo fonti multiple e indipendenti (la pagina "About" dello studio, Architizer, Mira World, VR Marketing), il team realizza le prime immagini nel **1999**, per poi estendere l'attività ai film animati alcuni anni dopo e aggiungere una divisione dedicata alla realtà virtuale nel **2016**. L'entità legale "ArtefactoryLab" (forma SARL) risulta invece immatricolata formalmente il 23 ottobre 2008 presso i registri delle imprese francesi — una discrepanza comune fra data di attività creativa informale e data di costituzione societaria formale, da non confondere nella scheda. Fra i soci/collaboratori storici confermati sia dai registri societari francesi sia da profili LinkedIn: **Eric Anton** (co-gerente, immagine/film, accreditato per i render del Louvre Abu Dhabi), **Renny Bossu** (VFX supervisor/compositor, co-gerente film), **Jens Arnold** (CG Artist, partner) e **Dominique Duchemin** (indicato in più fonti come co-fondatore). Lo studio conta indicativamente fra gli 11 e i 50 dipendenti. Il suo elenco clienti, riportato dallo stesso studio, comprende collaborazioni pluriennali con alcuni fra i più importanti studi di architettura al mondo: **Ateliers Jean Nouvel, Herzog & de Meuron, Renzo Piano Building Workshop, OMA, Frank Gehry**.

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `motion-capture` `installazione`
 **Tag tema:** `corpo-identita` `fantascienza-speculativa`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Artista new media cinese.

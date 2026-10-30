@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `ai-generativa`
 **Tag tema:** `capitalismo-lavoro` `temporalita-non-lineare`
+**Tag corso:** `TAD` `AW`
 
 ## Biografia
 Artista, scrittrice e filmmaker. PhD in Art a Goldsmiths, University of London; associate lecturer alla RCA School of Architecture e alla Design Academy Eindhoven. Fondatrice di **Weird Economies**, piattaforma editoriale collettiva sugli immaginari economici. *(Anno di nascita indicato in una fonte non verificata come 1988 — da controllare.)*

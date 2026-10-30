@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `net-art-sito-web` `data-visualization`
 **Tag tema:** `economia-attenzione` `storia-computer-grafica`
+**Tag corso:** `M3D`
 
 ## Biografia
 Nata nel 1983 ad Arnhem, nei Paesi Bassi. Consegue due master all'Università di Amsterdam (MFA e Research MA); la tesi *"Jodi op de Pijnbank"* (2006, relatore Joost Bolten) analizza la modifica decostruttiva del videogioco Quake realizzata dal duo JODI, *untitled game* (1996-2001) — un lavoro di ricerca che confluirà direttamente nella sua successiva teoria del glitch. È stata professoressa a contratto di "Neue Medien & Visuelle Kommunikation" alla Kunsthochschule Kassel (2018-2020) e dal 2023 dirige l'Im/Possible Lab alla HEAD – Genève. Dal 2015 è fondatrice e direttrice di **i.R.D. — institute(s) for Resolution Disputes**, piattaforma di ricerca indipendente attraverso cui pubblica i propri lavori teorici. Nel 2019 vince il Collide International Barcelona Award (Arts at CERN), con una residenza di due mesi al CERN. Vive e lavora ad Amsterdam.

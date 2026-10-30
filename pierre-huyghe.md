@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `procedurale-generativo` `video`
 **Tag tema:** `mondi-virtuali-simulazione` `ecologia-ambiente`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Nato l'11 settembre 1962 a Parigi. Formazione all'École nationale supérieure des Arts décoratifs di Parigi, diplomato nel 1985. Vive e lavora a Santiago del Cile. Premio speciale della giuria alla 49ª Biennale di Venezia (2001, padiglione francese); Nasher Prize 2017 (Nasher Sculpture Center, Dallas). Fu tra i fondatori, insieme ad altri artisti francesi come Philippe Parreno (già in database), della corrente dell'"estetica relazionale" negli anni '90.

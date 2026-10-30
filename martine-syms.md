@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `performance-dal-vivo` `net-art-sito-web` `ai-generativa`
 **Tag tema:** `corpo-identita` `genere-queerness` `economia-attenzione`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Nata nel 1988 a Los Angeles, California. Consegue un BFA alla School of the Art Institute of Chicago (2007) e un MFA al Bard College (2017). Tra il 2007 e il 2011 gestisce Golden Age, spazio/negozio gestito da artisti a Chicago (oggi archivio online dei suoi progetti). Tornata a Los Angeles, fonda Dominica Publishing (2011 o 2012, a seconda della fonte), casa editrice indipendente dedicata a "esplorare la blackness nell'arte contemporanea e nella cultura visiva", che ha pubblicato, oltre alla stessa Syms, artiste come Diamond Stingily, Hannah Black e Laurie Anderson. Dal settembre 2017 insegna alla School of Art del CalArts. Vive e lavora a Los Angeles. Riconoscimenti: Creative Capital Award; Tiffany Foundation Biennial Award; segnalazione speciale al Future Generation Art Prize (2017); Guggenheim Fellowship; Herb Alpert Award in the Arts (2022, 75.000 dollari e residenza al CalArts); MacDowell Fellow. Opere nelle collezioni di MoMA, Whitney Museum, Guggenheim, LACMA, Tate, Art Institute of Chicago, MOCA Los Angeles e Studio Museum in Harlem. Rappresentata da Sadie Coles HQ (Londra), Sprüth Magers e Bridget Donahue (New York).

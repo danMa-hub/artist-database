@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `video`
 **Tag tema:** `corpo-identita` `storia-computer-grafica`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Artista britannico, nato nel 1982, cresciuto a Stonesfield, un paese vicino a Oxford (madre insegnante d'arte, padre grafico). BA al Central Saint Martins; MA in Fine Art allo Slade School of Fine Art, University College London (2009). Ha insegnato come Fine Art Lecturer al Goldsmiths College di Londra (2012-2014) — **non vi si è laureato**, come indicato erroneamente in una versione precedente di questa scheda. Vive a Copenaghen; insegna anche alla Hochschule für bildende Künste di Amburgo. Retrospettiva alla Tate Britain (recensita dal Guardian nell'aprile 2025).

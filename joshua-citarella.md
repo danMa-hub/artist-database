@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `net-art-sito-web`
 **Tag tema:** `economia-attenzione` `game-culture`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Artista e ricercatore statunitense, fondatore/collaboratore della piattaforma editoriale **New Models**. *(Biografia da approfondire.)*

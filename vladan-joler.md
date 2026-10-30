@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `data-visualization` `installazione`
 **Tag tema:** `sorveglianza-controllo` `capitalismo-lavoro` `intelligenza-artificiale-critica`
+**Tag corso:** `M3D`
 
 ## Biografia
 Nato nel 1977 a Novi Sad, in Serbia (allora Jugoslavia), dove vive e lavora tuttora. Professore di New Media all'Accademia di Belle Arti dell'Università di Novi Sad. Fondatore e direttore di **SHARE Lab**, laboratorio di ricerca e data investigation, e co-fondatore di **SHARE Foundation**, organizzazione no-profit per i diritti digitali con sede a Novi Sad, nata nel 2012 a partire dalle SHARE Conference tenute a Belgrado (2011-12) e Beirut (2012). Ha un background radicato nell'attivismo mediatico e nell'hacking di videogiochi, e ha curato incontri di attivisti, artisti e ricercatori di internet prima di formalizzare SHARE Lab. Il suo lavoro è entrato nelle collezioni permanenti di MoMA (New York), Victoria & Albert Museum e Design Museum (Londra), Ars Electronica Center (Linz), ed è stato mostrato in oltre 100 esposizioni internazionali, incluso il Parlamento Europeo. Riconoscimenti principali: menzione d'onore al S+T+ARTS Prize 2019 e vincitore assoluto del Beazley Designs of the Year 2019 (Design Museum, Londra) per *Anatomy of an AI System*; Grand Prize S+T+ARTS 2024 e Leone d'Argento alla Biennale Architettura di Venezia 2025 per *Calculating Empires* — premio che Joler ha dedicato ai manifestanti anti-governativi serbi.

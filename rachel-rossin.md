@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `vr-ar` `modellazione-3d` `fotogrammetria-scansione` `installazione`
 **Tag tema:** `corpo-identita` `mondi-virtuali-simulazione`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Nata nel 1987 a West Palm Beach, Florida. Consegue un BFA alla Florida State University (2009), unica formazione accademica formale — per il resto si definisce autodidatta nella programmazione, avendo iniziato a scrivere codice/"hackerare" computer fin da circa 5 anni, usando codice e disegno/videogiochi come modo per costruirsi "case" proprie durante un'infanzia difficile. Vive e lavora a New York. Riconoscimenti: Forbes "30 Under 30" (categoria Arte e Stile, 2017); prima Virtual Reality Fellow al NEW INC, l'incubatore del New Museum (circa 2015); Creative Capital Award (2024); borse dalla Peter S. Reed Foundation e dal Two Trees Cultural Affairs Cultural Space Subsidy Program (2018-2021). Nel 2025 il Solomon R. Guggenheim Museum acquisisce la sua opera *Scry Glass III* (2023) tramite lo Young Collectors Council, con il sostegno di Tiffany Zabludowicz — acquisizione annunciata nel gennaio 2026. Rappresentata dalla galleria Magenta Plains (New York) e da Albion Jeune (Londra); in precedenza da Zieher Smith & Horton e SIGNAL (entrambe New York/Brooklyn).

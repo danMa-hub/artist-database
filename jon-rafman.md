@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `vr-ar` `net-art-sito-web`
 **Tag tema:** `economia-attenzione` `mondi-virtuali-simulazione`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Artista canadese (Montréal).

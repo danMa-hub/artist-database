@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `ai-generativa`
 **Tag tema:** `corpo-identita` `storia-computer-grafica`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Nato a Mosca, Russia (anno di nascita non reperibile con fonte diretta). Si forma interamente a Londra: Foundation Diploma in Art & Design alla Wimbledon School of Art (2003-2004); BA (Hons) in Graphic Design, indirizzo Moving Image, alla Central Saint Martins (2004-2007); MA in Animation Direction al Royal College of Art (2007-2009), con il film di diploma *Fly on the Window*, proiettato a Zagabria, Annecy ed Edimburgo. Vive e lavora in Germania (le fonti divergono tra Mainz e Lipsia — da verificare). Si definisce "regista dell'ugly" (Ugly filmmaker). Artista in residenza al Q21/MuseumsQuartier di Vienna (2018). Tiene regolarmente talk e workshop a festival e università (Playgrounds, Forward Festival, Pictoplasma Conference Berlino, In Motion Londra). Riconoscimenti: Nelvana Grand Prize per il miglior corto d'animazione indipendente, Ottawa International Animation Festival (OIAF) 2017; Grand Prix, Animated Encounters Bristol 2017; New Talent Award, Fantoche; menzione d'onore, Prix Ars Electronica; Best Technique, OIAF 2018; Anča Award, Fest Anča International Animation Festival 2019.

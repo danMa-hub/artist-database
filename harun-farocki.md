@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `data-visualization`
 **Tag tema:** `sorveglianza-controllo` `storia-computer-grafica` `game-culture`
+**Tag corso:** `M3D`
 **Stato:** sintesi: l'opera di Farocki è molto più vasta di quella qui raccolta · la parte sulle immagini operative si basa su due saggi (Parikka, Paglen)
 
 ## Biografia

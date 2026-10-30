@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `ai-generativa` `procedurale-generativo`
 **Tag tema:** `intelligenza-artificiale-critica` `temporalita-non-lineare`
+**Tag corso:** `AW`
 **Stato:** le tre immagini provengono dalla scheda originale e non hanno una fonte tracciata · da sostituire con immagini di provenienza verificata
 
 ## Biografia

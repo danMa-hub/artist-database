@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `modellazione-3d`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione` `corpo-identita`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Artista visivo, animatore e teorico dei media digitali britannico. *(Fonte non verificata:)* nato nel 1980 a Londra; ha studiato al Royal College of Art di Londra; opere presentate al Somerset House Studios, alla Tate Britain, al Barbican Centre, alla Biennale di Berlino e in numerosi festival internazionali di media art.

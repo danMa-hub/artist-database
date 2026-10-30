@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `colonialismo-decolonialita` `sorveglianza-controllo`
+**Tag corso:** `TAD`
 
 ## Biografia
 Artista nata nel 1988 a Rabat, Marocco, cresciuta tra Rabat e Parigi, con base a New York. BFA alla Cooper Union (2012), MFA all'École Nationale Supérieure des Arts Décoratifs di Parigi (2011). Il suo lavoro è stato esposto al Kitchen (New York), alla Fondation Louis Vuitton (Parigi), alla Whitney Biennial, al MoMA PS1 e alla Renaissance Society di Chicago; opere nelle collezioni di Guggenheim, MoMA e Whitney Museum.

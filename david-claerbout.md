@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `fotografia`
 **Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
+**Tag corso:** `TAD`
 **Stato:** descrizioni volutamente minime per cinque opere (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) · da approfondire
 
 ## Biografia

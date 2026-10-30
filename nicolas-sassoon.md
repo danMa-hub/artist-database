@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `procedurale-generativo` `installazione` `fotogrammetria-scansione`
 **Tag tema:** `ecologia-ambiente` `mondi-virtuali-simulazione`
+**Tag corso:** `M3D`
 
 ## Biografia
 Artista con base a Vancouver, BC (Canada). Fondatore del collettivo W-A-L-L-P-A-P-E-R-S.

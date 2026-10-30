@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `mondi-virtuali-simulazione` `net-art-sito-web` `video`
 **Tag tema:** `corpo-identita` `genere-queerness` `mondi-virtuali-simulazione`
+**Tag corso:** `M3D`
 
 ## Biografia
 LaTurbo Avedon è un avatar virtuale che è, esso stesso, l'artista — non una persona adottata da un individuo non dichiarato, ma l'unica identità sotto cui il lavoro viene realizzato e firmato: una scelta concettuale e artistica sostenuta e coerente, trattata come tale da gallerie, musei e critica, non come un espediente. L'avatar prende forma dentro Second Life attorno al 2008-09, dopo precedenti esperimenti basati su profili (AOL, chat room). Non binario, pronomi they/them. Non esiste un'identità umana dichiarata pubblicamente — ed è precisamente questo il punto: il profilo di TechCrunch del 2019 si intitola letteralmente "The portrait of an avatar as a young artist" e conduce l'intervista attraverso l'avatar stesso, descrivendo "la voce robotica di LaTurbo". LaTurbo non rivendica una città o un paese fisico: opera attraverso mondi virtuali, videogiochi e piattaforme social piuttosto che in una collocazione geografica. È fondatore/ideatore di Panther Modern, "uno spazio espositivo basato su file che incoraggia gli artisti a creare installazioni site-specific per internet". Il rapporto espositivo più duraturo è con la TRANSFER Gallery di Brooklyn (direttrice Kelani Nichole), che ha presentato il lavoro di LaTurbo nel 2013, nel 2015 e di nuovo nel 2023; è inoltre nella scuderia della Annka Kultys Gallery di Londra.

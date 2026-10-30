@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `video`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
+**Tag corso:** `TAD`
 
 ## Biografia
 Animatore, pittore e artista computazionale ungherese, nato nel 1959 a Budapest. Lavora con i computer dal 1983 (aveva iniziato a fare animazioni già a nove anni). Nel 1992 è artista residente allo ZKM Visual Media Institute di Karlsruhe, di cui diventa membro del gruppo di ricerca dal 1993 al 1997.

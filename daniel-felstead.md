@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `economia-attenzione`
+**Tag corso:** `TAD`
 
 ## Biografia
 Daniel Felstead (PhD) è un artista, designer e accademico britannico. Ha conseguito una laurea in Interaction Design al Ravensbourne College di Londra e un dottorato in Interactive Art alla Royal Central School of Speech and Drama (RCSSD, University of London), con una tesi dedicata alla pratica di Tino Sehgal — *"What Can We Do With These Associations? Production, Organisation and Materiality in the Work of Tino Sehgal"* (2018) — che esplora incertezza, contingenza e complessità nella produzione speculativa. Attualmente dirige il corso MA Fashion Media Practice & Criticism (Fashion Media and Communication) al London College of Fashion, University of the Arts London (UAL). È co-fondatore di "Emergence of Tomorrow", spazio di discussione online/think tank. Ha collaborato o esposto con istituzioni come British Museum, Google, Jerwood Foundation, Samsung, Serpentine Galleries, Tate, V&A Museum, BBC, BFI e Science Museum, e ha tenuto talk/lezioni presso Architectural Association, Berlin Critics' Week, Die Angewandte, Fundació Foto Colectania, Global Art Forum (Art Dubai), ICA, RCA, RISD, Shedhalle (Zurigo) e Transmediale.

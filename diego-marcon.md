@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `memoria-archivio` `temporalita-non-lineare`
+**Tag corso:** `TAD`
 
 ## Biografia
 Nato nel 1985 a Busto Arsizio, provincia di Varese. Frequenta la Scuola Civica di Cinema, Televisione e Nuovi Media di Milano (2006) e consegue un BA in Arti Visive e Teatro allo IUAV, Università Iuav di Venezia (2012). Vive e lavora a Milano. Riconoscimenti: Premio MAXXI Bvlgari 2018 (Roma), vinto per il video *Ludwig* — la giuria ne cita "l'unica combinazione tra linguaggio analogico e digitale"; l'opera entra nella collezione permanente del MAXXI. Premio Scultura della Fondazione Henraux (4ª edizione, 2018), per una versione scultorea in marmo della figura del bambino di *Ludwig* — "la materializzazione in marmo di un bambino creato prima tramite un modello 3D". *The Parents' Room* debutta alla Quinzaine des Réalisateurs (Quindicina dei Registi) del Festival di Cannes 2021. Nel 2022 partecipa alla 59ª Biennale di Venezia, "Il latte dei sogni", curata da Cecilia Alemani, con *The Parents' Room*. Nel 2023 la Fondazione Nicola Trussardi gli dedica "Dramoletti", la sua prima antologica istituzionale in Italia (Teatro Gerolamo, Milano, curata da Massimiliano Gioni). Rappresentato dalle gallerie Sadie Coles HQ (Londra), Galerie Buchholz (Berlino/Colonia/New York), ZERO... (Milano) ed Ermes-Ermes (Roma/Vienna).

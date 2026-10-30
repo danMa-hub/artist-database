@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `fotogrammetria-scansione` `stampa-3d-scultura` `fotografia`
 **Tag tema:** `storia-computer-grafica` `intelligenza-artificiale-critica`
+**Tag corso:** `M3D`
 
 ## Biografia
 Nato nel 1979, artista con base a New York. BA in Architettura alla Columbia University; MFA in Digital+Media alla Rhode Island School of Design (RISD), dove è oggi professore associato.

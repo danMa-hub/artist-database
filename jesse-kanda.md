@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `genere-queerness`
+**Tag corso:** `M3D`
 
 ## Biografia
 Nome completo Jesse Soichiro Kanda, nato il 23 giugno 1987, nato in Giappone (Kanagawa) e cresciuto in parte in Canada (città non confermata con fonte diretta). Autodidatta, senza formazione artistica formale: inizia a condividere il proprio lavoro online attorno ai 13 anni, tramite DeviantArt e mp3.com, nei primi anni 2000. Vive e lavora a Londra (quartiere di Dalston). Incontra la musicista Alejandra Ghersi (Arca) in un forum di DeviantArt quando lui ha 15 anni e lei 13, anni prima di incontrarsi di persona; vivono insieme a Dalston, e Arca ha descritto pubblicamente il legame come "una questione d'amore, ma non d'amore romantico", definendo Kanda la propria "anima gemella" — una relazione creativa e intima la cui natura esatta va descritta con le stesse parole dell'artista, non presunta. Instaura inoltre un lungo sodalizio visivo/creativo con Björk, a partire circa dal 2015 (era di *Vulnicura*) fino a *Utopia* (2017) e oltre; WeTransfer ha prodotto una serie documentaria ("Work In Progress EP01") dedicata specificamente alla loro chimica creativa. Registra musica anche sotto lo pseudonimo **Doon Kanda**. Incluso nella scuderia della Nahmad Contemporary, che lo ha inserito nella collettiva "The Painter's New Tools" (2022, a cura di Eleanor Cayre e Dean Kissick), dedicata ad artisti che usano CGI/IA/strumenti digitali per ampliare cosa si intenda per "pittura".

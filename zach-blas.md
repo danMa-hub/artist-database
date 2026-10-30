@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `stampa-3d-scultura` `installazione` `video`
 **Tag tema:** `sorveglianza-controllo` `genere-queerness`
+**Tag corso:** `TAD` `M3D`
 **Stato:** testo in parte generato con IA: anno di nascita e dettagli biografici da verificare · il quadro teorico (Foucault, Glissant, Zuboff, Deleuze) va controllato prima di usarlo come riferimento
 
 ## Biografia

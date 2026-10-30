@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione`
 **Tag tema:** `game-culture` `temporalita-non-lineare`
+**Tag corso:** `AW`
 
 ## Biografia
 Game designer e sviluppatore statunitense. Laureato nel 2011 alla University of Southern California in critical studies.

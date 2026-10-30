@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `modellazione-3d` `intelligenza-artificiale-generativa` `installazione`
 **Tag tema:** `mondi-virtuali-simulazione` `corpo-identita` `game-culture`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Nato nel 1988 ad Atene, Grecia. Consegue il diploma in architettura al National Technical University of Athens (circa 2012) e un MFA in Design Media Arts alla UCLA (2016), dove in seguito ha anche insegnato come lecturer. Vive e lavora a Los Angeles, con base anche ad Atene. Si forma come architetto e cresce artisticamente accanto ai collettivi di net art post-internet e alla prima cultura Tumblr/meme, per poi spostarsi verso i motori di gioco real-time e l'arte della simulazione dopo l'MFA. Il Whitney Museum of American Art possiede due sue opere in collezione permanente: *Seamless* (2017) e *BugSim (Pheromone Spa)* (2023). Nel 2026 è il primo vincitore del Frieze London Artist Award, assegnato in collaborazione con Google Arts & Culture e prodotto con Forma, con l'opera *Feral Metaverse (Spider)*, presentata a Frieze London (The Regent's Park, 14-18 ottobre 2026). Rappresentato da The Breeder (Atene), Meredith Rosen Gallery (New York), Eduardo Secci/SECCI (Firenze e Milano) e Galerie Julien Cadet (Parigi).

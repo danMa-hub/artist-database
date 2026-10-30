@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `mondi-virtuali-simulazione` `vr-ar` `performance-dal-vivo`
 **Tag tema:** `capitalismo-lavoro` `mondi-virtuali-simulazione` `colonialismo-decolonialita`
+**Tag corso:** `TAD` `AW`
 
 ## Biografia
 Nata nel 1978 a Guangzhou, Cina. Consegue un BFA alla Guangzhou Academy of Fine Arts (2001). Vive e lavora a Pechino. Prime opere: la performance *The Little Spark* (1998), il primo film *Imbalance 257* (1999), poi *Rabid Dogs* (2002), *Burners* (2003), *COSPlayers* (2004). Nel 2007 rappresenta la Cina alla 52ª Biennale di Venezia (Padiglione cinese a cura di Hou Hanru) con il "China Tracy Pavilion" virtuale dentro Second Life. Nel 2016 il MoMA PS1 le dedica la sua prima mostra personale museale statunitense, "Cao Fei" (3 aprile-31 agosto 2016, a cura di Klaus Biesenbach con Jocelyn Miller). Nel 2020 le Serpentine Galleries di Londra presentano "Cao Fei: Blueprints", la sua prima grande mostra personale istituzionale nel Regno Unito, a cura di Hans Ulrich Obrist e Joseph Constable con Rebecca Lewin. Ha esposto anche a Tate Modern, Palais de Tokyo, Centre Pompidou, alla 56ª Biennale di Venezia, alla Sharjah Biennial 15 (2023) e al Lenbachhaus di Monaco ("Meta-mentary", 2024). Rappresentata da Vitamin Creative Space (Guangzhou) e Sprüth Magers (Berlino/Londra/Los Angeles/New York); in precedenza anche da Lombard-Freid Projects, New York.

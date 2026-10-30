@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `fotogrammetria-scansione` `stampa-3d-scultura` `vr-ar`
 **Tag tema:** `corpo-identita` `genere-queerness` `fantascienza-speculativa`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Pussykrew è il duo formato da **Ewelina Aleksandrowicz** ("Tikul") e **Andrzej Wojtas** ("mi$ gogo"), entrambi di origine polacca, oggi con base a New York. Descritti dalla stampa come "registi e artisti immersivi" pluripremiati, sviluppano una pratica che attraversa video, stampa 3D, realtà aumentata (AR), realtà virtuale (VR) e audio, sperimentando in particolare con l'animazione 3D e la scansione 3D come strumenti primari. Vincono l'**Artist of the Year Award** al 3D Print Show di Londra nel 2014. Firmano visual dal vivo, video concettuali e progetti stampati in 3D per artisti musicali quali Kelela, Hannah Diamond e Sevdaliza. Rappresentati per il mercato statunitense dalla casa di produzione **PRETTYBIRD**. Partecipano alla residenza **#NOWSEETHIS** del Carnegie Museum of Art (2015), insieme a Kelela, Dinner e Juliana Huxtable.

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `videogioco-simulazione` `procedurale-generativo`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
+**Tag corso:** `TAD` `AW` `M3D`
 
 ## Biografia
 Nato il 21 giugno 1985 a Kilkenny, Irlanda. Autodidatta, senza formazione accademica in animazione computerizzata: inizia a lavorare da adolescente allo studio Cartoon Saloon di Kilkenny. Si trasferisce a Londra, dove entra nel collettivo di design e regia Shynola (lavorandovi di notte mentre di giorno è impiegato allo Studio AKA), contribuendo a un video musicale di Beck ("E-Pro") e a segmenti animati per *Guida galattica per autostoppisti* di Garth Jennings (2005). Nel 2007 si trasferisce a Berlino per lavorare in autonomia. Nel 2009 vince l'Orso d'Oro alla Berlinale con *Please Say Something*, il lavoro che gli dà risonanza internazionale. Anima e dirige, nel film *Lei* di Spike Jonze (2013), le sequenze del videogioco olografico con il personaggio "Alien Child" — progetto spesso citato come ciò che lo spinge verso lo sviluppo di veri videogiochi. Dal 2014 realizza *Mountain* ed *Everything* (2017), entrambi pubblicati da Double Fine Productions. Vive e lavora a Los Angeles.

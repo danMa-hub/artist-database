@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `performance-dal-vivo` `game-engine-realtime`
 **Tag tema:** `corpo-identita` `genere-queerness` `memoria-archivio`
+**Tag corso:** `AW`
 
 ## Biografia
 Nato nel 1986 a Columbia, South Carolina, dove cresce. Consegue un BFA al Maryland Institute College of Art (MICA) di Baltimora e un MFA alla University of Pennsylvania di Philadelphia. Vive e lavora a Brooklyn, New York. La madre, Patricia Satterwhite, vive con la schizofrenia; nel corso di decenni realizza disegni e schemi di prodotti domestici immaginari (salviette umidificate, zollette di zucchero, spazzolini) e registra centinaia di canzoni a cappella su musicassette — con l'aggravarsi della malattia, i suoi disegni si spostano da rappresentazioni funzionali e realistiche verso gesti più astratti e poetici. Jacolby usa questi disegni come modelli per oggetti modellati in 3D nelle proprie animazioni, e (insieme al musicista Nick Weiss dei Teengirl Fantasy, nel duo "PAT") remixa le registrazioni vocali a cappella della madre in tracce dance elettroniche. Patricia Satterwhite muore nel 2016 (data esatta da verificare). Riconoscimenti: United States Artists Fellowship (2016); artista in residenza allo Studio Museum in Harlem (2020-21). Rappresentato dalla galleria Mitchell-Innes & Nash (New York) dal 2018, e da Morán Morán (Los Angeles).

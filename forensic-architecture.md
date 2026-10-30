@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `data-visualization` `video` `installazione`
 **Tag tema:** `sorveglianza-controllo` `memoria-archivio`
+**Tag corso:** `M3D`
 
 ## Biografia
 Agenzia di ricerca con sede al Goldsmiths, University of London.

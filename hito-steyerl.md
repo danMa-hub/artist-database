@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `desktop-lecture-performance` `installazione`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Nata nel 1966 a Monaco di Baviera. Si forma come documentarista: studia cinema all'Academy of Visual Arts di Tokyo / Japan Institute of the Moving Image (fine anni '80), poi alla University of Television and Film di Monaco (HFF München, anni '90), e consegue un dottorato in Filosofia all'Accademia di Belle Arti di Vienna (primi anni 2000). È stata professoressa di New Media Art alla Universität der Künste di Berlino, dove tra il 2014 e il 2017 ha co-fondato il Research Center for Proxy Politics insieme a Vera Tollmann e Boaz Levin; dal 2024 risulta alla guida di una classe di media art all'Akademie der Bildenden Künste di Monaco. Vive e lavora a Berlino. Riconoscimenti principali: EYE Art & Film Prize, EYE Filmmuseum (Paesi Bassi, 2015, primo premio assegnato); Käthe Kollwitz Prize, Akademie der Künste Berlin (2019). È stata più volte inclusa ai vertici della classifica "Power 100" di ArtReview tra le figure più influenti del sistema dell'arte contemporanea. Ha rappresentato la Germania alla 56ª Biennale di Venezia (2015, con *Factory of the Sun*) ed è stata tra gli artisti della mostra centrale della 58ª Biennale (2019, "This is the Future"). La grande retrospettiva *I Will Survive* ha viaggiato tra Kunstsammlung Nordrhein-Westfalen di Düsseldorf, Centre Pompidou di Parigi e Stedelijk Museum di Amsterdam (2021-22).

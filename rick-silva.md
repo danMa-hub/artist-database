@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `fotogrammetria-scansione` `procedurale-generativo` `video`
 **Tag tema:** `ecologia-ambiente` `mondi-virtuali-simulazione`
+**Tag corso:** `M3D`
 
 ## Biografia
 Artista brasiliano-americano, con base a Eugene, Oregon.

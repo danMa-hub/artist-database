@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `vr-ar` `game-engine-realtime`
 **Tag tema:** `ecologia-ambiente` `mondi-virtuali-simulazione` `memoria-archivio`
+**Tag corso:** `AW`
 
 ## Biografia
 Nato nel 1987 a Køge, in Danimarca. Studia inizialmente pittura all'Università di Aarhus, poi si sposta verso l'arte e i nuovi media, con un anno di studi in antropologia; consegue un BA in Art and New Media ad Aarhus (2012), passa un anno alla Central Saint Martins di Londra per un MFA in Fine Art (2013), e torna a Copenhagen per completare un MA in Storia dell'Arte all'Università di Copenhagen (2014). Vive per circa sei anni a New York, poi si trasferisce a Berlino nel 2019, dove ha uno studio nel programma di residenza Callie's; oggi risulta con base tra Berlino e New York. Riconoscimenti: shortlist al Future Generation Art Prize 2019 (presentazione a Kyiv e alla Biennale di Venezia); finalista al Lumen Prize for Art and Technology (2017); premio per la miglior grafica VR al Cinequest Film & Creativity Festival (2019); Prix du Jury alle Rencontres d'Arles per *Re-Animated*; sostegno di Danish Arts Foundation, Augustinus Foundation e New Carlsberg Foundation. Non risulta rappresentato da una galleria commerciale primaria: la sua carriera si sviluppa soprattutto attraverso commissioni istituzionali (Serpentine, LAS Art Foundation, Fondation Beyeler, Fondation Louis Vuitton, PHI Foundation Montréal, Times Square Arts).

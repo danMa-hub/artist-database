@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `stampa-3d-scultura` `ai-generativa`
 **Tag tema:** `colonialismo-decolonialita` `genere-queerness` `memoria-archivio`
+**Tag corso:** `M3D`
 
 ## Biografia
 Artista iraniano-americana. *(Anno di nascita indicato in una fonte non verificata come 1985 — da controllare.)*

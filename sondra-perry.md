@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione` `modellazione-3d`
 **Tag tema:** `corpo-identita` `sorveglianza-controllo`
+**Tag corso:** `AW`
 
 ## Biografia
 Nata nel 1986 a Perth Amboy, New Jersey. Consegue un BFA al New York State College of Ceramics della Alfred University (2012) e un MFA alla Columbia University School of the Arts (2015). Insegna come docente a contratto alla Columbia (Advanced Video, corsi graduate e undergraduate) ed è tra i docenti/co-responsabili della disciplina Film/Video del programma MFA del Bard College; è inoltre collegata al Mount Royal School of Art (MFA multidisciplinare) del MICA. Riconoscimenti principali: Louis Comfort Tiffany Foundation Grant (2017); Gwendolyn Knight and Jacob Lawrence Prize (2017, con mostra personale al Seattle Art Museum e una borsa di 10.000 dollari); prima "Dream Commission" Rolls-Royce/Serpentine (2021); Herb Alpert Award in the Arts, sezione arti visive (2025, premio di 75.000 dollari e residenza al CalArts). Principali sedi di mostre personali: The Kitchen, New York (2016, prima mostra istituzionale personale); Squeaky Wheel Film & Media Art Center, Buffalo (2017); Serpentine Galleries, Londra (2018, prima mostra personale europea); Institute of Contemporary Art, Miami (2018); LUMA Westbau, Zurigo (2018); Museum of Contemporary Art Cleveland (2019); Bridget Donahue, New York (galleria che la rappresenta, mostre nel 2018 e 2023); Fondation Beyeler, Basilea (2022).

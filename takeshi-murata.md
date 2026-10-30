@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `modellazione-3d` `net-art-sito-web`
 **Tag tema:** `storia-computer-grafica` `memoria-archivio`
+**Tag corso:** `M3D`
 
 ## Biografia
 Nato nel 1974 a Chicago, Illinois, da genitori entrambi architetti. Consegue un BFA in Film/Video/Animation al Rhode Island School of Design (RISD, 1997) — si laurea prima che i computer entrassero a far parte del curriculum di animazione, ragione per cui inizia a lavorare manipolando fotogrammi di pellicola fisica prima di passare al digitale. Vive e lavora a Saugerties, New York (Hudson Valley). Nel 2007 gli viene dedicata la mostra personale "Black Box: Takeshi Murata" all'Hirshhorn Museum and Sculpture Garden (Smithsonian), Washington D.C. Ha esposto anche al MoMA, al Museum of Fine Arts di Houston, allo Yerba Buena Center for the Arts di San Francisco e alla Taka Ishii Gallery di Tokyo. Opere nelle collezioni dello Smithsonian American Art Museum (*Monster Movie*, 2005), dell'Hirshhorn Museum (*Pink Dot*, 2006), del SFMOMA (*Untitled (Silver)*, 2006), della DESTE Foundation for Contemporary Art (Atene), del Museum of Contemporary Art di Miami e del Palm Springs Art Museum. Rappresentato da Salon 94 (New York), Ratio 3 (San Francisco), Empty Gallery (Hong Kong) e Taka Ishii Gallery (Tokyo).

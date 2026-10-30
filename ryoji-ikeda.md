@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `data-visualization` `installazione` `live-visual-vjing`
 **Tag tema:** `storia-computer-grafica` `fantascienza-speculativa`
+**Tag corso:** `TAD` `M3D`
 
 ## Biografia
 Nato nel 1966 a Gifu, Giappone. Inizia a suonare la chitarra in una band rock a 13 anni; a 18 anni si trasferisce a Tokyo per studiare all'Università di Tokyo, formazione che descrive come essenzialmente autodidatta, attingendo piuttosto ad astronomia e fisica quantistica per la propria pratica. Dopo l'università resta a Tokyo lavorando come DJ nei club, ambiente in cui — secondo un'intervista — "ha imparato tutto". Si avvicina al collettivo multidisciplinare Dumb Type (danzatori, architetti, artisti visivi, musicisti), fondato nel 1984 a Kyoto; il ruolo esatto di Ikeda nel collettivo (fondatore o membro/collaboratore sonoro successivo) non è del tutto univoco nelle fonti secondarie e andrebbe verificato direttamente. Vive e lavora a Parigi. Prima della carriera come artista visivo, è già affermato come musicista elettronico: gli album *+/-* (1996), *0°C* (1998), *matrix* (2000), *dataplex* (2005), *test pattern* (2008), *supercodex* (2013) definiscono un'estetica sonora minimalista di riferimento. Riconoscimenti: Golden Nica al Prix Ars Electronica 2001 (categoria Digital Musics, per *matrix*); premio Collide@CERN del Prix Ars Electronica (2014), che gli garantisce una residenza artistica al CERN di Ginevra (2014-15) dedicata allo studio della scala di Planck. Guest artist al festival ManiFeste dell'IRCAM (giugno 2018).
