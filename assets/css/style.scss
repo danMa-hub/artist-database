@@ -68,12 +68,19 @@ details > summary:hover { color: #000; }
 .video { display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0; }
 .video iframe { flex: 1 1 320px; max-width: 640px; aspect-ratio: 16 / 9; border: 0; width: 100%; }
 
-/* margini ridotti su schermi stretti */
+/* schermi stretti: margini ridotti e testo più grande */
 @media (max-width: 960px) {
-  body { padding: 25px; }
+  body { padding: 8px; font-size: 18px; line-height: 1.55; }
+  .card .info strong { font-size: 1.05rem; }
+  .card .tags { font-size: 0.85rem; }
+  .carosello figcaption { font-size: 0.95rem; }
+  details > summary { font-size: 1.25rem; }
+}
+@media (max-width: 720px) {
+  body { font-size: 21px; }
 }
 @media (max-width: 480px) {
-  body { padding: 12px; }
+  body { padding: 6px; }
 }
 
 /* pulsante per cambiare tema */
