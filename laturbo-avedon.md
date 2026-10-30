@@ -53,9 +53,23 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 
 **Approfondimento:** [MAK Vienna — Pardon Our Dust](https://www.mak.at/en/program/exhibitions/la_turbo_avedon)
 
+### Cusp (Outside/Inside) (installazione interattiva, presentata per la prima volta in Italia a CUBO, Bologna, 2025)
+**Descrizione:** installazione interattiva sulla costruzione dell'identità, presentata per la prima volta in Italia nella mostra *UNA, DOPPIA, COLLETTIVA. L'identità al tempo del Metaverso*, a cura di Federica Patti e Claudio Musso, a CUBO (Unipol), Bologna, dal 7 febbraio al 31 maggio 2025, nell'ambito di Art City Bologna e dell'ottava edizione di *das – dialoghi artistici sperimentali*.
+
+**Approfondimento:** [Unipol — comunicato stampa della mostra (PDF)](https://www.unipol.com/sites/default/files/documents/2025-01/cs_cubo_das8_2025_def.pdf); [Cose di Casa — UNA, DOPPIA, COLLETTIVA](https://www.cosedicasa.com/mostre/una-doppia-collettiva-lidentita-al-tempo-del-metaverso)
+
+### Permanent Sunset (documentazione video di una performance in-game, presentata a CUBO, Bologna, 2025)
+**Descrizione:** video che documenta una performance in corso dentro un videogioco, presentato nella stessa mostra a CUBO. Alcune opere della mostra erano visibili anche nel metaverso.
+
+**Approfondimento:** [Unipol — comunicato stampa della mostra (PDF)](https://www.unipol.com/sites/default/files/documents/2025-01/cs_cubo_das8_2025_def.pdf)
+
 ## Interviste e talk
 - [The Creative Independent — intervista su identità e immaterialità](https://thecreativeindependent.com/people/laturbo-avedon-on-identity-and-immateriality/)
 - [HEK Basel — intervista "Non-binary virtual Artist"](https://share.hek.ch/en/interview-mit-laturbo-avedon-non-binary-virtual-artist/)
+- [Vice — Q&A con LaTurbo Avedon](https://www.vice.com/en/article/qa-with-laturbo-avedon)
+- [HEK — Interview with LaTurbo Avedon: Non-binary virtual Artist](https://share.hek.ch/en/interview-mit-laturbo-avedon-non-binary-virtual-artist/)
+- [The Creative Independent — LaTurbo Avedon on identity and immateriality](https://thecreativeindependent.com/people/laturbo-avedon-on-identity-and-immateriality/)
+- [Artribune — Virtual Factory: mondi digitali al servizio dell'arte (intervista via email all'avatar)](https://www.artribune.com/?p=679693)
 
 ## Fonti
 - [laturboavedon.com — sito ufficiale](https://www.laturboavedon.com/about)
@@ -67,6 +81,9 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 - [TechCrunch — "The portrait of an avatar as a young artist"](https://techcrunch.com/2019/09/17/the-portrait-of-an-avatar-as-a-young-artist/)
 - [Kill Screen — "The unreal world and work of LaTurbo Avedon"](https://killscreen.com/previously/articles/unreal-world-and-work-laturbo-avedon/)
 - [Aksioma — "The Byzantine Generals Problem" (a cura di Domenico Quaranta)](https://aksioma.org/byzantine.generals.problem)
+
+## Mostre viste
+- *UNA, DOPPIA, COLLETTIVA. L'identità al tempo del Metaverso*, CUBO (Unipol), Bologna (2025) — visto da @danMa-hub
 
 ## Crediti delle immagini
 Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da TRANSFER Gallery, Whitney Museum, Factory International e MAK Vienna.
