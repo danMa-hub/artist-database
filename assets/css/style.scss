@@ -75,3 +75,45 @@ details > summary:hover { color: #000; }
 @media (max-width: 480px) {
   body { padding: 12px; }
 }
+
+/* pulsante per cambiare tema */
+#cambia-tema {
+  position: fixed; top: 10px; right: 10px; z-index: 50;
+  padding: 6px 12px; font-size: 0.8rem; cursor: pointer;
+  border: 1px solid #999; border-radius: 16px; background: #fff; color: #222;
+}
+
+/* temi scuro e nero (predefinito: scuro) */
+html[data-theme="dark"], html[data-theme="black"] { color-scheme: dark; }
+html[data-theme="dark"] body { background: #16181d; color: #c9ced6; }
+html[data-theme="black"] body { background: #000; color: #bdbdbd; }
+html[data-theme="dark"] h1, html[data-theme="dark"] h2, html[data-theme="dark"] h3,
+html[data-theme="dark"] h4, html[data-theme="dark"] h5, html[data-theme="dark"] h6,
+html[data-theme="dark"] strong, html[data-theme="dark"] th, html[data-theme="dark"] details > summary,
+html[data-theme="black"] h1, html[data-theme="black"] h2, html[data-theme="black"] h3,
+html[data-theme="black"] h4, html[data-theme="black"] h5, html[data-theme="black"] h6,
+html[data-theme="black"] strong, html[data-theme="black"] th, html[data-theme="black"] details > summary { color: #eceff4; }
+html[data-theme="dark"] a, html[data-theme="black"] a { color: #6cb6ff; }
+html[data-theme="dark"] header p, html[data-theme="dark"] footer p, html[data-theme="dark"] small,
+html[data-theme="black"] header p, html[data-theme="black"] footer p, html[data-theme="black"] small { color: #9aa1ac; }
+html[data-theme="dark"] section, html[data-theme="dark"] details, html[data-theme="dark"] hr, html[data-theme="dark"] table,
+html[data-theme="dark"] th, html[data-theme="dark"] td,
+html[data-theme="black"] section, html[data-theme="black"] details, html[data-theme="black"] hr, html[data-theme="black"] table,
+html[data-theme="black"] th, html[data-theme="black"] td { border-color: #33363d; }
+html[data-theme="dark"] code, html[data-theme="dark"] pre { background: #232730; color: #d6dbe3; border-color: #33363d; }
+html[data-theme="black"] code, html[data-theme="black"] pre { background: #111; color: #d6dbe3; border-color: #2a2a2a; }
+html[data-theme="dark"] blockquote { background: #302b1c; color: #e8dfc4; border-left-color: #e0a800; }
+html[data-theme="black"] blockquote { background: #1a1608; color: #e8dfc4; border-left-color: #e0a800; }
+html[data-theme="dark"] .card { background: #1f2229; border-color: #33363d; }
+html[data-theme="black"] .card { background: #0b0b0b; border-color: #2a2a2a; }
+html[data-theme="dark"] .card:hover, html[data-theme="black"] .card:hover { border-color: #6cb6ff; }
+html[data-theme="dark"] .card .thumb { background: #2a2d35; }
+html[data-theme="black"] .card .thumb { background: #151515; }
+html[data-theme="dark"] .card .info strong, html[data-theme="black"] .card .info strong { color: #eceff4; }
+html[data-theme="dark"] .card .tags, html[data-theme="black"] .card .tags { color: #8d94a0; }
+html[data-theme="dark"] .carosello img { background: #2a2d35; }
+html[data-theme="black"] .carosello img { background: #151515; }
+html[data-theme="dark"] .carosello figcaption, html[data-theme="black"] .carosello figcaption { color: #9aa1ac; }
+html[data-theme="dark"] .cerca, html[data-theme="black"] .cerca { background: #1f2229; color: #eceff4; border: 1px solid #44484f; }
+html[data-theme="dark"] #cambia-tema { background: #1f2229; color: #eceff4; border-color: #555; }
+html[data-theme="black"] #cambia-tema { background: #000; color: #eceff4; border-color: #555; }
