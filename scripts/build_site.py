@@ -55,11 +55,7 @@ def crea_anteprima(slug, percorso):
 readme = ROOT / "README.md"
 if readme.exists():
     (ROOT / "informazioni.md").write_text(
-        "---
-title: Informazioni
----
-
-" + readme.read_text(encoding="utf-8"), encoding="utf-8"
+        "---\ntitle: Informazioni\n---\n\n" + readme.read_text(encoding="utf-8"), encoding="utf-8"
     )
 contribuire = ROOT / "contribuire.md"
 if contribuire.exists():
