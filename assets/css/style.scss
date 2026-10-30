@@ -51,6 +51,11 @@ details { margin: 14px 0; border-top: 1px solid #e5e5e5; padding-top: 6px; }
 details > summary { cursor: pointer; font-size: 1.15rem; font-weight: bold; padding: 4px 0; color: #222; }
 details > summary:hover { color: #000; }
 
+/* titoli delle opere: più spazio sopra e colore distinto */
+details h3 { margin-top: 2.6em; padding-top: 0.9em; border-top: 2px solid #d0d3d8; color: #9a4b00; }
+details h3:first-of-type { margin-top: 1.2em; }
+html[data-theme="dark"] details h3 { color: #f2b66d; border-top-color: #3d4149; }
+
 /* carosello di immagini */
 .carosello {
   display: flex;

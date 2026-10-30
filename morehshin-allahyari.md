@@ -20,8 +20,15 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [morehshin.com — Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
 
-### The 3D Additivist Manifesto / Cookbook (2015-2016, con Daniel Rourke)
-**Descrizione:** un manifesto video e un *Cookbook* (libro di ricette) che invita artisti e attivisti a spingere la stampa 3D oltre il suo "hype utopico e la sua critica distopica" — una raccolta di contributi che esplorano il potenziale sovversivo, critico e "strano" della stampa 3D in ambiti come critica politica e sociale, sovversione e attivismo, speculazione ed estetica, mutazione corporea e postumanesimo. Tra i progetti raccolti nel Cookbook:
+### The 3D Additivist Manifesto (2015, con Daniel Rourke)
+**Descrizione:** manifesto del marzo 2015, in forma di testo e di video, scritto da Allahyari e Daniel Rourke. Parte dalla plastica della stampa 3D come metafora: derivata dal petrolio, la materia stessa porta con sé una storia complicata. Dichiara una nuova bellezza, quella dei rifiuti e dei detriti. Il manifesto apre il movimento dell'*#Additivism* (da *additive* e *activism*), che critica le tecnologie «radicali» nei fablab, nei laboratori e nelle aule e rilegge la stampante 3D come Donna Haraway ha fatto con il cyborg.
+
+**Video:** [The 3D Additivist Manifesto (Vimeo)](https://vimeo.com/122642166)
+
+**Approfondimento:** [additivism.org — Manifesto](https://additivism.org/manifesto)
+
+### The 3D Additivist Cookbook (2016-2017, a cura di Allahyari e Rourke)
+**Descrizione:** il *Cookbook* è l'insieme delle «ricette» (un libro di contributi nato da una open call) che invita artisti e attivisti a spingere la stampa 3D oltre il suo "hype utopico e la sua critica distopica" — una raccolta di contributi che esplorano il potenziale sovversivo, critico e "strano" della stampa 3D in ambiti come critica politica e sociale, sovversione e attivismo, speculazione ed estetica, mutazione corporea e postumanesimo. Tra i progetti raccolti nel Cookbook:
   - **NefertitiHack** (Nora Al-Badri e Nikolai Nelles) — scansione "clandestina" del busto di Nefertiti al Neues Museum di Berlino, dati rilasciati pubblicamente: atto di "pirateria museale" sul colonialismo e la proprietà culturale.
   - **The Free Universal Construction Kit** (Golan Levin e Shawn Sims) — 80 file .stl per collegare tra loro 10 diversi sistemi di costruzioni per bambini (LEGO, Duplo, K'Nex, Tinkertoys), un hack che promuove l'interoperabilità e il "fair use".
   - **The Fellatio Modification Project** (Kuang-Yi Ku) — protesi stampabili in 3D per aumentare il piacere sessuale, al confine tra potenziamento medico, modificazione corporea e tecnologia sessuale.
@@ -40,7 +47,7 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 ![The 3D Additivist Cookbook — copertina](immagini/morehshin-allahyari/additivist-cookbook.jpg)
 
-**Approfondimento:** [additivism.org](https://additivism.org/)
+**Approfondimento:** [additivism.org — Cookbook](https://additivism.org/cookbook); [additivism.org](https://additivism.org/)
 
 ### She Who Sees the Unknown (2016-2021)
 **Descrizione:** progetto di ricerca a lungo termine iniziato nell'ottobre 2016 durante una residenza a Eyebeam, a New York. Con modellazione 3D, scansione 3D, stampa 3D e narrazione ricrea figure mostruose femminili e queer di origine mediorientale (i jinn), usando le tradizioni e i miti che le accompagnano per esplorare le catastrofi del colonialismo, del patriarcato e del degrado ambientale in relazione al Medio Oriente. Allahyari chiama *Re-Figuring* la pratica che ha sviluppato: un atto di attivazione e di conservazione, di recupero di un passato dimenticato o travisato per immaginare un altro presente e un altro futuro. Il progetto comprende installazioni, video, un'esperienza di realtà virtuale, una *Reading Room* (installazione con libri, articoli e immagini, 2016-in corso), eventi pubblici come la performance-lecture *Breaching Towards Other Futures* (The Floating University, Berlino, 2018) e un archivio consultabile online.
@@ -175,7 +182,8 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 - [morehshin.com](https://www.morehshin.com/)
 - [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
 - [She Who Sees the Unknown](https://www.morehshin.com/she-who-sees-the-unknown)
-- [The 3D Additivist Manifesto (Vimeo)](https://vimeo.com/124979140)
+- [The 3D Additivist Manifesto — testo e video](https://additivism.org/manifesto)
+- [The 3D Additivist Cookbook](https://additivism.org/cookbook)
 - [additivism.org](https://additivism.org/)
 - [shewhoseestheunknown.com](https://shewhoseestheunknown.com/) e il suo [archivio](https://archive.shewhoseestheunknown.com/)
 - [Digital Colonialism — morehshin.com](https://www.morehshin.com/digital-colonialism)
