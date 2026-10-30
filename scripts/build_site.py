@@ -67,7 +67,7 @@ if contribuire.exists():
 RIGA_IMMAGINE = re.compile(r'^\s*!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)\s*$')
 RIGA_VIDEO = re.compile(r"^\s*(?:[-*]\s+)?\*\*Video[^*]*:\*\*")
 LINK = re.compile(r"https?://[^\s)>\]]+")
-APERTE = {"poetica e ricerca", "opere principali", "fonti"}
+APERTE = {"poetica e ricerca", "opere principali", "interviste e talk", "fonti"}
 
 
 def incorpora(url):
