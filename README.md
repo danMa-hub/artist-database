@@ -1,6 +1,6 @@
 # Informazioni sul progetto
 
-**Artist Database** è una raccolta di schede su artisti e collettivi che lavorano con new media, modellazione 3D, mondi virtuali e intelligenza artificiale. È nato come materiale didattico per i corsi di Daniele Maffeis al Politecnico delle Arti di Bergamo, Accademia di Belle Arti G. Carrara (animazione digitale, modellazione 3D, mondi virtuali), ed è aperto a studentesse e studenti, che possono leggerlo, usarlo per scegliere gli artisti da presentare e contribuire a migliorarlo.
+**Artist Database** è una raccolta di schede su artisti e collettivi che lavorano con new media, modellazione 3D, mondi virtuali e intelligenza artificiale. È nato come materiale didattico per i corsi di **Daniele Maffeis** all'Accademia di Belle Arti G. Carrara – Politecnico delle Arti di Bergamo: *Tecniche di animazione digitale* (triennio Design della Comunicazione Visiva e biennio), *Tecniche di modellazione digitale 3D* (triennio Multimedia) e *Mondi virtuali* (Audiovisivi per il web). È aperto a studentesse e studenti, che possono leggerlo, usarlo per scegliere gli artisti da presentare e contribuire a migliorarlo.
 
 ## Una raccolta in costruzione
 

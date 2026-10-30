@@ -63,6 +63,96 @@ if contribuire.exists():
         contribuire.read_text(encoding="utf-8").replace("README.html", "informazioni.html"), encoding="utf-8"
     )
 
+RIGA_IMMAGINE = re.compile(r'^\s*!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)\s*$')
+RIGA_VIDEO = re.compile(r"^\s*(?:[-*]\s+)?\*\*Video[^*]*:\*\*")
+LINK = re.compile(r"https?://[^\s)>\]]+")
+APERTE = {"poetica e ricerca", "opere principali"}
+
+
+def incorpora(url):
+    """Indirizzo di incorporamento per YouTube e Vimeo, altrimenti None."""
+    y = re.search(r"(?:youtube\.com/(?:watch\?(?:[^\s]*&)?v=|embed/|shorts/)|youtu\.be/)([\w-]{11})", url)
+    if y:
+        return f"https://www.youtube-nocookie.com/embed/{y.group(1)}"
+    v = re.search(r"vimeo\.com/(?:video/)?(\d+)(?:/(\w+))?", url)
+    if v:
+        extra = f"?h={v.group(2)}" if v.group(2) else ""
+        return f"https://player.vimeo.com/video/{v.group(1)}{extra}"
+    return None
+
+
+def carosello(righe):
+    """Raggruppa in un carosello orizzontale le immagini consecutive (2 o più)."""
+    uscita, i = [], 0
+    while i < len(righe):
+        if not RIGA_IMMAGINE.match(righe[i]):
+            uscita.append(righe[i])
+            i += 1
+            continue
+        gruppo, j = [i], i + 1
+        while j < len(righe):
+            if righe[j].strip() == "":
+                j += 1
+            elif RIGA_IMMAGINE.match(righe[j]):
+                gruppo.append(j)
+                j += 1
+            else:
+                break
+        if len(gruppo) < 2:
+            uscita.append(righe[i])
+            i += 1
+            continue
+        figure = []
+        for k in gruppo:
+            alt, src = RIGA_IMMAGINE.match(righe[k]).groups()
+            figure.append(
+                f'<figure><img loading="lazy" src="{html.escape(src, quote=True)}" alt="{html.escape(alt, quote=True)}">'
+                f"<figcaption>{html.escape(alt)}</figcaption></figure>"
+            )
+        uscita += ["", '<div class="carosello">'] + figure + ["</div>", ""]
+        i = gruppo[-1] + 1
+    return uscita
+
+
+def video(righe):
+    """Sotto ogni riga '**Video:**' incorpora i link YouTube e Vimeo."""
+    uscita = []
+    for riga in righe:
+        uscita.append(riga)
+        if RIGA_VIDEO.match(riga):
+            frame = []
+            for url in LINK.findall(riga):
+                src = incorpora(url)
+                if src:
+                    frame.append(
+                        f'<iframe loading="lazy" src="{src}" title="Video" allowfullscreen '
+                        'referrerpolicy="strict-origin-when-cross-origin"></iframe>'
+                    )
+            if frame:
+                uscita += ["", '<div class="video">'] + frame + ["</div>", ""]
+    return uscita
+
+
+def sezioni_comprimibili(righe):
+    """Avvolge ogni sezione '## ' in <details>: aperte poetica e opere, le altre chiuse."""
+    uscita, aperta = [], False
+    for riga in righe:
+        if riga.startswith("## "):
+            if aperta:
+                uscita += ["", "</details>", ""]
+            titolo = riga[3:].strip()
+            apri = " open" if titolo.lower() in APERTE else ""
+            uscita += ["", f'<details markdown="1"{apri}>', f"<summary>{html.escape(titolo)}</summary>", ""]
+            aperta = True
+        elif aperta and riga.strip() == "---":
+            continue
+        else:
+            uscita.append(riga)
+    if aperta:
+        uscita += ["", "</details>", ""]
+    return uscita
+
+
 schede = []
 mostre = defaultdict(lambda: {"artisti": [], "visto_da": set()})
 for f in sorted(ROOT.glob("*.md")):
@@ -112,6 +202,7 @@ for f in sorted(ROOT.glob("*.md")):
             righe[j] = re.sub(
                 r"(?<![\w/])@([A-Za-z0-9-]+)", r"[@\1](https://github.com/\1)", righe[j]
             )
+    righe = sezioni_comprimibili(video(carosello(righe)))
     f.write_text("\n".join(righe), encoding="utf-8")
     schede.append({"slug": f.stem, "nome": nome, "tag": tag, "miniatura": miniatura})
 
@@ -194,7 +285,7 @@ title: Artist Database
 
 # Artist Database
 
-{len(schede)} schede di artisti e riferimenti critici su new media, modellazione 3D, mondi virtuali e IA applicata all'arte. Materiale didattico dell'Accademia di Belle Arti G. Carrara di Bergamo.
+{len(schede)} schede di artisti e riferimenti critici su new media, modellazione 3D, mondi virtuali e IA applicata all'arte. Materiale didattico a cura di **Daniele Maffeis**, docente all'Accademia di Belle Arti G. Carrara – Politecnico delle Arti di Bergamo dei corsi di *Tecniche di animazione digitale* (triennio Design della Comunicazione Visiva e biennio), *Tecniche di modellazione digitale 3D* (triennio Multimedia) e *Mondi virtuali* (Audiovisivi per il web).
 
 > **Lavoro in corso.** Le schede sono in parte compilate con l'aiuto dell'intelligenza artificiale e vanno ancora riviste: possono contenere errori, date o titoli da verificare, schede parziali. Controlla sempre le fonti linkate e segnala o correggi ciò che non torna ([come contribuire](contribuire.html)).
 

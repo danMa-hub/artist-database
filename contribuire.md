@@ -124,3 +124,13 @@ Nell'elenco degli artisti ogni scheda è mostrata con un'immagine. Per impostazi
 ```md
 **Immagine anteprima:** immagini/nome-file.jpg
 ```
+
+## Immagini, carosello e video
+
+- **Da 3 a 4 immagini per ogni opera**, quando si trovano. Si mettono una dopo l'altra sotto l'opera, ognuna con la sua didascalia nel testo alternativo: `![didascalia](immagini/nome-file.jpg)`. Da due immagini consecutive in su il sito le mostra in un **carosello a scorrimento orizzontale**; una sola immagine resta fissa.
+- **Video**: una riga `**Video:** [titolo](https://www.youtube.com/watch?v=...)` sotto l'opera. Se il link è di YouTube o di Vimeo il sito incorpora il video direttamente nella pagina, sotto la riga.
+- Nelle schede ogni sezione si apre e si chiude: sono aperte per impostazione predefinita *Poetica e ricerca* e *Opere principali*, le altre (Biografia, Immagini, Mostre viste, Fonti, Appunti da organizzare) sono chiuse. Nella biografia vanno solo i dati biografici; la poetica e lo statement vanno in *Poetica e ricerca*.
+
+## Tag
+
+Per ora i tag sono solo sugli artisti. In futuro potranno essere aggiunti anche alle singole opere, per collegare opere che parlano degli stessi temi.

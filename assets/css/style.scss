@@ -45,3 +45,33 @@
 .cerca { width: 100%; padding: 8px; margin-top: 10px; }
 
 blockquote { border-left: 4px solid #e0a800; background: #fff8e1; padding: 8px 14px; margin: 16px 0; }
+
+/* sezioni comprimibili delle schede */
+details { margin: 14px 0; border-top: 1px solid #e5e5e5; padding-top: 6px; }
+details > summary { cursor: pointer; font-size: 1.15rem; font-weight: bold; padding: 4px 0; color: #222; }
+details > summary:hover { color: #000; }
+
+/* carosello di immagini */
+.carosello {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  padding-bottom: 8px;
+  margin: 12px 0;
+}
+.carosello figure { flex: 0 0 min(420px, 85%); margin: 0; scroll-snap-align: start; }
+.carosello img { width: 100%; height: 270px; object-fit: contain; background: #f4f4f4; border-radius: 4px; }
+.carosello figcaption { font-size: 0.8rem; color: #666; margin-top: 4px; line-height: 1.3; }
+
+/* video incorporati */
+.video { display: flex; flex-wrap: wrap; gap: 12px; margin: 12px 0; }
+.video iframe { flex: 1 1 320px; max-width: 640px; aspect-ratio: 16 / 9; border: 0; width: 100%; }
+
+/* margini ridotti su schermi stretti */
+@media (max-width: 960px) {
+  body { padding: 25px; }
+}
+@media (max-width: 480px) {
+  body { padding: 12px; }
+}
