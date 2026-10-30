@@ -1,24 +1,41 @@
 <script>
 (function () {
-  var temi = ['dark', 'black', 'light'];
-  var nomi = { dark: 'Scuro', black: 'Nero', light: 'Chiaro' };
-  var tema = 'dark';
-  try { tema = localStorage.getItem('tema') || 'dark'; } catch (e) {}
-  if (temi.indexOf(tema) === -1) tema = 'dark';
-  document.documentElement.setAttribute('data-theme', tema);
+  var radice = document.documentElement;
+  var tema = 'dark', scala = 1;
+  try {
+    tema = localStorage.getItem('tema') || 'dark';
+    scala = parseFloat(localStorage.getItem('scala')) || 1;
+  } catch (e) {}
+  if (tema !== 'light') tema = 'dark';
+  if (scala < 0.8 || scala > 1.6) scala = 1;
+  radice.setAttribute('data-theme', tema);
+  radice.style.setProperty('--scala', scala);
   document.addEventListener('DOMContentLoaded', function () {
-    var b = document.createElement('button');
-    b.id = 'cambia-tema';
-    b.type = 'button';
-    function aggiorna() { b.textContent = 'Tema: ' + nomi[tema]; b.title = 'Cambia tema (scuro, nero, chiaro)'; }
-    b.addEventListener('click', function () {
-      tema = temi[(temi.indexOf(tema) + 1) % temi.length];
-      document.documentElement.setAttribute('data-theme', tema);
-      try { localStorage.setItem('tema', tema); } catch (e) {}
-      aggiorna();
+    var box = document.createElement('div');
+    box.id = 'strumenti-sito';
+    function bottone(testo, titolo, azione) {
+      var b = document.createElement('button');
+      b.type = 'button'; b.textContent = testo; b.title = titolo;
+      b.addEventListener('click', azione);
+      box.appendChild(b);
+      return b;
+    }
+    function salva(chiave, valore) { try { localStorage.setItem(chiave, valore); } catch (e) {} }
+    function cambiaScala(delta) {
+      scala = Math.round(Math.min(1.6, Math.max(0.8, scala + delta)) * 10) / 10;
+      radice.style.setProperty('--scala', scala);
+      salva('scala', scala);
+    }
+    bottone('A−', 'Riduci il testo', function () { cambiaScala(-0.1); });
+    bottone('A+', 'Ingrandisci il testo', function () { cambiaScala(0.1); });
+    var bt = bottone('', 'Cambia tema', function () {
+      tema = tema === 'dark' ? 'light' : 'dark';
+      radice.setAttribute('data-theme', tema);
+      salva('tema', tema);
+      bt.textContent = tema === 'dark' ? 'Chiaro' : 'Scuro';
     });
-    aggiorna();
-    document.body.appendChild(b);
+    bt.textContent = tema === 'dark' ? 'Chiaro' : 'Scuro';
+    document.body.appendChild(box);
   });
 })();
 </script>
