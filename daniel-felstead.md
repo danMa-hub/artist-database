@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `economia-attenzione`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 **Stato:** dati da verificare: data e luogo di nascita, nazionalità (presunta britannica) e identità del profilo online · da controllare i talk «Welcome to HYPERBODIES» (2022) e «HYPERHYPERBODIES» (2023)
 
 ## Biografia
@@ -15,6 +15,8 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 
 ## Opere principali
 ### The Metaverse in Janky Capitalism (2023)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** video-saggio di circa 17 minuti commissionato da DIS, narrato da un avatar 3D fotorealistico generato al computer con le sembianze di Julia Fox, che esamina se e come il "metaverso" possa davvero inserirsi in un capitalismo già di per sé "janky" (traballante, difettoso).
 **Lettura critica:** DIS lo presenta come un'analisi "grottesca, cringe, caotica, perversa e sublime" del futuro di internet — un uso dell'iperrealismo del rendering 3D non per costruire un mondo desiderabile, ma per esporne le crepe.
 
@@ -23,6 +25,8 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 **Approfondimento:** [dis.art/the-metaverse-in-janky-capitalism](https://dis.art/the-metaverse-in-janky-capitalism)
 
 ### Literally No Place (2024, con Jenn Leung)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** co-diretto con Jenn Leung per DIS, presenta ancora un avatar IA di Julia Fox come voce narrante, in un'esplorazione della retorica opposta tra utopismo e doomerismo sull'intelligenza artificiale, con riferimenti diretti a figure dell'industria tech (tra cui Sam Altman). Il titolo gioca sul fatto che sia l'utopia sia la distopia sono, letteralmente, "nessun luogo" (utopia = "non-luogo").
 **Lettura critica:** una "predica" mediatica — come titola la copertura di Dazed Digital — che usa la voce sintetica di una celebrità reale per mettere in scena, e insieme dissolvere dall'interno, la retorica pubblica del dibattito sull'IA.
 **Video:** [Literally No Place, YouTube](https://www.youtube.com/watch?v=4cD_LkXYqoo)
@@ -32,6 +36,8 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 **Approfondimento:** [dis.art/literally-no-place](https://dis.art/literally-no-place)
 
 ### Always on My Mind (2024, con Jenn Leung)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `corpo-post-umano`
 **Descrizione:** video di circa 19 minuti commissionato da DIS, con un avatar IA di Nicki Minaj e un "mostruoso" Elon Musk digitale, incentrato su neurotecnologie, disincarnazione e "telepatia digitale" — una critica diretta al filone Neuralink.
 **Lettura critica:** prosegue il metodo dei lavori precedenti — impersonare figure pubbliche reali tramite avatar sintetici per parlare, con tono satirico e insieme angosciante, delle promesse trans-umaniste dell'industria tech.
 
@@ -40,6 +46,8 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 **Approfondimento:** [dis.art/always-on-my-mind](https://dis.art/always-on-my-mind)
 
 ### Welcome to Jankspace, Babes (2025, con Jenn Leung)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** si apre con un avatar 3D fotorealistico di Julia Fox costruito in Unreal Engine, che tocca temi come Ozempic, gli "AI slop" (contenuti IA di scarsissima qualità prodotti in massa), l'app "Dress to Impress", gli autisti Uber, gli algoritmi e il caso mediatico di Luigi Mangione. È qui che Felstead elabora compiutamente il concetto di "jankspace". Presentato al Medialab-Matadero di Madrid.
 **Lettura critica:** ICON Magazine (articolo "Slop Is That Deep") lo colloca nel dibattito critico sull'estetica dei contenuti generati dall'IA, leggendo "jankspace" come un aggiornamento necessario dello junkspace di Koolhaas per l'epoca dei feed algoritmici e dei contenuti sintetici di massa.
 

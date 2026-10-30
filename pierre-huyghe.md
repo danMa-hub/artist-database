@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `procedurale-generativo` `video`
 **Tag tema:** `mondi-virtuali-simulazione` `ecologia-ambiente`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
 Nato l'11 settembre 1962 a Parigi. Formazione all'École nationale supérieure des Arts décoratifs di Parigi, diplomato nel 1985. Vive e lavora a Santiago del Cile. Premio speciale della giuria alla 49ª Biennale di Venezia (2001, padiglione francese); Nasher Prize 2017 (Nasher Sculpture Center, Dallas). Fu tra i fondatori, insieme ad altri artisti francesi come Philippe Parreno (già in database), della corrente dell'"estetica relazionale" negli anni '90.
@@ -12,12 +12,16 @@ Huyghe non produce opere finite ma **sistemi**: ecosistemi viventi, protocolli a
 
 ## Opere principali
 ### Untitled (Human Mask) (2014)
+**Corso:** `TAD-AVM`
+**Temi:** `corpo-post-umano`
 **Descrizione:** film che segue una scimmia addestrata, che indossa una maschera Noh e una parrucca femminile, mentre si aggira in un ristorante abbandonato nei dintorni di Fukushima dopo il disastro nucleare del 2011.
 **Lettura critica:** una figura ambigua — non umana ma vestita da umano, in un paesaggio svuotato dalla catastrofe — mette in crisi i confini tra specie, performance e sopravvivenza in un mondo post-disastro.
 
 ![Untitled (Human Mask) — fotogramma](immagini/pierre-huyghe/untitled-human-mask.jpg)
 
 ### Untilled (2011-2012, dOCUMENTA 13, Kassel)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** ambiente vivente all'aperto: una scultura di cemento raffigurante una figura femminile reclinata, con la testa progressivamente ricoperta da un alveare vivo e ronzante; intorno, piante allergeniche o psicotrope e un cane bianco con una zampa dipinta di rosa.
 **Lettura critica:** una delle opere più celebrate di dOCUMENTA 13 — collaborazione tra scultura umana e sistema naturale autogenerantesi, dove il "completamento" dell'opera è delegato a un processo biologico fuori dal controllo dell'artista.
 
@@ -26,6 +30,8 @@ Huyghe non produce opere finite ma **sistemi**: ecosistemi viventi, protocolli a
 **Approfondimento:** [Esther Schipper — Untilled](https://www.estherschipper.com/exhibitions/386-untilled-pierre-huyghe/)
 
 ### UUmwelt (2018, Serpentine Gallery, Londra)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** installazione che collega intelligenza artificiale e vita organica: immagini generate da una rete neurale a partire da segnali di attività cerebrale umana vengono proiettate sulle pareti della galleria, mentre mosche vive volano libere nello spazio espositivo.
 **Lettura critica:** il titolo richiama il concetto di *Umwelt* (Jakob von Uexküll) — l'ambiente percettivo specifico di ogni specie — mettendo in tensione la percezione umana, quella (presunta) della rete neurale e quella delle mosche, tre "mondi" incommensurabili che condividono lo stesso spazio fisico.
 

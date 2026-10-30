@@ -13,12 +13,16 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 
 ## Opere principali
 ### Delusional Mandala
+**Corso:** `M3D` `AW`
+**Temi:** `corpo-post-umano` `mito-e-rituale`
 **Descrizione:** opera basata sul principio del sistema stereotattico e sulla stimolazione cerebrale profonda (deep brain stimulation, RTMS) applicata al sistema limbico, per estendere e simulare stati delusionali.
 **Lettura critica:** riflessione dell'artista sulla propria produzione passata/presente/futura — dove risiede la coscienza? È legata al cervello? Secondo capitolo di una serie iniziata con *Moving God*, tra religione e neuroscienza.
 
 ![Delusional Mandala — fotogramma](immagini/lu-yang/delusional-mandala.jpg)
 
 ### Delusional World
+**Corso:** `AW` `TAD-DCV`
+**Temi:** `avatar-e-corpo-virtuale` `performance-audiovisiva`
 **Descrizione:** prima performance live-streaming dell'artista: una danzatrice contemporanea dotata di tecnologia di motion capture proietta avatar digitali fantastici — divinità deliranti, mutanti ispirati ai manga, cyborg.
 **Lettura critica:** il corpo della performer diventa interfaccia per generare identità multiple e instabili in tempo reale.
 
@@ -27,12 +31,16 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 **Approfondimento:** [ACMI — Delusional World](https://www.acmi.net.au/works/118044--delusional-world/)
 
 ### The Great Adventure of Material World
+**Corso:** `AW` `TAD-DCV`
+**Temi:** `mito-e-rituale`
 **Descrizione:** mitologia videoludica che affronta domande sull'esistenza di "sé" e "altro", e sulla vita oltre la morte, attraverso cut scene, salti temporali e ricominciamenti (redo).
 **Lettura critica:** i videogiochi come nuovo regno di reincarnazione narrativa — destabilizzano il senso lineare del tempo proprio del cinema del XX secolo.
 
 ![The Great Adventure of Material World — fotogramma](immagini/lu-yang/great-adventure.jpg)
 
 ### DOKU
+**Corso:** `AW` `M3D`
+**Temi:** `avatar-e-corpo-virtuale` `mito-e-rituale`
 **Descrizione:** reincarnazione digitale dell'artista in un "universo digitale parallelo", costruita con scansione facciale 3D ad alta fedeltà (50 espressioni facciali catturate e ricostruite in blend shape fotorealistici); usata anche come piattaforma collaborativa aperta ad altri artisti, musicisti, danzatori, scienziati.
 **Lettura critica:** Doku rappresenta una visione non-dualistica dell'esistenza — nessun corpo fisico, nessun confine, un'identità che nasce dalla coscienza collettiva umana e trascende lingua e cultura.
 

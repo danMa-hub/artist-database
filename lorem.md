@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `ai-generativa` `live-visual-vjing` `installazione`
 **Tag tema:** `intelligenza-artificiale-critica` `performance-audiovisiva`
-**Tag corso:** `AVM`
+**Tag corso:** `TAD-AVM`
 **Stato:** scheda breve, ricavata da risultati di ricerca: da approfondire e verificare (date e opere) · nessuna immagine ancora
 
 ## Biografia

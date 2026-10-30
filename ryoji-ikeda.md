@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `data-visualization` `installazione` `live-visual-vjing`
 **Tag tema:** `storia-computer-grafica` `fantascienza-speculativa` `performance-audiovisiva`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 **Stato:** da verificare il ruolo in Dumb Type (fondatore o membro) · da approfondire: the transfinite (2011)
 
 ## Biografia
@@ -13,6 +13,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 
 ## Opere principali
 ### datamatics, serie (dal 2006)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `infrastruttura-e-rete` `performance-audiovisiva`
 **Descrizione:** progetto audiovisivo che traduce dati puri (da CERN, NASA, Progetto Genoma Umano, e dati del proprio hard-drive/codice software) in immagini generate al computer in bianco e nero, che passano da sequenze 2D simili a codici a barre a viste 3D rotanti di "universo" fino a elaborazioni matematiche in quattro dimensioni, accompagnate da una composizione sonora.
 **Lettura critica:** discussa in un articolo accademico ("Sights and Sounds of Big Data: Ryoji Ikeda's Immersive Installations") come caso paradigmatico della resa sensibile dei "big data" — non una semplice visualizzazione informativa, ma un'esperienza estetica autonoma costruita a partire dal dato.
 
@@ -21,6 +23,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 **Approfondimento:** [ryojiikeda.com — datamatics](https://www.ryojiikeda.com/project/datamatics/)
 
 ### test pattern, serie (dal 2008)
+**Corso:** `TAD-AVM`
+**Temi:** `glitch-e-errore` `performance-audiovisiva`
 **Descrizione:** sistema che converte qualsiasi tipo di dato (testo, suono, foto, filmato) in pattern sincronizzati di codice a barre e sequenze binarie di 0 e 1 su più monitor/schermi e audio multicanale, eseguito a frame rate estremamente elevati (fino a centinaia di fps) per testare i limiti delle prestazioni dei dispositivi e delle soglie percettive umane. Numerose edizioni ed estensioni, tra cui una versione da 100 metri e una a Times Square.
 **Lettura critica:** *Elephant* magazine la descrive come una dimostrazione della "bellezza nel brutale" — la ripetizione binaria e il bianco e nero assoluto diventano un'esperienza quasi ipnotica nonostante (o proprio per) la loro totale astrazione.
 **Video:** [test pattern (100m version), documentazione (Vimeo)](https://vimeo.com/120454782)
@@ -28,6 +32,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 ![test pattern — fotogramma](immagini/ryoji-ikeda/test-pattern.jpg)
 
 ### superposition (2012)
+**Corso:** `TAD-AVM`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** opera audiovisiva dal vivo in prima mondiale al Centre Pompidou (14-16 novembre 2012), commissionata dal Festival d'Automne di Parigi. Ispirata ai concetti matematici della meccanica quantistica/sovrapposizione: suono, immagine, fenomeni fisici, concetti matematici, comportamento umano e casualità vengono "orchestrati e de-orchestrati simultaneamente"; è la prima opera di Ikeda a includere performer umani dal vivo sul palco (nei ruoli di operatore/direttore/osservatore/esaminatore).
 **Lettura critica:** il Metropolitan Museum of Art le dedica un approfondimento, "Merging Science and Performance Art: Ryoji Ikeda's superposition" — segna il momento in cui il lavoro dell'artista si sposta dalla pura installazione alla performance dal vivo strutturata.
 
@@ -36,6 +42,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 **Approfondimento:** [Metropolitan Museum of Art — Merging Science and Performance Art](https://www.metmuseum.org/perspectives/superposition)
 
 ### spectra, serie (dal 2001)
+**Corso:** `TAD-AVM`
+**Temi:** `architettura-e-citta` `performance-audiovisiva`
 **Descrizione:** commissione originaria per la Nuit Blanche di Parigi (2001): 64 potenti dispositivi di illuminazione puntati verticalmente verso il cielo da una piazza pubblica, accompagnati da una composizione sonora a onde sinusoidali; i visitatori sperimentano una luce bianca pura, mutevole e quasi accecante, come materiale scultoreo. La serie è stata rimessa in scena in più città, tra cui Londra (2014, Victoria Tower Gardens, come parte di "Lights Out" di Artangel per il centenario della Prima guerra mondiale).
 **Lettura critica:** una delle poche opere dell'artista a usare la luce pura, senza dati digitali visibili, come materiale — un'estensione della sua estetica del bianco e nero assoluto dalla scala dello schermo a quella dell'intero cielo cittadino.
 
@@ -44,6 +52,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 **Approfondimento:** [Artangel — spectra a Londra](https://www.artangel.org.uk/project/spectra/)
 
 ### micro | macro (2014-15, collaborazione con il CERN)
+**Corso:** `TAD-AVM`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** culmine della residenza artistica di Ikeda al CERN, dedicata allo studio della scala di Planck (la più piccola unità misurabile dell'universo) per contrapporre le scale microscopica e macroscopica della realtà. Comprende due installazioni audiovisive su grande scala: "the planck universe [micro]" (ambiente immersivo a pavimento, documentato a 172,8 m² ai Carriageworks di Sydney) e "the planck universe [macro]" (proiettato su uno schermo alto 10 metri).
 **Lettura critica:** una delle collaborazioni più dirette e istituzionalmente formalizzate tra arte e fisica delle particelle nel panorama contemporaneo — non una semplice ispirazione scientifica ma una residenza di ricerca effettiva presso l'istituzione scientifica stessa.
 
@@ -52,6 +62,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 **Approfondimento:** [arts.cern — Ryoji Ikeda](https://arts.cern/artist/ryoji-ikeda/)
 
 ### data-verse, trilogia (produzione 2019-2023)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `performance-audiovisiva` `infrastruttura-e-rete`
 **Descrizione:** trilogia audiovisiva immersiva a tre schermi (data-verse 1, 2, 3), commissionata da Audemars Piguet Contemporary, che usa dati di NASA, CERN e Progetto Genoma Umano. Prima mondiale della trilogia completa nell'ambito della grande retrospettiva "Ryoji Ikeda" a 180 Studios, 180 The Strand, Londra (2021) — la più grande mostra mai dedicata al suo lavoro, 12 opere incluse. Debutto statunitense della trilogia completa allo High Museum of Art di Atlanta (7 marzo-10 agosto 2025).
 **Lettura critica:** la copertura critica è divisa — *Wallpaper* la definisce "un percorso a ostacoli sensoriale", mentre la recensione di *ARTS ATL* (più scettica) la intitola "grafica abbagliante, nessuna profondità" (*"data-verse at the High: dazzling graphics, no depth"*) — un utile esempio, come per Refik Anadol, di dibattito critico aperto sull'arte dei dati su larga scala.
 

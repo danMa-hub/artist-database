@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `live-visual-vjing` `modellazione-3d` `vr-ar`
 **Tag tema:** `performance-audiovisiva`
-**Tag corso:** `AVM`
+**Tag corso:** `TAD-AVM`
 **Stato:** scheda breve, ricavata da risultati di ricerca: da approfondire e verificare (opere, date, membri) · nessuna immagine ancora
 
 ## Biografia

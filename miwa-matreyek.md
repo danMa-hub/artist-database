@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo` `animazione-2d`
 **Tag tema:** `corpo-identita` `ecologia-ambiente` `performance-audiovisiva`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
 Animatrice, designer e performer con base a Los Angeles. Co-fondatrice e collaboratrice principale della compagnia teatrale multimediale **Cloud Eye Control**. Sherwood Award (2016), Creative Capital Award (2013), Princess Grace Award (2007) e Special Projects Award della Princess Grace Foundation (2009, 2012). Ha portato le proprie performance a TED, MoMA, Lincoln Center, Sundance New Frontier e in numerose sedi internazionali.
@@ -12,6 +12,8 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 
 ## Opere principali
 ### This World Made Itself (2013)
+**Corso:** `TAD-AVM`
+**Temi:** `performance-audiovisiva` `tempo-lungo-e-durata`
 **Descrizione:** performance dal vivo che combina animazione proiettata e la sagoma d'ombra dell'artista, in un viaggio visivo e musicale attraverso la storia della Terra — dagli inizi epici dell'universo al mondo complesso dell'umanità; ispirata all'amore dell'artista per la fisica e i musei di storia naturale.
 **Lettura critica:** al tempo stesso semi-scientifica (come sfogliare un'enciclopedia per bambini) ed emotiva, surreale, onirica — la figura umana in ombra si fa piccola dentro processi geologici e cosmici di scala immensa.
 
@@ -20,6 +22,8 @@ Matreyek confonde i confini tra teatro e cinema d'animazione interagendo dal viv
 **Approfondimento:** [miwamatreyek.com — This World Made Itself](http://miwamatreyek.com/thisworldmadeitself/)
 
 ### Infinitely Yours
+**Corso:** `TAD-AVM`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** performance dal vivo, spesso presentata in doppio programma con *This World Made Itself*, che esplora temi affini di trasformazione e scala attraverso lo stesso linguaggio ombra-animazione.
 **Lettura critica:** non ancora documentata nel dettaglio in questa scheda.
 

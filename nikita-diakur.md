@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `ai-generativa`
 **Tag tema:** `corpo-identita` `storia-computer-grafica`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
 Nato a Mosca, Russia (anno di nascita non reperibile con fonte diretta). Si forma interamente a Londra: Foundation Diploma in Art & Design alla Wimbledon School of Art (2003-2004); BA (Hons) in Graphic Design, indirizzo Moving Image, alla Central Saint Martins (2004-2007); MA in Animation Direction al Royal College of Art (2007-2009), con il film di diploma *Fly on the Window*, proiettato a Zagabria, Annecy ed Edimburgo. Vive e lavora in Germania (le fonti divergono tra Mainz e Lipsia — da verificare). Si definisce "regista dell'ugly" (Ugly filmmaker). Artista in residenza al Q21/MuseumsQuartier di Vienna (2018). Tiene regolarmente talk e workshop a festival e università (Playgrounds, Forward Festival, Pictoplasma Conference Berlino, In Motion Londra). Riconoscimenti: Nelvana Grand Prize per il miglior corto d'animazione indipendente, Ottawa International Animation Festival (OIAF) 2017; Grand Prix, Animated Encounters Bristol 2017; New Talent Award, Fantoche; menzione d'onore, Prix Ars Electronica; Best Technique, OIAF 2018; Anča Award, Fest Anča International Animation Festival 2019.
@@ -14,6 +14,8 @@ La cifra distintiva di Diakur è l'**"animazione interattiva"** (termine coniato
 
 ## Opere principali
 ### Ugly (2017, con Redbear Easterman)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `glitch-e-errore`
 **Descrizione:** cortometraggio 3D finanziato tramite crowdfunding (Kickstarter, 206 sostenitori) su un gatto maltrattato e "brutto" (ispirato a una storia reale circolata su internet) che trova accettazione presso un mistico capo nativo americano in un mondo frammentato e pieno di glitch. Costruito quasi interamente da simulazione dinamica a corpo rigido: i personaggi sono rigati come scheletri da pupazzo di pezza con "fili" a vincolo elastico che tengono insieme gli arti, producendo un movimento iperrealistico ma costantemente vacillante e "rotto".
 **Lettura critica:** vince il Nelvana Grand Prize per il miglior corto d'animazione indipendente all'Ottawa International Animation Festival 2017, il Grand Prix di Animated Encounters Bristol, il New Talent Award di Fantoche e una menzione d'onore al Prix Ars Electronica — descritto come l'apertura di "una nuova frontiera" per l'animazione CG proprio nell'abbracciare la casualità simulata invece di sopprimerla.
 **Video:** [Ugly, film integrale (Vimeo)](https://vimeo.com/281529369)
@@ -21,12 +23,16 @@ La cifra distintiva di Diakur è l'**"animazione interattiva"** (termine coniato
 ![Ugly — fotogramma](immagini/nikita-diakur/ugly.jpg)
 
 ### Fest (2018)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `glitch-e-errore`
 **Descrizione:** cortometraggio di 3 minuti che raffigura una scena caotica di rave/festa di quartiere in un complesso residenziale grigio in stile "Ostblock" — barbecue, gelati, figure danzanti — costruito ancora una volta con simulazione dinamica/burattinaggio digitale, estendendo il metodo di *Ugly* alla coreografia di gruppo/folla, senza dialogo. Suono e musica di David Kamp (Studio Kamp). Selezione ufficiale ad Annecy (2018), Animafest Zagabria, Fantoche e L'Alternativa (Barcellona).
 **Lettura critica:** la giuria dell'OIAF lo ha premiato "per aver trasformato l'animazione 3D in un teatro di burattini in cui personaggi brutti e posseduti si dissolvono la vita al rave" — vince il Best Technique all'OIAF 2018 e l'Anča Award al Fest Anča 2019.
 
 ![Fest — fotogramma](immagini/nikita-diakur/fest.jpg)
 
 ### Backflip (2022)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `glitch-e-errore`
 **Descrizione:** cortometraggio di 12 minuti e 30 secondi (co-produzione Germania/Francia con Miyu Productions). Premessa: troppo spaventato per tentare davvero un salto mortale all'indietro, Diakur crea un avatar digitale e lo addestra a eseguire l'acrobazia usando tecniche di apprendimento per rinforzo/machine learning (derivate dal paper di ricerca "DeepMimic"), lasciando che l'avatar "si eserciti" tramite tentativi ed errori simulati su un processore multi-core. Combina l'estetica basata sulla simulazione dell'artista con un processo esplicito di machine learning come soggetto stesso dell'opera, e un dispositivo autobiografico (la paura reale dell'artista per l'acrobazia).
 **Lettura critica:** *Short of the Week* sottolinea come Diakur usi il machine learning "non come un espediente facile" ma per esplorare ambizione, paura, il desiderio di controllo contro l'accettazione dell'incertezza, e il cambiamento tecnologico. Selezione ufficiale al Festival di Annecy 2022, al Toronto International Film Festival e all'Ottawa International Animation Festival 2022 (nota della giuria: "Sperimentando con un design concettuale che va oltre le aspettative tradizionali dell'animazione... ha messo in discussione le nostre percezioni sulla senzienza").
 **Video:** [Backflip, documentazione (Vimeo)](https://vimeo.com/868805980)

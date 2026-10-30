@@ -15,30 +15,40 @@ Rossin viene descritta con continuità come "una pittrice e programmatrice" la c
 
 ## Opere principali
 ### N=7 / The Wake in Heat of Collapse (2015)
+**Corso:** `AW`
+**Temi:** `architettura-e-citta` `realismo-sintetico`
 **Descrizione:** simulazione VR su Oculus Rift a scorrimento laterale, presentata da SIGNAL, New York. Lo spettatore naviga un paesaggio costruito da immagini "hackerate" di architettura e videogiochi e da collage algoritmici di dipinti famosi (Guernica, *Il bacio* di Klimt), insegne aziendali e loghi di browser, culminando in una scala crollante costruita con il testo di "Contro l'interpretazione" di Susan Sontag. La gravità all'interno dell'opera diminuisce di livello in livello secondo una sequenza di Fibonacci. Realizzata durante la fellowship VR al NEW INC del New Museum.
 **Lettura critica:** una delle prime opere a integrare direttamente un testo teorico (Sontag) come materiale architettonico letterale dentro un ambiente VR, non solo come riferimento citato a parole.
 
 ![N=7 / The Wake in Heat of Collapse — veduta dell'installazione, SIGNAL](immagini/rachel-rossin/n7.jpg)
 
 ### Lossy, con I Came and Went as a Ghost Hand (Cycle 2) (2015)
+**Corso:** `AW` `M3D`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** mostra personale da Zieher Smith & Horton, New York (15 ottobre-14 novembre 2015), che include l'opera VR *I Came and Went as a Ghost Hand (Cycle 2)*, esperibile tramite Oculus Rift. Processo: la fotogrammetria converte i dipinti a olio e lo studio/la casa dell'artista in ambienti VR 3D, alterati algoritmicamente, reinterpretati in nuovi dipinti astratti, poi tradotti di nuovo in VR come texture 2D avvolte su mesh 3D. Rossin descrive così il processo: "la nostra relazione con la realtà non è composta da un virtuale e un reale separati, ma somiglia più a un gradiente tra i due... Come la compressione lossy, questo processo include l'entropia come dato intrinseco."
 **Lettura critica:** recensita da Dawn Chan su *Artforum* (vedi sopra) — l'opera che dà il nome all'intero corpus concettuale dell'artista, prendendo in prestito il termine tecnico della "compressione con perdita" come metafora della relazione tra virtuale e reale.
 
 ![I Came and Went as a Ghost Hand (Cycle 2)](immagini/rachel-rossin/lossy.jpg)
 
 ### Peak Performance (2017)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `realismo-sintetico`
 **Descrizione:** mostra personale da SIGNAL, Brooklyn (29 settembre-12 novembre 2017), con tre corpi di lavoro: dipinti a olio che raffigurano ambienti virtuali, sculture in plexiglass fuso, e opere "simili ad acquari" — hardware informatico smontato sospeso in olio minerale non conduttivo che raffredda e preserva i componenti come un "ecosistema chiuso". Esplora "la coscienza disincarnata nello spazio digitale... la fantasia seducente di un corpo liberato dai limiti dell'anatomia e della fisica... l'inevitabilità del deterioramento entropico." Include le opere VR *The Sky is a Gap* (2017, il movimento fisico dello spettatore, tracciato via motion capture, controlla la scena) e *I Came and Went as a Ghost Hand*.
 **Lettura critica:** la mostra che porta a sintesi più compiuta il rapporto tra i tre media dell'artista (pittura, scultura, VR) attorno al tema condiviso dell'entropia — dal degrado dell'hardware fisico al degrado algoritmico dell'immagine.
 
 ![Peak Performance — veduta della mostra, SIGNAL](immagini/rachel-rossin/peak-performance.jpg)
 
 ### THE MAW OF (2022)
+**Corso:** `AW`
+**Temi:** `sogno-e-inconscio`
 **Descrizione:** commissione transmediale co-prodotta dal KW Institute for Contemporary Art di Berlino e da artport, il portale di net art del Whitney Museum, descritta come una narrazione che si dispiega su più piattaforme e formati, riflettendo su come corpi e menti si fondano con la tecnologia e ne vengano alterati. Inclusa in seguito nella mostra collettiva del Whitney *Refigured*, insieme a American Artist, Morehshin Allahyari (già presente in questo database), Zach Blas & Jemima Wyman e Auriea Harvey — una mostra dedicata specificamente all'arte digitale e agli effetti della tecnologia sull'identità.
 **Lettura critica:** conferma il posizionamento di Rossin accanto ad altre artiste e artisti del database (Allahyari, Blas) attorno al tema condiviso dell'identità digitalmente mediata/alterata.
 
 ![THE MAW OF — veduta dell'installazione, KW Institute for Contemporary Art](immagini/rachel-rossin/the-maw-of.jpg)
 
 ### SCRY / Scry Glass III (2023)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** serie mostrata nella personale "SCRY" nel nuovo spazio di Magenta Plains su Canal Street, New York (2023). *Scry Glass III*: display LED circolare e microcomputer, video digitale a colori, muto, 9 minuti e 5 secondi. Acquisita dal Solomon R. Guggenheim Museum nel 2025.
 **Lettura critica:** il testo curatoriale del Guggenheim collega l'opera allo "specchio di Claude" del Settecento, dispositivo ottico portatile usato dai pittori di paesaggio romantici per inquadrare e tonalizzare la veduta — la superficie circolare a LED diventa l'erede tecnologico diretto di quello specchio da viaggio.
 

@@ -13,6 +13,8 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 
 ## Opere principali
 ### Hyper-Reality (2016)
+**Corso:** `AW` `TAD-DCV` `M3D`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** cortometraggio di 6 minuti girato in soggettiva a Medellín, Colombia: segue Juliana, lavoratrice della gig economy, il cui campo visivo è saturato da un'interfaccia AR — pubblicità olografiche, icone religiose che offrono "punti salvezza", un assistente virtuale invadente.
 **Lettura critica:** aggiorna la "società dello spettacolo" (Debord) all'era dell'interattività: l'interfaccia non è più fuga ma strumento di lavoro e controllo; la "realtà di base" (la povertà di Medellín) traspare solo quando il sistema va in crash.
 
@@ -21,12 +23,16 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 **Approfondimento:** [keiichimatsuda.com](https://keiichimatsuda.com/)
 
 ### Prism (2013)
+**Corso:** `TAD-DCV` `AW`
+**Temi:** `infrastruttura-e-rete`
 **Descrizione:** cortometraggio minimalista: una coppia vive in una smart home perfettamente integrata e apparentemente invisibile nell'interfaccia, che in realtà raccoglie costantemente dati su consumo, salute ed emozioni.
 **Lettura critica:** espone l'inganno dell'interfaccia "frictionless" — la gestione della casa come forma di gestione (e ottimizzazione) della vita stessa.
 
 ![Prism — fotogramma](immagini/keiichi-matsuda/prism.jpg)
 
 ### Domestic Robocop (2009)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `immagini-operative`
 **Descrizione:** film girato dal punto di vista di un piccolo robot domestico di sorveglianza, che alterna compiti banali (fare il tè) a compiti inquietanti (monitorare i proprietari).
 **Lettura critica:** anticipa la tesi secondo cui gli strumenti non sono mai neutri: cura e controllo sono già confuse nello sguardo della macchina.
 **Video:** [cortometraggio completo (Vimeo)](https://vimeo.com/7430198)

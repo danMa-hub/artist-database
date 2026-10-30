@@ -14,7 +14,7 @@ from PIL import Image
 ROOT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
 ESCLUSE = {"README", "informazioni", "contribuire", "tags", "00-lista-artisti", "index", "mostre"}
 RIGHE_TAG = [("tecnica", "**Tag tecnica/formato:**"), ("tema", "**Tag tema:**"), ("corso", "**Tag corso:**")]
-TAG_CORSO = ["TAD-DCV", "AVM", "AW", "M3D"]
+TAG_CORSO = ["TAD-DCV", "TAD-AVM", "AW", "M3D"]
 IMG = re.compile(r"!\[[^\]]*\]\((?!https?:)([^)\s]+)")
 LARGHEZZA_ANTEPRIMA = 480
 
@@ -354,7 +354,7 @@ title: Artist Database
 
 > **Lavoro in corso.** Le schede sono in parte compilate con l'aiuto dell'intelligenza artificiale e vanno ancora riviste: possono contenere errori, date o titoli da verificare, schede parziali. Controlla sempre le fonti linkate e segnala o correggi ciò che non torna ([come contribuire](contribuire.html)).
 
-[Informazioni sul progetto](informazioni.html) · Per corso: [TAD-DCV](tag/tad-dcv.html), [AVM](tag/avm.html), [AW](tag/aw.html), [M3D](tag/m3d.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
+[Informazioni sul progetto](informazioni.html) · Per corso: [TAD-DCV](tag/tad-dcv.html), [TAD-AVM](tag/tad-avm.html), [AW](tag/aw.html), [M3D](tag/m3d.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
 
 <input id="cerca" type="search" placeholder="Cerca un artista o un tag" class="cerca">
 

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `vr-ar`
 **Tag tema:** `storia-computer-grafica` `corpo-identita`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 **Stato:** scheda avanzata · da completare con il materiale della retrospettiva «Synthetic Creatures» (MEET, Milano, 2026)
 
 ## Biografia
@@ -14,12 +14,16 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 ## Opere principali
 
 ### Swimmer (1981)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** una delle prime animazioni 3D di un corpo umano mai realizzate, e il primo modello femminile animato digitalmente.
 **Lettura critica:** apre la strada alla rappresentazione digitale del corpo in un campo allora dominato da astrazione geometrica e wireframe.
 
 ![Swimmer](immagini/rebecca-allen/swimmer.jpg)
 
 ### The Catherine Wheel (1982, con la coreografa Twyla Tharp)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** animazione di figure digitali che salgono una scalinata in un movimento ciclico, realizzata con Tharp per l'omonimo film PBS.
 **Lettura critica:** una delle prime collaborazioni tra danza/coreografia e animazione digitale del corpo.
 
@@ -28,12 +32,16 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Approfondimento:** [SIGGRAPH History Archives — Catherine Wheel](https://history.siggraph.org/artwork/rebecca-allen-catherine-wheel/)
 
 ### Musique Non-Stop (1986, con Kraftwerk)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** videoclip musicale per Kraftwerk, con cui Allen inizia a collaborare nel 1984; teste digitali stilizzate dei membri della band animate in computer grafica.
 **Lettura critica:** porta l'animazione digitale del corpo umano nella cultura pop di massa, anticipando l'estetica "robotica" che diventerà un riferimento ricorrente nella computer grafica successiva.
 
 ![Musique Non-Stop](immagini/rebecca-allen/musique-non-stop.jpg)
 
 ### The Bush Soul (1997-1999)
+**Corso:** `M3D`
+**Temi:** `vita-artificiale-e-simulazione` `avatar-e-corpo-virtuale`
 **Descrizione:** serie di opere/ambienti virtuali che esplorano la relazione tra forme di vita artificiale e presenza umana: l'"anima" di una persona entra in un mondo virtuale vivo e reattivo (un cespuglio virtuale), popolato da creature astratte animate da programmi che ne definiscono comportamenti e desideri; l'utente lo esperisce come una "coscienza in viaggio" che si sposta tra le diverse creature.
 **Lettura critica:** anticipa domande oggi centrali su agency, comportamento emergente e vita artificiale in ambienti simulati.
 
@@ -42,6 +50,8 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Approfondimento:** [rebeccaallen.com — The Bush Soul (#1)](https://www.rebeccaallen.com/projects/bush-soul-number-1)
 
 ### Life Without Matter (2018)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale` `mito-e-rituale`
 **Descrizione:** opera in realtà virtuale che immagina una vita futura in cui la materia fisica è quasi scomparsa e l'identità va ridefinita: il visitatore si trova in un luogo mitico dove uno specchio virtuale restituisce un riflesso che non è necessariamente il proprio aspetto fisico, ma una figura in cui convivono femminile, maschile e animale.
 **Lettura critica:** riporta la domanda identitaria che attraversa tutta la carriera di Allen — chi siamo nel corpo digitale? — nel linguaggio contemporaneo della VR.
 
@@ -50,6 +60,8 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Approfondimento:** [rebeccaallen.com — Life Without Matter](https://www.rebeccaallen.com/projects/life-without-matter)
 
 ### Figures Crawling (2013, dalla serie Figures in Motion)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** studio del corpo umano in movimento su tre video: un modello maschile e uno femminile ripresi mentre strisciano a terra, con la camera montata dall'alto. Le figure appaiono "genderless", con un aspetto plastico della pelle; i movimenti, per quanto astratti nella resa, restano realistici e non alterati.
 **Lettura critica:** riporta al centro della ricerca dell'artista lo studio diretto del movimento del corpo — un filo che attraversa tutta la carriera, dai primi esperimenti di animazione 3D fino a questi lavori più recenti.
 

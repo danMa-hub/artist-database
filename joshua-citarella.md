@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `net-art-sito-web`
 **Tag tema:** `economia-attenzione` `game-culture`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 **Stato:** fonte unica finora: il testo di sala della mostra «Strange Rules» (Palazzo Diedo, Venezia, 2026)
 
 ## Biografia
@@ -13,6 +13,8 @@ Citarella studia la frammentazione algoritmica di internet in comunità di nicch
 
 ## Opere principali
 ### Online Marketplace of Ideas (2026, con New Models, allestimento di sub)
+**Corso:** `TAD-DCV`
+**Temi:** `propaganda-e-media`
 **Descrizione:** installazione che raccoglie un campionario di merchandise da content creator — t-shirt, cappelli e altri capi drop-ship — insieme a opere di artisti che operano sul livello dei protocolli che regolano produzione e circolazione dei contenuti online.
 **Lettura critica:** il merch come "tecnologia del consenso": una volta indossato, diventa prova di appartenenza a una comunità ideologica — la più antica forma analogica di comunicazione politica, oggi al servizio di ecosistemi social frammentati algoritmicamente. (Testo di sala, mostra "Strange Rules", Palazzo Diedo, Venezia.)
 

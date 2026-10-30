@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `projection-mapping` `procedurale-generativo` `modellazione-3d`
 **Tag tema:** `corpo-identita` `storia-computer-grafica`
-**Tag corso:** `AVM` `M3D`
+**Tag corso:** `TAD-AVM` `M3D`
 
 ## Biografia
 Nato nel 1977 a Jena, Germania. Inizia gli studi in biologia, poi si trasferisce alla Bauhaus-Universität Weimar per completare la formazione in media design. Con base a Berlino, lavora tra film sperimentale, installazione, arte pubblica, performance, suono e curatela.
@@ -12,6 +12,8 @@ Seidel spinge l'astrazione verso il sublime e l'organico, attingendo a metodi de
 
 ## Opere principali
 ### _grau (2004)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** film sperimentale di 10:01 minuti (durata che richiama il sistema binario di Leibniz), basato su fonti reali della vita dell'artista: scansioni 3D della propria testa e mano, movimenti captati in motion capture, dati di risonanza magnetica del proprio cervello, fusi in animazione 3D e simulazione fisica per costruire un ritratto emotivo astratto di un incidente d'auto.
 **Lettura critica:** considerato una pietra miliare nell'animazione digitale sperimentale — ridefinisce il filmmaking digitale fondendo dato biomedico, simulazione fisica e narrazione emotiva senza mai mostrare un'immagine figurativa diretta.
 
@@ -20,6 +22,8 @@ Seidel spinge l'astrazione verso il sublime e l'organico, attingendo a metodi de
 **Approfondimento:** [robertseidel.com — _grau](https://robertseidel.com/grau/)
 
 ### Phyletic Museum, Jena (proiezione architetturale)
+**Corso:** `TAD-AVM`
+**Temi:** `architettura-e-citta` `performance-audiovisiva`
 **Descrizione:** trasformazione dell'intera facciata del Museo di Storia Naturale (Phyletisches Museum) di Jena in una "creatura vivente", tramite proiezione mappata sull'intero edificio, coreografia di luci e colonna sonora sincronizzata.
 **Lettura critica:** porta la ricerca sull'organico e il biologico dalla scala del corpo individuale a quella dell'architettura pubblica.
 

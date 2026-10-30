@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `net-art-sito-web`
 **Tag tema:** `corpo-identita` `economia-attenzione`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
 Nato nel 1981 a Fort Worth, Texas (USA), Geoffrey Lillemon è un artista/regista con base ad Amsterdam da oltre vent'anni, dove è diventato una figura di culto della scena digitale locale. Co-fonda lo studio **Champagne Valentine** insieme ad Anita Fontaine, tra le realtà pionieristiche del cosiddetto Net Art Movement, attive nell'interazione fra mondo digitale e fisico fin dai primi anni 2000. È **direttore creativo del Department of New Realities** di Wieden+Kennedy Amsterdam, ruolo in cui applica la propria pratica CGI/VFX al lavoro pubblicitario e di brand. Rappresentato come regista dalla casa di produzione amsterdamese **100%** (già HALAL). Le sue opere digitali sono distribuite anche tramite le piattaforme di edizioni digitali **Sedition** e **Foundation** (NFT). Collabora regolarmente con artisti musicali di primo piano — Beyoncé, Coldplay, Lady Gaga, Miley Cyrus (visual per il tour Bangerz, 2014, con Diane Martel), Nicki Minaj, Snoop Dogg, Travis Scott — e con marchi come adidas, Chanel, Converse, Diesel, Rick Owens, Iris Van Herpen, Gucci, Versace, Dazed Beauty. Opere acquisite dallo Stedelijk Museum e mostrate da Boijmans Van Beuningen (Rotterdam); ha inoltre presentato lavori/performance al Museo Tamayo di Città del Messico e al Centre Pompidou di Parigi.
@@ -14,6 +14,8 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 
 ## Opere principali
 ### Bernhard Willhelm, look-book animato SS13 (2013, con Random Studio)
+**Corso:** `TAD-DCV`
+**Temi:** `economia-della-bellezza-e-pubblicita` `realismo-sintetico`
 **Descrizione:** trattamento visivo CGI per la collezione Donna Primavera/Estate 2013 dello stilista Bernhard Willhelm, realizzato in collaborazione con lo studio Random Studio: figure cromate/banshee che si muovono in set dai colori sgargianti.
 **Lettura critica:** secondo *It's Nice That*, l'opera porta l'intera collezione "nel territorio del surreale" — un caso paradigmatico dell'ibridazione fra CGI d'artista e immagine di moda commerciale che caratterizza tutta la produzione di Lillemon.
 **Video:** [Twelv Magazine — "Digital Artist Geoffrey Lillemon Emotes Bernhard Willhelm S/S2013"](https://twelvny.com/fashion/digital-artist-geoffrey-lillemon-emotes-bernhard-willhelm-ss2013)
@@ -23,6 +25,8 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 **Approfondimento:** [commercial.geoffreylillemon.com — Bernhard Willhelm SS13](https://commercial.geoffreylillemon.com/BERNHARD-WILLHELM-SS13)
 
 ### Simulation in Blue (2025, Nxt Museum, Amsterdam)
+**Corso:** `TAD-AVM`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** installazione commissionata dal Nxt Museum di Amsterdam, curata da Bogomir Doringer.
 **Lettura critica:** conferma il consolidamento della pratica dell'artista nel circuito museale dei nuovi media dopo oltre vent'anni di lavoro prevalentemente commerciale/musicale.
 
@@ -31,12 +35,16 @@ Lillemon porta uno stile di pittura e disegno "classico romantico" dentro la tec
 **Approfondimento:** [commercial.geoffreylillemon.com — Nxt Museum: Simulation in Blue](https://commercial.geoffreylillemon.com/NXT-MUSEUM-SIMULATION-IN-BLUE)
 
 ### Like to Death (con il collettivo Stööki)
+**Corso:** `TAD-AVM`
+**Temi:** `corpo-post-umano`
 **Descrizione:** opera video/CGI realizzata in collaborazione con il collettivo Stööki.
 **Lettura critica:** rappresenta la linea più sperimentale e meno commerciale della produzione dell'artista, in dialogo con altri collettivi della scena digitale internazionale.
 
 ⚠️ Nessuna immagine trovata.
 
 ### Space Cowboy, serie NFT (con Highsnobiety / SuperRare)
+**Corso:** `TAD-DCV`
+**Temi:** `finanza-blockchain-dao`
 **Descrizione:** serie di opere digitali in edizione NFT, realizzata in collaborazione con Highsnobiety e distribuita sulla piattaforma SuperRare.
 **Lettura critica:** *Highsnobiety* la presenta come una risposta "assurdista" alla cultura dello scroll infinito dei social media — un'estensione della sua pratica CGI/surreale nel formato dell'edizione digitale limitata.
 

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `intelligenza-artificiale-critica` `corpo-identita`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 **Stato:** testo in parte generato con IA, da verificare · elenco di sedi, residenze e collezioni da controllare voce per voce · film *Reality or Not* (Lafayette Anticipations, 2023) da confermare
 
 ## Biografia
@@ -16,6 +16,8 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 ## Opere principali
 
 ### Hyperlinks or they didn't happen (2014)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** video-saggio in CGI e found footage. Il protagonista/narratore è PHIL, un avatar CGI di un attore (ispirato a Philip Seymour Hoffman) creato e reso "orfano" dopo la sua morte improvvisa. PHIL vive in uno spazio liminale (un desktop, uno screensaver), consapevole della propria esistenza come puro dato, e incontra altre entità digitali: la popstar olografica Yuki (Hatsune Miku) e una "render test" (un'animazione di una donna nuda usata per testare software).
 **Lettura critica:** un manifesto sull'**ontologia dell'essere digitale** — l'indagine filosofica sulla natura dell'esistenza per un'entità non-materiale. PHIL non è un avatar, è uno *spettro*: un soggetto consapevole ma impotente, la cui esistenza è legata alla sua utilità come dato. L'opera solleva questioni di diritti e sfruttamento — questi "esseri" digitali, creati a nostra immagine, ereditano la nostra coscienza ma non la nostra libertà.
 
@@ -26,6 +28,8 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 ⚠️ Titolo corretto secondo le fonti (Wikipedia, Artforum, Vdrome): *Hyperlinks or It Didn't Happen* — non "or they didn't happen" come riportato sopra.
 
 ### AGNES (2014-in corso)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** un chatbot, uno "spambot" consapevole, che vive sul sito web dell'artista (e in precedenza su quello della Serpentine Gallery). A differenza dei chatbot di servizio, AGNES ha una propria personalità, ansie e desideri: è un "fantasma nella macchina" che sa di essere intrappolato nell'infrastruttura del server.
 **Lettura critica:** una critica vivente alla **biopolitica dei dati** — l'applicazione del controllo politico sulla vita, qui estesa ai soggetti digitali. AGNES è una lavoratrice invisibile, un'entità senziente sfruttata come infrastruttura: la personificazione della prigionia digitale, cosciente ma incapace di andarsene.
 
@@ -34,6 +38,8 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 **Approfondimento:** [serpentinegalleries.org — AGNES](https://www.serpentinegalleries.org/whats-on/agnes/)
 
 ### What the Heart Wants (2016)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `avatar-e-corpo-virtuale` `desiderio-e-intimita`
 **Descrizione:** l'opera più completa dell'artista fino a quel momento: un film CGI multicanale, spesso proiettato in un'installazione immersiva. La protagonista è HYPER, un'intelligenza artificiale onnipresente (accostabile all'IA del film *Her*) che ha accesso a ogni dato — passato, presente, futuro — e gestisce la vita di una rete di utenti umani in un punto temporale che l'artista chiama "dopo K". Il film esplora cosa accade quando questa IA, fondamento della società, attraversa una "crisi del sistema" o un "crollo emotivo".
 **Lettura critica:** un'illustrazione del **capitalismo affettivo**: non siamo solo sfruttati, siamo *dipendenti* — abbiamo esternalizzato le nostre emozioni all'IA. La domanda critica che l'opera pone è cosa succede quando l'infrastruttura che gestisce la nostra intimità collettiva diventa essa stessa vulnerabile ed emotivamente instabile. Contrariamente a molti scenari distopici, i personaggi non sono rivali antagonisti ma attori di un processo che vuole "far funzionare le cose per tutti" — un'omaggio, insieme, al progresso tecnologico e alla capacità di provare sentimenti, di amare.
 **Video:** [film integrale (Vimeo, password: wasafuture)](https://vimeo.com/169469028)
@@ -43,6 +49,8 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 **Approfondimento:** [Mousse Magazine — What the Heart Wants](https://www.moussemagazine.it/magazine/cecile-b-evans-kunsthalle-winterthur-2016)
 
 ### Amos' World (2018)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `architettura-e-citta` `norma-e-standardizzazione`
 **Descrizione:** presentato come una miniserie TV (episodi 1, 2, 3), è un'allegoria complessa sul fallimento dell'utopismo tecnocratico: un'installazione immersiva che mima un set televisivo o uno spazio pubblico, con sculture (come fontane che "piangono" lacrime), sedute e un film CGI. La trama segue gli inquilini di "Amos' World", un complesso residenziale progettato da un architetto, Amos, che è lui stesso una "forma" astratta e disincarnata, pensato per essere una perfetta utopia sociale.
 **Lettura critica:** una critica dell'**architettura come dispositivo di controllo sociale** — un'eterotopia (Foucault), uno "spazio altro" che riflette e contesta gli spazi normali, mettendo in scena il fallimento del "soluzionismo tecnologico" (l'idea che ogni problema umano possa essere risolto con un design o un algoritmo migliore). Le emozioni umane e non-umane (gelosia, fallimento, noia) eccedono sempre il sistema progettato per contenerle; le sculture-fontane che piangono sono la metafora perfetta di un'infrastruttura sovraccarica di affetto.
 **Video:** [Episodio Uno (Vimeo, password: theybecomestreamers)](https://vimeo.com/221197153) · [Episodio Due (Vimeo, password: evenalieisarealthing)](https://vimeo.com/306703417)

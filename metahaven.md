@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `data-visualization` `net-art-sito-web`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
 Metahaven è uno studio di design, ricerca e — dal 2014 circa — cinema con sede ad Amsterdam, fondato nel 2007 da **Vinca Kruk** (nata nel 1980) e **Daniel van der Velden** (nato nel 1971). Entrambi si formano in graphic design alla Willem de Kooning Academy di Rotterdam; Van der Velden consegue poi un master alla Jan van Eyck Academie di Maastricht (1998), dove lavora come consulente di ricerca dal 2004, mentre Kruk è ricercatrice nel dipartimento di design della stessa accademia fino al 2005, poi consulente di ricerca 2006-2007. Il nome dello studio deriva dal loro primo progetto in collaborazione, il "Sealand Identity Project" — una proposta speculativa di identità visiva per la micronazione offshore di Sealand, un "data haven" al culmine della bolla dot-com: "Metahaven" sta per "oltre l'haven" (rifugio/porto). Riconoscimenti: Icon Magazine (UK) li nomina "Design Studio of the Year" nel 2013; vincono il Cobra Art Prize (Cobra Museum voor Moderne Kunst) nel 2013. Continuano a operare come pratica collaborativa a due, oggi spaziando tra design, film e immagine in movimento.
@@ -12,18 +12,24 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 
 ## Opere principali
 ### Captives of the Cloud, parti I-III (2012-2013)
+**Corso:** `TAD-DCV`
+**Temi:** `infrastruttura-e-rete`
 **Descrizione:** serie di saggi pubblicati su *e-flux journal* (parte I, n. 37, settembre 2012; parte II, n. 38, ottobre 2012; parte III "All Tomorrow's Clouds", n. 50, dicembre 2013), che apre con la frase "Siamo i prigionieri volontari del cloud; siamo sorvegliati da governi che non abbiamo eletto." Affronta la "super-giurisdizione" statunitense esercitata attraverso leggi come il Patriot Act, applicata globalmente tramite la proprietà americana dell'infrastruttura cloud, in un formato che unisce prosa da "policy paper amplificato" a diagrammi in stile infografica sull'architettura di internet.
 **Lettura critica:** un testo che anticipa di anni il dibattito mainstream sulla sovranità dei dati, scritto da uno studio di design piuttosto che da accademici — un caso paradigmatico di teoria critica prodotta con gli strumenti visivi del design stesso.
 
 ⚠️ Nessuna immagine trovata per questa serie di saggi in questa sessione: e-flux journal non restituisce immagini associate all'articolo al fetch diretto.
 
 ### Black Transparency: The Right to Know in the Age of Mass Surveillance (mostra 2013-14, libro 2015)
+**Corso:** `TAD-DCV`
+**Temi:** `propaganda-e-media`
 **Descrizione:** progetto espositivo (Bureau Europa, Maastricht, 2013; Future Gallery, Berlino, 2014) e libro (Sternberg Press, 2015) che esamina il "come", non il "cosa", della trasparenza — il paradosso per cui le campagne di trasparenza in stile WikiLeaks dipendono da mezzi opachi e propagandistici. Include un'intervista al designer anonimo del logo di WikiLeaks e materiale sullo statuto mutevole della Crimea su Google Maps.
 **Lettura critica:** il lavoro che dà il nome alla teoria centrale di Metahaven, mostrando come persino la trasparenza radicale sia sempre mediata da scelte di design e comunicazione.
 
 ![Black Transparency — veduta dell'installazione, Kunsthal Charlottenborg. Foto: Anders Sune Berg](immagini/metahaven/black-transparency.jpg)
 
 ### The Sprawl (Propaganda About Propaganda) (2015/2016)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `propaganda-e-media` `infrastruttura-e-rete`
 **Descrizione:** documentario a lungometraggio, installazione multicanale e progetto web episodico, commissionato nel 2014 da Lighthouse e The Space. Diretto da Metahaven con la direzione della fotografia di Remko Schnorr e colonna sonora originale del musicista elettronico Kuedo. Un documentario ibrido e non lineare costruito in brevi segmenti ("shard") calibrati sui tempi di attenzione da internet piuttosto che sulla durata cinematografica; affronta la disinformazione attorno all'abbattimento del volo MH17 e la guerra di framing tra RT e CNN, con interviste a Benjamin H. Bratton, Maryam Monalisa Gharavi e Peter Pomerantsev. Presentato in anteprima all'IFFR (International Film Festival Rotterdam) 2016; mostrato anche a ICA Londra e HKW Berlino.
 **Lettura critica:** l'opera più rilevante per un corso di animazione/immagine in movimento digitale — mette in scena, nella propria stessa forma frammentata "a shard", la tesi che intende argomentare sulla propaganda dell'era dei social media.
 **Video:** [The Sprawl, interfaccia ufficiale a episodi (sprawl.space)](http://sprawl.space/shards/shard-14/) · [The Sprawl, playlist completa (YouTube)](https://www.youtube.com/playlist?list=PLzOamWyeo-sYBnjVoDd1JxmAUvrSV3dPg)
@@ -31,12 +37,16 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 ![The Sprawl (Propaganda About Propaganda) — HD video still. Courtesy Lighthouse e The Space](immagini/metahaven/the-sprawl.webp)
 
 ### Information Skies (2016)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `propaganda-e-media`
 **Descrizione:** film HD di 24 minuti, scritto e diretto da Van der Velden e Kruk, fotografia di Remko Schnorr, colonna sonora del produttore M.E.S.H. Girato in ungherese con sottotitoli inglesi, ambientato nella Foresta Nera, immagina un futuro prossimo in cui VR/AR sono ormai pervasive, esplorando autenticità, classe sociale e sublimazione tecnologica. Commissionato dall'11ª Biennale di Gwangju (2016).
 **Lettura critica:** sposta il metodo di Metahaven dal saggio/documentario alla finzione speculativa, mantenendo lo stesso impianto critico sulla mediazione tecnologica dell'esperienza.
 
 ![Information Skies — fotogramma](immagini/metahaven/information-skies.jpg)
 
 ### Eurasia (Questions on Happiness) (2018)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `migrazione-e-confini` `propaganda-e-media`
 **Descrizione:** film di 64 minuti commissionato congiuntamente da Stedelijk Museum di Amsterdam, ICA Londra e Sharjah Art Foundation, presentato in anteprima nell'ambito di "Metahaven: EARTH" allo Stedelijk (ottobre 2018-febbraio 2019, a cura di Karen Archey) — la prima grande mostra museale che affianca il lavoro cinematografico a quello di design dello studio. Girato negli Urali sudorientali e in Macedonia, combina documentario, animazione e materiale d'archivio per esaminare la produzione ideologica lungo la "Nuova Via della Seta".
 **Lettura critica:** conferma la maturazione dello studio verso un cinema d'autore a tutti gli effetti, pur mantenendo l'impianto di ricerca geopolitica che caratterizza tutto il loro lavoro precedente.
 
@@ -45,6 +55,8 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 **Approfondimento:** [Stedelijk Museum Amsterdam — Metahaven: EARTH](https://www.stedelijk.nl/en/exhibitions/metahaven)
 
 ### Chaos Theory (2021-2024)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `infrastruttura-e-rete`
 **Descrizione:** film di 25 minuti presentato in mostra personale nella serie Film & Video del Guggenheim Museum Bilbao (22 febbraio-9 giugno 2024) — un "poema cinematografico" strutturato attorno a due protagoniste, interpretate da Valentina Di Mondo e Georgina Dávid.
 **Lettura critica:** lavoro recente che conferma la continuità dell'indagine sulla forma del racconto per immagini in un'epoca di sorveglianza e disinformazione diffusa, spostando il registro verso una dimensione più lirica e meno saggistica.
 

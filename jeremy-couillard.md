@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `vr-ar` `installazione`
 **Tag tema:** `fantascienza-speculativa` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
 Artista che realizza simulazioni e videogiochi narrativi interattivi.
@@ -12,6 +12,8 @@ Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in
 
 ## Opere principali
 ### Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `vita-artificiale-e-simulazione`
 **Descrizione:** software/simulazione ambientata a Polyp's Pond: tre AI (Smerga, Kaotoa, Skalitir), le più intelligenti sopravvissute a un apocalisse umana, costruiscono una macchina per generare altra vita artificiale; l'utente può abitare il corpo di una Tulpa generata da un'iterazione precedente della macchina, esplorare lo stagno, cambiare punto di vista o mettere in rete più computer.
 **Lettura critica:** lasciata "girare" per un giorno intero, la simulazione rivela comportamenti emergenti diversi ogni volta — un'opera pensata per l'osservazione prolungata più che per la fruizione lineare.
 
@@ -20,6 +22,8 @@ Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in
 **Approfondimento:** [YouTube — Sometimes...](https://www.youtube.com/watch?v=8wUiLcqLWnc)
 
 ### HOTR Home Furnishing
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** video ambientato in un futuro prossimo distopico in cui, dopo un salvataggio alieno dall'estinzione, l'1% più ricco viene impiegato in un negozio di arredamento in stile IKEA "su acido"; un alieno visita il negozio cercando una lampada.
 **Lettura critica:** satira sul lavoro coatto e sulla banalizzazione del salvataggio/redenzione in chiave consumistica.
 
@@ -28,6 +32,8 @@ Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in
 **Approfondimento:** [YouTube — HOTR Home Furnishing](https://www.youtube.com/watch?v=lwLx7-XLA1k)
 
 ### The Founders of Daytona Beach Also Founded Dayton, Ohio (2018)
+**Corso:** `TAD-AVM`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** opera VR interattiva in 3D (Zabludowicz Collection): lo spettatore, in forma disincarnata, fluttua tra creature aliene e scenari assurdi guidato da voci e frammenti audio da una radio, raccogliendo sette sillabe nascoste per tornare a una forma corporea.
 **Lettura critica:** riferimenti a visioni e stati alterati di percezione (da mistici orientali a trader di borsa a figure storiche come William Blake) — la logica visiva onirica del videogioco come dispositivo di visione alterata.
 

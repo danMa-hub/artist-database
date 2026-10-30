@@ -13,6 +13,8 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 
 ## Opere principali
 ### That Other Girl (2015, per Sevdaliza)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `corpo-post-umano` `economia-della-bellezza-e-pubblicita`
 **Descrizione:** video musicale realizzato per la cantante di origine iraniana Sevdaliza, che combina immaginario neo-barocco con "tecno-sciamanesimo cyborg" — texture dorate, marmoree e metalliche preziose che si fondono con la voce vellutata e ipnotica dell'artista in un'esperienza 3D.
 **Lettura critica:** *Vice*, coprendo l'opera con il titolo "A Lavish Trip Inside an Empress' 3D-Scanned Palace", ne sottolinea la costruzione tramite scansione 3D come tecnica portante dell'immaginario iconografico del duo.
 **Video:** [Sevdaliza — That Other Girl (YouTube)](https://www.youtube.com/watch?v=koAtzvSBvfE)
@@ -20,12 +22,16 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 ![That Other Girl — fotogramma](immagini/pussykrew/that-other-girl.jpg)
 
 ### The Formula (2016, per Sevdaliza, con Lisette Donkersloot e Atlynn Vrolijk)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `corpo-post-umano`
 **Descrizione:** video musicale per Sevdaliza, co-diretto da Pussykrew insieme alle registe Lisette Donkersloot e Atlynn Vrolijk.
 **Lettura critica:** prosegue la collaborazione pluriennale con Sevdaliza, confermando il duo come riferimento visivo per l'artista in un momento chiave della sua carriera musicale.
 
 ⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: alcune fonti (IMVDb) attribuiscono la regia di "The Formula" a Emmanuel Adjei, in apparente contrasto con l'attribuzione a Pussykrew riportata in questa scheda — da verificare prima di aggiungere un'immagine.
 
 ### Future Memories (2015, Seoul)
+**Corso:** `M3D`
+**Temi:** `corpo-post-umano`
 **Descrizione:** mostra che presenta il lavoro del duo, incentrata sull'ibridazione fra digitale e fisico tramite scultura stampata in 3D.
 **Lettura critica:** una delle prime occasioni espositive internazionali del duo al di fuori del contesto del video musicale, segno della loro transizione verso l'oggetto scultoreo.
 
@@ -34,12 +40,16 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 **Approfondimento:** [East Contemporary — Future Memories](https://www.east-contemporary.com/2015/10/20/unofficial-preview-gallery-pussykrew-future-memories/)
 
 ### Adidas Futurecraft 4D, busti di atleti stampati in 3D
+**Corso:** `M3D` `TAD-DCV`
+**Temi:** `economia-della-bellezza-e-pubblicita`
 **Descrizione:** progetto commerciale/artistico per adidas: busti di atleti realizzati con tecnologia di stampa 3D Futurecraft 4D.
 **Lettura critica:** applicazione della pratica scultorea del duo — fotogrammetria/scansione 3D più stampa 3D — a un contesto di branding sportivo di alto profilo.
 
 ⚠️ Nessuna immagine dell'opera specifica trovata in questa sessione (fonti bloccate o non pertinenti).
 
 ### Serpent of Self (2021, Rewire Festival)
+**Corso:** `AW` `TAD-DCV`
+**Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** film interattivo scritto in collaborazione con un processo di apprendimento automatico (AI), presentato al Rewire Festival (edizione online, 6-9 maggio 2021). Esplora temi di materialità, sogni non binari, misticismo, forze primordiali della natura e ritualità, intrecciando passato, presente e futuro in nuove narrazioni e mitologie ispirate a folklore e fantascienza speculativa.
 **Lettura critica:** rappresenta l'evoluzione più recente e concettualmente più esplicita della pratica del duo, che integra per la prima volta in modo dichiarato l'IA come co-autrice del processo narrativo, oltre a tematizzare apertamente identità non binarie e migrazioni forzate.
 

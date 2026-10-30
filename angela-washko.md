@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
 **Tag tema:** `genere-queerness` `game-culture` `performance-audiovisiva`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 
 ## Biografia
 Artista che realizza interventi femministi dentro spazi di gioco online multiplayer.
@@ -12,6 +12,8 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 
 ## Opere principali
 ### Playing a Girl / The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft (dal 2012)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `performance-audiovisiva`
 **Descrizione:** intervento performativo dentro *World of Warcraft*: Washko fonda un "consiglio" fittizio e facilita discussioni sul genere e sul femminismo con i giocatori direttamente nel gioco, incluse conversazioni su avatar di genere diverso dal proprio e su vittim-blaming.
 **Lettura critica:** usa lo spazio ludico come laboratorio sociale per un sondaggio dal vivo sull'opinione pubblica americana riguardo al ruolo delle donne.
 
@@ -20,6 +22,8 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 **Approfondimento:** [angelawashko.com — The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft](https://angelawashko.com/section/383766-The%20Council%20on%20Gender%20Sensitivity%20and%20Behavioral%20Awareness%20in%20World%20of%20Warcraft.html)
 
 ### Weaponizing Courtship (2020, Fotomuseum Winterthur, mostra *SITUATIONS/Strike*)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `guerra-e-militare` `desiderio-e-intimita`
 **Descrizione:** performance-per-video commissionata che indaga l'integrazione della tecnologia militare nei videogiochi e nella cultura della seduzione online; include *The Game: The Game*, dating simulator femminista critico verso i pick-up artist, e un playthrough critico di *Super Seducer*.
 **Lettura critica:** traccia una storia di come la visione e la tecnologia militari siano state incorporate nei giochi per computer, e di come queste stesse convenzioni tornino nelle pratiche di seduzione maschile online.
 

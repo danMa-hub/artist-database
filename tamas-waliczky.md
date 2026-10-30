@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `video`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD-DCV` `AVM`
+**Tag corso:** `TAD-DCV` `TAD-AVM`
 **Stato:** da approfondire: Micromovements in Snapshots (2014) e i video completi della Trilogia della Prospettiva · un'immagine nei Crediti non è identificata
 
 ## Biografia
@@ -13,20 +13,28 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 
 ## Opere principali
 ### The Garden (1992)
+**Corso:** `TAD-AVM`
+**Temi:** `prospettiva-e-camera`
 **Descrizione:** una bambina gioca in un giardino, ricostruito secondo il "Water Drop Perspective System" ideato da Waliczky — una costruzione sferica del mondo.
 **Lettura critica:** la prospettiva non rinascimentale ricostruisce lo spazio dal punto di vista percettivo di un bambino, mettendo in discussione la neutralità della prospettiva codificata nel software 3D.
 
 ### The Forest (1993)
+**Corso:** `TAD-AVM`
+**Temi:** `prospettiva-e-camera`
 **Descrizione:** una distesa infinita di nebbia avvolge una foresta di alberi spogli; ovunque si guardi, si ripetono sempre gli stessi alberi, secondo una prospettiva cilindrica.
 **Lettura critica:** lo spazio computazionale diventa un labirinto senza uscita, un'esperienza di disorientamento costruita matematicamente.
 
 ![The Forest, fotogramma — rami spogli in bianco e nero](immagini/tamas-waliczky/the-forest-01.png)
 
 ### The Way (1994)
+**Corso:** `TAD-AVM`
+**Temi:** `prospettiva-e-camera`
 **Descrizione:** maratoneti che corrono per una città, rappresentati in prospettiva inversa: gli oggetti più lontani appaiono più grandi di quelli vicini.
 **Lettura critica:** capovolge la convenzione prospettica occidentale, rendendo visibile — invece di nascondere — la costruzione artificiale dello spazio nell'immagine di sintesi.
 
 ### Imaginary Cameras (2016-2019, Padiglione Ungherese, Biennale di Venezia 2019)
+**Corso:** `TAD-AVM` `TAD-DCV`
+**Temi:** `prospettiva-e-camera`
 **Descrizione:** serie di 23 "macchine fotografiche immaginarie" — dispositivi ottici progettati con software digitale ma concepiti per operare con meccanismi analogici — presentate come lightbox e animazioni; nell'atrio i visitatori potevano provare il meccanismo di una delle fotocamere fantastiche in versione digitale interattiva ([e-flux](https://www.e-flux.com/announcements/254279/tama-s-waliczkyimaginary-cameras/); [Ludwig Museum](https://www.ludwigmuseum.hu/en/exhibition/tamas-waliczky-imaginary-cameras-hungarian-pavilion-58th-international-exhibition-art-la)).
 **Lettura critica:** prosegue la ricerca della Trilogia della Prospettiva su un altro fronte — non lo spazio rappresentato, ma il dispositivo stesso di ripresa: quando un inventore crea un nuovo apparecchio, la sua visione del mondo ne predetermina il meccanismo e il carattere delle immagini che produce.
 

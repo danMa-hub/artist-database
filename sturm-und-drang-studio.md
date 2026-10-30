@@ -19,12 +19,16 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 
 ## Opere principali
 ### Sturm&Drang Studio, corso online ETH Zürich (2021)
+**Corso:** `M3D` `TAD-DCV`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** corso universitario online per 185 studenti, lanciato il 22 febbraio 2021, che imita componenti e flussi di lavoro dell'industria digitale della CGI.
 **Lettura critica:** prima fase del progetto complessivo — un esperimento pedagogico che rovescia il rapporto fra teoria e pratica, facendo della simulazione del lavoro industriale lo strumento stesso di critica dell'industria.
 
 ![Sturm&Drang Studio — fotogramma dal video "Sturm&Drang Studio | Meriem Bennani"](immagini/sturm-und-drang/studio-course.jpg)
 
 ### Sturm&Drang, mostra all'Osservatorio Fondazione Prada (9 settembre 2021–23 gennaio 2022)
+**Corso:** `M3D` `AW` `TAD-DCV`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** mostra articolata in quattro ambienti tematici che ricostruiscono il "making of" della produzione CGI in ambiti quali videogiochi, fantascienza e ingegneria high-tech, preceduta da una serie di conversazioni online a partire dal 7 aprile 2021. Tra i partecipanti/collaboratori documentati: Markus Gross (VP di Disney Research Studios), ArtefactoryLab (già presente in questo database), l'artista Meriem Bennani, Sybil Montet, Sara Sadik, Emanuel Rossetti.
 **Lettura critica:** *STIRworld* descrive la mostra come capace di "smontare i dentro e fuori della CGI"; il progetto si distingue per la scelta di rendere visibile l'infrastruttura tecnica e produttiva dell'immagine digitale, di solito invisibile allo spettatore finale.
 **Video:** [YouTube — "Sturm&Drang Studio | Meriem Bennani"](https://www.youtube.com/watch?v=HCAnRGvSKSw)

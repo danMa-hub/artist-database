@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `performance-dal-vivo` `net-art-sito-web` `ai-generativa`
 **Tag tema:** `corpo-identita` `genere-queerness` `economia-attenzione`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
 Nata nel 1988 a Los Angeles, California. Consegue un BFA alla School of the Art Institute of Chicago (2007) e un MFA al Bard College (2017). Tra il 2007 e il 2011 gestisce Golden Age, spazio/negozio gestito da artisti a Chicago (oggi archivio online dei suoi progetti). Tornata a Los Angeles, fonda Dominica Publishing (2011 o 2012, a seconda della fonte), casa editrice indipendente dedicata a "esplorare la blackness nell'arte contemporanea e nella cultura visiva", che ha pubblicato, oltre alla stessa Syms, artiste come Diamond Stingily, Hannah Black e Laurie Anderson. Dal settembre 2017 insegna alla School of Art del CalArts. Vive e lavora a Los Angeles. Riconoscimenti: Creative Capital Award; Tiffany Foundation Biennial Award; segnalazione speciale al Future Generation Art Prize (2017); Guggenheim Fellowship; Herb Alpert Award in the Arts (2022, 75.000 dollari e residenza al CalArts); MacDowell Fellow. Opere nelle collezioni di MoMA, Whitney Museum, Guggenheim, LACMA, Tate, Art Institute of Chicago, MOCA Los Angeles e Studio Museum in Harlem. Rappresentata da Sadie Coles HQ (Londra), Sprüth Magers e Bridget Donahue (New York).
@@ -14,12 +14,16 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 
 ## Opere principali
 ### The Mundane Afrofuturist Manifesto (2013, poi ampliato 2014-15)
+**Corso:** `TAD-DCV`
+**Temi:** `propaganda-e-media`
 **Descrizione:** testo/saggio, in seguito messo in scena come installazione a parete, post di blog e video-lezione di un'ora. Pubblicato per la prima volta su Rhizome (New Museum) il 17 dicembre 2013. Argomenta contro la dipendenza dell'afrofuturismo dai tropi alieni/spaziali, orientando l'immaginazione speculativa nera verso il "mondano", il presente materiale e politico. Ripubblicato/esposto dal Pérez Art Museum Miami (PAMM) come opera di collezione.
 **Lettura critica:** un testo teorico che ha avuto un impatto diretto sul discorso critico dell'afrofuturismo contemporaneo — non solo un manifesto artistico personale, ma un intervento di teoria culturale ampiamente citato e insegnato.
 
 ⚠️ Nessuna immagine trovata per quest'opera in questa sessione: la pagina PAMM (che ne detiene l'installazione a parete in collezione) ha restituito errore del server a ogni tentativo, e l'archivio dell'artista non include immagini fisse per questo progetto testuale/video.
 
 ### Lessons I-CLXXX (2014-2018)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `propaganda-e-media` `economia-della-bellezza-e-pubblicita`
 **Descrizione:** serie video/"poema filmico" di 180 clip sequenziali di 30 secondi ("canto"), la durata di uno spot pubblicitario televisivo, che combina filmati d'archivio trovati (TV, pubblicità) con materiale d'archivio personale, ispirata al libro *The Grey Album* di Kevin Young. Nelle collezioni permanenti di MoMA e MOCA Los Angeles.
 **Lettura critica:** costruisce un "poema incompleto" della tradizione radicale nera attraverso ripetizione, campionamento e gesto vernacolare — la forma frammentata a "lezioni" numerate riflette la natura necessariamente incompleta di qualsiasi archivio della storia nera.
 
@@ -28,6 +32,8 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Approfondimento:** [shopgoldenage.com — Lessons](https://shopgoldenage.com/martinesy.ms/projects/lessons)
 
 ### Incense, Sweaters & Ice (2017)
+**Corso:** `TAD-AVM`
+**Temi:** `desiderio-e-intimita`
 **Descrizione:** primo lungometraggio dell'artista. Strutturato attorno a messaggi di testo scambiati tra la protagonista "Girl" e il suo partner "WB", sovrapposti a riprese in stile documentario, girato lungo il percorso della Grande Migrazione afroamericana del Novecento (Clarksdale, Mississippi; St. Louis, Missouri; Los Angeles). Presentato in anteprima come opera centrale della sua prima mostra personale museale statunitense, "Projects 106: Martine Syms", MoMA (27 maggio-16 luglio 2017).
 **Lettura critica:** esamina come le strutture razzializzate di sorveglianza e autorappresentazione persistano dal Middle Passage/dalla Grande Migrazione fino alla comunicazione digitale contemporanea.
 
@@ -36,6 +42,8 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Approfondimento:** [shopgoldenage.com — Incense Sweaters & Ice](https://shopgoldenage.com/martinesy.ms/projects/incense-sweaters-ice)
 
 ### She Mad, serie (2015-2021, cinque episodi)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** serie video semi-autobiografica in formato sitcom che segue "Martine", una graphic designer/artista emergente iperattiva a Los Angeles. Episodi: *A Pilot for a Show About Nowhere* (2015), *Laughing Gas* (2016), *Intro to Threat Modeling* (2017), *Bitch Zone* (2020), *The Non-Hero* (2021, in stile "Life Story" di TikTok, sul modello di Lil Nas X). L'installazione completa della "Stagione Uno" viene mostrata al MCA Chicago (2 luglio 2022-12 febbraio 2023), in un set immersivo dai toni viola che richiama gli sfondi da chroma-key e *Il colore viola* di Alice Walker.
 **Lettura critica:** *The Art Newspaper* e *Newcity* leggono la serie come un uso delle convenzioni della sitcom e della forma dei social media per esporre le strutture mediali che costruiscono la "banalità" nera e la performance quotidiana dell'identità online e in TV.
 
@@ -44,6 +52,8 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Approfondimento:** [Art Institute of Chicago — SHE MAD: Laughing Gas](https://www.artic.edu/artworks/245038/she-mad-laughing-gas)
 
 ### The African Desperate (2022)
+**Corso:** `TAD-AVM`
+**Temi:** `norma-e-standardizzazione`
 **Descrizione:** debutto alla regia di lungometraggio dell'artista (co-scritto con Rocket Caleshu), con l'artista Diamond Stingily nel ruolo di Palace Bryant, una laureanda MFA nera nell'ultimo giorno in una scuola d'arte a maggioranza bianca nello stato di New York. Anteprima mondiale all'International Film Festival Rotterdam; anteprima nordamericana come film di chiusura di New Directors/New Films (MoMA/Film at Lincoln Center, 2022); distribuito su MUBI.
 **Lettura critica:** satira e critica della filiera contemporanea dei master in belle arti (MFA) e delle sue dinamiche razziali, condensata nell'arco di una singola giornata allucinatoria.
 **Video:** [The African Desperate, trailer ufficiale (YouTube)](https://www.youtube.com/watch?v=cVSXgmZQezY)
@@ -51,6 +61,8 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 ![The African Desperate — fotogramma dal trailer](immagini/martine-syms/the-african-desperate.jpg)
 
 ### Neural Swamp (2022)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `dataset-e-addestramento`
 **Descrizione:** installazione video multicanale commissionata, che usa IA e generazione testuale, prima presentazione statunitense al Philadelphia Museum of Art (14 maggio-30 ottobre 2022), secondo volume della Future Fields Commission in Time-Based Media (Philadelphia Museum of Art e Fondazione Sandretto Re Rebaudengo, Torino). Esplora i sistemi automatizzati che "cancellano o sfruttano corpi, voci e narrazioni nere".
 **Lettura critica:** applica la ricerca dell'artista sulla sorveglianza e la rappresentazione razzializzata direttamente ai sistemi di intelligenza artificiale contemporanei, non solo ai media televisivi/digitali precedenti.
 

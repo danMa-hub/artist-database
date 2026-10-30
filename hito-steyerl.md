@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `desktop-lecture-performance` `installazione`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro` `performance-audiovisiva`
-**Tag corso:** `TAD-DCV` `AVM` `M3D`
+**Tag corso:** `TAD-DCV` `TAD-AVM` `M3D`
 
 ## Biografia
 Nata nel 1966 a Monaco di Baviera. Si forma come documentarista: studia cinema all'Academy of Visual Arts di Tokyo / Japan Institute of the Moving Image (fine anni '80), poi alla University of Television and Film di Monaco (HFF München, anni '90), e consegue un dottorato in Filosofia all'Accademia di Belle Arti di Vienna (primi anni 2000). È stata professoressa di New Media Art alla Universität der Künste di Berlino, dove tra il 2014 e il 2017 ha co-fondato il Research Center for Proxy Politics insieme a Vera Tollmann e Boaz Levin; dal 2024 risulta alla guida di una classe di media art all'Akademie der Bildenden Künste di Monaco. Vive e lavora a Berlino. Riconoscimenti principali: EYE Art & Film Prize, EYE Filmmuseum (Paesi Bassi, 2015, primo premio assegnato); Käthe Kollwitz Prize, Akademie der Künste Berlin (2019). È stata più volte inclusa ai vertici della classifica "Power 100" di ArtReview tra le figure più influenti del sistema dell'arte contemporanea. Ha rappresentato la Germania alla 56ª Biennale di Venezia (2015, con *Factory of the Sun*) ed è stata tra gli artisti della mostra centrale della 58ª Biennale (2019, "This is the Future"). La grande retrospettiva *I Will Survive* ha viaggiato tra Kunstsammlung Nordrhein-Westfalen di Düsseldorf, Centre Pompidou di Parigi e Stedelijk Museum di Amsterdam (2021-22).
@@ -14,6 +14,8 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 
 ## Opere principali
 ### How Not to Be Seen: A Fucking Didactic Educational .MOV File (2013)
+**Corso:** `TAD-DCV` `TAD-AVM` `M3D`
+**Temi:** `riconoscimento-facciale-biometria` `immagini-operative`
 **Descrizione:** video di circa 14 minuti costruito come falso tutorial didattico, che elenca "lezioni" assurde e sarcastiche per sfuggire alla visibilità in condizioni di sorveglianza digitale pervasiva (imaging satellitare, visibilità in funzione della risoluzione, mimetismo, diventare più piccoli di un pixel). Girato in gran parte su un ex sito militare statunitense nel deserto californiano di Ridgecrest, coperto di bersagli di calibrazione fotogrammetrica usati per testare la risoluzione delle camere aeree/satellitari — un vero e proprio terreno di taratura militare dell'immagine. Acquisita dal MoMA.
 **Lettura critica:** opera-chiave sulla politica della visibilità/invisibilità, sulla risoluzione come categoria di potere e sullo sguardo militarizzato — ampiamente insegnata nei corsi di teoria dei media proprio per il taglio didattico-parodico che rende esplicito, mentre lo mette in scena, il proprio impianto teorico.
 **Video:** [How Not to Be Seen, video integrale (YouTube)](https://www.youtube.com/watch?v=LE3RlrVEyuo)
@@ -21,6 +23,8 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 ![How Not to Be Seen — fotogramma](immagini/hito-steyerl/how-not-to-be-seen.jpg)
 
 ### November (2004)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `propaganda-e-media`
 **Descrizione:** video-documentario di circa 25 minuti, commissionato da Manifesta, che rielabora un film in Super-8 di arti marziali femministe girato dalla stessa Steyerl nel 1983, interpretato dall'amica Andrea Wolf, montato insieme a materiale della televisione curda e spezzoni di Bruce Lee. Andrea Wolf si unì in seguito al PKK e fu uccisa nel 1998 nel conflitto turco-curdo, diventando una figura di martirio.
 **Lettura critica:** un'indagine su come il materiale documentario, la propaganda e la finzione si confondano nella circolazione delle immagini, e su come le immagini costruiscano memoria politica e martirio — tema biografico che ritorna in opere successive come *Is the Museum a Battlefield?*.
 
@@ -29,18 +33,24 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Approfondimento:** [Esther Schipper — November](https://www.estherschipper.com/artists/102-hito-steyerl/works/17895-hito-steyerl-november-2004/)
 
 ### Lovely Andrea (2007)
+**Corso:** `TAD-DCV`
+**Temi:** `desiderio-e-intimita`
 **Descrizione:** documentario di 30 minuti realizzato per documenta 12 (Kassel): Steyerl torna a Tokyo, dove in gioventù aveva lavorato brevemente come modella di bondage giapponese (kinbaku/shibari) sotto lo pseudonimo "Andrea", per rintracciare una fotografia di bondage del 1987 che la ritrae.
 **Lettura critica:** usa la ricerca stessa come dispositivo per riflettere su bondage, autorappresentazione, cultura popolare e consenso nella circolazione delle immagini.
 
 ⚠️ Nessuna immagine trovata.
 
 ### Is the Museum a Battlefield? (2013)
+**Corso:** `TAD-DCV` `TAD-AVM`
+**Temi:** `guerra-e-militare` `performance-audiovisiva`
 **Descrizione:** video HD a due canali, 40 minuti, nato come lecture-performance alla 13ª Biennale di Istanbul. Parte da un bossolo vuoto ritrovato da Steyerl vicino a una fossa comune a Van, in Turchia (dove Andrea Wolf potrebbe essere morta), per risalire ai legami finanziari tra produttori di armi e sponsorizzazione di musei e biennali.
 **Lettura critica:** rende esplicito, con rigore quasi investigativo, il modo in cui il sistema dell'arte è materialmente intrecciato con l'industria bellica — non una metafora, ma una filiera di finanziamento tracciabile.
 
 ⚠️ Nessuna immagine trovata.
 
 ### Factory of the Sun (2015)
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `lavoro-digitale-e-piattaforme`
 **Descrizione:** videoinstallazione (colore, sonoro, circa 23 minuti) presentata al Padiglione Tedesco della 56ª Biennale di Venezia, con un allestimento a griglia illuminata di blu e sdraio per il pubblico. Racconta la storia surreale di lavoratori i cui movimenti forzati in uno studio di motion capture vengono convertiti in luce solare artificiale e dati, montando insieme telegiornale, documentario, videogiochi, riprese da drone/sorveglianza, pubblicità e video di danza da YouTube.
 **Lettura critica:** il lavoro più ambizioso di world-building dell'artista fino a quel momento, che estende i temi dell'immagine povera e della circolazione a un ambiente immersivo e ludiforme, mettendo in scena resistenza collettiva sotto sorveglianza totale dei dati.
 
@@ -49,12 +59,16 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 **Approfondimento:** [Esther Schipper — Factory of the Sun](https://www.estherschipper.com/artists/102-hito-steyerl/works/21673/)
 
 ### HellYeahWeFuckDie (2016)
+**Corso:** `TAD-AVM` `M3D`
+**Temi:** `corpo-post-umano`
 **Descrizione:** installazione video multipla, il cui titolo riprende le cinque parole più usate nei testi delle canzoni pop in lingua inglese degli anni 2010 secondo un'analisi di Billboard. Due ambienti in cartongesso e alluminio, ciascuno con un video in loop: uno mostra filmati reperiti online di robot umanoidi maltrattati nei test di laboratorio; l'altro, più piccolo, mostra riprese di Cizre, città curda al confine turco-siriano devastata dagli scontri tra Stato turco e PKK. Presentata a Skulptur Projekte Münster (2017).
 **Lettura critica:** accosta violenza sui corpi robotici e violenza sui corpi umani reali in una stessa griglia di visibilità mediatica, chiedendo allo spettatore di riconoscere l'equivalenza — o l'incommensurabilità — tra le due immagini.
 
 ⚠️ Nessuna immagine trovata.
 
 ### Liquidity Inc. (2014)
+**Corso:** `TAD-DCV`
+**Temi:** `finanza-blockchain-dao`
 **Descrizione:** video (colore, sonoro, 30 minuti) con installazione architettonica (rampa curva, tatami blu da judo, pouf). Ritratto di Jacob Wood, analista finanziario che perde il lavoro nel crollo del 2008 e diventa lottatore di arti marziali miste, montato con la sintassi di internet (hashtag, GIF, meme), usando la liquidità — anche nel senso del "sii come l'acqua" di Bruce Lee — come metafora che collega fluidità finanziaria, meteo e flusso di informazione.
 **Lettura critica:** un ritratto biografico che diventa allegoria diretta della precarietà economica sotto il neoliberismo, senza mai abbandonare il registro ironico e pop tipico dell'artista.
 

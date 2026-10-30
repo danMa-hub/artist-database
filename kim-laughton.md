@@ -13,6 +13,8 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 
 ## Opere principali
 ### Styles and Customs of the 2020s (2017, Carnegie Museum of Art)
+**Corso:** `M3D`
+**Temi:** `realismo-sintetico` `economia-della-bellezza-e-pubblicita`
 **Descrizione:** opera in realtà virtuale sostenuta dalla Hillman Photography Initiative del Carnegie Museum of Art, Pittsburgh.
 **Lettura critica:** una delle prime opere dell'artista a entrare nel circuito museale statunitense maggiore, applicando il proprio linguaggio iperreale/perturbante al formato VR.
 
@@ -21,6 +23,8 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 **Approfondimento:** [Carnegie Museum of Art — Styles and Customs of the 2020s](https://carnegieart.org/exhibition/styles-and-customs-of-the-2020s/)
 
 ### Taobao-Media (progetto in corso, Jeu de Paume, Parigi)
+**Corso:** `TAD-DCV` `M3D`
+**Temi:** `economia-della-bellezza-e-pubblicita` `realismo-sintetico`
 **Descrizione:** archivio in corso di immagini surreali di prodotti raccolte da Taobao, la piattaforma di e-commerce cinese C2C, presentato nello spazio virtuale del Jeu de Paume nell'ambito della serie "Futurs non-conformes #3" (a cura di Nicolas Maigret e Maria Roszkowska).
 **Lettura critica:** applica il metodo curatoriale/di raccolta (l'archivio come opera) a un materiale specificamente cinese e commerciale — un caso di studio diretto sull'estetica involontaria generata dal commercio online su scala di massa.
 
@@ -29,6 +33,8 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 **Approfondimento:** [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
 
 ### Ixlium (mostra personale, Komiyama Tokyo)
+**Corso:** `M3D`
+**Temi:** `realismo-sintetico`
 **Descrizione:** mostra personale dell'artista presso la galleria Komiyama Tokyo.
 **Lettura critica:** segna il consolidamento della base giapponese dell'artista dopo il trasferimento da Shanghai a Tokyo.
 
@@ -37,6 +43,8 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 **Approfondimento:** [Komiyama Tokyo G — Ixlium](https://www.komiyamatokyo-g.com/?exhibit=483)
 
 ### Visual per PC Music (QT, EasyFun)
+**Corso:** `TAD-DCV`
+**Temi:** `economia-della-bellezza-e-pubblicita`
 **Descrizione:** visual e video musicali realizzati per artisti dell'etichetta PC Music, tra cui QT ed EasyFun, con toni satirici rivolti al branding di bevande energetiche e compagnie aeree low-cost.
 **Lettura critica:** applica l'estetica CGI iperreale/post-internet dell'artista al formato del video musicale pop, in un contesto — quello di PC Music — già esso stesso una critica/parodia dell'estetica pop commerciale.
 

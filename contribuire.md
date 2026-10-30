@@ -141,12 +141,12 @@ Sotto il titolo di ogni opera si possono aggiungere due righe:
 
 ```md
 ### Titolo dell'opera (anno)
-**Corso:** `M3D` `AVM`
+**Corso:** `M3D` `TAD-AVM`
 **Temi:** `immagini-operative` `guerra`
 ```
 
-- `**Corso:**` indica in quali corsi ha senso presentare *quell'opera* (anche se l'artista ha altri corsi per altre opere). I valori sono `TAD-DCV`, `AVM`, `AW`, `M3D`. La stessa opera non va in `AVM` e `AW` insieme.
-- `**Temi:**` dice di cosa parla l'opera, con i temi del vocabolario in `tags.md`.
+- `**Corso:**` indica in quali corsi ha senso presentare *quell'opera* (anche se l'artista ha altri corsi per altre opere). I valori sono `TAD-DCV`, `TAD-AVM`, `AW`, `M3D`. La stessa opera non va in `TAD-AVM` e `AW` insieme.
+- `**Temi:**` dice di cosa parla l'opera, con i concetti specifici elencati in `tags.md` (sezione «Temi per opera»), non con gli ambiti larghi dell'artista.
 - Le opere senza queste righe ereditano i tag dell'artista. Le pagine dei corsi e dei temi mostrano, sotto gli artisti, le opere che hanno quel tag, con un collegamento diretto alla sezione dell'opera.
 
 ## Tag sull'artista
