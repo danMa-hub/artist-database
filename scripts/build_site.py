@@ -51,6 +51,22 @@ def crea_anteprima(slug, percorso):
     return f"anteprime/{slug}.jpg"
 
 
+# README.md resta la pagina del repo su GitHub; sul sito diventa "informazioni"
+readme = ROOT / "README.md"
+if readme.exists():
+    (ROOT / "informazioni.md").write_text(
+        "---
+title: Informazioni
+---
+
+" + readme.read_text(encoding="utf-8"), encoding="utf-8"
+    )
+contribuire = ROOT / "contribuire.md"
+if contribuire.exists():
+    contribuire.write_text(
+        contribuire.read_text(encoding="utf-8").replace("README.html", "informazioni.html"), encoding="utf-8"
+    )
+
 schede = []
 mostre = defaultdict(lambda: {"artisti": [], "visto_da": set()})
 for f in sorted(ROOT.glob("*.md")):
@@ -186,7 +202,7 @@ title: Artist Database
 
 > **Lavoro in corso.** Le schede sono in parte compilate con l'aiuto dell'intelligenza artificiale e vanno ancora riviste: possono contenere errori, date o titoli da verificare, schede parziali. Controlla sempre le fonti linkate e segnala o correggi ciò che non torna ([come contribuire](contribuire.html)).
 
-[Informazioni sul progetto](README.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
+[Informazioni sul progetto](informazioni.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
 
 <input id="cerca" type="search" placeholder="Cerca un artista o un tag" class="cerca">
 
