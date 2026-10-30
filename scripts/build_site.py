@@ -12,7 +12,7 @@ from pathlib import Path
 from PIL import Image
 
 ROOT = Path(sys.argv[1]) if len(sys.argv) > 1 else Path(".")
-ESCLUSE = {"README", "contribuire", "tags", "00-lista-artisti", "index", "mostre"}
+ESCLUSE = {"README", "informazioni", "contribuire", "tags", "00-lista-artisti", "index", "mostre"}
 RIGHE_TAG = [("tecnica", "**Tag tecnica/formato:**"), ("tema", "**Tag tema:**")]
 IMG = re.compile(r"!\[[^\]]*\]\((?!https?:)([^)\s]+)")
 LARGHEZZA_ANTEPRIMA = 480
