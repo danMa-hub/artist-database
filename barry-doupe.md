@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `animazione-2d` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `genere-queerness` `temporalita-non-lineare`
+**Stato:** non risulta un'opera intitolata «Ginger» (2004): da non citare · da approfondire: 100 AMIGA Paintings (2016)
 
 ## Biografia
 Nato nel 1982 a Victoria, British Columbia, Canada. Consegue un Bachelor of Media Arts, indirizzo animazione, all'Emily Carr Institute of Art & Design (oggi Emily Carr University of Art and Design), laureandosi nel 2004. Vive e lavora a Vancouver. Il suo primo lungometraggio, *Ponytail*, viene completato nel 2008 e presentato in anteprima alla Whitechapel Gallery di Londra. I suoi lavori sono stati proiettati all'Ann Arbor Film Festival, agli Anthology Film Archives, al Centre Pompidou, alla Tate Modern, al MAC Lyon, a Pleasure Dome (Toronto), all'International Film Festival Rotterdam, a DOK Leipzig, al Chicago Underground Film Festival e alla Vancouver Art Gallery. È membro di The Lions, gruppo collaborativo di disegno. Riconoscimento: incluso nella longlist del Sobey Art Award 2024 (regione Pacifico), il principale premio canadese per l'arte contemporanea, amministrato dalla National Gallery of Canada e dalla Sobey Art Foundation. Rappresentato dalla galleria Wil Aballe Art Projects (WAAP), Vancouver; ha esposto anche alla Ghebaly Gallery (Los Angeles) e a Swallow (Vilnius, Lituania — sua prima mostra personale europea).
@@ -12,7 +13,6 @@ Nato nel 1982 a Victoria, British Columbia, Canada. Consegue un Bachelor of Medi
 Il lavoro di Doupé è descritto costantemente come CGI "grezza" e a basso costo, che evoca l'estetica dei primi videogiochi, usata per mettere in scena scenari narrativi elaborati, teatrali e spesso disgiunti. I film nascono da materiale del subconscio — esercizi di scrittura automatica e disegno automatico — producendo strutture narrative frammentate e "porose", una logica onirica, e ambienti/personaggi che diventano progressivamente meno identificabili e più surreali man mano che l'opera procede. I temi ricorrenti sono la fallibilità dell'interazione umana, sessualità e genere, mascolinità, violenza e umorismo, il corpo. Il curatore Jesse McKee (responsabile strategia di 221A, co-curatore della mostra "Vancouver Special: Ambivalent Pleasures" alla Vancouver Art Gallery, 2015) osserva come l'uso che Doupé fa di tecnologia obsoleta "infonda in ciò che normalmente si associa alla freddezza un calore nostalgico". Il Video Data Bank di Chicago (importante distributore statunitense di media art) lo descrive come noto per "animazione al computer grezza, indicativa dei primi videogiochi", popolata da "strani personaggi astratti" in "ambienti innaturali".
 
 ## Opere principali
-
 ### At the Heart of a Sparrow (2006)
 **Descrizione:** animazione al computer di circa 29-30 minuti, parte di una terna di opere prodotte tra il 2004 e il 2006. Prosegue "l'esame di spazi psichici instabili" dell'artista, usando immagini familiari (una persona che spacca legna, sale le scale, un carro trainato da cavalli nel deserto, monache) che diventano progressivamente meno identificabili, oniriche, con ambienti e personaggi innaturali.
 **Lettura critica:** distribuita dal Video Data Bank di Chicago — tra le prime opere a definire il metodo dell'artista di costruzione narrativa a partire da materiale del subconscio.
@@ -55,11 +55,8 @@ Il lavoro di Doupé è descritto costantemente come CGI "grezza" e a basso costo
 
 **Approfondimento:** [barrydoupe.ca/videos/red-house](https://www.barrydoupe.ca/videos/red-house)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [barrydoupe.ca](https://www.barrydoupe.ca).
-- [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
-- [Media Queer — biografia e filmografia](https://www.mediaqueer.ca/artist/barry-doupe)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
@@ -72,10 +69,7 @@ Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sott
 - [e-flux — VERY BIG SHORTS, selectrospettiva](https://www.e-flux.com/events/520777/barry-doup-nbsp-very-big-shorts)
 - [Art Viewer — mostra con Jeff Hallbauer, WAAP](https://artviewer.org/barry-doupe-and-jeff-hallbauer-at-wil-aballe-art-projects-waap/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della CGI volutamente grezza/a basso costo applicata a narrazioni oniriche.
-- ⚠️ Correzioni importanti: non risulta un'opera intitolata "Ginger" (2004) — probabile titolo non verificabile o errato, non includere. Non risulta un'opera intitolata "The Barley Field" (2017) — un'opera reale del 2017 è invece *Object Poems*, serie di nove brevi pezzi animati non narrativi su ritmo, colore e luce.
-- Altre opere da approfondire: *100 AMIGA Paintings*/*Amiga Works* (2016, mostrato a Swallow, Vilnius, 2021-22); *Life and People* (2014, video HD di 22 minuti, unico lavoro non animato dell'artista, realizzato durante una residenza al Western Front, Vancouver).
-- Video ulteriori: canale Vimeo dell'artista (include *Red House*, *Dots*, *Life and People*): [vimeo.com/user11335804](https://vimeo.com/user11335804).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [barrydoupe.ca](https://www.barrydoupe.ca).
+- [Video Data Bank — pagina artista](https://www.vdb.org/artists/barry-doupe)
+- [Media Queer — biografia e filmografia](https://www.mediaqueer.ca/artist/barry-doupe)

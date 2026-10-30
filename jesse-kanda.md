@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `video` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `genere-queerness`
 **Tag corso:** `M3D`
+**Stato:** da non attribuirgli Mutual Core di Björk (2012), diretto da Andrew Thomas Huang
 
 ## Biografia
 Nome completo Jesse Soichiro Kanda, nato il 23 giugno 1987, nato in Giappone (Kanagawa) e cresciuto in parte in Canada (città non confermata con fonte diretta). Autodidatta, senza formazione artistica formale: inizia a condividere il proprio lavoro online attorno ai 13 anni, tramite DeviantArt e mp3.com, nei primi anni 2000. Vive e lavora a Londra (quartiere di Dalston). Incontra la musicista Alejandra Ghersi (Arca) in un forum di DeviantArt quando lui ha 15 anni e lei 13, anni prima di incontrarsi di persona; vivono insieme a Dalston, e Arca ha descritto pubblicamente il legame come "una questione d'amore, ma non d'amore romantico", definendo Kanda la propria "anima gemella" — una relazione creativa e intima la cui natura esatta va descritta con le stesse parole dell'artista, non presunta. Instaura inoltre un lungo sodalizio visivo/creativo con Björk, a partire circa dal 2015 (era di *Vulnicura*) fino a *Utopia* (2017) e oltre; WeTransfer ha prodotto una serie documentaria ("Work In Progress EP01") dedicata specificamente alla loro chimica creativa. Registra musica anche sotto lo pseudonimo **Doon Kanda**. Incluso nella scuderia della Nahmad Contemporary, che lo ha inserito nella collettiva "The Painter's New Tools" (2022, a cura di Eleanor Cayre e Dean Kissick), dedicata ad artisti che usano CGI/IA/strumenti digitali per ampliare cosa si intenda per "pittura".
@@ -11,7 +12,6 @@ Nome completo Jesse Soichiro Kanda, nato il 23 giugno 1987, nato in Giappone (Ka
 Kanda dichiara: "Mi interessa di più ciò che viene percepito come repellente quando in realtà non c'è alcuna ragione per esserlo. L'interno del nostro corpo è molto più bello della pelle che lo ricopre, eppure ne abbiamo paura. Quando vediamo sangue o organi, percepiamo dolore e pericolo." E ancora: "Parte del mio obiettivo è presentare cose 'disgustose' come qualcosa di bello." *Dazed*, nel profilo dedicatogli per la Dazed 100, descrive il suo repertorio come fatto di "bambini fantasma che si contorcono, spogliarelliste demoniache e bei momenti di quiete accidentale", sottolineando come sia formato in nulla ufficialmente ma autodidatta nel "design e nell'animazione 3D", contribuendo a creare universi visivi unici per Arca, Björk e FKA twigs. Il vocabolario critico ricorrente attraverso testate come *The Fader*, *Dazed*, *It's Nice That* e *SPIN* insiste su una dualità grottesco-bello, il body horror, il perturbante, l'ibridazione/trasformazione, l'ambiguità di genere, la distorsione dell'anatomia, la giustapposizione tra vita/morte e amore/paura.
 
 ## Opere principali
-
 ### Arca — Xen, copertina e video (2014)
 **Descrizione:** Kanda crea la copertina dell'album e il concetto visivo per *Xen*, l'album di debutto di Arca, costruito attorno all'"alter ego infantile" omonimo di Arca — descritto come una figura dal genere ambiguo. Kanda: "Sono tutti ritratti di Xen." Dirige anche il video musicale di "Xen" (uscito il 17 novembre 2014), descritto da *The Fader* come "violento, sensuale" — Arca lo definisce "una gioia violenta che si riversa sul corpo, una celebrazione della sensualità e dello slacciarsi di fronte alla lotta".
 **Lettura critica:** una delle collaborazioni fondative tra i due artisti — stabilisce il vocabolario visivo (corpo ambiguo, ibrido, trasformato) che caratterizzerà l'intera collaborazione successiva.
@@ -56,17 +56,12 @@ Kanda dichiara: "Mi interessa di più ciò che viene percepito come repellente q
 
 **Approfondimento:** [doonkanda.bandcamp.com — Lili](https://doonkanda.bandcamp.com/album/lili)
 
-## Immagini
-
-Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Bandcamp.
-- [The Fader — pagina artista/tag](https://www.thefader.com/artist/jesse-kanda)
-- [Dazed — profilo Dazed 100](https://www.dazeddigital.com/projects/article/29623/1/jesse-kanda)
+## Interviste e talk
 - [Dazed — intervista su Labyrinth/Doon Kanda](https://www.dazeddigital.com/beauty/article/46985/1/jesse-doon-kanda-artist-musician-labyrinth-debut-album-interview)
 
 ## Fonti
 - [The Fader — pagina artista/tag](https://www.thefader.com/artist/jesse-kanda)
 - [Dazed — profilo Dazed 100](https://www.dazeddigital.com/projects/article/29623/1/jesse-kanda)
-- [Dazed — intervista su Labyrinth/Doon Kanda](https://www.dazeddigital.com/beauty/article/46985/1/jesse-doon-kanda-artist-musician-labyrinth-debut-album-interview)
 - [It's Nice That — pagina artista](https://www.itsnicethat.com/articles/jesse-kanda)
 - [FACT Magazine — su Mouth Mantra](https://www.factmag.com/2015/12/04/bjork-mouth-mantra-video-jesse-kanda/)
 - [PAPER Magazine — su Arisen My Senses](https://www.papermag.com/bjork-arca-arisen-my-senses)
@@ -74,10 +69,8 @@ Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in 
 - [designboom — panoramica su cortometraggi e altri lavori](https://www.designboom.com/design/jesse-kanda-short-films-and-other-work/)
 - [LBBOnline — documentario WeTransfer su Björk e Kanda](https://lbbonline.com/news/bjork-and-jesse-kanda-explain-their-creative-chemistry-in-wetransfer-documentary-series)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della CGI/scultura digitale applicata al video musicale e all'immagine discografica.
-- ⚠️ Correzioni importanti: "Mutual Core" di Björk (da *Biophilia*, 2012) è diretto da Andrew Thomas Huang, non da Kanda — non attribuirglielo. La copertina dell'album *KiCk i* di Arca (2020) è di Carlota Guerrero, Carlos Sáez e della stessa Arca, non di Kanda — non attribuirgliela.
-- ⚠️ Non confermati: luogo di nascita preciso (Kanagawa, Giappone, è la fonte più solida; una città canadese specifica per la crescita non è confermata); la mostra alla Nahmad Contemporary risulta collettiva, non personale — verificare quale/i opera/e specifica/che sia stata esposta prima di descriverla come mostra personale.
-- Video ulteriori: [Water Me, FKA twigs (YouTube)](https://www.youtube.com/watch?v=kFtMl-uipA8); indice completo dei crediti da regista su IMVDb: [imvdb.com/n/jesse-kanda](https://imvdb.com/n/jesse-kanda/videography-by-position/dir).
+## Crediti delle immagini
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Bandcamp.
+- [The Fader — pagina artista/tag](https://www.thefader.com/artist/jesse-kanda)
+- [Dazed — profilo Dazed 100](https://www.dazeddigital.com/projects/article/29623/1/jesse-kanda)
+- [Dazed — intervista su Labyrinth/Doon Kanda](https://www.dazeddigital.com/beauty/article/46985/1/jesse-doon-kanda-artist-musician-labyrinth-debut-album-interview)

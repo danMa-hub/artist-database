@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `economia-attenzione`
 **Tag corso:** `TAD`
+**Stato:** dati da verificare: data e luogo di nascita, nazionalità (presunta britannica) e identità del profilo online · da controllare i talk «Welcome to HYPERBODIES» (2022) e «HYPERHYPERBODIES» (2023)
 
 ## Biografia
 Daniel Felstead (PhD) è un artista, designer e accademico britannico. Ha conseguito una laurea in Interaction Design al Ravensbourne College di Londra e un dottorato in Interactive Art alla Royal Central School of Speech and Drama (RCSSD, University of London), con una tesi dedicata alla pratica di Tino Sehgal — *"What Can We Do With These Associations? Production, Organisation and Materiality in the Work of Tino Sehgal"* (2018) — che esplora incertezza, contingenza e complessità nella produzione speculativa. Attualmente dirige il corso MA Fashion Media Practice & Criticism (Fashion Media and Communication) al London College of Fashion, University of the Arts London (UAL). È co-fondatore di "Emergence of Tomorrow", spazio di discussione online/think tank. Ha collaborato o esposto con istituzioni come British Museum, Google, Jerwood Foundation, Samsung, Serpentine Galleries, Tate, V&A Museum, BBC, BFI e Science Museum, e ha tenuto talk/lezioni presso Architectural Association, Berlin Critics' Week, Die Angewandte, Fundació Foto Colectania, Global Art Forum (Art Dubai), ICA, RCA, RISD, Shedhalle (Zurigo) e Transmediale.
@@ -13,7 +14,6 @@ Daniel Felstead (PhD) è un artista, designer e accademico britannico. Ha conseg
 Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" — corpi mediati fuori asse, le illusioni idiote del transumanesimo, l'intelligenza artificiale e il metaverso letti attraverso la lente della moda come piattaforma di worldbuilding. Nell'intervista a COEVAL Magazine descrive la moda non come semplice abbigliamento ma come "piattaforma mediale da cui costruire e mettere in scena un mondo", accostando esplicitamente le logiche del fashion a quelle del game design. Il concetto più recente e caratterizzante della sua ricerca è quello di **"jankspace"**, coniato in esplicito rapporto di derivazione/rilettura del celebre "Junkspace" di Rem Koolhaas (2001): Felstead lo descrive come "il residuo che cola dallo stack mentre metabolizza lo spazio fisico in melma allucinogena... siamo letteralmente noi e i nostri corpi meravigliosamente incasinati, incomputabili." Le sue opere più recenti sono narrate da avatar 3D fotorealistici — costruiti in Unreal Engine — di celebrità reali (Julia Fox, Nicki Minaj) reinterpretate come voci sintetiche che commentano l'attualità tecnologica e culturale. DIS (la piattaforma/collettivo curatoriale che ha commissionato buona parte di questi lavori) descrive *The Metaverse in Janky Capitalism* come un'analisi "grottesca, cringe, caotica, perversa e sublime del futuro di internet". La curatrice e storica dell'arte Valentina Tanni ha discusso *Literally No Place* sulla propria piattaforma "Loading...", inserendolo nel filone della critica artistica al discorso pubblico su utopia/distopia dell'IA.
 
 ## Opere principali
-
 ### The Metaverse in Janky Capitalism (2023)
 **Descrizione:** video-saggio di circa 17 minuti commissionato da DIS, narrato da un avatar 3D fotorealistico generato al computer con le sembianze di Julia Fox, che esamina se e come il "metaverso" possa davvero inserirsi in un capitalismo già di per sé "janky" (traballante, difettoso).
 **Lettura critica:** DIS lo presenta come un'analisi "grottesca, cringe, caotica, perversa e sublime" del futuro di internet — un uso dell'iperrealismo del rendering 3D non per costruire un mondo desiderabile, ma per esporne le crepe.
@@ -47,10 +47,8 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" �
 
 **Approfondimento:** [dis.art/welcome-to-jankspace](https://dis.art/welcome-to-jankspace)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da [dis.art](https://dis.art).
-- [danielfelstead.com — sito ufficiale](https://danielfelstead.com/about)
+## Interviste e talk
+- [COEVAL Magazine — intervista](https://www.coeval-magazine.com/coeval/daniel-felstead)
 
 ## Fonti
 - [danielfelstead.com — sito ufficiale](https://danielfelstead.com/about) — ⚠️ non raggiungibile direttamente per restrizioni di rete durante la ricerca, da verificare in prima persona
@@ -60,17 +58,11 @@ Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sot
 - [DIS.art — Welcome to Jankspace, Babes](https://dis.art/welcome-to-jankspace)
 - [University of the Arts London — profilo Course Leader](https://www.arts.ac.uk/subjects/fashion-communication/postgraduate/ma-fashion-media-and-communication-lcf)
 - [Shedhalle Zürich — pagina artista](https://shedhalle.ch/en/daniel-felstead-2/)
-- [COEVAL Magazine — intervista](https://www.coeval-magazine.com/coeval/daniel-felstead)
 - [ICON Magazine — "Slop Is That Deep"](https://icon.ink/articles/slop-is-that-deep/)
 - [Dazed Digital — su Literally No Place](https://www.dazeddigital.com/life-culture/article/61186/1/the-film-starring-ai-julia-fox-deliver-a-sermon-about-ai-utopian-doomerism)
 - [Valentina Tanni, "Loading..." — su Literally No Place](https://www.valentinatanni.com/literally-no-place/)
 - [Repository CSSD, University of London — tesi di dottorato](https://repository.cssd.ac.uk/view/creators/Felstead=3ADaniel=3A=3A.html)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Triennio)*, tra gli artisti/designer/progettisti di riferimento per la riflessione critica su produzione, fruizione e consumo dell'immagine digitale in movimento.
-- ⚠️ Verificare con il programma del corso se il riferimento riguarda effettivamente questa figura (video-saggi con avatar IA, fashion media) o un omonimo/altro artista orientato alla modellazione 3D più classica — non trovato nessun altro Daniel Felstead rilevante nell'ambito, ma il taglio del lavoro (accademico, fashion-tech, non scultura digitale in senso stretto) è abbastanza specifico da meritare una conferma diretta.
-- Non verificati: data/luogo di nascita esatti, nazionalità esplicita (fortemente presunta britannica dalla formazione e dai ruoli, mai dichiarata direttamente nelle fonti trovate); se il profilo DeviantArt "Felstead-Daniel" appartenga alla stessa persona.
-- Video/interviste ulteriori da verificare: talk "Welcome to HYPERBODIES" (2022) e "Welcome to HYPERHYPERBODIES" (2023) su YouTube; episodio del podcast Disintegrator "22. Janky w/ Daniel Felstead and Jenn Leung"; episodio NM 91 di New Models (Substack/podcast).
-- Instagram come principale vetrina visiva/portfolio: [@felstead.daniel](https://www.instagram.com/felstead.daniel/) — da controllare per eventuali immagini da inserire nella scheda.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da [dis.art](https://dis.art).
+- [danielfelstead.com — sito ufficiale](https://danielfelstead.com/about)

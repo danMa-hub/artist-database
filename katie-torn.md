@@ -10,7 +10,6 @@ Nata nel 1982 a New York. Consegue un BA all'Hunter College (2007) e un MFA alla
 Torn usa software 3D provenienti dalle industrie del cinema, della pubblicità e dei videogiochi — gli stessi strumenti usati per costruire la fantasia commerciale iperreale — per costruire "sculture virtuali" di figure femminili ibride, fuse con detriti di consumo, protesi, rifiuti oceanici tossici ed estetiche da filtro dei social media. In un'intervista al blog di Niio ("Katie Torn on beauty and decay in a hybrid world"), racconta di essersi formata da adolescente nella pittura figurativa classica, studiando gli Antichi Maestri, e di aver imparato "che la luce cade sul corpo femminile allo stesso modo in cui cade su una natura morta con una ciotola di frutta" — un'influenza formativa che oggi sovverte, frammentando e astraendo la figura digitale come farebbe un pittore, ma usando materiali della cultura di consumo invece della pittura. Dichiara che il proprio lavoro nasce "dalla propria esperienza e sensazione di essere un corpo fisico che naviga in un paesaggio tossico causato dal capitalismo", e che usa il corpo femminile perché l'opera riguarda la propria esperienza personale e incarnata dei media e della soglia tra virtuale e fisico. A proposito di *@RealSelfCindy*, dichiara di essere interessata a "usare il proprio corpo come materiale scultoreo", creando una figura al tempo stesso umana e oggetto, in parallelo a come le persone usano i filtri dei social media per rifarsi come "una versione immaginata di se stesse". Christian Petersen, fondatore della Digital Sweat Gallery, in un'intervista per *ArtSlant*, descrive il suo lavoro come "sospeso in un limbo tra la nostra realtà fisica e digitale... c'è una strana alchimia nell'estetica di Torn, che fonde riferimenti culturali usa-e-getta degli anni '80 e '90 con composizioni surrealiste complesse".
 
 ## Opere principali
-
 ### Breathe Deep (2014)
 **Descrizione:** video/installazione animata in 3D. Una "figura femminile distopica si è fusa con un cumulo di detriti... un ecosistema architettonico virtuale fatto di gif, modelli 3D, plastica e liquidi finti", forme biomorfe che "espellono e ingeriscono liquido dai colori accesi", suggerendo una forza vitale simile a petrolio o sangue. Commissionata/mostrata da Denver Digerati, esposta al Rocky Mountain College of Art + Design e al Denver Performing Arts Complex.
 **Lettura critica:** discussa da digiart21 come esempio di "commistione a disagio tra innocenza e adulterazione" — la figura femminile e i rifiuti materiali diventano indistinguibili, un unico organismo ibrido.
@@ -51,29 +50,22 @@ Torn usa software 3D provenienti dalle industrie del cinema, della pubblicità e
 
 **Approfondimento:** [Sedition — These Rocks Won't Lose Their Shape](https://www.seditionart.com/katie-torn/these-rocks-won-t-lose-their-shape)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, bitforms gallery e Sedition.
-- [katietorn.com — sito ufficiale](https://katietorn.com/)
-- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)
-- [Eyebeam — pagina artista](https://eyebeam.org/artists/katie-torn/)
+## Interviste e talk
+- [Niio Blog — intervista "Katie Torn on beauty and decay in a hybrid world"](https://www.niio.com/blog/katie-torn-on-beauty-and-decay-in-a-hybrid-world/)
+- [ArtSlant — intervista "Wednesday Web Artist of the Week"](https://www.artslant.com/ams/articles/show/48512-wednesday-web-artist-of-the-week-katie-torn)
 
 ## Fonti
 - [katietorn.com — sito ufficiale](https://katietorn.com/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)
 - [Eyebeam — pagina artista](https://eyebeam.org/artists/katie-torn/)
-- [Niio Blog — intervista "Katie Torn on beauty and decay in a hybrid world"](https://www.niio.com/blog/katie-torn-on-beauty-and-decay-in-a-hybrid-world/)
-- [ArtSlant — intervista "Wednesday Web Artist of the Week"](https://www.artslant.com/ams/articles/show/48512-wednesday-web-artist-of-the-week-katie-torn)
 - [digiart21 — su Breathe Deep](http://www.digiart21.org/art/breathe-deep)
 - [bitforms gallery — mostra PostPictures](https://www.bitforms.art/exhibition/postpictures)
 - [Upfor Gallery — mostra Low Tide](https://upfor.gallery/low-tide)
 - [Daata Editions — pagina artista, @RealSelfCindy](https://daata-editions.com/artists/katie-torn)
 - [Generazione Critica — su @RealSelfCindy](https://www.generazionecritica.it/en/realselfcindy-katie-torn/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della critica CGI al corpo femminile e alla cultura del filtro digitale.
-- ⚠️ Titoli citati in fonti secondarie ma non trovati/non verificabili — non includere senza fonte diretta: "Ripe", "Vain Attempt", "New Growth". Nessuna di queste opere risulta nel portfolio dell'artista attraverso la ricerca condotta.
-- Mostre recenti (DAM Gallery Berlino 2020, Forum NRW Düsseldorf 2021) confermate solo come "galleria + anno", senza titolo di mostra specifico o comunicato stampa reperito — da verificare direttamente su katietorn.com o bitforms.art prima di descriverle in dettaglio.
-- Video ulteriori: canale Vimeo dell'artista: [vimeo.com/katietorn](https://vimeo.com/katietorn) (include *Breathe Deep* e *Low Tide*).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, bitforms gallery e Sedition.
+- [katietorn.com — sito ufficiale](https://katietorn.com/)
+- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/katie-torn)
+- [Eyebeam — pagina artista](https://eyebeam.org/artists/katie-torn/)

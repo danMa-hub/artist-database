@@ -13,7 +13,6 @@ Nata nel 1986 a Perth Amboy, New Jersey. Consegue un BFA al New York State Colle
 Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogiochi, software di animazione e CGI (in particolare il modificatore Ocean di Blender) per interrogare il modo in cui le tecnologie di produzione dell'immagine digitale sono state costruite attorno al corpo bianco come standard neutro di default, e come questo condizioni la rappresentabilità del corpo nero. La studiosa Soyoung Yoon, nel saggio "Beware the Light: Figure Versus Ground, White Versus Black (Blue), or: Sondra Perry's Blue Room and Technologies of Race" (*Millennium Film Journal*), sostiene che il blu del chroma-key funzioni come "l'opposto del colore dell'essere" — nessuna pelle umana esiste in quella tonalità, che diventa quindi uno spazio negativo su cui può essere proiettata qualunque narrazione. Un saggio critico su e-flux, dedicato alla sua mostra personale da Bridget Donahue, collega esplicitamente le installazioni in blu chroma-key di Perry a *Dark Matters: On the Surveillance of Blackness* (2015) di Simone Browne, individuandolo come riferimento diretto del suo pensiero su visibilità, sorveglianza e disumanizzazione. La studiosa Rizvana Bradley colloca il lavoro digitale di Perry dentro la teoria estetica nera nel libro *Anteaesthetics: Black Aesthesis and the Critique of Form* (Stanford University Press, 2023). Il catalogo *Sondra Perry: Typhoon Coming On* (Serpentine/Sternberg Press, a cura di Amira Gad), con testi di Elizabeth Alexander, Simone Browne, Hannah Black, Aria Dean, Nora Khan, Hito Steyerl, Soyoung Yoon e altri, resta l'antologia critica più ricca dedicata al suo lavoro. In un'intervista a *It's Nice That*, Perry dichiara di considerare "la blackness come qualcosa di tecnologico, in un certo senso" — una formulazione che riassume l'intero impianto della sua ricerca.
 
 ## Opere principali
-
 ### Lineage for a Multiple-Monitor Workstation: Number One (2015)
 **Descrizione:** video a due canali, colore e sonoro, 25:24 minuti. Narrazione familiare semi-autobiografica (i parenti di Perry interpretano se stessi — seppelliscono una bandiera in giardino, sbucciano patate dolci, scene di più generazioni) proiettata su pareti adiacenti in chroma-green. Mostrata in "Greater New York" al MoMA PS1 (2015-16).
 **Lettura critica:** una delle prime opere a introdurre il vocabolario del chroma-key come dispositivo narrativo, non solo tecnico, per raccontare la memoria familiare nera.
@@ -55,12 +54,8 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 
 **Approfondimento:** [Art Institute of Chicago — couch and fern, GLITTER AND THE LION'S MANE](https://www.artic.edu/artworks/179315/couch-and-fern-glitter-and-the-lion-s-mane-2020-2021-2022-2023-1934-1-8-ga)
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Serpentine Galleries, Vimeo e Art Institute of Chicago. Nessuna immagine reperita per *Flesh Wall*.
-- [sondraperry.com — sito ufficiale](https://sondraperry.com)
-- [Whitney Museum — Graft and Ash for a Three Monitor Workstation, collezione](https://whitney.org/collection/works/59924)
-- [MoMA — Resident Evil (2016), collezione](https://www.moma.org/collection/works/219405)
+## Interviste e talk
+- [BOMB Magazine — intervista su Resident Evil](https://bombmagazine.org/articles/2016/12/08/sondra-perry-s-em-resident-evil-em/)
 
 ## Fonti
 - [sondraperry.com — sito ufficiale](https://sondraperry.com)
@@ -73,13 +68,10 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [Art Institute of Chicago — couch and fern, GLITTER AND THE LION'S MANE, collezione](https://www.artic.edu/artworks/179315/couch-and-fern-glitter-and-the-lion-s-mane-2020-2021-2022-2023-1934-1-8-ga)
 - [Frieze — recensione di Typhoon coming on](https://www.frieze.com/article/sondra-perry-typhoon-coming-2018-review)
 - [e-flux — critica sulla mostra da Bridget Donahue](https://www.e-flux.com/criticism/241047/sondra-perry)
-- [BOMB Magazine — intervista su Resident Evil](https://bombmagazine.org/articles/2016/12/08/sondra-perry-s-em-resident-evil-em/)
 - [Herb Alpert Award in the Arts — profilo vincitrice 2025](https://herbalpertawards.org/artist/2025/sondra-perry)
 
----
-
-## Appunti da organizzare
-- Citata in *Tecniche di modellazione digitale 3D*, insieme a Harun Farocki, Rebecca Allen, Pierre Huyghe, Clement Valla, Alan Warburton, Lawrence Lek, Ian Cheng, Morehshin Allahyari, Daniel Rourke, David O'Reilly, Jakob Kudsk Steensen, Theo Triantafyllidis, Forensic Architecture.
-- ⚠️ Da correggere/non ripetere senza fonte diretta: un'eventuale "grande mostra personale al Whitney" — non risulta, solo un'opera in collezione permanente (vedi sopra). Non risulta inoltre un riferimento esplicito alle "Shirley card" Kodak nelle sue stesse dichiarazioni — la sua critica si concentra piuttosto sul chroma-key e sul bias del colore fotografico/filmico in generale (Soyoung Yoon, Simone Browne); se il programma del corso cita le Shirley card in relazione a lei, potrebbe trattarsi di un collegamento fatto da chi ha scritto il programma, non una citazione diretta dell'artista — da verificare.
-- Luogo di residenza attuale non del tutto certo dalle fonti (tra Perth Amboy, NJ, e l'area di New York) — usare formulazione approssimativa.
-- Video ulteriori da vedere in aula: [Serpentine Galleries, documentazione di Typhoon coming on (YouTube)](https://www.youtube.com/watch?v=Qunkb4piXGw); [Hammer Museum, artist talk (YouTube)](https://www.youtube.com/watch?v=JDOZdBGjuSM); canale Vimeo dell'artista con opere integrali: [vimeo.com/sondraperry](https://vimeo.com/sondraperry/videos).
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Serpentine Galleries, Vimeo e Art Institute of Chicago. Nessuna immagine reperita per *Flesh Wall*.
+- [sondraperry.com — sito ufficiale](https://sondraperry.com)
+- [Whitney Museum — Graft and Ash for a Three Monitor Workstation, collezione](https://whitney.org/collection/works/59924)
+- [MoMA — Resident Evil (2016), collezione](https://www.moma.org/collection/works/219405)

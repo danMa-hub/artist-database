@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `performance-dal-vivo` `game-engine-realtime`
 **Tag tema:** `corpo-identita` `genere-queerness` `memoria-archivio`
 **Tag corso:** `AW`
+**Stato:** da verificare: la data della morte di Patricia Satterwhite · non risulta nessuna partecipazione alla Biennale di Venezia 2022
 
 ## Biografia
 Nato nel 1986 a Columbia, South Carolina, dove cresce. Consegue un BFA al Maryland Institute College of Art (MICA) di Baltimora e un MFA alla University of Pennsylvania di Philadelphia. Vive e lavora a Brooklyn, New York. La madre, Patricia Satterwhite, vive con la schizofrenia; nel corso di decenni realizza disegni e schemi di prodotti domestici immaginari (salviette umidificate, zollette di zucchero, spazzolini) e registra centinaia di canzoni a cappella su musicassette — con l'aggravarsi della malattia, i suoi disegni si spostano da rappresentazioni funzionali e realistiche verso gesti più astratti e poetici. Jacolby usa questi disegni come modelli per oggetti modellati in 3D nelle proprie animazioni, e (insieme al musicista Nick Weiss dei Teengirl Fantasy, nel duo "PAT") remixa le registrazioni vocali a cappella della madre in tracce dance elettroniche. Patricia Satterwhite muore nel 2016 (data esatta da verificare). Riconoscimenti: United States Artists Fellowship (2016); artista in residenza allo Studio Museum in Harlem (2020-21). Rappresentato dalla galleria Mitchell-Innes & Nash (New York) dal 2018, e da Morán Morán (Los Angeles).
@@ -11,7 +12,6 @@ Nato nel 1986 a Columbia, South Carolina, dove cresce. Consegue un BFA al Maryla
 Il metodo centrale di Satterwhite è la performance in motion capture e green screen del proprio corpo (e di amici e collaboratori), spesso attingendo al vocabolario del vogueing e della cultura ballroom, alle arti marziali e alla tecnica del coreografo William Forsythe, trasposta in paesaggi 3D fantastici popolati da avatar — a volte descritti come forme "femme-bot nere". Ha definito lo Spectrum, storico club queer di Brooklyn oggi chiuso, centrale per la cultura ballroom/vogue newyorkese, "il Cedar Tavern della mia generazione" — un'affermazione diretta sulla cultura dei club queer come proprio milieu storico-artistico, in analogia con il celebre bar newyorkese ritrovo degli espressionisti astratti. La critica Eva Díaz, su *Artforum* (2013), osserva come Satterwhite, nel proprio ruolo di artista, riesca a "organizzare e rienergizzare i rituali di produzione di immagini terapeutiche" della madre, invitando il pubblico a un coinvolgimento con una pratica creativa nata come intimamente privata. Il critico Michael Bullock, su *frieze* (2019), descrive i film di Satterwhite come popolati da "paesaggi onirici celesti e a gravità zero" con "corpi intrecciati di attori porno, musicisti e ballerini, come un dipinto di Hieronymus Bosch reso in Final Fantasy", e accosta il suo progetto multimediale (film/scultura/album/merchandise) a un ibrido tra il *Cremaster Cycle* di Matthew Barney (1994-2002) e *Lemonade* di Beyoncé (2016). La galleria Mitchell-Innes & Nash descrive la sua pratica complessiva come concettuale, dedicata a "rituale, fantasia, libertà e costruzione di mondi attraverso installazione immersiva, realtà virtuale e media digitali", sintetizzando illustrazione, performance, pittura, scultura, fotografia e scrittura tramite l'animazione 3D.
 
 ## Opere principali
-
 ### Reifying Desire, serie (2011-2014, con Reifying Desire 7 – Dawn completata nel 2021-22)
 **Descrizione:** ciclo video in più parti costruito da circa 230 versioni modellate in 3D del corpo dell'artista stesso e di oggetti tratti dagli schizzi di prodotti immaginari della madre, resi in uno spazio virtuale come "metanarrazioni collegate" che toccano storia personale, cultura pop, utopia e la "queerizzazione dell'ordinario". Il suo avatar digitale esegue movimenti tratti dal vogueing, dalle arti marziali e dalla coreografia di William Forsythe. Mostrata al Whitney Biennial 2014 come esempio di spazio digitale quale regno "utopico e non-politico" per esplorare memoria e desiderio. Diverse parti della serie sono nelle collezioni permanenti di MoMA e Whitney Museum; *Reifying Desire 7 – Dawn* (2021-22, video a due canali, videogioco e 53 disegni) è nella collezione del MOCA Los Angeles.
 **Lettura critica:** la serie fondativa del metodo di Satterwhite — il corpo motion-captured dell'artista e i disegni "inutili" della madre diventano, insieme, il materiale grezzo di un intero universo narrativo personale.
@@ -61,11 +61,8 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 **Descrizione:** Satterwhite è tra i 331 artisti confermati nella mostra internazionale principale, a cura di Adriano Pedrosa (20 aprile-24 novembre 2024).
 **Lettura critica:** ⚠️ non è stato possibile verificare quale opera specifica sia stata presentata né la sede esatta (Padiglione Centrale ai Giardini o Arsenale) — da confermare prima di descriverla in dettaglio in classe.
 
-## Immagini
-
-Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizione in "Opere principali", da Mitchell-Innes & Nash. *Reifying Desire* resta senza immagine con attribuzione certa.
-- [MoMA — profilo artista](https://www.moma.org/artists/49586)
-- [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
@@ -79,9 +76,7 @@ Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizion
 - [Miller Institute for Contemporary Art, Carnegie Mellon — "Spirits Roaming on the Earth"](https://miller-ica.cmu.edu/exhibitions/jacolby-satterwhite-spirits-roam-the-earth)
 - [Document Journal — sull'eredità artistica della madre](https://www.documentjournal.com/2019/12/jacolby-satterwhites-unwavering-mission-to-honor-his-mothers-artistic-legacy/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Biennio)*, insieme a Ian Cheng, Lawrence Lek, David O'Reilly, Lu Yang, nell'ambito degli algoritmi di simulazione e dei game engine real-time.
-- ⚠️ Non verificati con fonte diretta (da controllare prima di citarli con sicurezza in classe): data esatta della morte di Patricia Satterwhite (2016, non confermata al giorno preciso); l'inserimento di *We Are in Hell When We Hurt Each Other* tra i "momenti artistici" del 2020 secondo il *New York Times*; opera specifica presentata alla Biennale di Venezia 2024. Non risulta invece nessuna partecipazione alla Biennale di Venezia 2022 ("Il latte dei sogni").
-- Video ulteriori da vedere in aula: [Art21, "The Incredulity of Jacolby Satterwhite" (documentario breve)](https://www.youtube.com/watch?v=8WljeAovjtc); canale Vimeo dell'artista: [vimeo.com/user2947668](https://vimeo.com/user2947668/videos).
+## Crediti delle immagini
+Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizione in "Opere principali", da Mitchell-Innes & Nash. *Reifying Desire* resta senza immagine con attribuzione certa.
+- [MoMA — profilo artista](https://www.moma.org/artists/49586)
+- [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)

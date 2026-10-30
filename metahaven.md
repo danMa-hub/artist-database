@@ -11,7 +11,6 @@ Metahaven è uno studio di design, ricerca e — dal 2014 circa — cinema con s
 Il metodo di Metahaven consiste nel trattare il graphic design come strumento di produzione di conoscenza — analizzando statualità, moneta, branding e reti informative come veri e propri oggetti di design, con un'attenzione ricorrente alla trasparenza/visibilità come valore politico conteso. Il progetto che meglio definisce questa fase del lavoro è la collaborazione con WikiLeaks (2010): nel giugno 2010 Metahaven contatta Julian Assange proponendo di ridisegnare l'identità visiva di WikiLeaks, ricevendo la risposta "Absolutely, J.A."; presentano le proposte alla conferenza "I Don't Know Where I'm Going But I Want To Be There" (Amsterdam, dicembre 2010) e producono in seguito merchandise di solidarietà. Da questo progetto nasce il concetto centrale della loro ricerca teorica, la **"black transparency"** ("trasparenza nera") — la trasparenza involontaria e propagandistica imposta a stati e istituzioni da whistleblower e hacker, sviluppata nel libro *Black Transparency: The Right to Know in the Age of Mass Surveillance* (Sternberg Press, 2015). I loro saggi e libri dialogano direttamente con teorici critici: la conversazione "The Cloud, the State, and the Stack" (2012) affronta il concetto di "Stack" di Benjamin H. Bratton; il libro *Uncorporate Identity* (Lars Müller Publishers, 2010) raccoglie contributi di Boris Groys, Keller Easterling, Chantal Mouffe, China Miéville e altri su data haven, architettura post-comunista, eredità visive della War on Terror e branding turistico. A partire dal 2014-2015, su commissione di Lighthouse e The Space (iniziativa di BBC e Arts Council England), Metahaven sposta il proprio lavoro dal design grafico/editoriale verso il documentario essayistico e l'immagine in movimento, presentando il cinema come continuazione dello stesso metodo di ricerca — propaganda, estetica di internet e geopolitica trattate come materia per una forma ibrida tra documentario e film d'artista, non come reportage convenzionale.
 
 ## Opere principali
-
 ### Captives of the Cloud, parti I-III (2012-2013)
 **Descrizione:** serie di saggi pubblicati su *e-flux journal* (parte I, n. 37, settembre 2012; parte II, n. 38, ottobre 2012; parte III "All Tomorrow's Clouds", n. 50, dicembre 2013), che apre con la frase "Siamo i prigionieri volontari del cloud; siamo sorvegliati da governi che non abbiamo eletto." Affronta la "super-giurisdizione" statunitense esercitata attraverso leggi come il Patriot Act, applicata globalmente tramite la proprietà americana dell'infrastruttura cloud, in un formato che unisce prosa da "policy paper amplificato" a diagrammi in stile infografica sull'architettura di internet.
 **Lettura critica:** un testo che anticipa di anni il dibattito mainstream sulla sovranità dei dati, scritto da uno studio di design piuttosto che da accademici — un caso paradigmatico di teoria critica prodotta con gli strumenti visivi del design stesso.
@@ -53,12 +52,8 @@ Il metodo di Metahaven consiste nel trattare il graphic design come strumento di
 
 **Approfondimento:** [Guggenheim Bilbao — Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali". Nessuna immagine reperita per la serie di saggi *Captives of the Cloud* — vedi nota nella sezione corrispondente.
-- [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
-- [Guggenheim Bilbao — comunicato stampa Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
-- [Stedelijk Museum Amsterdam — "Metahaven: EARTH"](https://www.stedelijk.nl/en/exhibitions/metahaven)
+## Interviste e talk
+- [Hyperallergic — "Graphic Design as Political Practice: A Conversation With Metahaven"](https://hyperallergic.com/graphic-design-as-political-practice-a-conversation-with-metahaven-part-1/)
 
 ## Fonti
 - [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
@@ -71,11 +66,9 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [IFFR — The Sprawl (Propaganda About Propaganda)](https://iffr.com/en/iffr/2016/films/the-sprawl-propaganda-about-propaganda)
 - [Design Observer — le proposte di design per WikiLeaks](https://designobserver.com/wikileaks-design-proposals-by-metahaven/)
 - [Frieze — "What is Metahaven?"](https://www.frieze.com/article/metahaven-dutch-design-studio-172)
-- [Hyperallergic — "Graphic Design as Political Practice: A Conversation With Metahaven"](https://hyperallergic.com/graphic-design-as-political-practice-a-conversation-with-metahaven-part-1/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Triennio)*, insieme a Keiichi Matsuda, Alan Warburton, Harun Farocki, Vladan Joler, Rosa Menkman, Jon Rafman, David O'Reilly, Sabrina Ratté, Yoshi Sodeoka, Jonathan Monaghan, Daniel Felstead — tutti già presenti o in corso di sviluppo nel database.
-- ⚠️ Non verificati con fonte solida: la nomination al European Film Award 2017 per *Information Skies*; il piazzamento tra i "20 studi di design più promettenti al mondo" di Rolling Stone Italia (2011); un finalismo ai Dutch Design Awards 2012 — citati solo da fonti singole, da non ripetere con sicurezza in classe senza controllo diretto. Non risulta invece nessuna vittoria al Rotterdam Design Prize, nonostante compaia talvolta nelle bio circolanti online.
-- Sito ufficiale (metahaven.net) non raggiungibile direttamente per restrizioni di rete durante la ricerca — da consultare di persona come fonte primaria di controllo, soprattutto per la cronologia formativa esatta dei due fondatori.
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali". Nessuna immagine reperita per la serie di saggi *Captives of the Cloud* — vedi nota nella sezione corrispondente.
+- [Guggenheim Bilbao — biografia](https://www.guggenheim-bilbao.eus/en/the-collection/artists/metahaven)
+- [Guggenheim Bilbao — comunicato stampa Chaos Theory](https://www.guggenheim-bilbao.eus/en/press-room/press-releases/metahaven-chaos-theory)
+- [Stedelijk Museum Amsterdam — "Metahaven: EARTH"](https://www.stedelijk.nl/en/exhibitions/metahaven)

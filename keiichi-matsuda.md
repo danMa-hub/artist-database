@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `vr-ar` `video`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `game-culture`
 **Tag corso:** `TAD` `AW` `M3D`
+**Stato:** testo in parte generato con IA, da verificare
 
 ## Biografia
 Designer e regista nippo-britannico. *(Anno di nascita indicato in una fonte non verificata come 1980 — da controllare.)*
@@ -11,7 +12,6 @@ Designer e regista nippo-britannico. *(Anno di nascita indicato in una fonte non
 La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media e cinema critico. Non propone profezie tecnologiche, ma una sintomatologia del presente: attraverso l'estetica della realtà aumentata, mostra la progressiva dissoluzione della realtà fenomenica dentro l'interfaccia, che da finestra sul mondo diventa il mondo stesso — territorio conteso per attenzione, identità e agenzia. Un filo conduttore è la critica della "convenienza" della smart home e della gamification come nuovo dispositivo di controllo sociale, dove punteggio e identità coincidono.
 
 ## Opere principali
-
 ### Hyper-Reality (2016)
 **Descrizione:** cortometraggio di 6 minuti girato in soggettiva a Medellín, Colombia: segue Juliana, lavoratrice della gig economy, il cui campo visivo è saturato da un'interfaccia AR — pubblicità olografiche, icone religiose che offrono "punti salvezza", un assistente virtuale invadente.
 **Lettura critica:** aggiorna la "società dello spettacolo" (Debord) all'era dell'interattività: l'interfaccia non è più fuga ma strumento di lavoro e controllo; la "realtà di base" (la povertà di Medellín) traspare solo quando il sistema va in crash.
@@ -33,10 +33,8 @@ La pratica di Matsuda si colloca tra architettura speculativa, teoria dei media 
 
 ![Domestic Robocop — fotogramma](immagini/keiichi-matsuda/domestic-robocop.png)
 
-## Immagini
-
-Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo.
-- [keiichimatsuda.com](https://keiichimatsuda.com/)
+## Interviste e talk
+- **Video:** [The Future of Our Senses, talk OFFF (YouTube)](https://www.youtube.com/watch?v=p1n8SuxO_YA)
 
 ## Fonti
 - [keiichimatsuda.com](https://keiichimatsuda.com/)
@@ -44,10 +42,7 @@ Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in 
 - [Prism](https://vimeo.com/66014028)
 - [Keiichi Matsuda spiega la sua visione della realtà aumentata (Dezeen, YouTube)](https://www.youtube.com/watch?v=91-gM-d6s3c)
 - [Hyper-Reality: A New Vision of the Future (WIRED, YouTube)](https://www.youtube.com/watch?v=nE5U3vB3aGg)
-- [The Future of Our Senses, talk OFFF (YouTube)](https://www.youtube.com/watch?v=p1n8SuxO_YA)
 
----
-
-## Appunti da organizzare
-- Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale, dove l'artista compariva solo come link nell'"Indice REFs"). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente — **anno di nascita da verificare**; apparato critico (riferimenti a Baudrillard, Virilio, Debord, Zuboff, Foucault) utile ma da controllare prima di un uso didattico definitivo.
-- A differenza di Warburton/Evans/Lek/Cheng/Bahar Noorizadeh/Allahyari, qui il taglio rispetto alla fonte originale è stato minore: le 3 opere e la cornice teorica principale (saturazione, dromologia, gamification) sono già tutte riprese sopra. Se serve il testo integrale, va ripreso dal documento "new refs" su Drive.
+## Crediti delle immagini
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo.
+- [keiichimatsuda.com](https://keiichimatsuda.com/)

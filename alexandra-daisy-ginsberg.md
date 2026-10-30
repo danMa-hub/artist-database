@@ -10,7 +10,6 @@ Nata nel 1982, artista, designer e scrittrice britannica. Consegue un MA (Cantab
 La pratica di Ginsberg fonde speculative/critical design — l'eredità del Design Interactions del RCA sotto Dunne & Raby — con una collaborazione diretta e continuativa con scienziati praticanti: biologi sintetici, ricercatori di IA (in particolare Google DeepMind), scienziati dell'olfatto, ecologi. Il suo lavoro interroga la perdita di biodiversità, la "de-estinzione", l'idea di "natura artificiale" e l'etica dell'ingegnerizzazione della vita. In diverse interviste dichiara che le biotecnologie, per quanto ingegnose, "non risolveranno i problemi che abbiamo creato", e che la perdita di biodiversità "mi tortura... e alimenta il mio stesso panico morale". Ha anche criticato esplicitamente i limiti dello speculative design come forma — mettendone in discussione la criticità, l'elitarismo e il pubblico ristretto da galleria, pur continuando a usarlo. Paola Antonelli, curatrice senior di Architettura e Design al MoMA, scrive di lei: "la chiarezza, l'eleganza estetica e intellettuale che Ginsberg trasmette nella propria arte uniscono un innegabile talento nel design a una profonda passione per la scienza" — Antonelli l'ha inserita nella selezione "The Select Ten" di MoMA/Metropolis Magazine (2013) e ha organizzato il panel del MoMA "Synthetic Aesthetics: New Frontiers in Contemporary Design" (ottobre 2014). Dal 2019 in poi la sua pratica viene ampiamente descritta (da *Domus*, *DAMN°*, *Studio International*, *Freunde von Freunden*) come uno spostamento dallo "speculative design" propriamente detto verso il "progettare per/con la natura" — usando sistemi viventi e strumenti algoritmici come medium stesso, non solo come espediente narrativo fittizio, culminando in *Pollinator Pathmaker*.
 
 ## Opere principali
-
 ### E. chromi (2009, con James King e il team iGEM 2009 dell'Università di Cambridge)
 **Descrizione:** batteri (E. coli) modificati geneticamente con parti di DNA standardizzate ("BioBrick") per secernere pigmenti visibili; il progetto ipotizzava un sistema diagnostico ("Scatalog") in cui batteri intestinali modificati avrebbero cambiato il colore delle feci per segnalare una malattia. Vince il Grand Prize a iGEM 2009. Esposto in "Talk to Me" al MoMA (2011).
 **Lettura critica:** una delle prime opere a rendere visibile e discutibile per il grande pubblico, attraverso un oggetto di design accattivante, un principio tecnico altrimenti astruso della biologia sintetica.
@@ -61,14 +60,12 @@ La pratica di Ginsberg fonde speculative/critical design — l'eredità del Desi
 
 **Approfondimento:** [daisyginsberg.com/work/resurrecting-the-sublime](https://www.daisyginsberg.com/work/resurrecting-the-sublime)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [daisyginsberg.com](https://www.daisyginsberg.com).
+## Interviste e talk
+- [MoMA — Talk to Me, E. chromi](https://www.moma.org/interactives/exhibitions/2011/talktome/objects/145508/)
 
 ## Fonti
 - [daisyginsberg.com — sito ufficiale](https://www.daisyginsberg.com/)
 - [MoMA — pagina artista](https://www.moma.org/artists/39480)
-- [MoMA — Talk to Me, E. chromi](https://www.moma.org/interactives/exhibitions/2011/talktome/objects/145508/)
 - [Cooper Hewitt, Smithsonian Design Museum — The Substitute, collezione](https://collection.cooperhewitt.org/objects/2318798865/)
 - [Serpentine Galleries — Pollinator Pathmaker](https://www.serpentinegalleries.org/whats-on/alexandra-daisy-ginsberg-pollinator-pathmaker/)
 - [Ars Electronica — S+T+ARTS Prize, Pollinator Pathmaker](https://ars.electronica.art/starts-prize/en/pollinator-pathmaker/)
@@ -78,9 +75,5 @@ Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto l
 - [Biennale di Venezia — One Planet, Resurrecting the Sublime](https://www.labiennale.org/en/architecture/2021/one-planet/christina-agapakis-alexandra-daisy-ginsberg-sissel-tolaas)
 - [MIT Press — Synthetic Aesthetics (libro, 2014)](https://mitpress.mit.edu/9780262534017/synthetic-aesthetics/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della biologia sintetica, dell'IA critica e dell'ecologia speculativa.
-- ⚠️ Non confermati: un ruolo accademico attuale specifico (trovata solo un'affiliazione al programma ACT del MIT, nessun titolo di professoressa/tutor confermato in un'istituzione britannica); se il Victoria & Albert Museum possieda un'opera dell'artista in collezione permanente (confermato solo il suo ruolo curatoriale nel 2014); un intervento TED.com specifico (riportato da agenzie di speaker ma non trovata una pagina ufficiale ted.com).
-- Video/talk ulteriori: [Barbican Meets: Alexandra Daisy Ginsberg (YouTube)](https://www.youtube.com/watch?v=l7jvXfxEHP0); canale Vimeo dell'artista con documentazione dei progetti: [vimeo.com/daisyginsberg](https://vimeo.com/daisyginsberg).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [daisyginsberg.com](https://www.daisyginsberg.com).

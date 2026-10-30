@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `video` `modellazione-3d` `net-art-sito-web`
 **Tag tema:** `storia-computer-grafica` `memoria-archivio`
 **Tag corso:** `M3D`
+**Stato:** non confermati: Guggenheim Fellowship e Creative Capital · la mostra «Tambour Ancien» (2021) è confermata da una sola fonte
 
 ## Biografia
 Nato nel 1974 a Chicago, Illinois, da genitori entrambi architetti. Consegue un BFA in Film/Video/Animation al Rhode Island School of Design (RISD, 1997) — si laurea prima che i computer entrassero a far parte del curriculum di animazione, ragione per cui inizia a lavorare manipolando fotogrammi di pellicola fisica prima di passare al digitale. Vive e lavora a Saugerties, New York (Hudson Valley). Nel 2007 gli viene dedicata la mostra personale "Black Box: Takeshi Murata" all'Hirshhorn Museum and Sculpture Garden (Smithsonian), Washington D.C. Ha esposto anche al MoMA, al Museum of Fine Arts di Houston, allo Yerba Buena Center for the Arts di San Francisco e alla Taka Ishii Gallery di Tokyo. Opere nelle collezioni dello Smithsonian American Art Museum (*Monster Movie*, 2005), dell'Hirshhorn Museum (*Pink Dot*, 2006), del SFMOMA (*Untitled (Silver)*, 2006), della DESTE Foundation for Contemporary Art (Atene), del Museum of Contemporary Art di Miami e del Palm Springs Art Museum. Rappresentato da Salon 94 (New York), Ratio 3 (San Francisco), Empty Gallery (Hong Kong) e Taka Ishii Gallery (Tokyo).
@@ -13,7 +14,6 @@ Nato nel 1974 a Chicago, Illinois, da genitori entrambi architetti. Consegue un 
 Murata è ampiamente riconosciuto come uno dei pionieri del "datamoshing" come tecnica artistica, a partire dal 2003, secondo alcune fonti innescato da un download video fallito. *Artforum* (2009, a proposito di *Pink Dot*) lo colloca "nella tradizione dell'animazione elettronica avviata da John Whitney e Lillian Schwartz". Lo stesso *Artforum*, in una recensione della sua mostra da Ratio 3, ne descrive la "capacità quasi alchemica di trasformare reperti dimenticati della cultura pop in gioielli abbaglianti". *Frieze*, in una guida critica a Hong Kong dedicata alla mostra "Infinite Doors" alla Empty Gallery, scrive che "l'estetica di Takeshi Murata sembra ancorata a un'estrema stasi o a un movimento incessante". Il Museum of Arts and Design (MAD) ha dedicato al suo lavoro la mostra-rassegna "Takeshi Murata: Mortality" (curata da Jake Yuzna), la ricognizione più completa fino a quel momento del suo percorso, da *Melter 2* (2003) a *Night Moves* (2012), documentando lo spostamento dal glitch analogico su found footage alla natura morta CGI. Quest'ultimo filone viene ripetutamente letto dalla critica come un aggiornamento in chiave digitale della vanitas — riferimenti a nature morte olandesi del Seicento (come quelle di Abraham van Beyeren) accostano teschi, uova e frutta tagliata a detriti tecnologici (iPhone incrinati, nastri VHS).
 
 ## Opere principali
-
 ### Melter 2 (2003)
 **Descrizione:** lavoro di animazione digitale precoce (precede le opere glitch su found footage): forme floreali/organiche morfano l'una nell'altra, con riferimenti alla psichedelia anni Sessanta e al glitch art. Parte della serie "Melter" (Melter, Melter 2, e in seguito la scultura fisica Melter 3-D, 2014). Mostrata in "Takeshi Murata: Melter 2" al Contemporary Art Museum St. Louis.
 **Lettura critica:** dimostra che l'interesse dell'artista per la morfologia astratta precede, e non solo segue, la sua svolta verso il found footage glitchato — un filo conduttore coerente lungo tutta la carriera.
@@ -63,12 +63,8 @@ Murata è ampiamente riconosciuto come uno dei pionieri del "datamoshing" come t
 
 **Approfondimento:** [Electronic Arts Intermix — pagina artista Takeshi Murata](https://www.eai.org/artists/takeshi-murata/titles)
 
-## Immagini
-
-Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Electronic Arts Intermix, Smithsonian American Art Museum e ANIMAL New York.
-- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
-- [Smithsonian American Art Museum — Monster Movie, collezione](https://americanart.si.edu/artwork/monster-movie-86385)
-- [Hirshhorn Museum — mostra "Black Box: Takeshi Murata" (2007)](https://hirshhorn.si.edu/exhibitions/black-box-takeshi-murata/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
@@ -83,10 +79,8 @@ Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in 
 - [ANIMAL New York — su Problem Areas per Oneohtrix Point Never](https://animalnewyork.com/2013/08/01/takeshi-muratas-immaculate-cgi-still-life-video-for-oneohtrix-point-never/)
 - [Hyperallergic — saggio su Monster Movie](https://hyperallergic.com/24261/takeshi-murata-monster-movie/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per rilevanza storica nell'ambito del glitch/datamoshing e della CGI narrativa.
-- ⚠️ Non confermati: eventuali Guggenheim Fellowship o Creative Capital grant — da verificare direttamente su gf.org o creative-capital.org prima di citarli. Mostra "Tambour Ancien" (Galerie Michel Rein, Parigi, 2021) confermata da una sola fonte, da verificare ulteriormente.
-- Lavoro recente da approfondire: *Larry* (2024, cortometraggio co-diretto con Christopher Rutledge), selezionato per il Sundance Film Festival 2024.
-- Video ulteriori: canale Vimeo dell'artista con diverse opere integrali (*Escape Spirit Videoslime*, *Homestead Grays*, *I, Popeye*, *Flag*): [vimeo.com/takeshimurata](https://vimeo.com/takeshimurata); [Untitled (Pink Dot), documentazione (YouTube)](https://www.youtube.com/watch?v=eZkY6zFbwgQ).
+## Crediti delle immagini
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Electronic Arts Intermix, Smithsonian American Art Museum e ANIMAL New York.
+- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/takeshi-murata/biography)
+- [Smithsonian American Art Museum — Monster Movie, collezione](https://americanart.si.edu/artwork/monster-movie-86385)
+- [Hirshhorn Museum — mostra "Black Box: Takeshi Murata" (2007)](https://hirshhorn.si.edu/exhibitions/black-box-takeshi-murata/)

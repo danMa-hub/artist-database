@@ -50,6 +50,8 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 **Descrizione:** concerto del Kronos Quartet in cui alcune telecamere alimentano algoritmi di visione artificiale, dello stesso tipo di quelli usati nelle auto a guida autonoma e nei missili: dietro ai musicisti vengono proiettate le immagini che le macchine «vedono», con gli strumenti confrontati con immagini di riferimento tratte da dataset diffusi di apprendimento automatico. Presentato per la prima volta a San Francisco (Pier 70) il 14 gennaio 2017, in occasione della fiera FOG Design+Art; commissionato dal Cantor Arts Center (Stanford) nell'ambito della residenza dell'artista.
 **Lettura critica:** mostra concretamente cosa sia un'immagine che non è fatta per essere guardata da una persona (il tema delle «immagini operative»).
 
+![Sight Machine — immagine dalla pagina della fonte](immagini/trevor-paglen/sight-machine.jpg)
+
 **Approfondimento:** [Artforum — Trevor Paglen on surveillance, AI and his new work](https://www.artforum.com/columns/trevor-paglen-talks-about-surveillance-ai-and-his-new-work-235025/); [Stanford — Cantor Arts Center](https://museum.stanford.edu/node/243); [Barbican — crediti](https://www.barbican.org.uk/sites/default/files/documents/2019-07/Credits.pdf)
 
 ### A Study of Invisible Images (2017)
@@ -87,3 +89,4 @@ Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "
 - [MacArthur Foundation — Trevor Paglen](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
 - *A Study of Invisible Images*: immagine dalla pagina [artviewer.org](https://artviewer.org/?p=101674); diritti dei rispettivi titolari, uso didattico.
 - *Orbital Reflector*: foto di Steve Jurvetson from Los Altos, USA, [CC BY 2.0](https://commons.wikimedia.org/wiki/File:Trevor_Paglen%E2%80%99s_Orbital_Reflector,_a_huge_satellite_balloon_(35700576933).jpg), via Wikimedia Commons.
+- *Sight Machine*: immagine dalla pagina [www.artforum.com](https://www.artforum.com/columns/trevor-paglen-talks-about-surveillance-ai-and-his-new-work-235025/); diritti dei rispettivi titolari, uso didattico.

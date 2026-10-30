@@ -10,7 +10,6 @@ Nato nel 1956 a Chicago, Illinois. Consegue due lauree (B.S.) in Ingegneria Elet
 Campbell progetta e costruisce elettronica su misura — riadattando tecnologia originariamente pensata per la trasmissione/archiviazione/visualizzazione dell'informazione — per costruire matrici LED a risoluzione estremamente bassa (spesso riducendo un'immagine da circa due milioni di pixel a poche migliaia, talvolta poche centinaia). Questo pone una domanda sperimentale diretta: quanta poca informazione visiva serve al cervello umano per riconoscere un volto, una figura in movimento, un gesto familiare? La fonte di ispirazione diretta e ben documentata è l'articolo di Leon Harmon "The Recognition of Faces" (*Scientific American*, novembre 1973, Bell Labs), che usava un celebre ritratto in scala di grigi di Abraham Lincoln a 252 pixel per studiare l'informazione minima necessaria al riconoscimento facciale — un riferimento che Campbell cita ripetutamente come formativo. La sua ricerca è stata inquadrata istituzionalmente come arte della "soglia"/liminale in due mostre-titolo separate: "Quantizing Effects: The Liminal Art of Jim Campbell" (SITE Santa Fe, 2005, con un saggio in catalogo del curatore indipendente Steve Dietz) e "Jim Campbell: Thresholds of Perception" (Telfair Museums, Savannah, curata da Harry DeLorme). Rudolf Frieling, curatore di media art del SFMOMA, che ha commissionato "Exploded Views" (2011-12) per l'atrio Haas del museo, descrive il lavoro come un'indagine sulle "sfumature della percezione". La critica Benjamin Sutton, su *Artnet News* (2014), osserva: "La bassa risoluzione è una sorta di tecnica universalizzante", discutendo come la rimozione del dettaglio renda l'opera più espressiva e archetipica. In un'intervista a *Interalia Magazine* ("Expressing to the Unconscious"), Campbell dichiara che le sue immagini in movimento a bassa risoluzione lavorano nella direzione opposta rispetto all'Espressionismo Astratto: invece che l'artista esprima un inconscio, è l'immagine a bassa risoluzione a "esprimersi verso l'inconscio" dello spettatore, producendo un'esperienza sentita più che analiticamente vista. Il monografico *Jim Campbell: Material Light* (Hatje Cantz, 2010) raccoglie saggi del curatore Smithsonian John G. Hanhardt, dello storico dell'arte Richard Shiff (University of Texas at Austin) e del teorico dei media Richard Shiff Grusin, co-autore di *Remediation: Understanding New Media*.
 
 ## Opere principali
-
 ### Last Day in the Beginning of March (2003)
 **Descrizione:** installazione di 25-26 lampadine (le fonti divergono lievemente sul numero esatto), elettronica su misura, altoparlanti e suono, dimensioni variabili. Targhe a parete portano brevi frammenti di testo che descrivono momenti dell'ultimo giorno di vita del fratello dell'artista; le luci sopra si affievoliscono e lampeggiano secondo pattern legati al tempo di ricordi specifici, senza alcuna rappresentazione spaziale/visiva — puramente temporale ed emotiva. Campbell l'ha descritta come "una poesia o una sinfonia di luce" sulla morte del fratello. Mostrata per la prima volta nella mostra MATRIX 2003 "Memory Array" (UC Berkeley Art Museum); donata in seguito al BAMPFA.
 **Lettura critica:** l'opera più esplicitamente dedicata alla memoria e al tempo nel corpus dell'artista — dimostra che il metodo della bassa risoluzione/quantizzazione può applicarsi non solo all'immagine ma anche al tempo stesso, codificato nel ritmo del lampeggiamento.
@@ -60,11 +59,8 @@ Campbell progetta e costruisce elettronica su misura — riadattando tecnologia 
 
 **Approfondimento:** [jimcampbell.tv — The Journey](https://www.jimcampbell.tv/portfolio/the-journey)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [jimcampbell.tv](https://www.jimcampbell.tv).
-- [SFMOMA — pagina artista](https://www.sfmoma.org/artist/Jim_Campbell/)
-- [SFMOMA — Exploded Views, collezione](https://www.sfmoma.org/artwork/2012.154.A-G/)
+## Interviste e talk
+- [Interalia Magazine — intervista "Expressing to the Unconscious"](https://www.interaliamag.org/interviews/jim-campbell/)
 
 ## Fonti
 - [jimcampbell.tv — sito ufficiale](https://www.jimcampbell.tv/about)
@@ -74,14 +70,11 @@ Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto l
 - [Daniel Langlois Foundation — biografia e analisi dell'opera](https://www.fondation-langlois.org/html/e/page.php?NumPage=77)
 - [SITE Santa Fe — "Quantizing Effects: The Liminal Art of Jim Campbell" (2005)](https://www.sitesantafe.org/en/exhibitions/quantizing-effects-the-liminal-art-of-jim-campbell/)
 - [Artnet News — Benjamin Sutton (2014)](https://news.artnet.com/market/why-is-jim-campbells-low-res-video-art-so-compelling-even-captivating-8270)
-- [Interalia Magazine — intervista "Expressing to the Unconscious"](https://www.interaliamag.org/interviews/jim-campbell/)
 - [Salesforce Tower — Day for Night](https://salesforcetower.com/artwork/)
 - [IEEE Spectrum — profilo ingegnere-artista](https://spectrum.ieee.org/ee-turned-artist-lights-up-salesforce-tower)
 - [Madison Square Park Conservancy — Scattered Light (PDF)](https://madisonsquarepark.org/wp-content/uploads/2021/03/Jim-Campbell_Scattered-Light.pdf)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della data art e della soglia di percezione dell'immagine a bassa risoluzione.
-- ⚠️ Da verificare: numero esatto di lampadine in *Last Day in the Beginning of March* (25 secondo un'intervista dell'artista, 26 secondo un'altra fonte); dettagli specifici di un'eventuale commissione per il programma Riyadh Art (Arabia Saudita) — pagina artista trovata ma dettagli dell'opera non confermati.
-- Video ulteriori da vedere in aula: [KQED, su The Journey (San Diego Airport)](https://www.kqed.org/arts/11086747/watch-jim-campbells-led-images-swimming-through-space); [SFMOMA, "Jim Campbell: Transmitted in Light" (profilo artista)](https://www.sfmoma.org/watch/jim-campbell-transmitted-in-light/).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [jimcampbell.tv](https://www.jimcampbell.tv).
+- [SFMOMA — pagina artista](https://www.sfmoma.org/artist/Jim_Campbell/)
+- [SFMOMA — Exploded Views, collezione](https://www.sfmoma.org/artwork/2012.154.A-G/)

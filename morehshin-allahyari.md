@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `stampa-3d-scultura` `ai-generativa`
 **Tag tema:** `colonialismo-decolonialita` `genere-queerness` `memoria-archivio`
 **Tag corso:** `M3D`
+**Stato:** testo in parte generato con IA: da verificare l'anno di nascita (1985) e, contro additivism.org, l'esattezza di ogni progetto del Cookbook elencato
 
 ## Biografia
 Artista iraniano-americana. *(Anno di nascita indicato in una fonte non verificata come 1985 — da controllare.)*
@@ -11,7 +12,6 @@ Artista iraniano-americana. *(Anno di nascita indicato in una fonte non verifica
 La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: una metodologia di resistenza che usa gli strumenti della produzione digitale — scansione 3D, modellazione, intelligenza artificiale — per sovvertirne le logiche intrinseche di controllo e colonialità. La sua ricerca non si limita a documentare o rappresentare: è un atto di **riconfigurazione** (*re-figuring*), un intervento politico che contesta la violenza dell'archivio, la cancellazione della storia e le narrative egemoniche del tecno-capitalismo. Opera in uno spazio teorico che interseca critica postcoloniale, femminismo speculativo e materialismo digitale: per lei la tecnologia non è mai neutra, è un campo di battaglia dove il passato viene attivamente cancellato o, al contrario, radicalmente reclamato. Il suo lavoro è una forma di "rifiuto" — rifiuto della perdita, rifiuto dell'archivio occidentale come arbitro finale della storia, rifiuto di una visione utopica della tecnologia.
 
 ## Opere principali
-
 ### Material Speculation: ISIS (2015-2016)
 **Descrizione:** ricostruzione e stampa 3D, in resina traslucida, di dodici statue (da Hatra e Ninive) distrutte da ISIS al museo di Mosul nel 2015; ogni scultura contiene al proprio interno, visibile, una scheda di memoria o chiavetta USB con tutta la ricerca (immagini, mappe, file 3D).
 **Lettura critica:** non è un atto di restauro — Allahyari non cerca di creare una copia perfetta per un museo, ma un "pacchetto dati" in-archiviabile: incorporando la scheda di memoria dentro l'oggetto fisico, crea un **data-ghost** (fantasma di dati), rendendo oggetto e dati inseparabili e rifiutando che l'artefatto venga decontestualizzato o assorbito passivamente in un archivio occidentale. Un atto di *digital disobedience* contro la **violenza d'archivio** (Derrida, Foucault) — il concetto secondo cui gli archivi non sono registri passivi ma strumenti di potere che attivamente costruiscono, classificano e quindi cancellano la storia.
@@ -58,12 +58,8 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [morehshin.com — Moon-Faced](https://morehshin.com/moon-faced)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere/serie principali, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, additivism.org e shewhoseestheunknown.com.
-- [morehshin.com](https://www.morehshin.com/)
-- [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
-- [She Who Sees the Unknown](https://www.morehshin.com/she-who-sees-the-unknown)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [morehshin.com](https://www.morehshin.com/)
@@ -72,11 +68,8 @@ Immagine per ciascuna delle quattro opere/serie principali, inclusa sotto la rel
 - [The 3D Additivist Manifesto (Vimeo)](https://vimeo.com/124979140)
 - [additivism.org](https://additivism.org/)
 
----
-
-## Appunti da organizzare
-- Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente. Ho integrato il saggio quasi per intero nella parte organizzata sopra, incluso l'elenco completo dei progetti del Cookbook.
-- **Da verificare puntualmente**: anno di nascita (1985), e l'attribuzione/esattezza di ciascun progetto del Cookbook elencato (autori, descrizioni) contro la fonte primaria (additivism.org).
-- Collaborazione diretta con **Daniel Rourke** (già presente come scheda "nuova" tra le priorità dei corsi) su *The 3D Additivist Manifesto/Cookbook* — le due schede si richiamano a vicenda.
-- ⚠️ **Link video/talk aggiuntivi trovati nella stessa scheda "new refs" (origine AI non verificata) — da verificare uno per uno prima di considerarli affidabili**: [presunto TEDx "The Urgency of 3D Printing Cultural Heritage"](https://www.youtube.com/watch?v=rIXzp7jokAQ), [presunto artist talk "Re-Figuring the Past and Future" (ArtCenter)](https://www.youtube.com/watch?v=0h9QJgK3_sE). Non spostati in Fonti per lo stesso motivo già segnalato per la scheda di Alan Warburton — origine non affidabile, da confermare aprendo i link direttamente.
-  - Tentativo di verifica (settembre 2026, via WebSearch, senza apertura diretta degli URL): confermato che Allahyari tiene regolarmente talk/conferenze sul tema (es. una lecture-performance su Rhizome sul "digital colonialism" legato alla stampa 3D, e talk "Re-figuring" più recenti in sedi come Stanford e Rubin Museum), ma nessun TEDx con quel titolo esatto è stato individuato, e nessuna pagina terza risulta linkare questi due specifici ID video YouTube (rIXzp7jokAQ, 0h9QJgK3_sE). Restano non verificati, flag invariato.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere/serie principali, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, additivism.org e shewhoseestheunknown.com.
+- [morehshin.com](https://www.morehshin.com/)
+- [Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
+- [She Who Sees the Unknown](https://www.morehshin.com/she-who-sees-the-unknown)

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `ai-generativa` `data-visualization` `installazione` `projection-mapping`
 **Tag tema:** `memoria-archivio` `economia-attenzione`
+**Stato:** testo in parte generato con IA: le citazioni di Jerry Saltz e Travis Diehl vengono da fonti secondarie, da verificare sulla fonte primaria
 
 ## Biografia
 Nato il 7 novembre 1985 a Istanbul, Turchia. Consegue un BA in Fotografia e Video (dipartimento di Visual Communication Design) alla Istanbul Bilgi University, e un MFA in Design Media Arts alla UCLA (2014), dove viene seguito da Casey Reas, Jennifer Steinkamp e Christian Moeller. Vive e lavora a Los Angeles, dove dirige e ha co-fondato Refik Anadol Studio (RAS), descritto come un team internazionale di designer, architetti, data scientist e ricercatori provenienti da circa dieci paesi. Insegna come lecturer/ricercatore ospite nel Dipartimento di Design Media Arts della UCLA, lo stesso in cui si è formato. Riconoscimenti: TIME 100 AI Impact Award; UCLA Edward A. Dickson Alumnus of the Year (2024); Lorenzo il Magnifico Lifetime Achievement Award for New Media Art; residenza artistica Google Artists and Machine Intelligence (2016, origine della serie *Machine Hallucinations*); Microsoft Research Best Vision Award; iF Gold Award; D&AD Pencil Award; German Design Award; Young Global Leader del World Economic Forum (2024); membro eletto dell'American Academy of Arts and Sciences. Nel 2026 apre a Los Angeles **Dataland**, descritto come "il primo museo al mondo di arte IA", ospitato nel complesso The Grand LA progettato da Frank Gehry.
@@ -12,7 +13,6 @@ Anadol descrive la propria pratica come l'uso di apprendimento automatico su lar
 Il lavoro di Anadol è però anche al centro di una controversia critica di alto profilo, importante da documentare con lo stesso rigore dell'apprezzamento istituzionale. Il critico Jerry Saltz (*New York Magazine*) ha definito *Unsupervised* "una gigantesca lampada di lava tecnologica", "uno screensaver da mezzo milione di dollari" e un "budino narcotico" che "fatica a trascendere il proprio materiale sorgente" — in uno scontro pubblico ampiamente ripreso dalla stampa. Secondo fonti secondarie, anche Travis Diehl sul *New York Times* avrebbe concluso che "*Unsupervised* è solo uno screensaver" (citazione di seconda mano, da verificare direttamente sulla fonte primaria). Eryk Salvaggio, ricercatore e critico di arte IA (newsletter *Cybernetic Forests*), ha scritto un saggio critico sostanziale, "Ideologies of Awe & AI Art at the MoMA", sostenendo che Anadol rappresenti una generazione di artisti che prende alla lettera le rivendicazioni dell'IA e la presenta come strumento di un "timore reverenziale" quasi spirituale, criticando anche il modo in cui una GAN addestrata sul patrimonio del MoMA finisca per mediare e ri-brandizzare l'istituzione stessa. *e-flux Criticism* ha pubblicato un saggio dedicato specificamente a *Unsupervised*. Critici e ricercatori di IA segnalano inoltre una tensione concettuale: dove i ricercatori trattano l'"allucinazione" come un difetto tecnico da correggere, Anadol ne fa un tratto estetico rivendicato, con obiezioni sulla disinvoltura con cui antropomorfizza gli output del machine learning parlando di "sogno" — una critica ricorrente osserva semplicemente che "una macchina non può sognare perché sognare richiede un soggetto vivente". Altre critiche, raccolte nella copertura di *Artnet* su Dataland, riguardano i legami commerciali dell'artista con grandi aziende tecnologiche (Nvidia, Google) e l'uso di archivi pubblici gratuiti (Smithsonian, Università di Oxford) per costruire modelli IA alla base di iniziative a scopo di lucro (il biglietto d'ingresso standard di Dataland è riportato a 49 dollari). In un'intervista a *Ocula*, lo stesso Anadol risponde alle critiche quantificandole ("22 critici su 24 hanno dato recensioni favorevoli... quantifico tutto! Lavoro con i dati") e difende la scelta di non mostrare mai direttamente il materiale sorgente del MoMA: "Abbiamo passato esattamente un anno a non creare un'altra imitazione di un Monet o di un van Gogh."
 
 ## Opere principali
-
 ### Melting Memories (2018)
 **Descrizione:** scultura/dipinto di dati che esplora come il cervello richiami i ricordi, usando dati EEG. Anadol ha condotto esperimenti al Neuroscape Laboratory della UC San Francisco, analizzando i canali delle onde beta e theta associati all'attivazione della memoria a breve e lungo termine (in particolare episodica). Realizzata come parete LED personalizzata di 16x20 piedi affiancata da una superficie scultorea in schiuma rigida fresata a controllo numerico; mostrata alla galleria Pilevneli di Istanbul (2018).
 **Lettura critica:** una delle opere più esplicitamente ancorate a un protocollo scientifico verificabile (i dati EEG raccolti in laboratorio), utile per discutere in classe la differenza tra dati scientifici reali e la loro resa estetica.
@@ -51,12 +51,8 @@ Il lavoro di Anadol è però anche al centro di una controversia critica di alto
 
 **Approfondimento:** [dataland.art](https://dataland.art/)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da Designboom, refikanadol.com e dataland.art.
-- [MoMA — pagina mostra ufficiale di Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
-- [Artforum — il MoMA acquisisce Unsupervised](https://www.artforum.com/news/moma-acquires-refik-anadols-unsupervised-517497/)
-- [e-flux Criticism — saggio su Unsupervised](https://www.e-flux.com/criticism/527236/refik-anadol-s-unsupervised)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [MoMA — pagina mostra ufficiale di Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
@@ -70,12 +66,8 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [Designboom — su Melting Memories](https://www.designboom.com/art/refik-anadol-melting-memories-neuroscience-04-25-2018/)
 - [NPR — copertura dell'apertura di Dataland](https://www.npr.org/2026/07/29/nx-s1-5894941/ai-art-dataland-refik-anadol)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza centrale nel dibattito contemporaneo su IA e arte.
-- ⚠️ Correzione importante: non risulta alcun coinvolgimento di Refik Anadol nella campagna pubblicitaria "Masterpiece" di Coca-Cola (2023-24, realizzata con OpenAI dalla casa di produzione Electric Theatre Collective e dall'agenzia Blitzworks) — non attribuirla a lui.
-- Anno esatto di laurea BA alla Bilgi University non del tutto coerente tra le fonti secondarie — l'MFA UCLA (2014) è invece ben confermato da più fonti indipendenti.
-- Le citazioni dirette di Jerry Saltz e Travis Diehl/New York Times provengono da fonti secondarie — da verificare sulla fonte primaria prima di citarle testualmente in classe.
-- Questa è una delle poche schede del database con una sezione di controversia critica sostanziale e ben documentata — utile come caso di studio per una discussione in classe sul dibattito critico intorno all'arte generata con IA, non solo come esempio tecnico.
-- Video ulteriori: [Louisiana Channel, intervista approfondita "AI Is an Extension of My Mind" (YouTube)](https://www.youtube.com/watch?v=S-39QKRNESc); canale YouTube ufficiale dello studio: [youtube.com/c/RefikAnadolStudio](https://www.youtube.com/c/RefikAnadolStudio).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da Designboom, refikanadol.com e dataland.art.
+- [MoMA — pagina mostra ufficiale di Unsupervised](https://www.moma.org/calendar/exhibitions/5535)
+- [Artforum — il MoMA acquisisce Unsupervised](https://www.artforum.com/news/moma-acquires-refik-anadols-unsupervised-517497/)
+- [e-flux Criticism — saggio su Unsupervised](https://www.e-flux.com/criticism/527236/refik-anadol-s-unsupervised)

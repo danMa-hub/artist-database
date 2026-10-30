@@ -13,7 +13,6 @@ Nato nel 1988 ad Atene, Grecia. Consegue il diploma in architettura al National 
 Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersivi, automatizzati o interattivi, adattabili a VR/AR/installazione video — che usa sia per narrare criticamente le conseguenze sociali e psicologiche della tecnologia della comunicazione, sia per costruire mondi-ecosistema alternativi ed evolutivi in autonomia. Il critico e curatore Domenico Quaranta, tra le voci più autorevoli sull'arte post-internet e dei nuovi media, gli ha dedicato due interventi critici: il saggio "Live Simulation" (commissionato da Fabbula in collaborazione con la Zabludowicz Collection per la mostra "Among the Machines") e la mostra personale "Sisyphean Cycles" (2023, Spazio Vitale, Verona), da lui curata, che riunisce quattro simulazioni dal vivo in un unico percorso narrativo attraverso mondi-ecosistema capaci di automodificarsi. Kim Conaty, curatrice capo della famiglia Crown al Whitney Museum, ha dichiarato: "L'approccio di Theo a umorismo, assurdo e perturbante conferisce ai suoi ambienti immersivi un margine poetico avvincente." L'artista stesso descrive il proprio interesse come rivolto "alla tensione tra le nostre vite addomesticate e iperconnesse e gli istinti primordiali che continuano a guidare gran parte del nostro comportamento", e a proposito dell'IA generativa: "Sto iniziando a vedere questo contenuto generato dall'IA come un materiale strano e malleabile, molto parte della nostra epoca." La ricerca attraversa la "teoria del mostro" per indagare isolamento, sessualità e violenza, proponendo umorismo computazionale e improvvisazione IA come risposta all'agenda dell'industria tecnologica. *Radicalization Pipeline* (2021) viene letta dalla critica come un'analisi diretta di QAnon, dell'assalto al Campidoglio del 6 gennaio, della gamificazione dell'estremismo e dell'iconografia della mascolinità tossica.
 
 ## Opere principali
-
 ### Seamless (2017)
 **Descrizione:** simulazione dal vivo, colore e sonoro, durata infinita, dimensioni variabili. Acquisita dal Whitney Museum of American Art (fondi del Digital Art Committee e di Keith Grossman).
 **Lettura critica:** una delle prime opere dell'artista a entrare in una collezione museale permanente statunitense — segna il riconoscimento istituzionale precoce della "simulazione dal vivo" come formato artistico a sé stante, non riducibile al videogioco o al video.
@@ -58,12 +57,8 @@ Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersiv
 
 **Approfondimento:** [Frieze — Frieze London Artist Award 2026](https://www.frieze.com/article/frieze-london-2026-theo-triantafyllidis-artist-award)
 
-## Immagini
-
-Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista (slimetech.org), dal Whitney Museum e da YouTube.
-- [slimetech.org — sito ufficiale dell'artista](https://slimetech.org/)
-- [Whitney Museum — pagina artista](https://whitney.org/artists/20904)
-- [Whitney Museum — Seamless, collezione](https://whitney.org/collection/works/67918)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [slimetech.org — sito ufficiale dell'artista](https://slimetech.org/)
@@ -78,9 +73,8 @@ Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in 
 - [FACT Magazine — "Theo Triantafyllidis Presents: Radicalization Pipeline"](https://www.factmag.com/2022/04/05/theo-triantafyllidis-presents-radicalization-pipeline/)
 - [Galerie Magazine — "Next Big Thing: Theo Triantafyllidis"](https://galeriemagazine.com/next-big-thing-theo-triantafyllidis/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di modellazione digitale 3D*, insieme a Harun Farocki, Rebecca Allen, Pierre Huyghe, Clement Valla, Alan Warburton, Lawrence Lek, Ian Cheng, Morehshin Allahyari, Daniel Rourke, David O'Reilly, Sondra Perry, Jakob Kudsk Steensen, Forensic Architecture.
-- ⚠️ Titoli citati in fonti secondarie non trovati/non verificabili — non includere senza fonte diretta: "Homunculus" (serie), "Studies for Dude Ranch", un'opera intitolata "The Real Housewives", "Two Cyclops". Feral File non è un'opera dell'artista ma una piattaforma NFT di terzi (fondata da Casey Reas) su cui ha mostrato un solo lavoro, *Speculative Fetish (Vive Controller)* (2023).
-- Video ulteriori da vedere in aula: [Ork Haus, documentazione (YouTube)](https://www.youtube.com/watch?v=mILPgQrS7QQ); [Anti-Gone, documentazione (YouTube)](https://www.youtube.com/watch?v=BGPfuw4Z45k); canale Vimeo dell'artista: [vimeo.com/theotrian](https://vimeo.com/theotrian); giochi giocabili su [itch.io/theotrian](https://theotrian.itch.io/).
+## Crediti delle immagini
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista (slimetech.org), dal Whitney Museum e da YouTube.
+- [slimetech.org — sito ufficiale dell'artista](https://slimetech.org/)
+- [Whitney Museum — pagina artista](https://whitney.org/artists/20904)
+- [Whitney Museum — Seamless, collezione](https://whitney.org/collection/works/67918)

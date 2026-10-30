@@ -12,7 +12,6 @@ Artista multimediale nato in Giappone (Hiroshima, cresciuto a Yokohama), con bas
 In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discussione l'etichetta di "glitch artist" spesso applicata al suo lavoro: dichiara di essere interessato ai colori e alle forme che emergono dagli errori digitali, ma di non lasciare che il processo del glitch detti da solo l'estetica finale; anche l'etichetta "psichedelico", spesso usata dalla critica, non è necessariamente come descriverebbe da sé il proprio lavoro — scherza dicendo che se la reazione di chi guarda è "what the fuck", quella per lui è già psichedelia. La piattaforma curata Le Random lo descrive come un artista video newyorkese noto per "video psichedelici inquietanti" segnati da colore saturo, riferimenti mitologici e un trattamento teso del tempo, rintracciandone l'influenza nella musica noise/glitch e nell'Op Art, e inquadrando la sua pratica come una scomposizione della coerenza strutturale tanto della partitura musicale quanto dell'immagine, per generare nuove forme espressive. Rhizome, la principale istituzione critica dedicata alla net art, lo segue fin dai primi anni 2010, collocandolo nella genealogia della net art/glitch: la curatrice Ceci Moss gli ha dedicato una recensione/approfondimento dedicato all'opera *Sibyl* (2011), e la sua prima opera *ASCII Rock* (2003) è archiviata nell'ArtBase di Rhizome, l'archivio di conservazione della net art. Negli ultimi anni il lavoro si sposta anche verso l'intelligenza artificiale generativa e la simulazione fisica delle particelle, come mostrato dalla mostra personale giapponese "1.618?" (2023).
 
 ## Opere principali
-
 ### Word, sito web (1995-96)
 **Descrizione:** lavoro di web design e direzione artistica svolto come direttore creativo dell'e-zine pionieristica *Word*; conservato nella collezione permanente del SFMOMA come artefatto di design/net art.
 **Lettura critica:** uno dei primi esempi di web design trattato retrospettivamente come opera d'arte da un museo maggiore — anticipa di decenni il riconoscimento istituzionale del design di interfaccia come pratica artistica.
@@ -63,12 +62,8 @@ In un'intervista a Vice/The Creators Project, lo stesso Sodeoka mette in discuss
 
 **Approfondimento:** [Times Square Arts — Infinite Ascent](https://www.timessquarenyc.org/tsq-arts-projects/infinite-ascent)
 
-## Immagini
-
-Immagine per cinque delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da Whitney Museum, Vimeo, YouTube, CALM & PUNK GALLERY e Times Square Arts. Nessuna immagine reperita con attribuzione certa per *Word* (1995) e *GIF Psychedelica* (serie in corso).
-- [sodeoka.com — sito ufficiale](https://sodeoka.com)
-- [SFMOMA — Word website (1995), collezione](https://www.sfmoma.org/artwork/97.488/)
-- [Whitney Museum — C404: Prototype #38, collezione](https://whitney.org/collection/works/16781)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [sodeoka.com — sito ufficiale](https://sodeoka.com)
@@ -82,9 +77,8 @@ Immagine per cinque delle sette opere, inclusa sotto la relativa descrizione in 
 - [Undervolt & Co. — pagina artista](https://www.undervolt.co/Yoshi-Sodeoka)
 - [Artforum — documentazione video di Sibyl (2011)](https://www.artforum.com/video/yoshi-sodeoka-sibyl-2011-163562/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Triennio)*, insieme a Keiichi Matsuda, Metahaven, Alan Warburton, Harun Farocki, Vladan Joler, Rosa Menkman, Jon Rafman, David O'Reilly, Sabrina Ratté, Jonathan Monaghan, Daniel Felstead.
-- ⚠️ Non confermati/da non ripetere senza verifica diretta: una collaborazione con i Ratatat (nessuna fonte trovata); un video per i Panda Bear ("Go On") — il credito ufficiale sembra invece appartenere a James Siewert, da confermare direttamente sul canale Vimeo dell'artista prima di attribuirlo. "C404" potrebbe essere uno pseudonimo/nome di progetto piuttosto che un artista distinto — il Whitney lo elenca come pagina artista separata ma collegata.
-- Video ulteriori da vedere in aula: canale Vimeo dell'artista (raccolta principale dei video musicali): [vimeo.com/sodeoka](https://vimeo.com/sodeoka); [Spike, video per Max Cooper (YouTube)](https://www.youtube.com/watch?v=ktn628Bvhc8).
+## Crediti delle immagini
+Immagine per cinque delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da Whitney Museum, Vimeo, YouTube, CALM & PUNK GALLERY e Times Square Arts. Nessuna immagine reperita con attribuzione certa per *Word* (1995) e *GIF Psychedelica* (serie in corso).
+- [sodeoka.com — sito ufficiale](https://sodeoka.com)
+- [SFMOMA — Word website (1995), collezione](https://www.sfmoma.org/artwork/97.488/)
+- [Whitney Museum — C404: Prototype #38, collezione](https://whitney.org/collection/works/16781)

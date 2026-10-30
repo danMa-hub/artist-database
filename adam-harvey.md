@@ -12,7 +12,6 @@ Artista e ricercatore statunitense. Consegue un BA in Ingegneria Meccanica alla 
 La pratica di Harvey si colloca all'incrocio tra "design anti-sorveglianza" (tecniche indossabili/di trucco/di moda per contrastare il riconoscimento facciale e i sistemi di visione artificiale) e un lavoro investigativo in stile giornalismo di dati, dedicato a smascherare e mappare i dataset biometrici usati per addestrare sistemi di sorveglianza e il loro impiego da parte di enti militari e governativi. Il sito culturale Artblog di Philadelphia, in un'intervista del 2011 (ripubblicata nel 2020 dopo essere stata citata da *Bloomberg Businessweek*), inquadra *CV Dazzle* come "l'antidoto" alla sorveglianza tramite camuffamento con trucco e acconciatura. Il *Christian Science Monitor*/Passcode ha dedicato copertura alla campagna di poster "Think Privacy" (2016). Il progetto MegaPixels — condotto con Jules LaPlace — ha portato alla chiusura di almeno tre dataset di riconoscimento facciale (incluso MS-Celeb-1M di Microsoft e Duke MTMC), a citazioni accademiche censurate, alle scuse pubbliche di un autore, e a copertura in prima pagina su testate come il *New York Times* (Cade Metz, "Facial Recognition Tech Is Growing Stronger, Thanks to Your Face", 2019) e sul *Financial Times*. La serie di interviste "Training the Archive" del Ludwig Forum gli ha dedicato un'intera puntata dedicata alla sua metodologia di indagine sui dataset di riconoscimento facciale.
 
 ## Opere principali
-
 ### CV Dazzle (2010, serie in corso/aggiornata)
 **Descrizione:** trucco e acconciatura anti-riconoscimento facciale, sviluppati come tesi di master all'ITP della NYU; il nome cita il camuffamento navale "Dazzle" della Prima guerra mondiale (schemi di pittura per navi ispirati al cubismo, dell'artista britannico Norman Wilkinson). Usa pattern asimmetrici e ad alto contrasto che spezzano i tratti su cui si basano gli algoritmi di rilevamento del volto. Rimane leggibile allo sguardo umano; progettato per ingannare specificamente la visione artificiale.
 **Lettura critica:** l'opera fondativa dell'intero percorso dell'artista, discussa già nel 2011 come "antidoto" alla sorveglianza — recentemente inclusa nella mostra "Camouflage: Designed to Deceive" all'International Spy Museum di Washington D.C. (aperta il 1° marzo 2026).
@@ -64,9 +63,9 @@ La pratica di Harvey si colloca all'incrocio tra "design anti-sorveglianza" (tec
 
 **Approfondimento:** [adam.harvey.studio/vframe](https://adam.harvey.studio/vframe/) · [vframe.io](https://vframe.io/)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [adam.harvey.studio](https://adam.harvey.studio).
+## Interviste e talk
+- [Training the Archive (Ludwig Forum) — intervista sui dataset di riconoscimento facciale](https://trainingthearchive.ludwigforum.de/en/interview-harvey-en/)
+- [Artblog — intervista "Adam Harvey and The Anti-Face"](https://www.theartblog.org/2011/04/interview-adam-harvey-and-the-anti-face/)
 
 ## Fonti
 - [adam.harvey.studio — sito ufficiale](https://adam.harvey.studio/about/)
@@ -78,12 +77,6 @@ Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto l
 - [Dezeen — Stealth Wear](https://www.dezeen.com/2013/06/23/stealth-wear-anti-drone-clothing-by-adam-harvey/)
 - [Vice — su HyperFace](https://www.vice.com/en/article/countersurveillance-textiles-trick-computer-vision-software/)
 - [Boing Boing — sulla chiusura del dataset MS-Celeb di Microsoft](https://boingboing.net/2019/06/06/microsoft-removes-from-interne.html)
-- [Training the Archive (Ludwig Forum) — intervista sui dataset di riconoscimento facciale](https://trainingthearchive.ludwigforum.de/en/interview-harvey-en/)
-- [Artblog — intervista "Adam Harvey and The Anti-Face"](https://www.theartblog.org/2011/04/interview-adam-harvey-and-the-anti-face/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza centrale nella critica artistica alla sorveglianza algoritmica.
-- ⚠️ Non confermati con fonte diretta: URL esatto dell'articolo del *New York Times* di Cade Metz (2019); un articolo specifico su *The Guardian* (ricercato ma non trovato — non affermare una "copertura estesa del Guardian" senza fonte diretta); URL esatto dell'inchiesta del *Financial Times* sul dataset Duke MTMC.
-- Video/talk ulteriori: [re:publica 2016, "Computer Vision, Surveillance, and Camouflage" (YouTube)](https://www.youtube.com/watch?v=Lbt3EMyFsCY); intervento a Eyeo Festival 2019 su [Vimeo](https://vimeo.com/354276111).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [adam.harvey.studio](https://adam.harvey.studio).

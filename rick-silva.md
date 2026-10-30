@@ -11,7 +11,6 @@ Artista brasiliano-americano, con base a Eugene, Oregon.
 La ricerca di Silva esplora nozioni di paesaggio e natura selvaggia nel XXI secolo (e oltre), attraverso video, siti web e installazioni che indagano virtualità, futurologia ed ecologie speculative. Il suo lavoro adotta in modo critico e giocoso gli strumenti di default della modellazione 3D — preset di paesaggio, fotogrammetria, drone — per mostrare come il software non si limiti a rappresentare la natura, ma ne detti anche i modi di visione: un doppio movimento tra sperimentazione estetica e critica del "computer-vision" applicato all'estrazione di risorse.
 
 ## Opere principali
-
 ### The Silva Field Guide to Birds of a Parallel Future (2014)
 **Descrizione:** 18 brevi animazioni 3D che mescolano birdwatching e ornitologia con teorie multiverso/quantistiche: specie di uccelli "glitch", oscillanti tra rappresentazione e astrazione.
 **Lettura critica:** riformula la convenzione naturalistica della guida da campo per mettere in crisi l'idea di documentazione "oggettiva" della natura.
@@ -38,12 +37,8 @@ La ricerca di Silva esplora nozioni di paesaggio e natura selvaggia nel XXI seco
 
 **Approfondimento:** [s-i-g-n-a-l-s.com](https://s-i-g-n-a-l-s.com/)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo e s-i-g-n-a-l-s.com.
-- [ricksilva.net](https://ricksilva.net/)
-- [The Silva Field Guide to Birds of a Parallel Future](https://silvafieldguide.com/)
-- [Western Fronts](https://westernfronts.com/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [ricksilva.net](https://ricksilva.net/)
@@ -52,9 +47,8 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [En Plein Air](https://enpleinair.org/)
 - [SIGNALS (con Nicolas Sassoon)](https://s-i-g-n-a-l-s.com/videoworks)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive (migrata e riorganizzata col nuovo template).
-- Collaborazione ricorrente con **Nicolas Sassoon** (già presente come scheda a sé) su SIGNALS/CORES.
-- Nessun link YouTube/Vimeo dedicato trovato nella scheda REF: i video delle opere sono ospitati direttamente nei siti di progetto già in Fonti (silvafieldguide.com, westernfronts.com, enpleinair.org, s-i-g-n-a-l-s.com) — da aprire direttamente per la visione/download, non essendoci un canale YouTube/Vimeo centralizzato individuato.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo e s-i-g-n-a-l-s.com.
+- [ricksilva.net](https://ricksilva.net/)
+- [The Silva Field Guide to Birds of a Parallel Future](https://silvafieldguide.com/)
+- [Western Fronts](https://westernfronts.com/)

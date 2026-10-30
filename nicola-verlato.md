@@ -10,7 +10,6 @@ Nato il 19 febbraio 1965 a Verona. Inizia a dipingere da giovanissimo, formandos
 Verlato costruisce le proprie opere attraverso un processo che ibrida tecniche pittoriche classiche — un manierismo iperrealista debitore del barocco italiano del Seicento, con effetti di luce spettacolari, nudi contorti e composizioni dense — e strumenti di modellazione 3D contemporanei come Maya e ZBrush, con cui costruisce corpi e volti per verificarne la corretta disposizione nello spazio e gli effetti di chiaroscuro prima di trasferirli su tela o in scultura. Il nucleo teorico esplicito della sua ricerca, formulato dall'artista stesso, è la continuità storica tra la costruzione prospettica rinascimentale e il wireframe tridimensionale dei videogiochi e del cinema CGI contemporaneo: un aneddoto spesso citato dall'artista racconta come, vedendo nel 1982 un fotogramma del film Tron su una rivista, abbia riconosciuto un'coincidenza assoluta tra i wireframe dei modelli 3D del film e i disegni prospettici di Piero della Francesca e Paolo Uccello. Da qui la formula critica coniata dallo stesso Verlato per definire la propria estetica, "la metafisica dell'ovvio": un iperrealismo manierista che attinge insieme a pop art, fumetto, videogioco e storia dell'arte antica, trattando la modellazione digitale non come scorciatoia tecnica ma come lo stadio più recente di una storia secolare della rappresentazione prospettica dello spazio e del corpo.
 
 ## Opere principali
-
 ### Il Duce (2009, ciclo per il Padiglione Italia, Biennale di Venezia)
 **Descrizione:** dipinti e sculture realizzati a partire da un modello 3D del volto di James Dean, presentati nell'installazione del Padiglione Italia alla 53ª Biennale di Venezia 2009 ("Collaudi", a cura di Beatrice Buscaroli e Luca Beatrice).
 **Lettura critica:** tra le prime opere dell'artista a rendere esplicito, in un contesto istituzionale di primo piano, il passaggio dal modello digitale tridimensionale all'opera pittorica/scultorea finita — un processo che diventerà la cifra stabile della sua ricerca successiva.
@@ -33,12 +32,8 @@ Verlato costruisce le proprie opere attraverso un processo che ibrida tecniche p
 
 **Approfondimento:** [Imola Musei — Myth Generation](https://imolamusei.it/mostre/nicola-verlato-myth-generation/)
 
-## Immagini
-Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Jonathan Levine Projects, Postmasters Gallery e Imola Musei.
-- [Sito ufficiale dell'artista](https://www.nicolaverlato.com/)
-- [Galleria Giovanni Bonelli, Milano — pagina artista](https://www.galleriagiovannibonelli.com/artista/nicola-verlato/)
-- [Postmasters Gallery — The Merging: beyond the end (2020)](https://www.postmastersart.com/archive/verlato20/verlato20.html)
-- [Imola Musei — Myth Generation](https://imolamusei.it/mostre/nicola-verlato-myth-generation/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Sito ufficiale dell'artista — Bio](https://www.nicolaverlato.com/bio)
@@ -51,9 +46,9 @@ Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in 
 - [Imola Musei — Myth Generation](https://imolamusei.it/mostre/nicola-verlato-myth-generation/)
 - [Espoarte — Nicola Verlato, Recent Highlights in Galleria Bonelli](https://www.espoarte.net/arte/nicola-verlato-recent-highlights-in-galleria-bonelli/)
 
----
-
-## Appunti da organizzare
-- Scheda scritta il 19 agosto 2026, ricerca sulla scena italiana (angolo gallerie/critica/accademia, non festival). Nota sul metodo: WebFetch bloccato in sandbox — contenuti da snippet WebSearch, da riverificare prima di uso didattico.
-- Caso limite rispetto al taglio del database: l'output finale dell'artista è quasi sempre un dipinto su tela o una scultura fisica (non un'opera "nativa digitale"), con la modellazione 3D usata come fase intermedia del processo. Incluso perché il taglio critico esplicito dell'artista è proprio la storia della computer grafica e il suo rapporto con la storia della rappresentazione prospettica — coerente con l'ambito "3D modelling/execution ... a livello concettuale/critico" del database, ma da ridiscutere se il criterio di selezione si volesse restringere solo a opere il cui output rimane digitale.
-- Il vocabolario tag attuale (`contenuti/tags.md`) non ha una voce dedicata per "pittura/scultura fisica derivata da modello digitale": per questa scheda si è scelto di limitare i tag tecnica/formato al solo `modellazione-3d`, il più accurato per il processo, senza forzare `stampa-3d-scultura` (che implica letteralmente la stampa 3D, tecnica diversa dalla scultura tradizionale in bronzo/marmo/resina usata da Verlato). Da valutare se proporre un tag nuovo (es. "pittura-scultura-da-modello-3d") qualora emergano altri casi simili nel database.
+## Crediti delle immagini
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Jonathan Levine Projects, Postmasters Gallery e Imola Musei.
+- [Sito ufficiale dell'artista](https://www.nicolaverlato.com/)
+- [Galleria Giovanni Bonelli, Milano — pagina artista](https://www.galleriagiovannibonelli.com/artista/nicola-verlato/)
+- [Postmasters Gallery — The Merging: beyond the end (2020)](https://www.postmastersart.com/archive/verlato20/verlato20.html)
+- [Imola Musei — Myth Generation](https://imolamusei.it/mostre/nicola-verlato-myth-generation/)

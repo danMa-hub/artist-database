@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `animazione-2d` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `temporalita-non-lineare`
 **Tag corso:** `TAD`
+**Stato:** nata a Los Angeles (non a Chicago) · Nine Ways to Disappear (2009) è un libro illustrato, non un cortometraggio animato
 
 ## Biografia
 Nata nel 1983 a Los Angeles. Si trasferisce a Chicago per studiare alla School of the Art Institute of Chicago (SAIC), inizialmente con l'intenzione di diventare artista sonora, poi orientandosi verso scrittura creativa, cinema e incisione; consegue il BFA nel 2006. Ottiene in seguito un MFA alla Northwestern University (2016). Ha vissuto e lavorato a lungo a Chicago (base della sua forte associazione con la scena dei fumetti alternativi e dell'animazione sperimentale locale); fonti più recenti (2024) la collocano a Los Angeles, dove insegna al dipartimento di Experimental Animation del CalArts. È co-fondatrice e co-direttrice (con Alexander Stewart) dell'Eyeworks Festival of Experimental Animation, festival annuale fondato nel 2010 con edizioni a Chicago, Los Angeles e New York. Nel 2024 riceve una Guggenheim Fellowship nella categoria Creative Arts/Film-Video. Ha svolto residenze al MacDowell e al Bemis Center for Contemporary Arts. Il suo lavoro è apparso su *The New Yorker*, *The New York Times*, per la Los Angeles Philharmonic, sulla Poetry Foundation, in *Best American Comics* e *Best American Nonrequired Reading*. Rappresentata dalla galleria Western Exhibitions di Chicago.
@@ -13,7 +14,6 @@ Nata nel 1983 a Los Angeles. Si trasferisce a Chicago per studiare alla School o
 La pratica di Carrè attraversa fumetto, incisione, scultura/ceramica e animazione sperimentale/adiacente allo stop-motion, segnata costantemente da un'estetica disegnata e artigianale a mano, da una logica narrativa onirica e perturbante, e da sottotoni folklorici o gotici. *Slate*, recensendo la raccolta *Heads or Tails* (2012), descrive i suoi racconti brevi come "onirici, improbabili e inquietanti", con personaggi che inseguono pipistrelli, appartamenti che si riempiono d'acqua, mondi che si restringono — un'arte che "varia da racconto a racconto... ma mantiene sempre una bellezza intricata che dà a ogni storia una qualità senza tempo", definendo il suo lavoro una trasformazione "da incubi a favole". *The Comics Journal*, nella stessa recensione, inquadra i suoi personaggi ricorrenti come intrappolati in "una zona grigia di contraddizioni... tra yin e yang", guidati da apatia o punti ciechi, in attesa di forze esterne che ristabiliscano l'equilibrio. Il blog di Fantagraphics e la copertura del romanzo grafico *The Lagoon* (2008) legano esplicitamente la sua sensibilità visiva/narrativa a Flannery O'Connor e Carson McCullers (gotico sudista, narrazione familiare) e a riferimenti di genere come *Il mostro della laguna nera* e *La morte corre sul fiume*. Il proprio statement d'artista (riassunto nella pagina della Guggenheim Foundation) inquadra la pratica animata attuale attorno alle "possibilità e storie aperte del corpo animato — al tempo stesso estremamente fisico e virtuale, libero da aspettative o forme fisse", con un interesse ricorrente per "le rappresentazioni della forma femminile, del desiderio e dell'agentività attraverso la storia". Il Museum of Contemporary Art di Chicago l'ha ospitata nella serie BMO Harris Bank Chicago Works (2013, mostra personale) e in una proiezione curata "MCA Screen: Lilli Carré, Cycles & Marks" (aprile 2014).
 
 ## Opere principali
-
 ### The Lagoon (2008, romanzo grafico, Fantagraphics)
 **Descrizione:** primo romanzo grafico lungo dell'artista, 80 pagine, bianco e nero, disegnato con pennino e pennello. Una famiglia viene sedotta/perseguitata da un canto simile a quello di una sirena proveniente da una laguna; ogni membro della famiglia reagisce in modo diverso (il nonno viene richiamato a rispettare e temere la natura; la giovane figlia Zoey percepisce qualcosa che non riesce ancora a comprendere).
 **Lettura critica:** letto in relazione alla tradizione letteraria del gotico sudista (O'Connor, McCullers) e a riferimenti horror cinematografici (*Il mostro della laguna nera*, *La morte corre sul fiume*).
@@ -54,12 +54,8 @@ La pratica di Carrè attraversa fumetto, incisione, scultura/ceramica e animazio
 
 ![Glazing — fotogramma](immagini/lilli-carre/glazing.jpg)
 
-## Immagini
-
-Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo, YouTube e TMDB.
-- [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
-- [Guggenheim Foundation — pagina fellow](https://www.gf.org/fellows/lilli-carre/)
-- [CalArts — pagina docente](https://calarts.edu/members/lilli-carre)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
@@ -73,9 +69,8 @@ Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in 
 - [Western Exhibitions — pagina artista](https://westernexhibitions.com/artist/lilli-carre/)
 - [Sundance Institute — su How She Slept at Night](https://www.sundance.org/blogs/short-order-a-sundance-selected-double-feature-of-shorts-by-wes-anderson-and-lilli-carre/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito dell'animazione sperimentale disegnata a mano.
-- ⚠️ Correzioni: nata a Los Angeles, non a Chicago (Chicago è dove si è formata e ha vissuto a lungo); *Nine Ways to Disappear* (2009) è un libro di racconti illustrati, non un cortometraggio animato — se si cerca un esempio di corto animato, usare invece *Private Properties*, *Glazing*, *Head Garden*, *How She Slept at Night* o *Swap Meet*.
-- Video ulteriori: canale Vimeo dell'artista con la maggior parte dei lavori animati: [vimeo.com/lillicarre](https://vimeo.com/lillicarre/videos).
+## Crediti delle immagini
+Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Vimeo, YouTube e TMDB.
+- [Fantagraphics — pagina artista/collezione](https://www.fantagraphics.com/collections/lilli-carre)
+- [Guggenheim Foundation — pagina fellow](https://www.gf.org/fellows/lilli-carre/)
+- [CalArts — pagina docente](https://calarts.edu/members/lilli-carre)

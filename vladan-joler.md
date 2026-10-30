@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `data-visualization` `installazione`
 **Tag tema:** `sorveglianza-controllo` `capitalismo-lavoro` `intelligenza-artificiale-critica`
 **Tag corso:** `M3D`
+**Stato:** non confermati: le opere «Pain Cartography» e una collaborazione con un «Al Jazeera Data Team» · da verificare il rango accademico
 
 ## Biografia
 Nato nel 1977 a Novi Sad, in Serbia (allora Jugoslavia), dove vive e lavora tuttora. Professore di New Media all'Accademia di Belle Arti dell'Università di Novi Sad. Fondatore e direttore di **SHARE Lab**, laboratorio di ricerca e data investigation, e co-fondatore di **SHARE Foundation**, organizzazione no-profit per i diritti digitali con sede a Novi Sad, nata nel 2012 a partire dalle SHARE Conference tenute a Belgrado (2011-12) e Beirut (2012). Ha un background radicato nell'attivismo mediatico e nell'hacking di videogiochi, e ha curato incontri di attivisti, artisti e ricercatori di internet prima di formalizzare SHARE Lab. Il suo lavoro è entrato nelle collezioni permanenti di MoMA (New York), Victoria & Albert Museum e Design Museum (Londra), Ars Electronica Center (Linz), ed è stato mostrato in oltre 100 esposizioni internazionali, incluso il Parlamento Europeo. Riconoscimenti principali: menzione d'onore al S+T+ARTS Prize 2019 e vincitore assoluto del Beazley Designs of the Year 2019 (Design Museum, Londra) per *Anatomy of an AI System*; Grand Prize S+T+ARTS 2024 e Leone d'Argento alla Biennale Architettura di Venezia 2025 per *Calculating Empires* — premio che Joler ha dedicato ai manifestanti anti-governativi serbi.
@@ -11,7 +12,6 @@ Nato nel 1977 a Novi Sad, in Serbia (allora Jugoslavia), dove vive e lavora tutt
 Joler definisce il proprio metodo come **"cartografia critica"** (o "contro-cartografia"): lavora, nelle sue stesse parole, "da una posizione diversa — da qualcuno all'esterno della scatola nera, che cerca di comprendere tutti gli strati invisibili di strutture, tecnologia e relazioni di potere". La cartografia critica è per lui "un metodo per esaminare, esplorare e pensare le relazioni tra tecnologia e potere, non solo per documentarle e visualizzarle ma anche come cassetta degli attrezzi che permette di ripensare i concetti e i significati sottostanti". La sua pratica combina data investigation, contro-cartografia, giornalismo investigativo, scrittura, visualizzazione dei dati e design critico, applicati a temi come la trasparenza algoritmica, lo sfruttamento del lavoro digitale, le infrastrutture invisibili e le "scatole nere" tecnologiche: le sue grandi mappe diagrammatiche funzionano insieme come output di ricerca investigativa e come opera esposta. Il libro *Black Box Cartography: A Critical Cartography of the Internet and Beyond* (Institute of Network Cultures, 2023) raccoglie quattro delle sue mappe principali — *Facebook Algorithmic Factory*, *Anatomy of an AI System*, *Nooscope Manifested*, *New Extractivism* — come rassegna complessiva del metodo.
 
 ## Opere principali
-
 ### Facebook Algorithmic Factory (2016, SHARE Lab)
 **Descrizione:** prima parte di una trilogia investigativa di SHARE Lab (le altre due: *Human Data Banks and Algorithmic Labour*, *Quantified Lives on Discount*) che mappa come Facebook converta l'attività degli utenti in dati monetizzabili — un lavoro immateriale, secondo Joler, svolto gratuitamente da oltre un miliardo di utenti profilati, che genera ricchezza concentrata nei proprietari della piattaforma.
 **Lettura critica:** una delle prime cartografie critiche a rendere visibile, con il rigore di un'indagine giornalistica, l'architettura di estrazione dei dati dietro l'interfaccia apparentemente gratuita dei social network.
@@ -57,12 +57,8 @@ Joler definisce il proprio metodo come **"cartografia critica"** (o "contro-cart
 
 **Approfondimento:** [SHARE Lab — Invisible Infrastructures](https://labs.rs/en/invisible-infrastructures-surveillance-achitecture/)
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da SHARE Lab, anatomyof.ai, calculatingempires.net e Fritz.ai. Nessuna immagine reperita con attribuzione certa per *New Extractivism*.
-- [SHARE Lab](https://labs.rs/)
-- [SHARE Foundation — chi siamo](https://sharefoundation.info/en/about-us/)
-- [Anatomy of an AI System — progetto ufficiale](https://anatomyof.ai/)
+## Interviste e talk
+- [Balkan Insight — profilo e intervista (2025)](https://balkaninsight.com/2025/05/21/not-normal-acclaimed-professor-decries-the-rise-of-surveillance-in-serbia/)
 
 ## Fonti
 - [SHARE Lab](https://labs.rs/)
@@ -75,12 +71,9 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [Ars Electronica — S+T+ARTS Prize, Calculating Empires](https://ars.electronica.art/starts-prize/en/calculating-empires/)
 - [Dezeen — Beazley Designs of the Year 2019](https://www.dezeen.com/2019/11/22/anatomy-of-an-ai-system-design-of-the-year-2019/)
 - [Institute of Network Cultures — Black Box Cartography (2023)](https://networkcultures.org/blog/2023/10/16/black-box-cartography/)
-- [Balkan Insight — profilo e intervista (2025)](https://balkaninsight.com/2025/05/21/not-normal-acclaimed-professor-decries-the-rise-of-surveillance-in-serbia/)
 
----
-
-## Appunti da organizzare
-- Citato in *Applicazioni digitali per l'arte* e in *Tecniche di animazione digitale (Triennio)*, insieme a Rosa Menkman, Metahaven, Hito Steyerl, Jon Rafman, nell'ambito della critica all'economia dell'attenzione e delle infrastrutture di estrazione dati.
-- ⚠️ Non confermati: opere con i titoli "Pain Cartography" o una collaborazione con un "Al Jazeera Data Team" — non risultano da nessuna fonte trovata, da non includere senza conferma diretta. Rango accademico esatto (professore ordinario vs. associato) da verificare sul sito dell'Università di Novi Sad. Nessun Golden Nica di Ars Electronica confermato — i riconoscimenti verificati sono S+T+ARTS Prize (menzione 2019, Grand Prize 2024), Beazley Designs of the Year 2019 e Leone d'Argento 2025.
-- Video: [CUMULUS Budapest 2024, keynote "New Extractivism"](https://www.youtube.com/watch?v=dHiDmeu7Zpg); [documentazione video di Nooscope Manifested (Vimeo)](https://vimeo.com/418823251).
-- Il sito personale (joler.org) non è stato raggiungibile direttamente per restrizioni di rete durante la ricerca — da consultare di persona come fonte primaria di controllo.
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da SHARE Lab, anatomyof.ai, calculatingempires.net e Fritz.ai. Nessuna immagine reperita con attribuzione certa per *New Extractivism*.
+- [SHARE Lab](https://labs.rs/)
+- [SHARE Foundation — chi siamo](https://sharefoundation.info/en/about-us/)
+- [Anatomy of an AI System — progetto ufficiale](https://anatomyof.ai/)

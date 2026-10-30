@@ -12,7 +12,6 @@ Jun Seo Hahm (함준서) è un regista di animazione, designer e artista media c
 Il lavoro di Hahm è costantemente descritto — da lui stesso e dalla critica — come un'esplorazione di forme creaturali ibride di ispirazione biologica: frammenti di organismi, parti animali e anatomie immaginarie ricombinate in personaggi. L'artista definisce il proprio processo **"reverse-biology"** ("biologia inversa"): parte da disegni a matita di organismi e costruisce personaggi a partire da parti/forme che potrebbero plausibilmente muoversi in modo interessante. *It's Nice That* colloca il suo lavoro nella corrente estetica giapponese del **kimo-kawaii** ("carino-disgustoso"), descrivendo i suoi personaggi come collocati "all'intersezione fra dolce e strano, sexy e repellente", leggendoli attraverso la lente della uncanny valley — lettura ribadita indipendentemente anche dal sito Artist Run Website ("Uncanny Valley: Art by Jun Seo Hahm") e da *Booooooom*, che descrive le sue composizioni digitali come capaci di esprimere "componenti biologiche frammentate e forme organiche stranamente rimosse dal loro contesto abituale". Sul piano tecnico, *It's Nice That* riporta una dichiarazione diretta dell'artista sull'uso della resa a **sub-surface scattering (SSS)**: "Mi piace l'aspetto organico dell'SSS e uso molto questa tecnica, ma di solito non uso texture di pelle iper-realistiche e bitorzolute, in modo che le mie creature possano restare in un regno simbolico, piuttosto che reale" — un uso deliberato e distintivo di una tecnica di rendering esistente per mantenere le proprie creature in un registro simbolico anziché fotorealistico (non un'invenzione della tecnica stessa, che è un metodo di rendering consolidato).
 
 ## Opere principali
-
 ### Mosition (2003)
 **Descrizione:** animazione a disegni (disegnata a mano), 4 minuti e 31 secondi, realizzata come lavoro finale da studente al CalArts. Secondo la pagina progetto dell'artista, raffigura "due oggetti che si incontrano in una successione di schermi incrociati", con un oggetto che si separa dall'altro — un lavoro di impianto formalista, incentrato sul meccanismo stesso del movimento animato.
 **Lettura critica:** riportato come vincitore del secondo posto categoria Moving Image agli Adobe Design Achievement Award 2004; questa affermazione è auto-riportata dall'artista e non è stata rintracciata in modo indipendente in un archivio ufficiale dei vincitori — da trattare con cautela ("secondo l'artista") fino a verifica diretta.
@@ -44,12 +43,8 @@ Il lavoro di Hahm è costantemente descritto — da lui stesso e dalla critica �
 
 **Approfondimento:** [fictionfauna.com](https://www.fictionfauna.com/)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, Vimeo e fictionfauna.com.
-- [junseohahm.com — sito ufficiale](https://junseohahm.com/)
-- [junseohahm.com — pagina Mosition](https://junseohahm.com/Mosition)
-- [junseohahm.com — pagina Karnival](https://junseohahm.com/Karnival)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [junseohahm.com — sito ufficiale](https://junseohahm.com/)
@@ -63,10 +58,8 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [Fiction Fauna — sito del progetto](https://www.fictionfauna.com/)
 - [Vimeo — canale artista](https://vimeo.com/junseohahm)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero".
-- ⚠️ Da verificare direttamente prima della pubblicazione finale: la vittoria dell'Adobe Design Achievement Award 2004 per *Mosition* (solo auto-riportata, non trovata in un archivio ufficiale dei vincitori); il grado accademico esatto alla University of Hawai'i at Mānoa; i dettagli precisi di formazione (Hongik University, CalArts) e degli impieghi precedenti (Bent Image Lab, Cheil Worldwide, Konkuk University) — tutti auto-riportati dall'artista, senza conferma indipendente rintracciata in questa sessione di ricerca.
-- ⚠️ Correzione rispetto alla traccia di ricerca iniziale: non risultano prove che l'artista abbia "sviluppato" la tecnica di rendering sub-surface scattering — la usa in modo distintivo e dichiarato come scelta stilistica, ma si tratta di una tecnica di rendering preesistente e diffusa, non di un'invenzione dell'artista.
-- La critica su questo artista è limitata quasi interamente alla stampa di settore design/cultura (It's Nice That, Booooooom) e a testi di programma di festival — non è stata reperita critica d'arte accademica o curatoriale in senso stretto.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito dell'artista, Vimeo e fictionfauna.com.
+- [junseohahm.com — sito ufficiale](https://junseohahm.com/)
+- [junseohahm.com — pagina Mosition](https://junseohahm.com/Mosition)
+- [junseohahm.com — pagina Karnival](https://junseohahm.com/Karnival)

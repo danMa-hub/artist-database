@@ -11,7 +11,6 @@ Nata nel 1983 ad Arnhem, nei Paesi Bassi. Consegue due master all'Università di
 Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come campo di studi distinto dalla semplice pratica del glitch art. Il suo *Glitch Studies Manifesto* (2010, poi pubblicato nel 2011 in *Video Vortex Reader II*, Institute of Network Cultures) critica l'ideologia della trasparenza tecnologica e della "perfezione" del mezzo: ogni medium porta con sé vincoli e modalità di fallimento intrinseche ("artefatti di rumore"), e la spinta verso una risoluzione impeccabile viene letta come un mito consumistico — mentre chi lavora deliberatamente con il glitch espone e critica quell'ideologia, invece di limitarsi a produrre errori decorativi. Il concetto viene approfondito in *A Vernacular of File Formats* (2010): fa passare una stessa immagine attraverso diversi algoritmi di compressione per dimostrare che ciascun formato possiede una propria "grammatica" caratteristica dell'errore — non un rumore neutro, ma un vocabolario specifico del codec. Questa linea di ricerca culmina nel libro *Beyond Resolution* (2020, autopubblicato con i.R.D.), dove la "risoluzione" — di un'immagine, di un segnale, di un formato — viene teorizzata come categoria mai neutra: standardizzare una risoluzione promuove efficienza, ordine e funzionalità, ma al tempo stesso oscura e preclude possibilità alternative, incorporando strutture di potere nel sostrato tecnico stesso. Menkman chiama queste strutture nascoste "le ombre bianche che governano gli esiti delle nostre tecnologie di elaborazione dell'immagine", usando la genealogia delle mire di calibrazione del colore come caso di studio dei bias incorporati nei sistemi di visione. Michael Betancourt, nel suo *Glitch Art in Theory and Practice* (Routledge, 2017), colloca esplicitamente il proprio impianto teorico in dialogo con quello di Menkman, entrambi punti di riferimento centrali del discorso critico sul glitch art. La rivista italiana Digicult ha dedicato al suo lavoro il saggio "The Punctum as Glitch in Contemporary Art: The Art of Rosa Menkman", mettendo in relazione il concetto di *punctum* di Roland Barthes con la sua pratica.
 
 ## Opere principali
-
 ### The Glitch Moment(um) (2011)
 **Descrizione:** Network Notebook n. 4 dell'Institute of Network Cultures di Amsterdam; usa strumenti della teoria dell'informazione per costruire un vocabolario critico del glitch art come genere, sostenendo che il glitch oscilli costantemente tra lo statuto di "artefatto" e quello di "processo". Pubblicato in concomitanza con il festival GLI.TC/H, che Menkman co-organizza con Nick Briz, Evan Meaney e Jon Satrom (prima edizione Chicago 2010, seconda in tournée Chicago-Amsterdam-Birmingham 2011, terza Chicago 2012).
 **Lettura critica:** testo fondativo del campo dei "glitch studies", ancora oggi tra i riferimenti più citati della letteratura accademica sull'estetica dell'errore digitale.
@@ -48,12 +47,8 @@ Menkman è la teorica che ha dato fondamento accademico ai "glitch studies" come
 
 **Approfondimento:** [beyondresolution.info](https://beyondresolution.info/BIO)
 
-## Immagini
-
-Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da Institute of Network Cultures, Vimeo e dal blog ufficiale dell'artista.
-- [Blog ufficiale](http://rosa-menkman.blogspot.com/)
-- [beyondresolution.info — piattaforma di ricerca i.R.D.](https://beyondresolution.info/BIO)
-- [Institute of Network Cultures — The Glitch Moment(um), pubblicazione](https://networkcultures.org/blog/publication/no-04-the-glitch-momentum-rosa-menkman/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Blog ufficiale](http://rosa-menkman.blogspot.com/)
@@ -66,11 +61,8 @@ Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione i
 - [NECSUS — recensione della mostra "Still Processing", NXT Museum](https://necsus-ejms.org/still-processing-an-image-at-nxt-museum/)
 - [Monoskop — pagina archivio/bibliografia](https://monoskop.org/Rosa_Menkman)
 
----
-
-## Appunti da organizzare
-- Citata in *Applicazioni digitali per l'arte* e in *Tecniche di animazione digitale (Triennio)*, insieme a Vladan Joler, Metahaven, Hito Steyerl, Jon Rafman, nell'ambito della critica all'economia dell'attenzione e della lettura politica dei formati/infrastrutture tecniche.
-- ⚠️ Da verificare direttamente prima di citarla con sicurezza in classe: eventuale affiliazione al Nederlands Instituut voor Beeld en Geluid non è stata trovata in nessuna fonte durante la ricerca — non includere finché non si trova una fonte diretta.
-- Mostre recenti che testimoniano la rilevanza continua del lavoro: "Still Processing" (NXT Museum, Amsterdam, 2025), "A Spectrum of Lost and Unnamed Colours" (EPFL Pavilions, Losanna, 2024), "High Resolution" (TRANSFER x Postmasters, New York, 2024), "GLITCH: The Art of Disruption" (Pinakothek der Moderne, Monaco, 2023-24).
-- Video: [TEDxUtrecht, "Glitch – Benchmarking the Deranged"](https://www.youtube.com/watch?v=64V-nkVpnes) — lecture integrale.
-- Immagini da recuperare: la serie *A Vernacular of File Formats* è particolarmente adatta a un confronto visivo diretto in aula (stessa immagine, formati diversi).
+## Crediti delle immagini
+Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da Institute of Network Cultures, Vimeo e dal blog ufficiale dell'artista.
+- [Blog ufficiale](http://rosa-menkman.blogspot.com/)
+- [beyondresolution.info — piattaforma di ricerca i.R.D.](https://beyondresolution.info/BIO)
+- [Institute of Network Cultures — The Glitch Moment(um), pubblicazione](https://networkcultures.org/blog/publication/no-04-the-glitch-momentum-rosa-menkman/)

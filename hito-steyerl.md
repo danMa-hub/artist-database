@@ -13,7 +13,6 @@ Nata nel 1966 a Monaco di Baviera. Si forma come documentarista: studia cinema a
 Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in discussione della pretesa di verità e testimonianza del documentario, alla teorizzazione della degradazione e militarizzazione dell'immagine nel capitalismo in rete, fino alla lettura dell'immagine come strumento economico letterale — merce finanziaria, sponsorizzazione museale, infrastruttura di sorveglianza. Il suo testo teorico più citato, *In Defense of the Poor Image* (e-flux journal n. 10, novembre 2009), definisce la "immagine povera" come "una copia in movimento" di qualità "scadente" e risoluzione "sotto lo standard", che si degrada mentre accelera nella propria circolazione — "un fantasma di immagine, un'anteprima, una miniatura, un'idea errante, un'immagine itinerante distribuita gratuitamente, spremuta attraverso connessioni digitali lente, compressa, riprodotta, piratata, remixata". Il saggio lega la qualità degradata delle immagini in circolazione online a un'economia politica precisa: le immagini povere aggirano il "cinema di qualità" controllato da istituzioni e mercati, democratizzando l'accesso ma insieme alimentando nuove forme di estrazione di valore (clic, piattaforme, lavoro non pagato di remix e upload) — e mettendo in luce una gerarchia neocoloniale dell'immagine, tra chi ha accesso all'alta risoluzione e chi solo all'immagine povera. Questo e altri saggi sono raccolti in *The Wretched of the Screen* (Sternberg Press/e-flux journal, 2012), che sviluppa temi come lo "sguardo verticale" (l'immagine aerea/da drone) e la "circolazione come produzione", intrecciando cinema studies, femminismo anarchico e marxismo autonomista. Il critico T. J. Demos, nel saggio "Traveling Images: The Art of Hito Steyerl" (*Artforum*, estate 2008; poi capitolo in *The Migrant Image*, Duke University Press, 2013), colloca i primi lavori dell'artista (in particolare *November* e *Lovely Andrea*) nel dibattito sulle pretese di verità del documentario, la migrazione e l'"immagine viaggiante" attraverso confini e media. Il libro successivo, *Duty Free Art: Art in the Age of Planetary Civil War* (Verso, 2017), estende il progetto dalla circolazione delle immagini all'economia politica del sistema dell'arte stesso: come i produttori di armi sponsorizzano i musei, come le opere d'arte funzionino da asset finanziari offshore (stoccaggio "duty free" nei porti franchi), e come una "guerra civile planetaria" strutturi la cultura visiva e politica contemporanea.
 
 ## Opere principali
-
 ### How Not to Be Seen: A Fucking Didactic Educational .MOV File (2013)
 **Descrizione:** video di circa 14 minuti costruito come falso tutorial didattico, che elenca "lezioni" assurde e sarcastiche per sfuggire alla visibilità in condizioni di sorveglianza digitale pervasiva (imaging satellitare, visibilità in funzione della risoluzione, mimetismo, diventare più piccoli di un pixel). Girato in gran parte su un ex sito militare statunitense nel deserto californiano di Ridgecrest, coperto di bersagli di calibrazione fotogrammetrica usati per testare la risoluzione delle camere aeree/satellitari — un vero e proprio terreno di taratura militare dell'immagine. Acquisita dal MoMA.
 **Lettura critica:** opera-chiave sulla politica della visibilità/invisibilità, sulla risoluzione come categoria di potere e sullo sguardo militarizzato — ampiamente insegnata nei corsi di teoria dei media proprio per il taglio didattico-parodico che rende esplicito, mentre lo mette in scena, il proprio impianto teorico.
@@ -63,11 +62,8 @@ Il progetto di Steyerl si muove lungo una traiettoria coerente: dalla messa in d
 
 **Approfondimento:** [Esther Schipper — Liquidity Inc.](https://www.estherschipper.com/artists/102-hito-steyerl/works/17893/)
 
-## Immagini
-
-Immagine per quattro delle sette opere, incluse sotto la relativa descrizione in "Opere principali", da YouTube ed Esther Schipper.
-- [Andrew Kreps Gallery — pagina artista](https://www.andrewkreps.com/artists/the-work-of-hito-steyerl)
-- [MoMA — How Not to Be Seen, collezione](https://www.moma.org/collection/works/181784)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Esther Schipper — biografia ufficiale (galleria rappresentante)](https://www.estherschipper.com/artists/102-the-work-of-hito-steyerl/biography/)
@@ -85,10 +81,7 @@ Immagine per quattro delle sette opere, incluse sotto la relativa descrizione in
 - [Rhizome — Michael Connor su How Not to Be Seen](https://rhizome.org/editorial/2013/may/31/hito-steyerl-how-not-to-be-seen/)
 - [Akademie der Künste Berlin — Käthe Kollwitz Prize 2019](https://www.adk.de/en/press/press-releases.htm?we_objectID=59363)
 
----
-
-## Appunti da organizzare
-- Citata come riferimento centrale e ricorrente in più programmi: *Applicazioni digitali per l'arte* (tra gli artisti che hanno posto le basi delle prime sperimentazioni nell'arte digitale), *Tecniche di animazione digitale (Triennio)* (bibliografia d'esame, *How Not to Be Seen*, nell'ambito della sottrazione/invisibilità come strategia critica contro la cattura dell'attenzione), *Tecniche di animazione digitale (Biennio)* (lecture e desktop performance, insieme a JODI, Petra Cortright, Angela Washko).
-- ⚠️ Da correggere/verificare: l'eventuale formazione alla Kunsthochschule für Medien di Colonia non risulta da nessuna fonte diretta trovata; l'affiliazione UdK Berlino è accurata circa 2014-2024, dal 2024 risulta spostata all'Akademie der Bildenden Künste di Monaco — verificare se ancora attuale.
-- Durata esatta di *How Not to Be Seen*: le fonti riportano sia ~14 minuti sia 15:52 — verificare sulla scheda MoMA prima di citarla con precisione in classe.
-- Video ulteriori da vedere in aula: [Factory of the Sun, estratto lungo](https://www.youtube.com/watch?v=u9QAk9nJ53M); [TateShots, intervista "Being Invisible Can Be Deadly"](https://www.youtube.com/watch?v=kKAKgrZZ_ww); [Is the Museum a Battlefield?, lecture-performance integrale (Vimeo)](https://vimeo.com/76011774).
+## Crediti delle immagini
+Immagine per quattro delle sette opere, incluse sotto la relativa descrizione in "Opere principali", da YouTube ed Esther Schipper.
+- [Andrew Kreps Gallery — pagina artista](https://www.andrewkreps.com/artists/the-work-of-hito-steyerl)
+- [MoMA — How Not to Be Seen, collezione](https://www.moma.org/collection/works/181784)

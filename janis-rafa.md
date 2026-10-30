@@ -10,7 +10,6 @@ Nata nel 1984 in Grecia (Janis Rafailidou), vive e lavora tra Atene e Amsterdam.
 Pratica fra scultura, video-arte e cinema. Le installazioni video di Rafa sono descritte come inquietanti, fiabesche, criptiche: mettono in stretta prossimità figure umane e non-umane (animali, vegetazione, vivi o morti) per costruire uno sguardo non-antropocentrico e non-logocentrico. La ricerca interseca cinema, scultura e saggistica, indagando il rapporto conflittuale fra umano e non-umano attraverso un'estetica eco-femminista attenta ai rapporti di potere.
 
 ## Opere principali
-
 ### Lacerate (2020)
 **Descrizione:** cortometraggio presentato alla 59ª Biennale di Venezia ("Milk of Dreams", 2022).
 
@@ -20,7 +19,8 @@ Pratica fra scultura, video-arte e cinema. Le installazioni video di Rafa sono d
 ### Baby I'm Yours, Forever (2026, CANICULA)
 **Descrizione:** opera per CANICULA, presentata nella chiesa di Santa Maria dei Derelitti, punto d'apertura del percorso espositivo. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
 
-## Immagini
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Wikipedia — Janis Rafailidou](https://en.wikipedia.org/wiki/Janis_Rafailidou)
@@ -28,8 +28,5 @@ Pratica fra scultura, video-arte e cinema. Le installazioni video di Rafa sono d
 - [Biennale Arte 2022 — Janis Rafa](https://www.labiennale.org/en/art/2022/milk-dreams/janis-rafa)
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
 
----
-
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra CANICULA (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia), agosto 2026 — cartello mostra fotografato in loco, poi approfondito con ricerca web (nessuna foto dei pannelli delle singole opere).
-- Nota sul metodo: molti domini bloccati al fetch diretto in questa sessione — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
+## Mostre viste
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub

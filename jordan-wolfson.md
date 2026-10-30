@@ -4,6 +4,7 @@
 **Tag tema:** `corpo-identita` `economia-attenzione`
 
 ⚠️ **Avviso di contenuto:** l'opera *Real Violence* (2017) raffigura una scena sostenuta di violenza interpersonale estrema in realtà virtuale. La descrizione in questa scheda resta volutamente non grafica — si limita ai fatti essenziali necessari alla comprensione critica dell'opera, senza dettagli ulteriori.
+**Stato:** Real Violence richiede un avviso di contenuto esplicito in qualunque uso didattico: la descrizione è volutamente non grafica
 
 ## Biografia
 Nato il 9 ottobre 1980 a New York. BFA in scultura alla Rhode Island School of Design (2003). Rappresentato da David Zwirner dal 2013, contemporaneamente da Sadie Coles HQ (Londra); dal 2022 rappresentazione condivisa/ampliata con l'ingresso di Gagosian. Partecipa più volte al Whitney Biennial (2006, 2017). Presentazioni istituzionali principali: David Zwirner New York (personale d'esordio, 2014); Stedelijk Museum Amsterdam ("manic / love / truth / love"); Tate Modern (Tanks, *Colored sculpture*, 2018-19); LUMA Foundation Arles; National Gallery of Australia (*Body Sculpture*, prima mondiale, dicembre 2023).
@@ -12,7 +13,6 @@ Nato il 9 ottobre 1980 a New York. BFA in scultura alla Rhode Island School of D
 Wolfson lavora fra CGI, animatronica, video e scultura per mettere in scena scenari di desiderio, aggressione e spettatorialità che coinvolgono la posizione stessa dello spettatore come consumatore di immagini. Sulla violenza come soggetto, l'artista ha dichiarato: "La violenza è ovunque. È inevitabile. Basta andare online, accendere la TV, o osservare il proprio sé sveglio, poi osservare il proprio sé inconscio e registrare i propri sogni." Sul registro etico del proprio lavoro ha detto di essere "personalmente... disgustato dalla violenza" ma di usarla "come materia prima" per esplorare "la nostra risposta primaria ad essa", definendo la posizione dello spettatore un "testimone passivo" analogo al consumo mediatico quotidiano. Riguardo a *Real Violence* nello specifico, Wolfson ha dichiarato che la violenza raffigurata è pensata per registrarsi come "reale" dal punto di vista esperienziale piuttosto che "simulata", con un effetto corporeo descritto come "euforico" dato dalle qualità immersive/aptiche della VR. Wolfson ha respinto ripetutamente letture politiche/allegoriche del proprio lavoro, dichiarando: "Il mio lavoro non ha un'agenda." La critica Diana Hamilton, su *Frieze*, offre una lettura dissenziente di *(Female figure)*, sostenendo che l'opera "non riguarda la misoginia, né le donne, ma la composizione in sé". Il Whitney Biennial 2017 (curatori Christopher Y. Lew e Mia Locks) è stato ampiamente descritto dal critico Jerry Saltz come "la [biennale] più politicamente carica da decenni" — un'inquadratura applicata spesso all'inclusione di *Real Violence*.
 
 ## Opere principali
-
 ### (Female figure) (2014)
 **Descrizione:** scultura animatronica a grandezza naturale: una donna robotica in négligé, stivali in vinile fino alla coscia e maschera verde da strega, sporca di macchie di terra, che balla musica pop per un ciclo di circa 7 minuti davanti a uno specchio, con un monologo doppiato dallo stesso Wolfson. Tecnologia di riconoscimento facciale/tracking le permette di stabilire contatto visivo con gli spettatori tramite lo specchio; visione per due persone alla volta. Debutta da David Zwirner, New York, marzo-aprile 2014, e a "14 Rooms", Art Basel 2014.
 **Lettura critica:** ampiamente discussa come opera che solleva "lo spettro della misoginia", intensificando le dinamiche dello sguardo e del consumo dell'immagine femminile, sebbene la critica sia divisa sul fatto che l'opera critichi o riproduca tale dinamica.
@@ -54,9 +54,8 @@ Wolfson lavora fra CGI, animatronica, video e scultura per mettere in scena scen
 
 **Approfondimento:** [National Gallery of Australia — Body Sculpture](https://nga.gov.au/exhibitions/jordan-wolfson-body-sculpture/)
 
-## Immagini
-
-Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti istituzionali/museali e YouTube. Nessuna immagine per *Real Violence* per l'avviso di contenuto in testa alla scheda.
+## Interviste e talk
+- [The Quietus — "Violence Is Everyone: An Interview With Jordan Wolfson"](https://thequietus.com/culture/art/jordan-wolfson-interview/)
 
 ## Fonti
 - [David Zwirner — pagina artista](https://www.davidzwirner.com/artists/jordan-wolfson)
@@ -65,14 +64,9 @@ Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione i
 - [Tate — Colored sculpture, pagina opera](https://www.tate.org.uk/art/artworks/wolfson-colored-sculpture-t15218)
 - [The Broad — (Female figure)](https://www.thebroad.org/art/jordan-wolfson/female-figure)
 - [National Gallery of Australia — Body Sculpture](https://nga.gov.au/exhibitions/jordan-wolfson-body-sculpture/)
-- [The Quietus — "Violence Is Everyone: An Interview With Jordan Wolfson"](https://thequietus.com/culture/art/jordan-wolfson-interview/)
 - [Frieze — "Who Likes Jordan Wolfson?"](https://www.frieze.com/article/who-likes-jordan-wolfson)
 - [Hyperallergic — "Jordan Wolfson Evades the Politics of His Violent Images"](https://hyperallergic.com/387090/jordan-wolfson-evades-the-politics-of-his-violent-images/)
 - [SAGE Journals — Bollmer & Guinness, saggio accademico su Real Violence](https://journals.sagepub.com/doi/abs/10.1177/1470412920906261)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista dei 4 candidati emersi dal documento "draft CGI artists" (ChatGPT scratch doc, vedi TODO-al-computer.md).
-- ⚠️ *Real Violence* richiede un avviso di contenuto esplicito in qualunque uso didattico — descrizione qui volutamente non grafica, da mantenere tale.
-- Nota sul metodo: WebFetch bloccato su tutti i domini durante la ricerca — ogni citazione tra virgolette andrebbe riverificata aprendo la pagina direttamente prima di un uso didattico definitivo.
+## Crediti delle immagini
+Immagine per quattro delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti istituzionali/museali e YouTube. Nessuna immagine per *Real Violence* per l'avviso di contenuto in testa alla scheda.

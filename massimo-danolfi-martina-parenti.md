@@ -12,7 +12,6 @@ Massimo D'Anolfi nato nel 1974 a Pescara; Martina Parenti nata nel 1972 a Milano
 Cinema del reale costruito attorno a materiali d'archivio (militari, industriali, giudiziari), spesso recuperati da cineteche istituzionali dimenticate, ricomposti con montaggio a più movimenti in racconti di ampio respiro storico-politico. Lo sguardo del duo evita la lezione morale esplicita, preferendo mettere in tensione i materiali stessi — l'archivio come dispositivo critico più che come semplice fonte illustrativa.
 
 ## Opere principali
-
 ### Materia Oscura (2013)
 **Descrizione:** documentario sulle sperimentazioni militari italiane nel poligono del Salto di Quirra (Sardegna) e i loro effetti su territorio e abitanti; struttura in tre movimenti (indagine geologica, archivio del poligono, vita dei pastori).
 **Lettura critica:** Premio Corso Salani 2012; esempio della loro metodologia di montaggio d'archivio come narrazione stratificata.
@@ -32,9 +31,8 @@ Cinema del reale costruito attorno a materiali d'archivio (militari, industriali
 
 **Approfondimento:** [Fondazione In Between Art Film — 24 Landscapes + A Vision](https://inbetweenartfilm.com/en/massimo-danolfi-e-martina-parenti-24-landscapes-a-vision/)
 
-## Immagini
-
-Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Wikipedia e dal sito ufficiale della mostra.
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
@@ -43,8 +41,8 @@ Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in 
 - [doppiozero — D'Anolfi, Parenti. Materia Oscura](https://www.doppiozero.com/danolfi-parenti-materia-oscura)
 - [Exibart — Canicula, racconto sofisticato del nostro tempo](https://www.exibart.com/arte-contemporanea/a-venezia-la-mostra-canicula-costruisce-un-racconto-sofisticato-del-nostro-tempo-attraverso-la-videoarte/)
 
----
+## Mostre viste
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub
 
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra CANICULA (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia), agosto 2026 — cartello mostra fotografato in loco, poi approfondito con ricerca web (nessuna foto dei pannelli delle singole opere).
-- Nota sul metodo: molti domini (inbetweenartfilm.com, ArtReview, Frieze) bloccati al fetch diretto in questa sessione — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
+## Crediti delle immagini
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Wikipedia e dal sito ufficiale della mostra.

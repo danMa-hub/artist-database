@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `video`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
 **Tag corso:** `TAD`
+**Stato:** da approfondire: Micromovements in Snapshots (2014) e i video completi della Trilogia della Prospettiva · un'immagine nei Crediti non è identificata
 
 ## Biografia
 Animatore, pittore e artista computazionale ungherese, nato nel 1959 a Budapest. Lavora con i computer dal 1983 (aveva iniziato a fare animazioni già a nove anni). Nel 1992 è artista residente allo ZKM Visual Media Institute di Karlsruhe, di cui diventa membro del gruppo di ricerca dal 1993 al 1997.
@@ -11,7 +12,6 @@ Animatore, pittore e artista computazionale ungherese, nato nel 1959 a Budapest.
 Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico, alternativo alla prospettiva rinascimentale codificata nella grafica 3D standard — non un semplice stile visivo, ma una diversa costruzione matematica dello spazio che incarna un punto di vista specifico (quello di un bambino, di chi corre, di chi è perso in un bosco). La sua **Trilogia della Prospettiva** (*The Garden*, *The Forest*, *The Way*, 1992-1994) è il nucleo storico della sua ricerca sull'immagine di sintesi come dispositivo epistemico, non solo rappresentativo.
 
 ## Opere principali
-
 ### The Garden (1992)
 **Descrizione:** una bambina gioca in un giardino, ricostruito secondo il "Water Drop Perspective System" ideato da Waliczky — una costruzione sferica del mondo.
 **Lettura critica:** la prospettiva non rinascimentale ricostruisce lo spazio dal punto di vista percettivo di un bambino, mettendo in discussione la neutralità della prospettiva codificata nel software 3D.
@@ -32,9 +32,8 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 
 ![Imaginary Cameras, render di una delle 23 fotocamere immaginarie su treppiede](immagini/tamas-waliczky/imaginary-cameras-01.png)
 
-## Immagini
-
-![Immagine non identificata con certezza (probabilmente legata a studi di figura/motion capture)](immagini/tamas-waliczky/opera-non-identificata-01.png)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [waliczky.net — sito ufficiale](http://www.waliczky.net/)
@@ -47,9 +46,5 @@ Waliczky costruisce per ogni opera un proprio sistema di prospettiva algoritmico
 - [Conferenza dell'artista, video 1 (YouTube)](https://www.youtube.com/watch?v=8HXjYevXfdo)
 - [Conferenza dell'artista, video 2 (YouTube, da 12:33)](https://www.youtube.com/watch?v=b9yU7f7J1UM&t=753s)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive, molto scarna (solo link, nessun testo biografico/critico). Biografia e lettura critica integrate tramite ricerca diretta sul sito dell'artista e su fonti secondarie affidabili (Media Art Net, ARTMargins, ICC, Ludwig Museum) — non generate, verificate contro le fonti elencate sopra.
-- **Immagini recuperate dal documento Drive** (esportazione PDF, 4 immagini): il render della fotocamera è confermato *Imaginary Cameras* (coerente con la fonte e-flux/Ludwig Museum); i rami spogli sono attribuiti a *The Forest* per coerenza tematica (probabile, non certa); una quarta immagine — uno studio wireframe di figure umane intrecciate — **non è stata possibile ricondurla a un'opera specifica**, potrebbe riguardare *The Way* (corridori) o essere materiale di ricerca/motion capture non documentato.
-- Da approfondire: *Micromovements in Snapshots* (2014), citata nella scheda originale ma non ancora documentata; video completi delle opere della Trilogia della Prospettiva.
+## Crediti delle immagini
+![Immagine non identificata con certezza (probabilmente legata a studi di figura/motion capture)](immagini/tamas-waliczky/opera-non-identificata-01.png)

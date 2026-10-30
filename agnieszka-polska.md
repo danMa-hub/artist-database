@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `animazione-2d` `installazione`
 **Tag tema:** `memoria-archivio` `ecologia-ambiente` `capitalismo-lavoro`
+**Stato:** un'immagine nella sezione Crediti non è identificata (opera da verificare)
 
 ## Biografia
 Artista visiva polacca, nata nel 1985 a Lublino, vive e lavora a Berlino. Studia all'Accademia di Belle Arti di Cracovia e alla Universität der Künste di Berlino. Ha esposto al Museum of Modern Art di Varsavia, alla Tate Modern, all'Hamburger Bahnhof di Berlino, alla Biennale di Venezia (2019), alla Biennale di Sydney e al New Museum di New York. Nel 2017 ha ricevuto il Preis der Nationalgalerie.
@@ -10,7 +11,6 @@ Artista visiva polacca, nata nel 1985 a Lublino, vive e lavora a Berlino. Studia
 Polska lavora principalmente con video, animazione digitale e installazioni audiovisive immersive, indagando le intersezioni tra memoria collettiva, responsabilità morale e comunicazione nell'era digitale. Nelle sue opere il linguaggio dell'animazione diventa un mezzo per dare voce a soggetti assenti o dimenticati — artisti scomparsi, figure storiche marginali, persino idee non realizzate — creando ambienti visivi dove una voce filtrata e artificiale guida lo spettatore in una riflessione sul proprio ruolo nel presente.
 
 ## Opere principali
-
 ### How the Work is Done (2011)
 **Descrizione:** animazioni di architetture socialiste in rovina.
 **Lettura critica:** riflessione sull'utopia modernista e sul fallimento delle ideologie collettive.
@@ -47,16 +47,14 @@ Elenco costruito con ricerca aggiuntiva rispetto alla scheda Drive originale, pe
 
 Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Biennale di Sydney (2024), 14ª Biennale di Shanghai (2024).
 
-## Immagini
-
-![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](immagini/agnieszka-polska/opera-non-identificata-01.png)
+## Interviste e talk
+- **Video:** [Talk dell'artista (YouTube)](https://www.youtube.com/watch?v=fXBHhsfMg2s)
 
 ## Fonti
 - [zak-branicka.com — galleria dell'artista](https://www.zak-branicka.com/artists/agnieszka-polska)
 - [culture.pl — profilo artista](https://culture.pl/en/artist/agnieszka-polska)
 - [The New Sun (video)](https://www.youtube.com/watch?v=B30QlvuaRD8)
 - [What the Sun Has Seen (video)](https://www.youtube.com/watch?v=dQcA7G-b0jE)
-- [Talk dell'artista (YouTube)](https://www.youtube.com/watch?v=fXBHhsfMg2s)
 - [Video/opera aggiuntivo 1 (YouTube)](https://www.youtube.com/watch?v=Ba4-EfUxPMI)
 - [Video/opera aggiuntivo 2 (YouTube)](https://www.youtube.com/watch?v=Kbl0N2QJkMo)
 - [Video/opera aggiuntivo 3 (YouTube)](https://www.youtube.com/watch?v=fydVzT2GnZs)
@@ -66,9 +64,5 @@ Esposizioni/proiezioni recenti (2023-2024): MUDAM Lussemburgo (2023), 24ª Bienn
 - [Galerie Georg Kargl — pagina artista](https://www.georgkargl.com/en/artist/agnieszka-polska)
 - Portfolio/sito ufficiale personale: **non individuato** — da cercare.
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive. Il testo biografico/critico è ben scritto e cita fatti verificabili (premio, istituzioni), ma non indica esplicitamente le fonti di ogni singola affermazione — utile controllare date/dettagli specifici (es. anno esatto del Preis der Nationalgalerie) prima di un uso didattico definitivo.
-- **Immagini recuperate dal documento Drive** (esportazione PDF, 2 immagini trovate): una — un volto con occhi spaiati (viola/verde) e bocca aperta — è stata attribuita in via ipotetica a *The Demon's Brain* per coerenza tematica (demone), **ma non è confermato**; l'altra — un posacenere di vetro fluttuante nello spazio, con sigarette e fumo — **non è stata possibile ricondurla a nessuna delle opere documentate**: potrebbe essere materiale di riferimento raccolto dall'artista/docente piuttosto che un'opera di Polska. Da chiedere conferma.
-- L'elenco esteso di opere sopra è costruito da fonti secondarie (gallerie, MUDAM) e non dal materiale originale Drive: descrizioni ancora da sviluppare quando si trova documentazione più approfondita per ciascuna.
+## Crediti delle immagini
+![Immagine non identificata, da verificare con l'artista/docente — possibile riferimento o opera non ancora catalogata](immagini/agnieszka-polska/opera-non-identificata-01.png)

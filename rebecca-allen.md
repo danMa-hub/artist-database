@@ -53,6 +53,8 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Descrizione:** studio del corpo umano in movimento su tre video: un modello maschile e uno femminile ripresi mentre strisciano a terra, con la camera montata dall'alto. Le figure appaiono "genderless", con un aspetto plastico della pelle; i movimenti, per quanto astratti nella resa, restano realistici e non alterati.
 **Lettura critica:** riporta al centro della ricerca dell'artista lo studio diretto del movimento del corpo — un filo che attraversa tutta la carriera, dai primi esperimenti di animazione 3D fino a questi lavori più recenti.
 
+![Figures Crawling — immagine dalla pagina della fonte](immagini/rebecca-allen/figures-crawling.jpg)
+
 **Approfondimento:** [rebeccaallen.com — Figures Crawling](https://www.rebeccaallen.com/projects/figures-crawling), [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
 
 ## Interviste e talk
@@ -75,3 +77,4 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
 - [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
 - [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)
+- *Figures Crawling*: immagine dalla pagina [www.meetcenter.it](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/); diritti dei rispettivi titolari, uso didattico.

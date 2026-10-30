@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `game-engine-realtime` `installazione`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione`
 **Tag corso:** `TAD` `AW` `M3D`
+**Stato:** non è uno studio di produzione CGI commerciale ma un progetto curatoriale ed educativo (Fondazione Prada × ETH Zürich) · da non confondere con sturm@drang GmbH (Augusta)
 
 ## Biografia
 ⚠️ Nota preliminare importante: "Sturm&Drang" e "Sturm&Drang Studio" **non sono uno studio di produzione CGI commerciale**, come inizialmente ipotizzato nella traccia di ricerca, bensì un **progetto curatoriale ed educativo**, nato dalla collaborazione fra **Fondazione Prada** (Milano) e **gta exhibitions**, dipartimento di Architettura del **ETH Zürich**. Curato da **Luigi Alberto Cippini** (Armature Globale), **Fredi Fischli** e **Niels Olsen** (gta exhibitions, ETH Zürich), il progetto indaga le pratiche, le esperienze e gli ambienti della computer-generated imagery (CGI).
@@ -17,7 +18,6 @@ La seconda fase, **"Sturm&Drang"**, comprende una serie di conversazioni online 
 Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla computer-generated imagery con l'obiettivo dichiarato di rivelare la complessità della modellazione al computer e di analizzare la produzione contemporanea di immagini e il suo impatto sulla percezione quotidiana. Il titolo — ripreso dal movimento letterario tedesco del tardo Settecento "Sturm und Drang" ("tempesta e impeto"), incentrato su intensità emotiva e soggettività — viene qui traslato sulla produzione CGI contemporanea, suggerendo un parallelo fra l'intensità espressiva romantica e l'iperproduzione algoritmica di immagini dell'industria digitale odierna. Il format del corso universitario che imita i flussi di lavoro dell'industria (piuttosto che insegnarli in modo tradizionale) rappresenta un approccio pedagogico distintivo: gli studenti non studiano la CGI dall'esterno, ma la praticano dall'interno per poterla poi analizzare criticamente.
 
 ## Opere principali
-
 ### Sturm&Drang Studio, corso online ETH Zürich (2021)
 **Descrizione:** corso universitario online per 185 studenti, lanciato il 22 febbraio 2021, che imita componenti e flussi di lavoro dell'industria digitale della CGI.
 **Lettura critica:** prima fase del progetto complessivo — un esperimento pedagogico che rovescia il rapporto fra teoria e pratica, facendo della simulazione del lavoro industriale lo strumento stesso di critica dell'industria.
@@ -33,12 +33,8 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 
 **Approfondimento:** [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
 
-## Immagini
-
-Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da un fotogramma YouTube e da STIRworld. Il sito ufficiale di Fondazione Prada blocca sistematicamente ogni tentativo di accesso automatico (HTTP 403), in tutte le tecniche provate in questa sessione.
-- [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
-- [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)
-- [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
@@ -50,12 +46,8 @@ Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in 
 - [ZOE Magazine — "Osservatorio Fondazione Prada presents Sturm&Drang"](https://www.zoemagazine.net/177795-osservatorio-fondazione-prada-presents-sturmdrang/)
 - [YouTube — "Sturm&Drang Studio | Meriem Bennani"](https://www.youtube.com/watch?v=HCAnRGvSKSw)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" come "Sturm&Drang Studio".
-- ⚠️ **Riformulazione importante rispetto all'ipotesi di partenza**: non è uno studio di produzione CGI commerciale ma un progetto curatoriale/educativo Fondazione Prada × ETH Zürich — la scheda riflette questa realtà verificata, non l'ipotesi iniziale.
-- ⚠️ Da non confondere con la società tedesca omonima "sturm@drang GmbH" (Augsburgo, comunicazione/marketing, nessuna relazione con l'arte digitale o la CGI).
-- Le date esatte della mostra (9 settembre vs. 16 settembre 2021 come apertura; 17 vs. 23 gennaio 2022 come chiusura) variano leggermente fra le fonti secondarie — usare come riferimento definitivo il sito ufficiale di Fondazione Prada.
-- Possibile cross-link: **ArtefactoryLab** (già presente in questo database) risulta fra i partecipanti/collaboratori documentati della mostra — verificare e collegare le due schede.
-- Da approfondire in futuro: il contenuto specifico delle "conversazioni online" del progetto (a partire dal 7 aprile 2021) e la lista completa dei partecipanti — non reperiti nel dettaglio durante questa sessione di ricerca.
+## Crediti delle immagini
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", da un fotogramma YouTube e da STIRworld. Il sito ufficiale di Fondazione Prada blocca sistematicamente ogni tentativo di accesso automatico (HTTP 403), in tutte le tecniche provate in questa sessione.
+- [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)
+- [Fondazione Prada — pagina progetto "Sturm&Drang Studio"](https://www.fondazioneprada.org/project/sturmdrang-studio/?lang=en)
+- [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)

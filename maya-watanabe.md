@@ -10,7 +10,6 @@ Nata nel 1983 a Lima, Perù. BFA, School of Fine Arts and Architecture, Universi
 Artista audiovisiva peruviana la cui pratica è centrata sull'installazione video multicanale, esplorando memoria, spostamento e politiche della rappresentazione attraverso ambienti immersivi in movimento. Rende tangibile — non attraverso la voce, ma attraverso l'effetto reso percepibile — l'indicibile: la "violenza strisciante" (*creeping violence*) caratteristica del conflitto interno peruviano, che cambia gradualmente ma persistentemente la vita quotidiana e produce vuoti nel paesaggio emotivo di chi la subisce. Tensione ricorrente fra riconoscibilità e astrazione dell'immagine.
 
 ## Opere principali
-
 ### Liminal (2019)
 **Descrizione:** girato negli scavi delle fosse comuni delle vittime del conflitto armato interno peruviano (vent'anni di violenza); loop di un'ora, la camera scorre su terreni stratificati dove emergono frammenti di ossa, denti, bordi di stoffa consunta, strumenti archeologici.
 **Lettura critica:** sfuma il confine fra resti umani e paesaggio; prima personale museale dell'artista negli USA al Rose Art Museum, Brandeis University.
@@ -27,8 +26,8 @@ Artista audiovisiva peruviana la cui pratica è centrata sull'installazione vide
 
 **Approfondimento:** [Fondazione In Between Art Film — Jarkov](https://inbetweenartfilm.com/maya-watanabe-jarkov/)
 
-## Immagini
-Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal Rose Art Museum e dal sito ufficiale della mostra CANICULA.
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Dutch Art Institute — pagina artista](https://dutchartinstitute.eu/page/19417/maya-watanabe)
@@ -37,8 +36,8 @@ Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in 
 - [De Pont Museum — pagina mostra](https://www.depont.nl/en/exhibitions/maya-watanabe)
 - [Fondazione In Between Art Film — Maya Watanabe, Jarkov](https://inbetweenartfilm.com/maya-watanabe-jarkov/)
 
----
+## Mostre viste
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub
 
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra CANICULA (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia), agosto 2026 — cartello mostra fotografato in loco, poi approfondito con ricerca web (nessuna foto dei pannelli delle singole opere).
-- Nota sul metodo: molti domini bloccati al fetch diretto in questa sessione — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
+## Crediti delle immagini
+Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal Rose Art Museum e dal sito ufficiale della mostra CANICULA.

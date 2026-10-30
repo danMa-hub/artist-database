@@ -12,7 +12,6 @@ JODI è il duo formato da **Joan Heemskerk** (nata nel 1968 a Kaatsheuvel, Paesi
 JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorgente, messaggi di errore, comportamento in crash — trasformandolo nel vero materiale visivo e concettuale dell'opera. La critica Rachel Greene, ex direttrice esecutiva di Rhizome.org, dedica loro ampio spazio nel libro *Internet Art* (Thames & Hudson, 2004), descrivendo la homepage di jodi.org come qualcosa che "sembra pura accozzaglia finché non si guarda il codice sorgente": nella pagina è nascosto, in un modo che costringe il browser a interpretare erroneamente i caratteri come HTML, un disegno ASCII che raffigura lo schema di una bomba all'idrogeno — un'immagine leggibile solo "visualizzando sorgente". La critica olandese Josephine Bosma, in *Nettitudes: Let's Talk Net Art* (NAi/Institute of Network Cultures, 2011), riporta la frustrazione degli stessi JODI per il modo in cui le mostre di net art (come la sezione dedicata a documenta X, 1997) li raggruppavano per tecnica ("la rete") invece che sui loro stessi termini artistici: a documenta X, costretti a presentare offline (su LAN) un'opera intrinsecamente fatta di link esterni, il lavoro andava continuamente in crash — un rifiuto, più che un fallimento tecnico, della cornice espositiva imposta. Electronic Arts Intermix (EAI) inquadra esplicitamente la loro pratica come "estetica del glitch". La teorica Rosa Menkman (già presente in questo database) cita JODI come influenza diretta sul proprio lavoro: la sua tesi di master del 2006 analizza proprio *Untitled Game* di JODI. In parallelo alla pratica sul web, JODI comincia a "moddare" videogiochi — Wolfenstein 3D (1993) e Quake I (1996) — trattati non come esperienze di gioco ma come sistemi di codice e motore grafico da smontare ed esporre. Le loro "desktop performance" dal vivo — connettere un computer a una videocamera davanti al pubblico e portare l'interfaccia al collasso — mettono in scena, come descrive il MoMA, il modo in cui "sistemi informatici apparentemente razionali possano provocare comportamenti irrazionali".
 
 ## Opere principali
-
 ### wwwwwwwww.jodi.org (1995)
 **Descrizione:** il sito web originale del duo, online dall'agosto 1995: un paesaggio di pagine in HTML grezzo — colori che colano, animazioni, link rotti o privi di senso, immagini ASCII generate nascondendo nel codice sorgente uno schema di bomba all'idrogeno che il browser interpreta erroneamente come markup. Incluso nella sezione net art di documenta X (Kassel, 1997), curata da Simon Lamunière.
 **Lettura critica:** opera fondativa del net.art storico — la superficie visibile (caos apparente) e il codice sorgente (immagine nascosta, deliberata) costituiscono due livelli di lettura sovrapposti, entrambi necessari per comprendere l'opera.
@@ -65,12 +64,8 @@ JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorg
 
 **Approfondimento:** [Whitney Museum — JODI: goodmorning goodnight](https://whitney.org/exhibitions/jodi)
 
-## Immagini
-
-Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti museali (ZKM, MoMA, Monoskop), EAI e YouTube.
-- [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
-- [Whitney Museum — profilo artista](https://whitney.org/artists/15261)
-- [MoMA — profilo artista](https://www.moma.org/artists/48128-jodi)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
@@ -86,9 +81,8 @@ Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione i
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/jodi/biography)
 - [V2_ Lab for the Unstable Media — OSS/****](https://v2.nl/works/oss)
 
----
-
-## Appunti da organizzare
-- Citati in *Tecniche di animazione digitale (Biennio)*, insieme a Petra Cortright, Angela Washko e Hito Steyerl, nell'ambito di lecture e desktop performance; citati anche in *Tecniche di animazione digitale (Triennio)*, insieme a Metahaven, Rosa Menkman, Vladan Joler, nell'ambito della critica all'economia dell'attenzione.
-- ⚠️ Non verificati: dettagli esatti di un'eventuale affiliazione al Piet Zwart Institute (Rotterdam); partecipazione al Whitney Biennial 2002 (plausibile ma non confermata da fonte diretta); anno esatto di formazione del duo (le fonti oscillano tra 1994 e 1995 — "metà anni '90" come formulazione sicura).
-- Video: [documentazione di goodmorning goodnight](https://www.youtube.com/watch?v=bk8gP5R6hVE); [documentazione di SOD](https://www.youtube.com/watch?v=eGjksSBYEgs); [documentazione di %WRONG Browser](https://www.youtube.com/watch?v=73yJVqlSl34). Molti lavori video (incl. "My Desktop") sono distribuiti da EAI solo per proiezione istituzionale, non liberamente in streaming — contattare eai.org per copie di visione.
+## Crediti delle immagini
+Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti museali (ZKM, MoMA, Monoskop), EAI e YouTube.
+- [SFMOMA — profilo artista](https://www.sfmoma.org/artist/jodi/)
+- [Whitney Museum — profilo artista](https://whitney.org/artists/15261)
+- [MoMA — profilo artista](https://www.moma.org/artists/48128-jodi)

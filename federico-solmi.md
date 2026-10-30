@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `game-engine-realtime`
 **Tag tema:** `colonialismo-decolonialita` `memoria-archivio`
+**Stato:** da verificare con fonte primaria: la partecipazione a Berlin Biennale 2012 e Frankfurt B3 Biennial 2017
 
 ## Biografia
 Nato nel 1973 a Bologna, vive e lavora a New York dal 1999. Riceve una borsa della John Simon Guggenheim Memorial Foundation nel 2009. Dal 2016 al 2019 è visiting professor alla Yale University School of Art e alla Yale School of Drama. Ha partecipato a rassegne biennali internazionali, tra cui l'8ª SITE Santa Fe Biennial (2010) e la 54ª Biennale di Venezia (2011). Mostre personali museali includono "American Circus" allo Haifa Museum of Art, Israele (2015-2016, a cura di Hadas Yossifon), "The Grand Masquerade" al Tarble Arts Center di Charleston, Illinois (2019), "Joie de Vivre" al Morris Museum di Morristown, New Jersey (2022-2023) e "The Great Farce" al Block Museum of Art della Northwestern University (2024). L'opera "The Great Farce" è entrata nella collezione della Phillips Collection di Washington DC. È rappresentato dalla Ronald Feldman Gallery di New York e da Luis De Jesus Los Angeles.
@@ -10,7 +11,6 @@ Nato nel 1973 a Bologna, vive e lavora a New York dal 1999. Riceve una borsa del
 Solmi impiega la satira estrema per mettere alla berlina la corruzione delle figure di potere nelle istituzioni culturali, finanziarie, governative e religiose, componendo una visione distopica e grottesca del presente attraverso colori accesi, caricature grottesche ed estetica da "circo". Il suo processo di lavoro è ibrido: disegni e dipinti realizzati a mano vengono scansionati e usati come texture per modelli tridimensionali costruiti con software come Maya e ZBrush; questi personaggi-modelli vengono poi collocati in un mondo virtuale costruito dentro un motion e video game engine, dove ogni scena è allestita come un set cinematografico. I "personaggi" agiscono come marionette animate tramite motion capture e script, non tramite fili — un dispositivo che l'artista utilizza per rianimare, in chiave satirica e apertamente artificiale, figure storiche del potere: fondatori di nazioni, condottieri coloniali, capi religiosi, magnati. Il risultato finale è tipicamente un'installazione multicanale che ibrida pittura, disegno, scultura meccanica e video, spesso allestita come un ambiente immersivo totale.
 
 ## Opere principali
-
 ### American Circus (2013-2015)
 **Descrizione:** ciclo presentato in mostra personale allo Haifa Museum of Art (dicembre 2015-maggio 2016, a cura di Hadas Yossifon). Combina animazione disegnata a mano con animazione da videogioco, tecnica video e idioma cinematografico; le opere video presentano molteplici strati di dipinti e disegni trasformati in ambienti tridimensionali.
 **Lettura critica:** prima grande indagine museale del linguaggio ibrido pittura/animazione/game engine dell'artista, focalizzata sulla mitologia e la retorica del potere americano.
@@ -35,12 +35,8 @@ Solmi impiega la satira estrema per mettere alla berlina la corruzione delle fig
 
 **Approfondimento:** [Luis De Jesus Los Angeles — Joie de Vivre](https://www.luisdejesus.com/projects/federico-solmi21)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali".
-- [Ronald Feldman Gallery — pagina artista](https://feldmangallery.com/artist-home/federico-solmi-)
-- [Luis De Jesus Los Angeles — pagina artista](https://www.luisdejesus.com/artists/federico-solmi2)
-- [Block Museum of Art, Northwestern University — The Great Farce (2024)](https://www.blockmuseum.northwestern.edu/exhibitions/2024/federico-solmi-the-great-farce.html)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Sito ufficiale dell'artista — Bio](https://www.federicosolmi.com/bio)
@@ -55,9 +51,8 @@ Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto l
 - [Brooklyn Rail — recensione, Joie De Vivre](https://brooklynrail.org/2022/11/artseen/Federico-Solmi-Joie-De-Vivre/)
 - [SITE Santa Fe — pagina artista](https://www.sitesantafe.org/en/artists/federico-solmi/)
 
----
-
-## Appunti da organizzare
-- Scheda scritta il 19 agosto 2026, ricerca sulla scena italiana (angolo gallerie/critica/accademia, non festival). Nota sul metodo: WebFetch bloccato in sandbox — contenuti da snippet WebSearch, da riverificare prima di uso didattico.
-- Artista italiano di nascita e formazione ma da 1999 attivo esclusivamente negli Stati Uniti — caso limite rispetto al criterio "italiano o basato in Italia": incluso perché nato e formatosi in Italia e perché la ricerca resta rilevante per un confronto tra la scena italiana e quella internazionale sul tema del corpo/potere in CGI satirica.
-- Da verificare con fonte primaria diretta: partecipazione a Berlin Biennale 2012 e Frankfurt B3 Biennial 2017, citate in alcune fonti secondarie ma non confermate da fonte primaria in questa sessione.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali".
+- [Ronald Feldman Gallery — pagina artista](https://feldmangallery.com/artist-home/federico-solmi-)
+- [Luis De Jesus Los Angeles — pagina artista](https://www.luisdejesus.com/artists/federico-solmi2)
+- [Block Museum of Art, Northwestern University — The Great Farce (2024)](https://www.blockmuseum.northwestern.edu/exhibitions/2024/federico-solmi-the-great-farce.html)

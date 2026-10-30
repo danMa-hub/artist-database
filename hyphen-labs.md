@@ -10,7 +10,6 @@ Hyphen-Labs è un collettivo internazionale fondato nel 2014 da **Carmen Aguilar
 La pratica di Hyphen-Labs si colloca all'intersezione tra speculative/critical design, tecnologia indossabile, afrofuturismo e femminismo intersezionale, affrontando specificamente il bias algoritmico, la sorveglianza e la sottorappresentazione delle donne di colore nella tecnologia. *CLOT Magazine* (stampa di design/tecnologia) inquadra la loro pratica attorno a "design centrato sull'essere umano e politica progressista", osservando che "resiste alle tecnologie contemporanee basate sul consumo" ed "esplora le assurdità che emergono ai margini tra 'questo' e 'quello', sfidando le convenzioni e stimolando conversazioni, ponendo i bisogni planetari e le esperienze collettive al centro delle narrazioni in evoluzione". *Hyperallergic* ha intitolato il proprio articolo "An Afrofeminist Project Uses Technology to Empower Marginalized Communities"; *IndieWire*, nella copertura del Sundance, ha titolato "Afrofuturist Virtual Reality Installation Reimagines the Future for Women Of Color". *The Creative Independent* ha pubblicato un'ampia intervista sul loro metodo di lavoro collaborativo/collettivo e sulle pratiche di proprietà intellettuale condivisa. Sul proprio sito, il collettivo descrive il termine "Hyphen" (trattino) come simbolo della propria identità di "collettivo globale che usa le proprie ampie esperienze e prospettive culturali per realizzare un lavoro significativo", con una missione "radicata nella rappresentazione intersezionale".
 
 ## Opere principali
-
 ### NeuroSpeculative AfroFeminism, NSAF (2016/2017-in corso)
 **Descrizione:** progetto transmediale in tre parti: (1) un'installazione fisica messa in scena come un futuristico salone di bellezza/"neurocosmetologia" che espone prodotti speculativi per donne di colore — tra cui UVBeam (crema solare trasparente formulata per pelli ricche di melanina), accessori con il pattern HyperFace (vedi sotto), e orecchini a battente dotati di telecamera/microfono nascosti per registrare incontri ostili; (2) un'esperienza VR che colloca il visitatore nel corpo/avatar di una giovane donna nera sottoposta a un trattamento di "neuroplasticità" dei capelli; (3) un filone di ricerca biometrica/fMRI in corso che studia se l'incarnazione VR di donne nere possa ridurre il bias implicito negli spettatori. Presentato in anteprima al Sundance Film Festival New Frontier (gennaio 2017); mostrato anche a SXSW, Tribeca Film Festival (menzione d'onore della giuria), Gray Area Festival, School of the Art Institute of Chicago, Stony Island Arts Bank & Rebuild Foundation, Versions Festival di New Inc; mostra personale al Plug In ICA (Winnipeg, gennaio-marzo 2020).
 **Lettura critica:** un caso raro di opera che combina installazione speculativa, esperienza VR e vera e propria ricerca scientifica (fMRI) sul bias implicito — non solo rappresentazione critica ma verifica empirica del proprio impatto.
@@ -43,11 +42,8 @@ La pratica di Hyphen-Labs si colloca all'intersezione tra speculative/critical d
 
 **Approfondimento:** [hyphen-labs.com — PushMI PullYu](https://hyphen-labs.com/PushMI-PullYu)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [hyphen-labs.com](https://hyphen-labs.com).
-- [MIT Center for Art, Science & Technology — pagina collettivo](https://arts.mit.edu/people/hyphen-labs/)
-- [MIT Open Documentary Lab — pagina NSAF](https://opendoclab.mit.edu/presents/hyphen-labs-neurospeculative-afrofeminism/)
+## Interviste e talk
+- [The Creative Independent — intervista sul metodo collaborativo](https://thecreativeindependent.com/people/interaction-studio-hyphen-labs-on-bringing-the-future-into-the-present-through-radical-collaboration/)
 
 ## Fonti
 - [hyphen-labs.com — sito ufficiale](https://hyphen-labs.com/who-is-hyphen-labs)
@@ -59,12 +55,8 @@ Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sot
 - [Hyperallergic — "An Afrofeminist Project Uses Technology to Empower Marginalized Communities"](https://hyperallergic.com/460424/hyphen-labs/)
 - [IndieWire — copertura Sundance 2017](https://www.indiewire.com/features/general/virtual-reality-sundance-2017-afrofuturist-1201777661/)
 - [Vice — su HyperFace](https://www.vice.com/en/article/countersurveillance-textiles-trick-computer-vision-software/)
-- [The Creative Independent — intervista sul metodo collaborativo](https://thecreativeindependent.com/people/interaction-studio-hyphen-labs-on-bringing-the-future-into-the-present-through-radical-collaboration/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito del design speculativo afrofuturista e della critica alla sorveglianza algoritmica.
-- ⚠️ Non confermati: un Webby Award o un premio Cannes Lions per il collettivo (nessuna fonte diretta trovata); un TED talk del collettivo (non trovato). Nessun progetto documentato successivo al 2022 (l'ultima attività reperita è una lezione ospite alla UC San Diego, aprile 2022) — se si cerca lavoro più recente, verificare direttamente su hyphen-labs.com.
-- HyperFace è trattata anche nella scheda di Adam Harvey (già presente nel database), che ne è il co-sviluppatore tecnico — le due schede si integrano a vicenda su questa collaborazione specifica.
-- Video ulteriori: [lezione di Carmen Aguilar y Wedge su NSAF, Berkeley LAsER (YouTube)](https://www.youtube.com/watch?v=HCYa_Fd0QTg); [Ford Foundation, "Hyphen-Labs – What does the future look like?" (video)](https://www.fordfoundation.org/news-and-stories/videos/hyphen-labs-what-does-the-future-look-like-public-interest-tech/).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [hyphen-labs.com](https://hyphen-labs.com).
+- [MIT Center for Art, Science & Technology — pagina collettivo](https://arts.mit.edu/people/hyphen-labs/)
+- [MIT Open Documentary Lab — pagina NSAF](https://opendoclab.mit.edu/presents/hyphen-labs-neurospeculative-afrofeminism/)

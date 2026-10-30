@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `data-visualization` `installazione` `live-visual-vjing`
 **Tag tema:** `storia-computer-grafica` `fantascienza-speculativa`
 **Tag corso:** `TAD` `M3D`
+**Stato:** da verificare il ruolo in Dumb Type (fondatore o membro) · da approfondire: the transfinite (2011)
 
 ## Biografia
 Nato nel 1966 a Gifu, Giappone. Inizia a suonare la chitarra in una band rock a 13 anni; a 18 anni si trasferisce a Tokyo per studiare all'Università di Tokyo, formazione che descrive come essenzialmente autodidatta, attingendo piuttosto ad astronomia e fisica quantistica per la propria pratica. Dopo l'università resta a Tokyo lavorando come DJ nei club, ambiente in cui — secondo un'intervista — "ha imparato tutto". Si avvicina al collettivo multidisciplinare Dumb Type (danzatori, architetti, artisti visivi, musicisti), fondato nel 1984 a Kyoto; il ruolo esatto di Ikeda nel collettivo (fondatore o membro/collaboratore sonoro successivo) non è del tutto univoco nelle fonti secondarie e andrebbe verificato direttamente. Vive e lavora a Parigi. Prima della carriera come artista visivo, è già affermato come musicista elettronico: gli album *+/-* (1996), *0°C* (1998), *matrix* (2000), *dataplex* (2005), *test pattern* (2008), *supercodex* (2013) definiscono un'estetica sonora minimalista di riferimento. Riconoscimenti: Golden Nica al Prix Ars Electronica 2001 (categoria Digital Musics, per *matrix*); premio Collide@CERN del Prix Ars Electronica (2014), che gli garantisce una residenza artistica al CERN di Ginevra (2014-15) dedicata allo studio della scala di Planck. Guest artist al festival ManiFeste dell'IRCAM (giugno 2018).
@@ -11,7 +12,6 @@ Nato nel 1966 a Gifu, Giappone. Inizia a suonare la chitarra in una band rock a 
 Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepire la multi-sostanza invisibile dei dati che permea il nostro mondo", combinando suono e immagine attraverso "precisione matematica ed estetica matematica". Le opere attingono a insiemi di dati scientifici grezzi, spesso open source, provenienti da CERN, NASA e Progetto Genoma Umano, sonificati e visualizzati dalla scala microscopica a quella macroscopica. La firma estetica è un rigoroso bianco e nero con occasionali accenti di colore, pattern binari/a codice a barre, precisione visiva e sonora estrema — nella serie *test pattern*, qualsiasi tipo di dato (testo, suono, foto, filmato) viene convertito in pattern di codice a barre e sequenze binarie di 0 e 1, proiettati su schermi sincronizzati con audio multicanale. Un saggio accademico legge il suo lavoro attraverso Kant, sostenendo che le opere di Ikeda "alludano alla Critica del Giudizio kantiana, contrapponendo la finitezza del bello... alla sconfinatezza del sublime, veicolata dalla grandezza dei numeri casuali e dal sovraccarico sensoriale travolgente di opere come Spectra III" (fonte auto-pubblicata su academia.edu, autore/sede da verificare). Il Walker Art Center, nel saggio "Data Swarms and Physical Sound: The Cerebral and Bodily Art of Ryoji Ikeda", inquadra il lavoro come operante simultaneamente su un registro concettuale/cerebrale e su un registro corporeo, fisicamente travolgente. The Vinyl Factory, in "Data as spectacle: An introduction to the work of Ryoji Ikeda", descrive la sua pratica come una conversione di musica, matematica, scienza e dati in "esperienze sensoriali potenziate", trattando il dato stesso come spettacolo.
 
 ## Opere principali
-
 ### datamatics, serie (dal 2006)
 **Descrizione:** progetto audiovisivo che traduce dati puri (da CERN, NASA, Progetto Genoma Umano, e dati del proprio hard-drive/codice software) in immagini generate al computer in bianco e nero, che passano da sequenze 2D simili a codici a barre a viste 3D rotanti di "universo" fino a elaborazioni matematiche in quattro dimensioni, accompagnate da una composizione sonora.
 **Lettura critica:** discussa in un articolo accademico ("Sights and Sounds of Big Data: Ryoji Ikeda's Immersive Installations") come caso paradigmatico della resa sensibile dei "big data" — non una semplice visualizzazione informativa, ma un'esperienza estetica autonoma costruita a partire dal dato.
@@ -57,12 +57,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 
 ⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: il sito ufficiale dell'artista elenca un'opera "X-verse" (2018) distinta dalla trilogia "data-verse" (2019-2023) qui descritta — da non confondere.
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da Vimeo.
-- [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)
-- [IRCAM/Brahms — biografia](https://brahms.ircam.fr/en/ryoji-ikeda)
-- [arts.cern — pagina artista](https://arts.cern/artist/ryoji-ikeda/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)
@@ -77,10 +73,8 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [The Vinyl Factory — "Data as spectacle"](https://www.thevinylfactory.com/features/data-as-spectacle-a-ryoji-ikeda-overview)
 - [Artangel — spectra a Londra](https://www.artangel.org.uk/project/spectra/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la centralità nel campo della data art e della sonificazione.
-- ⚠️ Non verificati: eventuali onorificenze francesi (Chevalier de l'Ordre des Arts et des Lettres, Légion d'Honneur) — nessuna fonte diretta trovata, non includere senza conferma. Ruolo esatto in Dumb Type (fondatore o membro) da verificare direttamente sul sito ufficiale.
-- Opera aggiuntiva da approfondire: *the transfinite* (2011, Park Avenue Armory, New York) — schermo di 13,7 metri che attraversa la Wade Thompson Drill Hall, analisi binaria in tempo reale della propria colonna sonora, tema dell'infinito.
-- Video ulteriori: canale Vimeo ufficiale ("ryoji ikeda studio"): [vimeo.com/ryojiikeda](https://vimeo.com/ryojiikeda); [the transfinite, documentazione integrale (Vimeo)](https://vimeo.com/24824792); [superposition, performance integrale (Vimeo On Demand)](https://vimeo.com/ondemand/superposition).
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da Vimeo.
+- [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)
+- [IRCAM/Brahms — biografia](https://brahms.ircam.fr/en/ryoji-ikeda)
+- [arts.cern — pagina artista](https://arts.cern/artist/ryoji-ikeda/)

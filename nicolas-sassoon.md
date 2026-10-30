@@ -11,7 +11,6 @@ Artista con base a Vancouver, BC (Canada). Fondatore del collettivo W-A-L-L-P-A-
 Sassoon usa tecniche di imaging computerizzato "primitive" (pattern pixelati, moiré) per rendere architetture, paesaggi e forze naturali attraverso animazioni digitali, installazioni, stampe e sculture. La sua pratica traduce idee di materialità e immaterialità in immagine digitale, esplorando le dimensioni contemplative e proiettive dello spazio basato su schermo — e come l'immagine digitale possa esprimere dimensioni del reale fisico. Anche se gran parte del suo output è pubblicato online, Sassoon materializza costantemente la sua pratica web-based in un'ampia gamma di media fisici, spesso in collaborazioni cross-disciplinari (architettura, musica elettronica, tessile).
 
 ## Opere principali
-
 ### MANSIONS (2013)
 **Descrizione:** collezione di modelli 3D di dimore di lusso trovate online (create da utenti anonimi), fuse in calcestruzzo, acquari, LED, alluminio.
 **Lettura critica:** "le tecnologie informatiche sono un vettore di fantasie per architetture, paesaggi, interni, vita domestica" (Sassoon) — oggetti in uno stato transitorio tra dato e concreto, che significano qualcosa di più grande di ciò che sono.
@@ -50,12 +49,8 @@ Sassoon usa tecniche di imaging computerizzato "primitive" (pattern pixelati, mo
 
 **Approfondimento:** [s-i-g-n-a-l-s.com](https://s-i-g-n-a-l-s.com/)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, WAAP e s-i-g-n-a-l-s.com.
-- [nicolassassoon.com](https://www.nicolassassoon.com)
-- [MANSIONS](https://www.nicolassassoon.com/MANSIONS.html)
-- [STRUCTURES](https://www.nicolassassoon.com/STRUCTURES.html)
+## Interviste e talk
+- [Intervista — Outland](https://outland.art/nicolas-sassoon-studio-visit/)
 
 ## Fonti
 - [nicolassassoon.com](https://www.nicolassassoon.com)
@@ -63,10 +58,9 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [STRUCTURES](https://www.nicolassassoon.com/STRUCTURES.html)
 - [THE PROPHETS](https://www.nicolassassoon.com/PROPHETS_SCULPTURE.html)
 - [SIGNALS (con Rick Silva)](https://s-i-g-n-a-l-s.com/videoworks)
-- [Intervista — Outland](https://outland.art/nicolas-sassoon-studio-visit/)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive. Nome scritto "Nicolas Sasson" nella cartella Drive — corretto in **Nicolas Sassoon**, grafia corretta.
-- Collaborazione ricorrente con **Rick Silva** (già presente come scheda a sé) su SIGNALS/CORES — le due schede si richiamano a vicenda.
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, WAAP e s-i-g-n-a-l-s.com.
+- [nicolassassoon.com](https://www.nicolassassoon.com)
+- [MANSIONS](https://www.nicolassassoon.com/MANSIONS.html)
+- [STRUCTURES](https://www.nicolassassoon.com/STRUCTURES.html)

@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `fotogrammetria-scansione` `stampa-3d-scultura` `vr-ar`
 **Tag tema:** `corpo-identita` `genere-queerness` `fantascienza-speculativa`
 **Tag corso:** `TAD` `AW` `M3D`
+**Stato:** è un duo (Ewelina Aleksandrowicz e Andrzej Wojtas), non un collettivo più ampio · da non attribuirgli il video «Marilyn Monroe» di Sevdaliza (2016), diretto da Hirad Sab
 
 ## Biografia
 Pussykrew è il duo formato da **Ewelina Aleksandrowicz** ("Tikul") e **Andrzej Wojtas** ("mi$ gogo"), entrambi di origine polacca, oggi con base a New York. Descritti dalla stampa come "registi e artisti immersivi" pluripremiati, sviluppano una pratica che attraversa video, stampa 3D, realtà aumentata (AR), realtà virtuale (VR) e audio, sperimentando in particolare con l'animazione 3D e la scansione 3D come strumenti primari. Vincono l'**Artist of the Year Award** al 3D Print Show di Londra nel 2014. Firmano visual dal vivo, video concettuali e progetti stampati in 3D per artisti musicali quali Kelela, Hannah Diamond e Sevdaliza. Rappresentati per il mercato statunitense dalla casa di produzione **PRETTYBIRD**. Partecipano alla residenza **#NOWSEETHIS** del Carnegie Museum of Art (2015), insieme a Kelela, Dinner e Juliana Huxtable.
@@ -11,7 +12,6 @@ Pussykrew è il duo formato da **Ewelina Aleksandrowicz** ("Tikul") e **Andrzej 
 Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando identità fluide e paesaggi futuristici attraverso la sperimentazione con animazione in tempo reale, fotogrammetria e scultura in VR. Il duo sintetizza belle arti, cinema, moda, musica, tecnologia e design, applicando una sensibilità distintiva a molteplici ambiti dell'espressione creativa: dalle installazioni multimediali ai videoclip, dalla performance audiovisiva alla scultura DIY con elettronica. Il passaggio alla stampa 3D nasce dal desiderio di attraversare senza soluzione di continuità il confine fra mondo digitale e fisico: gli oggetti stampati in 3D dell'artista, di dimensioni medie, sono spesso rivestiti da una vernice metallica viola-verde, ripresa direttamente dalla palette cromatica delle loro animazioni digitali. Il loro immaginario mette in scena un mondo futuristico onirico, fluido e sensuale, in cui forme umane e non-umane convivono in un territorio incerto fra utopia e "post-umano": *The FADER* titola un proprio articolo sul duo "How Pussykrew Is Using Art To Imagine A Post-Human World".
 
 ## Opere principali
-
 ### That Other Girl (2015, per Sevdaliza)
 **Descrizione:** video musicale realizzato per la cantante di origine iraniana Sevdaliza, che combina immaginario neo-barocco con "tecno-sciamanesimo cyborg" — texture dorate, marmoree e metalliche preziose che si fondono con la voce vellutata e ipnotica dell'artista in un'esperienza 3D.
 **Lettura critica:** *Vice*, coprendo l'opera con il titolo "A Lavish Trip Inside an Empress' 3D-Scanned Palace", ne sottolinea la costruzione tramite scansione 3D come tecnica portante dell'immaginario iconografico del duo.
@@ -47,19 +47,14 @@ Il lavoro di Pussykrew esplora lo spazio fra reame digitale e fisico, mescolando
 
 **Approfondimento:** [Rewire Festival — Pussykrew](https://www.rewirefestival.nl/artist/pussykrew)
 
-## Immagini
-
-Immagine per tre delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube ed East Contemporary; un ritratto del duo per Serpent of Self, in assenza di documentazione diretta dell'opera. Nessuna immagine per The Formula (attribuzione della regia da verificare) e per il progetto Adidas.
-- [Platoon — "Pussykrew: Dreams Made Real"](https://www.platoon.org/report/pussykrew)
+## Interviste e talk
 - [The FADER — "How Pussykrew Is Using Art To Imagine A Post-Human World"](https://www.thefader.com/2016/01/21/pussykrew-artist-interview)
-- [Vice — "A Lavish Trip Inside an Empress' 3D-Scanned Palace"](https://www.vice.com/en/article/3d57zk/music-video-a-lavish-trip-inside-an-empress-3d-scanned-palace)
+- [Adobe Blog — "Visions of Digital Utopia: Pussykrew Artist Interview"](https://blog.adobe.com/en/publish/2019/10/03/visions-of-digital-utopia-pussykrew-artist-interview)
 
 ## Fonti
 - [Platoon — "Pussykrew: Dreams Made Real"](https://www.platoon.org/report/pussykrew)
-- [The FADER — "How Pussykrew Is Using Art To Imagine A Post-Human World"](https://www.thefader.com/2016/01/21/pussykrew-artist-interview)
 - [Vice — "A Lavish Trip Inside an Empress' 3D-Scanned Palace"](https://www.vice.com/en/article/3d57zk/music-video-a-lavish-trip-inside-an-empress-3d-scanned-palace)
 - [All3DP — "Pussykrew's UFO's invade the 3D printed art scene"](https://all3dp.com/pussycrews-ufos-invade-3d-printed-art-scene/)
-- [Adobe Blog — "Visions of Digital Utopia: Pussykrew Artist Interview"](https://blog.adobe.com/en/publish/2019/10/03/visions-of-digital-utopia-pussykrew-artist-interview)
 - [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/pussykrew/)
 - [Free The Bid — pagina regista](https://www.freethebid.com/directors/pussykrew/)
 - [Rewire Festival — pagina artista 2021](https://www.rewirefestival.nl/artist/pussykrew)
@@ -67,10 +62,8 @@ Immagine per tre delle cinque opere, inclusa sotto la relativa descrizione in "O
 - [East Contemporary — anteprima "Future Memories"](https://www.east-contemporary.com/2015/10/20/unofficial-preview-gallery-pussykrew-future-memories/)
 - [VoxelMatters — scheda azienda/artista](https://www.voxelmatters.directory/company/pussykrew/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero".
-- ⚠️ Correzione rispetto all'ipotesi di partenza: Pussykrew è un **duo** di due persone nominate (Ewelina Aleksandrowicz e Andrzej Wojtas), non un collettivo più ampio — terminologia da usare con precisione.
-- ⚠️ Da non attribuire al duo: il video "Marilyn Monroe" di Sevdaliza (2016), diretto in realtà da Hirad Sab — verificato distintamente da "The Formula" e "That Other Girl", che sono invece opere di Pussykrew.
-- Il #NOWSEETHIS residency al Carnegie Museum of Art (2015, con Kelela, Dinner, Juliana Huxtable) meriterebbe un cross-link con altre schede del database qualora questi artisti fossero già presenti.
+## Crediti delle immagini
+Immagine per tre delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube ed East Contemporary; un ritratto del duo per Serpent of Self, in assenza di documentazione diretta dell'opera. Nessuna immagine per The Formula (attribuzione della regia da verificare) e per il progetto Adidas.
+- [Platoon — "Pussykrew: Dreams Made Real"](https://www.platoon.org/report/pussykrew)
+- [The FADER — "How Pussykrew Is Using Art To Imagine A Post-Human World"](https://www.thefader.com/2016/01/21/pussykrew-artist-interview)
+- [Vice — "A Lavish Trip Inside an Empress' 3D-Scanned Palace"](https://www.vice.com/en/article/3d57zk/music-video-a-lavish-trip-inside-an-empress-3d-scanned-palace)

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `procedurale-generativo` `data-visualization` `installazione` `stampa-3d-scultura`
 **Tag tema:** `economia-attenzione` `sorveglianza-controllo`
+**Stato:** non confermata un'opera intitolata «007»: non trovata in nessuna fonte
 
 ## Biografia
 Andreas Nicolas Fischer nasce nel 1982 a Monaco di Baviera, Germania; vive e lavora a Berlino. Inizia come artista tradizionale, dedito a pittura e disegno; scopre l'arte generativa nel 2005 visitando la mostra "Process/Drawing" di Casey Reas alla DAM Gallery di Berlino — pur non avendo un background informatico, si insegna a programmare da autodidatta e comincia a realizzare animazioni con Processing. Si laurea nella classe del professor Joachim Sauter (figura fondativa della new media art tedesca, co-fondatore di ART+COM) alla Universität der Künste Berlin. Nel 2008 fonda **Studio ANF**, studio berlinese di arte generativa e installazioni media, specializzato in arte sistemica/algoritmica per spazi fisici e virtuali — grafica generativa, animazioni, data visualization, sculture e installazioni interattive su larga scala per istituzioni culturali, marchi internazionali e spazi pubblici. Le sue opere sono state esposte a livello internazionale: HEK (House of Electronic Arts) di Basilea, Kiasma di Helsinki, Eyebeam di New York, Today Art Museum di Pechino, LEAP e DAM Gallery a Berlino, Filmmuseum di Vienna, Rua Red Arts Centre di Dublino, SECCA (Southeastern Center for Contemporary Art, USA); prima personale "NOISE" alla Dixit Algorizmi Gallery di Berlino (2011).
@@ -12,7 +13,6 @@ La pratica di Fischer è descritta come centrata sulla "manifestazione fisica di
 ⚠️ Nota di verifica: alcune fonti secondarie relative alla mostra "Westblindung" attribuiscono l'opera a un "Andreas Fischer" di Düsseldorf: data la diffusione del nome, andrebbe confermato — tramite il sito della galleria — che si tratti dello stesso Andreas Nicolas Fischer berlinese trattato in questa scheda, e non di un omonimo.
 
 ## Opere principali
-
 ### Indizes (2008)
 **Descrizione:** scultura di dati che visualizza gli indici di borsa (S&P 500, Dow Jones Industrial, NASDAQ) da gennaio a novembre 2008, costruita con oltre 150 poligoni in legno tagliati al laser.
 **Lettura critica:** una delle prime opere dell'artista a tradurre in scultura fisica un fenomeno macroeconomico astratto — la crisi finanziaria del 2008 — rendendo tangibile un dato altrimenti solo grafico.
@@ -45,12 +45,8 @@ La pratica di Fischer è descritta come centrata sulla "manifestazione fisica di
 
 **Approfondimento:** [CreativeApplications.Net — A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dello studio e da CreativeApplications.Net.
-- [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
-- [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/andreas-nicolas-fischer/)
-- [CreativeApplications.Net — progetto A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
@@ -67,10 +63,8 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [Vimeo — "Keenly presents: Andreas Nicolas Fischer" (video profilo)](https://vimeo.com/167562738)
 - [Coded Matter(s) — profilo artista](https://www.codedmatters.nl/artist/andreas-nicolas-fischer/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della data visualization scultorea e dell'arte generativa.
-- ⚠️ Non confermata: un'opera con il titolo "007" citata nella traccia di ricerca iniziale — non trovata in nessuna fonte. Le sculture di dati effettivamente documentate e verificabili sono *Indizes* e *Fundament* (entrambe 2008): usare queste come riferimento principale.
-- ⚠️ Da verificare direttamente sul sito ufficiale (studioanf.com, bloccato dal proxy di rete durante la ricerca): elenco completo e date precise delle mostre istituzionali citate (HEK Basilea, Kiasma Helsinki, Eyebeam New York, ecc.).
-- Nota: la ricerca originaria accoppiava questo artista a un secondo soggetto, "DRAUP" — nome che si è rivelato non corrispondere a uno studio di CGI/motion design/arte generativa comparabile: l'unica entità reale con questo nome è stata una piattaforma di moda digitale/NFT (fondata da Dani Loftus, poi acquisita da Tribute Brand e rinominata Fashion.Fun), la cui unica collaborazione artistica rilevante è con l'artista generativo Nicolas Sassoon (collezione "SEEN ON SCREEN", 2023) — non è stata quindi scritta una scheda dedicata a "DRAUP" per mancanza di un soggetto pertinente al database.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dello studio e da CreativeApplications.Net.
+- [studioanf.com — sito ufficiale dello studio](https://studioanf.com/info)
+- [CreativeApplications.Net — pagina artista](https://www.creativeapplications.net/people/andreas-nicolas-fischer/)
+- [CreativeApplications.Net — progetto A/B til Infinity](https://www.creativeapplications.net/project/ab-til-infinity-egyptrixx-and-andreas-nicolas-fischer/)

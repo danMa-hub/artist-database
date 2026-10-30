@@ -11,7 +11,6 @@ Artista nata nel 1988 a Rabat, Marocco, cresciuta tra Rabat e Parigi, con base a
 Bennani lavora tra video, scultura, installazione multimediale, disegno e social media, mescolando reality TV, documentario, telenovela, videoclip musicali, fantascienza e cartoni animati in quella che descrive come una "iperattività di genere". La sua pratica affronta identità, femminilità, l'intersezione tra cultura pop religiosa e secolare in Marocco, migrazione, diaspora e sorveglianza — spesso attraverso il montaggio di footage documentario "sporco" (feste, scuole, comunità reali) con animazione digitale e personaggi CGI dal tono comico o "magico".
 
 ## Opere principali
-
 ### Party on the CAPS (2018-2019)
 **Descrizione:** film di fantascienza in cui il teletrasporto ha sostituito gli aerei e CAPS — ex istituto penale trasformato in campo profughi/isola per immigrati clandestini — diventa l'utopia di un'altra società possibile; la guida nel racconto è Fiona, un coccodrillo antropomorfo. Il film monta immagini documentarie di una festa della comunità marocchina insieme a sequenze CGI.
 **Lettura critica:** affronta sfollamento, biotecnologie, immigrazione, privacy e le nuove tecnologie di controllo (droni militari che sorvegliano l'isola) attraverso un registro che mescola umorismo e realismo "magico".
@@ -46,12 +45,8 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 - Esposizioni personali recenti: Fondazione Prada, Milano (2024-25); Fondation Kamel Lazaar, Tunisi (2023); Whitney Museum of American Art (2022); Renaissance Society, Chicago (2022); Nottingham Contemporary (2022).
 - 2025: "Rave into the Future: Art in Motion", Asian Art Museum, San Francisco; "It Smells Like Girl", Jeffrey Deitch, Los Angeles.
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).
-- [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
-- [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
-- [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
@@ -66,11 +61,8 @@ Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa 
 - [Art21 — New York Close Up: "Meriem Bennani: In Between Languages"](https://art21.org/watch/new-york-close-up/meriem-bennani-in-between-languages/)
 - [Sturm&Drang Studio | Meriem Bennani (YouTube)](https://www.youtube.com/watch?v=HCAnRGvSKSw) — vedi anche la scheda [Sturm&Drang / Sturm&Drang Studio](sturm-und-drang-studio.md)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive (solo link, nessun testo biografico) + biografia integrata tramite ricerca diretta su fonti secondarie affidabili (Wikipedia, Whitney, Art21, galleria).
-- Link video recuperati dalla scheda REF originale su Drive (non ancora incorporati in una prima stesura di questa scheda): trailer e talk di *Party on the CAPS*, making-of di *Windy*, video Art21 su *Mission Teens*, partecipazione al programma di conversazioni "Sturm&Drang Studio" (Fondazione Prada × ETH Zürich, 2021).
-- **Correzione importante**: la prima stesura descriveva *Windy* come "un video con un personaggio in animazione digitale" — **era sbagliato**, confuso probabilmente con altre opere dell'artista. *Windy* è in realtà la scultura cinetica del 2022 sulla High Line, confermata anche dall'immagine recuperata dal documento Drive originale (il grande tornado nero tra i palazzi di New York corrisponde esattamente).
-- **Immagini recuperate dal documento Drive** (esportazione PDF, 2 immagini trovate): entrambe attribuite con buona sicurezza — l'installazione con neon a *Party on the CAPS*, la scultura nera a *Windy*.
-- L'elenco esteso di opere è costruito da fonti secondarie, non dal materiale Drive originale: *2 Lizards* e *Sole Crushing* ancora da documentare nel dettaglio.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).
+- [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
+- [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
+- [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video`
 **Tag tema:** `corpo-identita` `economia-attenzione` `capitalismo-lavoro`
+**Stato:** non individuato un video completo di Rigged o We Need Sanctuary · da verificare formazione artistica e sito ufficiale
 
 ## Biografia
 Nata nel 1984 a Liverpool. Vive e lavora fra Amsterdam e Londra. Dal 2007 è co-fondatrice (insieme ad Amanda Dennis e Rachel Pimm) e, fino al 2016, co-direttrice fondatrice di **Auto Italia** (originariamente Auto-Italia South East), organizzazione artist-run nata in un garage occupato a Peckham, Londra sud. Artista in residenza alla Rijksakademie van Beeldende Kunsten di Amsterdam (2017) e alla Saari Residence (Finlandia). Insegna alla KABK (Royal Academy of Art) dell'Aia. Riconoscimenti: BEN Prize for Emerging Talent, B3 Biennial of the Moving Image, Francoforte (2015); Schering Stiftung Art Award, Berlino (2014). Sedi espositive: KW Institute for Contemporary Art (Berlino), ICA Boston, Tate Modern (Londra), Museu de Serralves (Porto), Frankfurter Kunstverein, Palais de Tokyo (Parigi), Whitechapel Gallery (Londra), Museum of Modern Art (Varsavia), Stedelijk Museum (Amsterdam, 2019).
@@ -12,7 +13,6 @@ Nata nel 1984 a Liverpool. Vive e lavora fra Amsterdam e Londra. Dal 2007 è co-
 Il metodo centrale di Cooper: acquista o costruisce corpi femminili in CG fotorealistici — la sua prima opera, *Rigged*, usa un personaggio animato acquistato da TurboSquid, un marketplace di modelli 3D stock — e li mette in scena nella grammatica visiva della pubblicità, dei media fitness/wellness e del marketing farmaceutico, per esporre il lavoro e l'ideologia incorporati nel corpo femminile digitale "impeccabile". La curatrice **Margot Norton**, in un saggio critico per *CURA.* magazine ("Second Skin"), inquadra l'immaginario di Cooper come funzionante "come una sorta di seconda pelle, uno strato di materia apparentemente banale ma pervasiva che potrebbe avere il potere di spostare gli atteggiamenti in modo quasi invisibile". *Elephant* magazine descrive la sua pratica come un "salvataggio" degli avatar femminili stock dai "destini violenti e banali" a cui sono assegnati in porno, gaming e pubblicità, rivoltandoli contro i sistemi che li hanno prodotti. Nelle opere video in CG (2014-2019) lo stesso avatar ricorre in stati di crescente disagio — malata, ammaccata, sotto sforzo — che la critica legge come sabotaggio dell'immagine femminile commerciale "sempre perfetta" dall'interno del proprio stesso registro estetico.
 
 ## Opere principali
-
 ### Rigged (2014, KW Institute for Contemporary Art, Berlino)
 **Descrizione:** installazione video CG a due canali, prima opera dell'artista in CGI, con un avatar acquistato su TurboSquid. Prima al KW Institute for Contemporary Art di Berlino (mostra del premio Schering Stiftung Art Award, settembre 2014-gennaio 2015). Raffigura donne in CG impeccabili in abbigliamento sportivo che corrono in ambienti digitali sterili, con primi piani su apparecchi ortodontici/paradenti.
 **Lettura critica:** interroga la posizione del corpo femminile nella storia della produzione dell'immagine digitale e del capitalismo dei consumatori.
@@ -43,9 +43,8 @@ Il metodo centrale di Cooper: acquista o costruisce corpi femminili in CG fotore
 
 **Approfondimento:** [Stedelijk Museum Amsterdam — Kate Cooper](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da KW Berlin, meer.com, YouTube ed elephant.art.
+## Interviste e talk
+- [FAD Magazine — intervista di Marcelle Joseph](https://fadmagazine.com/2017/05/15/marcelle-joseph-interviews-artist-kate-cooper/)
 
 ## Fonti
 - [Stedelijk Museum — profilo artista](https://www.stedelijk.nl/en/digdeeper/kate-cooper)
@@ -56,13 +55,7 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [Elephant — "Kate Cooper: Sabotage & Sickness"](https://elephant.art/kate-coopers-unhinged-digital-bodies-2/)
 - [e-flux Criticism — "Skins Within: On contamination and digital corporeality"](https://www.e-flux.com/criticism/331113/skins-within-on-contamination-and-digital-corporeality)
 - [KW Institute for Contemporary Art — pagina mostra RIGGED](https://www.kw-berlin.de/en/exhibitions/kate-cooper-rigged)
-- [FAD Magazine — intervista di Marcelle Joseph](https://fadmagazine.com/2017/05/15/marcelle-joseph-interviews-artist-kate-cooper/)
 - [SCAD Museum of Art — Symptom Machine](https://www.scadmoa.org/exhibitions/symptom-machine)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista dei 4 candidati emersi dal documento "draft CGI artists" (ChatGPT scratch doc, vedi TODO-al-computer.md).
-- ⚠️ Nessun video completo di *Rigged* o *We Need Sanctuary* individuato su YouTube/Vimeo in questa ricerca — verificare direttamente i canali di Stedelijk/KW/Auto Italia.
-- ⚠️ Formazione artistica formale e sito ufficiale non confermati con certezza — da verificare direttamente.
-- Nota sul metodo: WebFetch bloccato su tutti i domini durante la ricerca (confermato su dismagazine.com e davidzwirner.com) — contenuti da snippet, ogni citazione tra virgolette andrebbe riverificata aprendo la pagina direttamente prima di un uso didattico definitivo.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da KW Berlin, meer.com, YouTube ed elephant.art.

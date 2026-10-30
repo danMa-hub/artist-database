@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `video` `modellazione-3d`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione` `corpo-identita`
 **Tag corso:** `TAD` `M3D`
+**Stato:** testo in parte generato con IA: da verificare anno e luogo di nascita (1980, Londra), la formazione al Royal College of Art e le sedi espositive · alcuni link della fonte originale non sono verificati
 
 ## Biografia
 Artista visivo, animatore e teorico dei media digitali britannico. *(Fonte non verificata:)* nato nel 1980 a Londra; ha studiato al Royal College of Art di Londra; opere presentate al Somerset House Studios, alla Tate Britain, al Barbican Centre, alla Biennale di Berlino e in numerosi festival internazionali di media art.
@@ -13,7 +14,6 @@ Warburton lavora all'intersezione tra arte contemporanea, cultura visiva digital
 Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione del corpo; l'estetica dell'algoritmo come nuovo canone visivo; la critica dell'economia dell'attenzione e del lavoro digitale; la trasparenza illusoria delle immagini CGI; il conflitto tra immaginazione artistica e realismo tecnico. Warburton adotta spesso un tono ironico e meta-narrativo, presentandosi come "narratore embedded" nel sistema che critica — le sue opere funzionano come dispositivi di svelamento che smontano la macchina del visuale contemporaneo, mostrando la natura ideologica del rendering come forma di lavoro culturale.
 
 ## Opere principali
-
 ### RGBFAQ (2020, 27'38")
 **Descrizione:** video-saggio che ripercorre la storia della computer grafica dalla WW2 ai modelli di machine learning, fino ai synthetic dataset usati come "ground truth" per l'addestramento di algoritmi di visione artificiale.
 **Lettura critica:** l'immagine contemporanea è già molto più di una fotografia tradizionale — un "decoy", una simulazione baudrillardiana che confonde dato e estetica, macchina e umano; l'immagine "ponte" tra XYZ e RGB, spazio e colore, dato ed estetica.
@@ -72,9 +72,8 @@ Temi ricorrenti nella sua produzione: la condizione post-umana e la simulazione 
 
 ⚠️ Nessuna immagine: opera non presente tra i progetti elencati sul sito ufficiale attuale — coerente con lo stato "da fonte non verificata" già segnalato.
 
-## Immagini
-
-Immagini incluse sotto le rispettive opere in "Opere principali", scaricate dal sito ufficiale [alanwarburton.co.uk](https://alanwarburton.co.uk). Le tre opere segnalate come "da fonte non verificata" non risultano tra i progetti pubblicati sul sito attuale, quindi non hanno immagine.
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [alanwarburton.co.uk](https://alanwarburton.co.uk)
@@ -84,11 +83,5 @@ Immagini incluse sotto le rispettive opere in "Opere principali", scaricate dal 
 - [Psychometrics](https://alanwarburton.co.uk/psychometrics)
 - Portfolio/sito ufficiale personale: alanwarburton.co.uk (sopra) — nessun PDF di portfolio separato individuato.
 
----
-
-## Appunti da organizzare
-- Scheda doppia su Drive: versione principale (link/descrizioni opere, dal sito dell'artista — affidabile) + versione "new refs" (saggio critico esteso, caratteri di codifica anomali — probabile origine AI). Ho integrato il saggio quasi per intero nella parte organizzata sopra.
-- ⚠️ **Link video trovati nella stessa scheda REF "new refs" (origine AI non verificata, vedi sopra) — da verificare uno per uno prima di considerarli affidabili**: [presunto "Goodbye Uncanny Valley" completo](https://www.youtube.com/watch?v=0wRZx0QpIJY), [presunto artist talk al Somerset House Studios](https://www.youtube.com/watch?v=xI05pyyHbEE), [presunta intervista "Alan Warburton on CGI, Labour and Art"](https://www.youtube.com/watch?v=9q9F6C-YXzA). Non li ho spostati nella sezione Opere/Fonti principali perché provengono dallo stesso documento con caratteristiche di generazione automatica — un ID video reale può comunque essere stato incluso per errore o coincidenza in un testo altrimenti inventato: aprire i link direttamente per confermare prima dell'uso in aula.
-  - Tentativo di verifica (settembre 2026, via WebSearch, senza apertura diretta degli URL): "Goodbye Uncanny Valley" esiste davvero come opera dell'artista (confermato su alanwarburton.co.uk/goodbye-uncanny-valley e love.maff.tv), ed è confermata anche una sua residenza a Somerset House Studios (mostra "24/7") e un'intervista pubblica su CGI e lavoro (es. su Filmmaker Magazine) — ma nessuna ricerca ha trovato una pagina terza che citi o linkizzi questi tre ID video YouTube specifici (0wRZx0QpIJY, xI05pyyHbEE, 9q9F6C-YXzA) per confermare che puntino davvero ai contenuti descritti. I tre link restano quindi non verificati e il flag resta invariato.
-- **Da verificare puntualmente**: anno/luogo di nascita (1980, Londra), formazione al Royal College of Art, sedi espositive (Somerset House, Tate Britain, Barbican, Biennale di Berlino), e le tre opere segnalate come "da fonte non verificata" (*Spectacle, Commodity, Hardcore*, *Hyperreal Digital Mannequins*, *Everyday Performance*) — non risultano linkate sul sito ufficiale nella scheda originale.
-- Bibliografia citata nella fonte (non verificata): Alan Warburton, *Notes on the CGI Aesthetic*, in *Rhizome Journal*, 2018; O. Grau (ed.), *Digital Bodies and Virtual Economies*, MIT Press, 2020.
+## Crediti delle immagini
+Immagini incluse sotto le rispettive opere in "Opere principali", scaricate dal sito ufficiale [alanwarburton.co.uk](https://alanwarburton.co.uk). Le tre opere segnalate come "da fonte non verificata" non risultano tra i progetti pubblicati sul sito attuale, quindi non hanno immagine.

@@ -13,7 +13,6 @@ Nato nel 1989 a Taipei, Taiwan. BA in Belle Arti/pittura alla National Taiwan No
 Li Yi-Fan lavora come crew di una sola persona: costruisce ambienti, oggetti di scena e meccaniche dentro Unreal Engine, scrive uno script che interpreta lui stesso vocalmente, mappa i propri movimenti facciali sull'avatar e manovra i personaggi tramite visore VR e controller portatili — una tecnica che ha definito **"digital puppetry"** (marionettismo digitale). Citazione dell'artista: *"The figures you see in my work weren't really acted out by me; they were puppets I manipulated. And the weird bodily contortions actually came about because I was unable to manipulate the puppets with precision. Most puppeteers stand behind their puppets, but I stood in front of mine."* Questo spiega esteticamente le contorsioni corporee "sbagliate", da bug, dei suoi avatar — un'estetica dell'errore tecnico diventata cifra stilistica riconoscibile. Temi ricorrenti: il rapporto fra umanità e tecnologia nell'era digitale con umorismo nero; la genealogia degli strumenti di produzione delle immagini (dal cinema alla CGI al game engine), che l'artista descrive come "un death match tra artista e software"; teorie del complotto, disinformazione, saturazione informativa online; gerarchie delle immagini e tecniche di simulazione della texture nello spazio virtuale; l'impatto dell'IA generativa sull'espressione umana. Il critico Travis Jeppesen (ArtReview) definisce Li "Poet of the Enshittosphere", leggendo la sua pratica come resistenza anti-sistemica al fatto che i sistemi digitali riducano l'espressione umana a un numero finito e sempre più povero di forme disponibili. Il critico Patrick Langley (e-flux) descrive il lavoro come segnato da "ritmo frenetico e immaginario inquietante — lumache zombie, avatar cadaverici, pop-up pubblicitari, psy-ops e burattinai" che catturano l'umore apocalittico dell'era AI incipiente. Il curatore Raphael Fonseca (su *Screen Melancholy*): *"Using such tools as real-time engines and modeling systems, Yi-Fan deconstructs the structure of image-production technology"* e *"When this intersects with the dark humor he often employs in his works, he sheds light on a certain melancholia that connects all viewers in front of a flat screen."*
 
 ## Opere principali
-
 ### important_message.mp4 (2019-2020)
 **Descrizione:** video multicanale, 17'30", prima sperimentazione dell'artista con Unreal Engine in tempo reale. Un avatar guida lo spettatore in un "tornado" di teorie del complotto da clickbait, interrogando cosa sia reale in un'epoca di consumo sovrumano di informazione.
 
@@ -53,9 +52,8 @@ Li Yi-Fan lavora come crew di una sola persona: costruisce ambienti, oggetti di 
 
 **Approfondimento:** [e-flux — Li Yi-Fan: Screen Melancholy](https://www.e-flux.com/announcements/6787011/li-yi-fanscreen-melancholy)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", scelte tra le meno esplicite disponibili da fonti istituzionali (ICC Tokyo, Taipei Biennial, IAC Villeurbanne, e-flux) e YouTube, in coerenza con l'avviso di contenuto in testa alla scheda.
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Biennale Arte 2026 — Screen Melancholy, Li Yi-Fan (evento collaterale)](https://www.labiennale.org/en/art/2026/collateral-events/screen-melancholy-li-yi-fan)
@@ -70,10 +68,8 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [Rijksakademie — Li Yi-Fan](https://rijksakademie.nl/en/residents-advisors-team/li-yi-fan)
 - [Cargo Collective — portfolio ufficiale artista](https://cargocollective.com/LIYIFAN)
 
----
+## Mostre viste
+- *Screen Melancholy* (Taiwan in Venice), Palazzo delle Prigioni, Venezia (2026) — visto da @danMa-hub
 
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra "Screen Melancholy" (Palazzo delle Prigioni, Venezia — "Taiwan in Venice" 2026), agosto 2026 — testo curatoriale completo fotografato in loco, poi approfondito con ricerca web che conferma indipendentemente la trama (organi antropomorfizzati, occhio, cervello assente) e il registro di "body horror digitale" segnalato dal cartello di avviso contenuti sensibili.
-- ⚠️ **Segnalato dall'utente come fondamentale per il modulo di animazione CGI del corso — da recuperare il video integrale** (vedi `TODO-al-computer.md`, punto 9): nessun caricamento pubblico integrale dei 60 minuti di *Screen Melancholy* trovato in questa ricerca (solo probabili trailer/copertura vernissage su YouTube e VernissageTV); portfolio ufficiale su cargocollective.com/LIYIFAN da controllare direttamente, ed eventualmente il profilo Vimeo dell'artista (vimeo.com/user1615809).
-- Nota sul metodo: WebFetch bloccato su tutti i domini tentati in questa sessione (labiennale.org, ArtReview, Frieze, SCMP, e-flux, Ocula, Rijksakademie, taiwaninvenice.org) — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo, specialmente le citazioni dirette.
-- Ottimo caso di scuola per il corso: tecnica del "digital puppetry" con VR/motion capture DIY, in relazione diretta con l'estetica dell'errore/bug come cifra stilistica — utile in dialogo con altri artisti del database che lavorano su CGI e corpo digitale (Kate Cooper, WangShui, Ian Cheng).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", scelte tra le meno esplicite disponibili da fonti istituzionali (ICC Tokyo, Taipei Biennial, IAC Villeurbanne, e-flux) e YouTube, in coerenza con l'avviso di contenuto in testa alla scheda.

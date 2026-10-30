@@ -11,7 +11,6 @@ Scrittore e artista, lecturer presso il Dipartimento di Media, Communications an
 Rourke lavora principalmente come scrittore e teorico più che come artista visivo in senso stretto, costruendo framework collaborativi e strumenti teorici per esplorare l'intersezione tra materialità digitale, arte e postumanesimo. La sua ricerca "dirotta" la fantascienza speculativa alla ricerca di un "esterno" radicale rispetto all'umano e alle discipline umanistiche, scrivendo estesamente sul rapporto tra materialità digitale, postumanesimo e arte — un contributo chiave al cosiddetto **"Nonhuman Turn"**, il movimento nelle arti e nelle scienze umane e sociali che si allontana dal costruttivismo sociale del XX secolo verso filosofie che decentrano l'umano.
 
 ## Opere principali
-
 ### The 3D Additivist Manifesto / Cookbook (2015-2016, con Morehshin Allahyari)
 **Descrizione:** manifesto video e "cookbook" open source, compendio gratuito di oltre 100 progetti di artisti, attivisti e teorici — file .obj/.stl per la stampa 3D insieme a testi critici e fittizi, template e "ricette" (im)pratiche per vivere nel proprio tempo contraddittorio. Vincitore della Vilém Flusser Residency for Artistic Research a Transmediale Berlino (2016), pubblicato come 3D-PDF gratuito. Oggi è una risorsa critica chiave nell'insegnamento di fabbricazione 3D, design speculativo e cultura digitale in fablab, università e istituzioni artistiche.
 **Lettura critica:** vedi la scheda di **Morehshin Allahyari** (già in database) per l'analisi dettagliata dei singoli progetti del Cookbook — Rourke ne è co-autore e co-curatore paritario.
@@ -28,11 +27,8 @@ Rourke lavora principalmente come scrittore e teorico più che come artista visi
 
 **Approfondimento:** [scheringstiftung.de — On the Far Side of the Marchlands](https://www.scheringstiftung.de/en/exhibitions/on-the-far-side-of-the-marchlands/)
 
-## Immagini
-
-Immagine e link di approfondimento per entrambe le opere, inclusi sotto la relativa descrizione in "Opere principali".
-- [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
-- [Goldsmiths — pagina docente](https://www.gold.ac.uk/media-communications/staff/rourke-daniel/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
@@ -42,9 +38,7 @@ Immagine e link di approfondimento per entrambe le opere, inclusi sotto la relat
 - [Institute of Network Cultures — The 3D Additivist Cookbook](https://networkcultures.org/blog/publication/the-3d-additivist-cookbook/)
 - [Wikipedia — The Nonhuman Turn](https://en.wikipedia.org/wiki/The_Nonhuman_Turn)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di modellazione digitale 3D*: la prima esercitazione del corso è condotta sulla falsariga di *The 3D Additivist Cookbook* (2015), curato con Morehshin Allahyari.
-- Collegamento diretto con **Morehshin Allahyari** (già in database) — le due schede si richiamano a vicenda sul Cookbook.
-- Rourke è più scrittore/teorico che artista visivo in senso stretto — coerente comunque con l'ambito critico-concettuale del database.
+## Crediti delle immagini
+Immagine e link di approfondimento per entrambe le opere, inclusi sotto la relativa descrizione in "Opere principali".
+- [machinemachine.net — sito ufficiale](https://machinemachine.net/about/)
+- [Goldsmiths — pagina docente](https://www.gold.ac.uk/media-communications/staff/rourke-daniel/)

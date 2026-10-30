@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `live-visual-vjing` `procedurale-generativo`
 **Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
+**Stato:** attenzione all'omonimia: «Andrew Benson» è un nome molto comune, non confonderlo con altri artisti
 
 ## Biografia
 Artista statunitense, noto anche con lo pseudonimo/handle **pixlpa**. Consegue un BFA in Pittura al San Francisco Art Institute (SFAI), dove in seguito insegna nel dipartimento Art + Technology. Con base a San Francisco durante gli anni dell'insegnamento allo SFAI, risulta oggi con base a Los Angeles. Ha dato contributi sostanziali al software MaxMSP/Jitter di Cycling '74, in particolare come autore della lunga serie di tutorial pratici **"Jitter Recipes"** — un ampio insieme di esempi pratici su sintesi video, grafica OpenGL, feedback video e tecniche di visual dal vivo, distribuito attraverso il sito e il Package Manager di Cycling '74, e che ha influenzato direttamente le tecniche glitch di altri artisti (una remix glitch di "Kill Your Co-Workers" di Beeple/Flying Lotus cita esplicitamente la "Recipe 37 (Shatter)" come propria ispirazione). Ha anche costruito strumenti basati su browser/WebGL, tra cui uno strumento di pittura con feedback video chiamato "Motion Brush". Ha collaborato su visual dal vivo con Aphex Twin, M.I.A., Clipping e Matmos — la collaborazione meglio documentata è quella tecnica con l'artista visivo Weirdcore per lo show dal vivo di Aphex Twin, costruendo patch/sistemi video Max/MSP che Weirdcore ha usato insieme a visual basati su Kinect per il mapping di volti/folla. Ha diretto "Totally Normal", cortometraggio digitale per la serie *Off the Air* di Adult Swim (episodio "NEWNOW", 2015/16). Vende edizioni digitali limitate su Sedition.
@@ -12,7 +13,6 @@ Artista statunitense, noto anche con lo pseudonimo/handle **pixlpa**. Consegue u
 La pratica di Benson è descritta costantemente attorno a feedback video, software personalizzato in tempo reale e un approccio "pittorico" al digitale: "Le sue animazioni e i lavori video sperimentali attingono a un approccio pittorico al materiale e al colore che è inconfondibilmente digitale, e incorporano una batteria di processi software personalizzati e dispositivi elettronici" (Le Random). Nella pagina Vimeo dell'opera "To Be RGB For You", accosta il lavoro a una citazione della critica d'arte Rosalind Krauss (1976) sul feedback video, che descrive "la spirale di feedback del video" come produttrice di "una sorta di caduta senza peso nello spazio sospeso del narcisismo" — un riferimento diretto al celebre saggio di Krauss "Video: The Aesthetics of Narcissism" (*October*, vol. 1, primavera 1976), un solido ancoraggio teorico per un'unità didattica sull'estetica del feedback video. Il blog Prosthetic Knowledge, punto di riferimento per la net art e l'arte tecnologica sperimentale, ha presentato più volte le sue demo WebGL glitch/feedback, collocandolo nella scena dell'arte generativa/glitch basata su browser. Vice/Creators Project gli ha dedicato due profili. Il suo lavoro per lo show dal vivo di Aphex Twin viene discusso nel contesto della pratica visiva di Weirdcore da *Dazed* e *It's Nice That*. *Frieze* ha incluso il suo lavoro "Gubble" in un programma video curato per Frieze New York (2019) — un punto di validazione curatoriale/critica istituzionale.
 
 ## Opere principali
-
 ### Jitter Recipes, serie di tutorial (in corso, per Cycling '74)
 **Descrizione:** serie numerata e in corso di esempi/"ricette" per Jitter, che copre sintesi video, grafica OpenGL, feedback video e tecniche di visual dal vivo — pacchettizzata e distribuita attraverso il Package Manager di Cycling '74. Ha influenzato direttamente le tecniche glitch di altri artisti.
 **Lettura critica:** il contributo più concreto e citabile dell'artista allo sviluppo di strumenti — lo colloca come costruttore di infrastrutture per la comunità dei visual dal vivo/VJ, non solo come autore di opere video.
@@ -46,9 +46,8 @@ La pratica di Benson è descritta costantemente attorno a feedback video, softwa
 
 **Approfondimento:** [Vimeo — Totally Normal](https://vimeo.com/161102117) · [Prosthetic Knowledge — su Totally Normal](https://prostheticknowledge.tumblr.com/post/143857920136/totally-normal-digital-short-by-andrew-benson-made)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali". Fotogrammi Vimeo via servizio di thumbnail pubblico per Deserted e Totally Normal (video privi di immagine statica scaricabile dalla pagina); immagini dirette per Jitter Recipes (Cycling '74) e Gubble (Undervolt & Co.).
+## Interviste e talk
+- [Dazed — Weirdcore su Aphex Twin/M.I.A., con menzione di Benson](https://www.dazeddigital.com/music/article/37384/1/weirdcore-aphex-twin-mia-visuals-interview)
 
 ## Fonti
 - [pixlpa.com — sito ufficiale](https://pixlpa.com)
@@ -59,13 +58,7 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [Vice/Creators — "Psychedelic Visuals From Andrew Benson (aka Pixlpa)"](https://www.vice.com/en/article/psychedelic-visuals-from-andrew-benson-aka-pixlpa/)
 - [Undervolt & Co — approfondimento su Deserted](https://undervolt.co/Andrew-Benson)
 - [Prosthetic Knowledge — su Totally Normal](https://prostheticknowledge.tumblr.com/post/143857920136/totally-normal-digital-short-by-andrew-benson-made)
-- [Dazed — Weirdcore su Aphex Twin/M.I.A., con menzione di Benson](https://www.dazeddigital.com/music/article/37384/1/weirdcore-aphex-twin-mia-visuals-interview)
 - [CDM/Create Digital Music — remix ispirata alle Jitter Recipes](https://cdm.link/learning-maxmsp-and-jitter-and-remixing-beeple-50-recipes-results/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito del feedback video/glitch e dello sviluppo di strumenti per i visual dal vivo.
-- ⚠️ Attenzione all'omonimia: "Andrew Benson" è un nome molto comune — non confondere con Andrew A. Benson (biochimico, ciclo di Calvin-Benson) o con un commentatore tecnico di Formula 1 con lo stesso nome. Un'opera "Beautiful Frog" talvolta attribuita a lui nell'archivio Rhizome appartiene in realtà all'artista Porpentine, non a Benson — non attribuirgliela.
-- Discrepanza sulla città di residenza (San Francisco durante il periodo di insegnamento allo SFAI, Los Angeles più di recente) — probabile trasferimento reale nel corso della carriera, non due persone diverse.
-- Video ulteriori: canale Vimeo dell'artista, con la maggior parte del lavoro video: [vimeo.com/pixlpa](https://vimeo.com/pixlpa).
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali". Fotogrammi Vimeo via servizio di thumbnail pubblico per Deserted e Totally Normal (video privi di immagine statica scaricabile dalla pagina); immagini dirette per Jitter Recipes (Cycling '74) e Gubble (Undervolt & Co.).

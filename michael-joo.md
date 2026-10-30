@@ -10,7 +10,6 @@ Nato nel 1966 a Ithaca, New York, da famiglia coreana. BFA alla Washington Unive
 La pratica di Joo usa linguaggio, processi e strutture della scienza per esplorare liminalità, accesso e trasmissione — un procedimento talvolta paragonato a quello di Joseph Beuys. Sostituisce sistematicamente la rappresentazione diretta del corpo con calchi, misurazioni e materiali sintetici (sudore, lacrime, nitrato d'argento): nella mostra *Sweat Models 1991-2026* (Space ZeroOne, New York, 2026, cur. Christopher Y. Lew) il corpo è "centrale eppure largamente assente", affrontato attraverso descrizione, misurazione e sostituzione — procedimento letto oggi come anticipazione, non artefatto storico, di domande su come i corpi vengano astratti e su cosa significhi fidarsi dell'informazione in sistemi sempre più mediati. Dal 2018-2021 Joo integra scansione 3D, stampa 3D e (dal 2021) tecnologia blockchain come estensione dello stesso interesse per trasmissione e trasformazione dell'informazione — non come esercizio tecnico fine a sé, ma come dispositivo concettuale per pensare identità distribuita, comunità e crescita organica/collettiva. In *Sensory Meridian* (Kavi Gupta, 2021) usa scansioni 3D dagli archivi Smithsonian per creare "parti del corpo disincarnate": *From Without* (2020) è una stampa 3D in ABS a grandezza superiore al naturale del volto di Anne Sullivan (compagna di Helen Keller), che enfatizza la possibilità di "vedere" attraverso texture e tatto. In un'intervista (Brooklyn Rail, 2020) Joo descrive il proprio lavoro come occupante uno "spazio liminale" — spazi indefiniti, spesso costrutti, il cui esame profondo può rivelare indizi sull'identità di altri tipi di spazio.
 
 ## Opere principali
-
 ### Bodhi Obfuscatus (Space-Baby) (2005)
 **Descrizione:** intervento sulla collezione Rockefeller/Gandhara Buddha (II sec.) all'Asia Society, New York, opera commissionata dall'Asia Society Museum.
 **Lettura critica:** vinse il Grand Prize ex aequo alla 6ª Gwangju Biennale (2006); collisione fra scienza, religione e intervento sull'oggetto archeologico/sacro.
@@ -31,7 +30,9 @@ La pratica di Joo usa linguaggio, processi e strutture della scienza per esplora
 **Descrizione:** lastre di crinoidi mineralizzati nel corso di ere geologiche, che orbitano l'una intorno all'altra in una struttura mobile cinetica; trasduttori multipli generano vibrazioni sintonizzate sulla frequenza di risonanza della pietra, percepite dal corpo dello spettatore come campo vibrazionale.
 **Lettura critica:** Wallpaper* la legge come opera che "chiama ad ascoltare" attraverso forme fossili sospese che vibrano al movimento dei visitatori — tempo geologico reso percepibile nel corpo.
 
-## Immagini
+## Interviste e talk
+- [Medium/OG:CR — intervista a Danil Krivoruchko](https://medium.com/organic-growth-crystal-reef/conventional-art-and-nft-have-plenty-to-learn-from-each-other-interview-with-danil-krivoruchko-38ff0f576787)
+- [Brooklyn Rail — intervista (2020)](https://brooklynrail.org/2020/10/art/MICHAEL-JOO-with/)
 
 ## Fonti
 - [Kavi Gupta — pagina artista](https://kavigupta.com/artists/36-michael-joo/)
@@ -39,18 +40,11 @@ La pratica di Joo usa linguaggio, processi e strutture della scienza per esplora
 - [University of Hawaii Hilo — Goebel, Burns: 3D sculpture / coral reef](https://hilo.hawaii.edu/chancellor/stories/2020/12/03/goebel-burns-3d-sculpture-coral-reef/)
 - [Organic Growth: Crystal Reef — sito ufficiale progetto](https://ogcrystals.com/)
 - [Medium/OG:CR — "A groundbreaking combination of fine art and digital collectibles"](https://medium.com/organic-growth-crystal-reef/organic-growth-crystal-reef-a-groundbreaking-combination-of-fine-art-and-digital-collectibles-8e6371c9dab3)
-- [Medium/OG:CR — intervista a Danil Krivoruchko](https://medium.com/organic-growth-crystal-reef/conventional-art-and-nft-have-plenty-to-learn-from-each-other-interview-with-danil-krivoruchko-38ff0f576787)
-- [Brooklyn Rail — intervista (2020)](https://brooklynrail.org/2020/10/art/MICHAEL-JOO-with/)
 - [e-flux — Michael Joo: Sweat Models 1991-2026](https://www.e-flux.com/announcements/6785879/michael-joo-sweat-models-1991-2026)
 - [ArtAsiaPacific — Sweat Models 1991-2026](https://www.artasiapacific.com/issue/new-york-michael-joo-sweat-models-1991-2026/)
 - [Whitney Museum — pagina artista](https://whitney.org/artists/12758)
 - [Ocula — Sensory Meridian at Kavi Gupta](https://ocula.com/magazine/insights/michael-joo-sensory-meridian-at-kavi-gupta/)
 - [Biennale Arte 2026 — pagina artista](https://www.labiennale.org/en/art/2026/michael-joo)
 
----
-
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla Biennale Arte 2026, "In Minor Keys" (Corderie dell'Arsenale), 11 agosto 2026 — pannello fotografato in loco (testo curatoriale di Eungie Joo), poi approfondito con ricerca web.
-- Nota sul metodo: WebFetch bloccato su gran parte dei domini rilevanti in questa sessione (Wikipedia, Kavi Gupta, Hyperallergic) — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
-- Buon caso per il modulo su blockchain/NFT applicati a un progetto scientifico reale (non solo speculazione finanziaria) — collegamento diretto a un laboratorio di ricerca marina (MEGA Lab, Hawaii).
-- Joo è fra gli oltre 70 artisti/curatori ritiratisi dalla considerazione per premi alla Biennale 2026, in solidarietà con la giuria dimissionaria per protesta contro la partecipazione di Israele e Russia — da verificare se rilevante menzionarlo in classe.
+## Mostre viste
+- *Biennale Arte 2026 — In Minor Keys*, Corderie dell'Arsenale, Venezia (2026) — visto da @danMa-hub

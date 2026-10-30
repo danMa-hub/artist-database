@@ -11,7 +11,6 @@ Nato l'11 settembre 1962 a Parigi. Formazione all'École nationale supérieure d
 Huyghe non produce opere finite ma **sistemi**: ecosistemi viventi, protocolli algoritmici, situazioni che continuano a evolvere autonomamente dopo l'intervento dell'artista, spesso al confine tra biologia, intelligenza artificiale e scultura. Il suo lavoro rifiuta la distinzione tra ciò che è "esposto" e ciò che semplicemente accade — un alveare che cresce su una scultura, un sistema di intelligenza artificiale che genera immagini a partire da segnali biometrici, un ambiente che si autoregola senza pubblico. Ricorrono temi di ibridazione tra umano, animale, vegetale e macchina, e una critica implicita all'idea stessa di "opera d'arte" come oggetto stabile e concluso.
 
 ## Opere principali
-
 ### Untitled (Human Mask) (2014)
 **Descrizione:** film che segue una scimmia addestrata, che indossa una maschera Noh e una parrucca femminile, mentre si aggira in un ristorante abbandonato nei dintorni di Fukushima dopo il disastro nucleare del 2011.
 **Lettura critica:** una figura ambigua — non umana ma vestita da umano, in un paesaggio svuotato dalla catastrofe — mette in crisi i confini tra specie, performance e sopravvivenza in un mondo post-disastro.
@@ -34,12 +33,8 @@ Huyghe non produce opere finite ma **sistemi**: ecosistemi viventi, protocolli a
 
 **Approfondimento:** [Serpentine Galleries — Pierre Huyghe: UUmwelt](https://www.serpentinegalleries.org/whats-on/pierre-huyghe-uumwelt/)
 
-## Immagini
-
-Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Copenhagen Contemporary, Esther Schipper e Art Viewer.
-- [Esther Schipper — biografia](https://www.estherschipper.com/artists/41-pierre-huyghe/biography/)
-- [Wikipedia — Pierre Huyghe](https://en.wikipedia.org/wiki/Pierre_Huyghe)
-- [Ocula — biografia](https://ocula.com/artists/pierre-huyghe/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Esther Schipper — biografia](https://www.estherschipper.com/artists/41-pierre-huyghe/biography/)
@@ -48,9 +43,8 @@ Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in 
 - [Pinault Collection — Untitled (Human Mask)](https://lesoeuvres.pinaultcollection.com/en/artwork/untitled-human-mask)
 - [LUMA Arles — profilo artista](https://luma.org/en/arles/artists-thinkers-a-z/pierre-huyghe)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di modellazione digitale 3D* e in *Applicazioni digitali per l'arte*, tra gli artisti storici/contemporanei di riferimento per il 3D e l'immagine digitale.
-- Ha lavorato con **Ian Cheng** (già in database) come assistente di studio (2010-2012) — collegamento da esplicitare nella scheda di Cheng.
-- Video da cercare per *Untitled (Human Mask)* e *UUmwelt* (spesso disponibili solo come estratti nei siti di gallerie/musei — verificare disponibilità di versioni integrali).
+## Crediti delle immagini
+Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Copenhagen Contemporary, Esther Schipper e Art Viewer.
+- [Esther Schipper — biografia](https://www.estherschipper.com/artists/41-pierre-huyghe/biography/)
+- [Wikipedia — Pierre Huyghe](https://en.wikipedia.org/wiki/Pierre_Huyghe)
+- [Ocula — biografia](https://ocula.com/artists/pierre-huyghe/)

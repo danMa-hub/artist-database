@@ -12,7 +12,6 @@ Nato nel 1972 nel Somerset, Inghilterra. Vive e lavora a Londra. Studia Belle Ar
 Rivers gira principalmente in pellicola 16mm bianco e nero (talvolta scaduta), con una vecchia Bolex a carica manuale — una limitazione meccanica che limita le riprese continue a circa 30 secondi, condizionando direttamente il ritmo del montaggio. Sviluppa la pellicola a mano, personalmente, producendo l'estetica granulosa, instabile, "invecchiata" tipica del suo lavoro. *Frieze* descrive il suo lavoro come una serie di film su "eremiti e pionieri odierni — di solito uomini — che hanno scelto di esistere a distanza ideologica e geografica dal resto della società", e osserva che l'uso della Bolex a manovella e dello sviluppo manuale "non sembra essere solo una questione interpretativa, ma l'unica risposta appropriata agli stili di vita improvvisati e limitati che gli è concesso osservare". La stessa testata colloca Rivers in "un rapporto più stretto, sfumato e complesso con le tradizioni del film sperimentale e del cinema d'avanguardia", realizzando film sia per sale cinematografiche sia per spazi espositivi, muovendosi tra contesti cinefili e dell'arte contemporanea e complicando vecchie dicotomie (Hollywood contro avanguardia; avanguardia contro film sperimentale). *Slow Action* (2011) nasce da una collaborazione diretta con lo scrittore di fantascienza speculativa Mark von Schlegell, che ha scritto anche un saggio critico sull'opera per *Frieze* ("Somerset or, A Glance at the Deep Future of the Avant-Garde", n. 141, settembre 2011) — un caso raro in cui uno scrittore di narrativa collabora sia alla creazione sia alla critica della stessa opera.
 
 ## Opere principali
-
 ### Two Years at Sea (2011)
 **Descrizione:** primo lungometraggio dell'artista (circa 88 minuti, 16mm bianco e nero), ritratto intimo e quasi senza parole di Jake Williams, un uomo che ha lavorato per anni in mare per accumulare abbastanza denaro da ritirarsi in un'esistenza isolata in una casa fatiscente nelle Highlands scozzesi (Aberdeenshire). Nasce dal precedente cortometraggio *This Is My Land* (2006), anch'esso dedicato a Williams. Debutta alla 68ª Mostra del Cinema di Venezia (sezione Orizzonti), vincendo il Premio FIPRESCI della critica internazionale e il CPH:DOX Award di Copenhagen.
 **Lettura critica:** *Sight & Sound* lo colloca in un "territorio liminale popolare e fertile, non del tutto documentario, non del tutto finzione" — Rivers avrebbe acquistato le ultime confezioni della sua pellicola 16mm bianco e nero Kodak Plus X preferita, appena prima che venisse discontinuata, sviluppandola a mano nel proprio lavello di cucina.
@@ -61,11 +60,9 @@ Rivers gira principalmente in pellicola 16mm bianco e nero (talvolta scaduta), c
 
 **Approfondimento:** [benrivers.com/mares-nest](https://www.benrivers.com/mares-nest)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [benrivers.com](https://www.benrivers.com) e da [lux.org.uk](https://lux.org.uk/artist/ben-rivers/) per le opere più datate.
-- [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
-- [MoMA — pagina artista](https://www.moma.org/artists/132137)
+## Interviste e talk
+- [BOMB Magazine — intervista (2013)](https://bombmagazine.org/articles/2013/10/01/ben-rivers/)
+- [Filmmaker Magazine — intervista su Mare's Nest, Locarno 2025](https://filmmakermagazine.com/131516-interview-ben-rivers-locarno-2025-don-delillo-mares-nest/)
 
 ## Fonti
 - [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
@@ -74,14 +71,10 @@ Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto l
 - [Frieze — "Ben Rivers"](https://www.frieze.com/article/ben-rivers)
 - [Cinema Scope — "Leeching Upon the Lifeblood of the Real"](https://cinema-scope.com/features/leeching-upon-the-lifeblood-of-the-real-ben-rivers-the-sky-trembles-and-the-earth-is-afraid-and-the-two-eyes-are-not-brothers/)
 - [Sight & Sound (BFI) — recensione di Bogancloch](https://www.bfi.org.uk/sight-and-sound/reviews/bogancloch-ben-rivers-glorious-new-film-continues-his-fascination-with-scottish-forest-dweller)
-- [BOMB Magazine — intervista (2013)](https://bombmagazine.org/articles/2013/10/01/ben-rivers/)
 - [Cineuropa — su Mare's Nest e il Pardo Verde](https://cineuropa.org/en/newsdetail/481224/)
-- [Filmmaker Magazine — intervista su Mare's Nest, Locarno 2025](https://filmmakermagazine.com/131516-interview-ben-rivers-locarno-2025-don-delillo-mares-nest/)
 - [Artangel — The Sky Trembles and the Earth Is Afraid](https://www.artangel.org.uk/project/the-sky-trembles/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito del cinema ibrido documentario/finzione/speculativo.
-- ⚠️ Da verificare: ruolo esatto di Mati Diop in *The Sky Trembles and the Earth Is Afraid and the Two Eyes Are Not Brothers* (accreditata nel cast, ma il ruolo specifico non è stato confermato con fonte diretta).
-- Video ulteriori da vedere in aula: [Slow Action, film integrale (YouTube)](https://www.youtube.com/watch?v=FVruPaRsWRs); [trailer ufficiale di Mare's Nest (Vimeo)](https://vimeo.com/1190744402).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle sei opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [benrivers.com](https://www.benrivers.com) e da [lux.org.uk](https://lux.org.uk/artist/ben-rivers/) per le opere più datate.
+- [Kate MacGarry — pagina artista](https://www.katemacgarry.com/artists/46-ben-rivers/)
+- [MoMA — pagina artista](https://www.moma.org/artists/132137)

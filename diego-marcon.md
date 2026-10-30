@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `memoria-archivio` `temporalita-non-lineare`
 **Tag corso:** `TAD`
+**Stato:** non verificata un'opera «Rain» attribuita all'artista (probabile confusione con un altro) · da approfondire: Dolle (2023)
 
 ## Biografia
 Nato nel 1985 a Busto Arsizio, provincia di Varese. Frequenta la Scuola Civica di Cinema, Televisione e Nuovi Media di Milano (2006) e consegue un BA in Arti Visive e Teatro allo IUAV, Università Iuav di Venezia (2012). Vive e lavora a Milano. Riconoscimenti: Premio MAXXI Bvlgari 2018 (Roma), vinto per il video *Ludwig* — la giuria ne cita "l'unica combinazione tra linguaggio analogico e digitale"; l'opera entra nella collezione permanente del MAXXI. Premio Scultura della Fondazione Henraux (4ª edizione, 2018), per una versione scultorea in marmo della figura del bambino di *Ludwig* — "la materializzazione in marmo di un bambino creato prima tramite un modello 3D". *The Parents' Room* debutta alla Quinzaine des Réalisateurs (Quindicina dei Registi) del Festival di Cannes 2021. Nel 2022 partecipa alla 59ª Biennale di Venezia, "Il latte dei sogni", curata da Cecilia Alemani, con *The Parents' Room*. Nel 2023 la Fondazione Nicola Trussardi gli dedica "Dramoletti", la sua prima antologica istituzionale in Italia (Teatro Gerolamo, Milano, curata da Massimiliano Gioni). Rappresentato dalle gallerie Sadie Coles HQ (Londra), Galerie Buchholz (Berlino/Colonia/New York), ZERO... (Milano) ed Ermes-Ermes (Roma/Vienna).
@@ -13,7 +14,6 @@ Nato nel 1985 a Busto Arsizio, provincia di Varese. Frequenta la Scuola Civica d
 Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Society di Chicago (in occasione della mostra "Krapfen", 2025), scrive che Marcon "smonta il fare cinematografico pur continuando a usarne gli strumenti più seducenti", trattando il film come "una macchina — di tempo, suono e immagine — che può ricablare dall'interno". La galleria Sadie Coles HQ descrive la sua pratica come radicata "nell'intrattenimento e nel cinema strutturale — evitando la narrazione tradizionale per esplorare la meccanica stessa del fare film... le opere attingono a vocabolari cinematografici da musical, melodramma, horror e comicità slapstick... impiega dispositivi tecnici come robotica, protesi e CGI". La Fondazione Trussardi inquadra il lavoro come costruzione di "misteriosi drammi da camera abitati da pupazzi, bambini e creature sospese tra stati umani e post-umani, fondendo melodramma ed effetti speciali". Lou Stoppard, su *Frieze*, ha scritto un saggio critico ("Diego Marcon's Films Conjure a Familiar, Grotesque World") sulla sua estetica perturbante; *ArtReview* gli ha dedicato il pezzo "Diego Marcon's Hollow People", specificamente sulle figure simili a bambole/pupazzi al centro del suo lavoro. Temi ricorrenti confermati da più fonti: la malinconia dell'infanzia, la morte e la tragedia rese in formato operistico/cantato, strutture in loop, la "zona liminale tra vita e morte", il dialogo con generi cinematografici popolari e classici (horror, slapstick, melodramma, musical) ricombinati con CGI ed effetti protesici/animatronici.
 
 ## Opere principali
-
 ### Ludwig (2018)
 **Descrizione:** video di 4 minuti interamente realizzato in CGI — il primo video dell'artista realizzato interamente con questa tecnica. Un bambino biondo, solo nella stiva buia di una nave in tempesta, canta un'aria romantica/operistica (interpretata da un membro del coro Voci Bianche dell'Accademia Teatro alla Scala). Vince il Premio MAXXI Bvlgari 2018; una versione scultorea in marmo vince il Premio Scultura della Fondazione Henraux.
 **Lettura critica:** l'opera che segna il passaggio definitivo dell'artista dal cinema analogico/pellicola alla CGI totale, pur mantenendo lo stesso registro operistico/melodrammatico dei lavori precedenti.
@@ -52,11 +52,8 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 
 **Approfondimento:** [sadiecoles.com — La Gola](https://www.sadiecoles.com/artworks/diego-marcon/la-gola)
 
-## Immagini
-
-Immagine e link di approfondimento per quattro delle cinque opere, incluse sotto la relativa descrizione in "Opere principali", scaricate da [sadiecoles.com](https://www.sadiecoles.com/artists/diego-marcon) — manca solo *La Miserabile* (2018).
-- [La Biennale di Venezia — pagina artista, Il latte dei sogni (2022)](https://www.labiennale.org/en/art/2022/milk-dreams/diego-marcon)
-- [Fondazione Nicola Trussardi — Dramoletti](https://www.fondazionenicolatrussardi.com/en/mostre/diego-marcon/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Sadie Coles HQ — pagina artista](https://www.sadiecoles.com/artists/diego-marcon)
@@ -70,10 +67,7 @@ Immagine e link di approfondimento per quattro delle cinque opere, incluse sotto
 - [Mousse Magazine — su La Miserabile, Triennale di Milano](https://www.moussemagazine.it/magazine/diego-marcon-la-miserabile-la-triennale-di-milano-milan-2018/)
 - [The Renaissance Society, Chicago — Krapfen (2025)](https://renaissancesociety.org/exhibitions/560/diego-marcon-krapfen/)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per la particolare rilevanza come artista italiano che fonde CGI, protesi e cinema classico.
-- ⚠️ Non verificato: un'opera intitolata "Rain" attribuita all'artista — nessuna fonte trovata, probabile confusione con un altro artista.
-- Opere recenti da approfondire: *Dolle* (2023, video digitale di 29 minuti e 32 secondi da 35mm/CGI, mostrato simultaneamente da Sadie Coles HQ Londra e Galerie Buchholz Berlino); *FORZA CANI* (2025, mostra personale al Consortium Museum di Digione).
-- Video ulteriori: canale Vimeo ufficiale dell'artista: [vimeo.com/diegomarcon](https://vimeo.com/diegomarcon/videos); pagina video della galleria Sadie Coles HQ: [sadiecoles.com/video](https://www.sadiecoles.com/video/artists/67/).
+## Crediti delle immagini
+Immagine e link di approfondimento per quattro delle cinque opere, incluse sotto la relativa descrizione in "Opere principali", scaricate da [sadiecoles.com](https://www.sadiecoles.com/artists/diego-marcon) — manca solo *La Miserabile* (2018).
+- [La Biennale di Venezia — pagina artista, Il latte dei sogni (2022)](https://www.labiennale.org/en/art/2022/milk-dreams/diego-marcon)
+- [Fondazione Nicola Trussardi — Dramoletti](https://www.fondazionenicolatrussardi.com/en/mostre/diego-marcon/)

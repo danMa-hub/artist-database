@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `net-art-sito-web` `performance-dal-vivo` `installazione`
 **Tag tema:** `economia-attenzione` `corpo-identita`
+**Stato:** data e luogo di nascita da una fonte poco affidabile: da riverificare su Wikipedia
 
 ## Biografia
 Nato il 6 aprile 1983 nell'Hampshire, Inghilterra (⚠️ data/luogo di nascita da fonte a bassa affidabilità, da riverificare contro Wikipedia; l'anno 1983 è corroborato in modo indipendente da più fonti). BFA alla Ruskin School of Drawing and Fine Art, Università di Oxford (2005); MA in Scultura al Royal College of Art, Londra (2011); ha lavorato come assistente di studio di Anish Kapoor durante gli studi post-laurea. Con base fra Londra e Los Angeles. Rappresentato da Carlos/Ishikawa, Londra. Prima personale istituzionale britannica: *Modern Family*, Chisenhale Gallery, Londra (18 settembre-9 novembre 2014). Ha lavorato anche come analista di dati prima/parallelamente alla pratica artistica — un background che si riflette nel suo uso di dati raschiati dai social media come materiale grezzo. Più di recente attivo nell'arte NFT/web3 (progetto Finiliar, CryptoCerts).
@@ -10,7 +11,6 @@ Nato il 6 aprile 1983 nell'Hampshire, Inghilterra (⚠️ data/luogo di nascita 
 Fornieles è una figura chiave della generazione "post-internet", il cui lavoro — performance su Facebook, scultura, video, installazione e, più di recente, progetti blockchain/NFT — indaga il confine sfumato fra performance dell'identità online ed esperienza vissuta: gioco di ruolo, alter ego, narrazioni familiari e di formazione messe in scena simultaneamente online e in installazione fisica. Descrive questa liminalità direttamente: "Significava che l'intero spazio diventava molto sfumato, e quello spazio liminale è affascinante. Cammina davvero con attenzione sul confine fra ciò che è realtà e ciò che è interamente falso, un deepfake, persino un deepfake della performance in un certo senso." Sulla mostra *Modern Family*, parlando dell'America come soggetto, è citato: "[L'America è] da dove tutto emana." La sua pratica è discussa di frequente come fondativa per la "post-internet art", per l'uso precoce (2011) di piattaforme social media live come medium performativo, non solo come strumento di documentazione/distribuzione.
 
 ## Opere principali
-
 ### Dorm Daze (2011)
 **Descrizione:** "sitcom su Facebook": Fornieles raschia profili Facebook reali e pubblici di studenti matricole a Berkeley (foto, like, commenti) e recluta attori/partecipanti per abitare quei profili come personaggi, vivendo una narrazione improvvisata di tre mesi in piena vista sulla piattaforma stessa.
 **Lettura critica:** ampiamente citata come opera fondativa e precoce della post-internet art per l'uso di un social network dal vivo come vero e proprio palcoscenico performativo — non una sua rappresentazione — anni prima che la performance "estremamente online" diventasse un genere riconosciuto.
@@ -27,7 +27,8 @@ Fornieles è una figura chiave della generazione "post-internet", il cui lavoro 
 **Descrizione:** progetto NFT: collezione generativa di 10.000 piccole creature "viventi" ("Fini") il cui umore/aspetto risponde in tempo reale alle fluttuazioni del prezzo delle criptovalute tramite oracoli blockchain, evoluzione di un precedente prototipo GIF data-driven del 2016.
 **Lettura critica:** estende l'interesse di lunga data di Fornieles per personaggi digitali emotivamente codificati e l'identità online speculativa/finanziarizzata nell'economia NFT stessa, trattando la volatilità di mercato come una relazione affettiva, quasi da animale domestico.
 
-## Immagini
+## Interviste e talk
+- [Studio International — intervista](https://www.studiointernational.com/index.php/ed-fornieles-modern-family-television-chisenhale-gallery)
 
 ## Fonti
 - [Wikipedia — Ed Fornieles](https://en.wikipedia.org/wiki/Ed_Fornieles)
@@ -36,13 +37,4 @@ Fornieles è una figura chiave della generazione "post-internet", il cui lavoro 
 - [Frieze — "Ed Fornieles"](https://www.frieze.com/article/ed-fornieles)
 - [i-D — "Performing Ourselves: Revisiting Dorm Daze with Ed Fornieles"](https://i-d.co/article/performing-ourselves-revisiting-dorm-daze-with-ed-fornieles/)
 - [Rhizome — "Artist Profile: Ed Fornieles"](https://rhizome.org/editorial/2012/apr/2/artist-profile-ed-fornieles/)
-- [Studio International — intervista](https://www.studiointernational.com/index.php/ed-fornieles-modern-family-television-chisenhale-gallery)
 - [OpenSea — "Who Created Fini NFTs? Meet Ed Fornieles"](https://opensea.io/blog/articles/finiliar)
-
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista dei 4 candidati emersi dal documento "draft CGI artists" (ChatGPT scratch doc, vedi TODO-al-computer.md).
-- ⚠️ Non confermati in questa ricerca: opere con titolo "The Green", "Life Coach" o "Homesick" — non includere senza fonte diretta.
-- ⚠️ Data/luogo di nascita esatti da fonte a bassa affidabilità (idolcelebs.org) — riverificare contro Wikipedia.
-- Nota sul metodo: WebFetch bloccato su tutti i domini durante la ricerca — ogni citazione tra virgolette andrebbe riverificata aprendo la pagina direttamente prima di un uso didattico definitivo.

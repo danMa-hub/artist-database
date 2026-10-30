@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `stampa-3d-scultura` `vr-ar`
 **Tag tema:** `economia-attenzione` `corpo-identita`
+**Stato:** da cercare: documentazione video dei visual per PC Music e della mostra al Carnegie Museum · da controllare l'attribuzione dei video QT ed EasyFun
 
 ## Biografia
 Artista e designer 3D britannico. Vive a lungo a Shanghai (circa 13 anni) prima di trasferirsi a Tokyo, intorno al 2022. Lavora principalmente con 3ds Max. Ha realizzato visual e video musicali per l'etichetta PC Music (incluso, secondo le fonti, il lavoro visivo per QT ed EasyFun, in chiave satirica su branding di bevande energetiche e compagnie aeree low-cost), oltre a lavori per Fade To Mind e Lit City Trax; ha curato visual/interior design per i club ALL (Shanghai) e OIL (Shenzhen). Ha esposto al Carnegie Museum of Art (Pittsburgh, "Styles and Customs of the 2020s", 2017, opera VR sostenuta dalla Hillman Photography Initiative del museo), all'X Museum di Pechino, e al Jeu de Paume di Parigi (spazio virtuale, "Taobao-Media", nell'ambito di "Futurs non-conformes #3", a cura di Nicolas Maigret e Maria Roszkowska). Mostre personali/rappresentanza: galleria BANK (Shanghai), Komiyama Tokyo (mostra personale "Ixlium"), LVL3 (Chicago), collaborazione di abbigliamento con RADD Lounge.
@@ -10,7 +11,6 @@ Artista e designer 3D britannico. Vive a lungo a Shanghai (circa 13 anni) prima 
 Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando estetiche post-internet, cultura del consumo, futurismo e "il pastorale". Più di recente si è concentrato su CG realistica realizzata con game engine, oltre a output fisici/stampati in 3D (abbigliamento, interni, occasionali installazioni). *Taobao-Media*, presentato al Jeu de Paume, è un archivio in corso di immagini surreali di prodotti tratte da Taobao (la piattaforma di e-commerce C2C cinese) — un metodo che trasforma il materiale grezzo del commercio online cinese in un archivio estetico curato. Ha rilasciato interviste su The Creative Independent e Booooooom, che discutono il suo rapporto con tecnologia, social media e il lavorare in 3D.
 
 ## Opere principali
-
 ### Styles and Customs of the 2020s (2017, Carnegie Museum of Art)
 **Descrizione:** opera in realtà virtuale sostenuta dalla Hillman Photography Initiative del Carnegie Museum of Art, Pittsburgh.
 **Lettura critica:** una delle prime opere dell'artista a entrare nel circuito museale statunitense maggiore, applicando il proprio linguaggio iperreale/perturbante al formato VR.
@@ -43,15 +43,10 @@ Il lavoro di Laughton si colloca tra iperrealtà e perturbante, attraversando es
 
 **Approfondimento:** [It's Nice That — "How the art of PC Music revolutionised a visual world for pop music"](https://www.itsnicethat.com/features/pc-music-graphic-design-010222)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Carnegie Museum of Art (via Vimeo), Jeu de Paume, Komiyama Tokyo G e It's Nice That.
+## Interviste e talk
 - [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
-- [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)
-- [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
 
 ## Fonti
-- [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
 - [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)
 - [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)
 - [Carnegie Museum of Art — Hillman Photography Initiative](https://carnegieart.org/art/hillman-photography-initiative/)
@@ -61,9 +56,8 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [ANIMAL New York — "Artist's Notebook: Kim Laughton"](https://animalnewyork.com/2014/07/21/artists-notebook-kim-laughton/)
 - [LVL3 (Chicago) — pagina artista](https://lvl3official.com/kim-laughton/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della CGI iperreale/post-internet applicata al video musicale e al commercio online.
-- Da verificare con fonte diretta: attribuzione esatta dei singoli video PC Music (QT ed EasyFun) — confermata da fonti secondarie ma da controllare direttamente sul sito dell'artista o sui crediti ufficiali dei video.
-- Video ulteriori da cercare: eventuali documentazioni video dei visual per PC Music o della mostra al Carnegie Museum — non reperiti direttamente durante la ricerca, da verificare su Vimeo/YouTube.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Carnegie Museum of Art (via Vimeo), Jeu de Paume, Komiyama Tokyo G e It's Nice That.
+- [The Creative Independent — profilo/intervista](https://thecreativeindependent.com/people/kim-laughton/)
+- [The Creative Independent — "on technology, social media and working in 3D"](https://thecreativeindependent.com/people/artist-and-designer-kim-laughton-on-technology-social-media-and-working-in-3d/)
+- [Jeu de Paume — Taobao-Media](https://jeudepaume.org/en/evenement/taobao-media-kim-laughton/)

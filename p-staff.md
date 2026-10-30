@@ -12,7 +12,6 @@ Nato nel 1987 a Bognor Regis, Regno Unito; laureato a Goldsmiths, University of 
 Filmmaker, artista di installazioni e poeta. Il lavoro combina performance, installazione e video per rendere percepibile come storia, tecnologia, capitalismo e diritto abbiano trasformato la costituzione sociale contemporanea dei corpi. Le installazioni sono spesso concepite come ambienti totali — luce, suono, architettura — che agiscono direttamente sul sistema percettivo dello spettatore (affaticamento retinico, persistenza dell'immagine, dispositivi quasi psicotropi), piuttosto che come semplice proiezione di immagini in movimento: un uso della tecnologia dell'illuminazione e del suono come materiale scultoreo/performativo. Riferimenti teorici ricorrenti: necropolitica di Achille Mbembe, affect theory, transpoetica (Che Gossett, Eva Hayward).
 
 ## Opere principali
-
 ### Weed Killer (2017, MOCA Los Angeles)
 **Descrizione:** installazione video sulla chemioterapia come "veleno usato come cura" (*pharmakon*).
 
@@ -27,7 +26,8 @@ Filmmaker, artista di installazioni e poeta. Il lavoro combina performance, inst
 **Descrizione:** installazione di luce e suono (con la designer Josephine Wang e il sound designer Lukas Frank), allestita al piano terra e sulla monumentale scala d'ingresso del Complesso dell'Ospedaletto. Affronta il fenomeno della "lucidità terminale" — momento di improvvisa chiarezza mentale che può manifestarsi in persone con malattie neurodegenerative in prossimità della morte. Sagome bianche impresse su sfondi cromatici ad alta saturazione, calibrati per affaticare la retina: le forme restano impresse come presenze spettrali mentre i colori virano ai complementari (il rosso diventa ciano). Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
 **Lettura critica:** esperienza al confine fra percezione e allucinazione — la tecnologia dell'illuminazione usata come dispositivo diretto sul sistema nervoso dello spettatore, non come semplice supporto per l'immagine.
 
-## Immagini
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Wikipedia — P. Staff](https://en.wikipedia.org/wiki/P._Staff)
@@ -37,9 +37,5 @@ Filmmaker, artista di installazioni e poeta. Il lavoro combina performance, inst
 - [Flash Art — "La lucidità terminale di Canicula"](https://flash---art.it/2026/07/la-lucidita-terminale-di-canicula-fondazione-in-between-art-film-complesso-dellospedaletto-venezia/)
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
 
----
-
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra CANICULA (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia), agosto 2026 — cartello mostra fotografato in loco, poi approfondito con ricerca web (nessuna foto dei pannelli delle singole opere).
-- Vedi anche la scheda in `research-database/contenuti/p-staff.md` per il taglio corpo trans/queer, complementare a questa.
-- Nota sul metodo: molti domini bloccati al fetch diretto in questa sessione — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
+## Mostre viste
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub

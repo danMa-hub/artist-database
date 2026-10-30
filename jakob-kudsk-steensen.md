@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `vr-ar` `game-engine-realtime`
 **Tag tema:** `ecologia-ambiente` `mondi-virtuali-simulazione` `memoria-archivio`
 **Tag corso:** `AW`
+**Stato:** anno di nascita: alcune fonti riportano 1988, la più solida 1987
 
 ## Biografia
 Nato nel 1987 a Køge, in Danimarca. Studia inizialmente pittura all'Università di Aarhus, poi si sposta verso l'arte e i nuovi media, con un anno di studi in antropologia; consegue un BA in Art and New Media ad Aarhus (2012), passa un anno alla Central Saint Martins di Londra per un MFA in Fine Art (2013), e torna a Copenhagen per completare un MA in Storia dell'Arte all'Università di Copenhagen (2014). Vive per circa sei anni a New York, poi si trasferisce a Berlino nel 2019, dove ha uno studio nel programma di residenza Callie's; oggi risulta con base tra Berlino e New York. Riconoscimenti: shortlist al Future Generation Art Prize 2019 (presentazione a Kyiv e alla Biennale di Venezia); finalista al Lumen Prize for Art and Technology (2017); premio per la miglior grafica VR al Cinequest Film & Creativity Festival (2019); Prix du Jury alle Rencontres d'Arles per *Re-Animated*; sostegno di Danish Arts Foundation, Augustinus Foundation e New Carlsberg Foundation. Non risulta rappresentato da una galleria commerciale primaria: la sua carriera si sviluppa soprattutto attraverso commissioni istituzionali (Serpentine, LAS Art Foundation, Fondation Beyeler, Fondation Louis Vuitton, PHI Foundation Montréal, Times Square Arts).
@@ -11,7 +12,6 @@ Nato nel 1987 a Køge, in Danimarca. Studia inizialmente pittura all'Università
 Steensen costruisce quella che la critica definisce "natura digitale" — ecosistemi immersivi realizzati con motori di gioco (principalmente Unreal Engine), che fondono ricerca sul campo, dati biologici, registrazioni sonore spaziali e scansione 3D/fotogrammetria in paesaggi virtuali speculativi e spesso generativi, per affrontare ecologia, estinzione, tempo profondo e paesaggio simulato come memoria ecologica. L'artista definisce il proprio metodo "slow media" — usare la tecnologia digitale e un lavoro sul campo di lunga durata per richiamare l'attenzione sul mondo naturale e costruire nuove narrazioni di futuri ecologici. Per *Re-Animated* la ricerca comincia all'American Museum of Natural History di New York, che conserva esemplari ottocenteschi dell'ʻōʻō di Kauaʻi; per *Berl-Berl*, due settimane di fotogrammetria macro sul campo in canoa nella riserva della biosfera dello Spreewald (Brandeburgo), fino a 2.000 foto per singolo oggetto; per *Boreal Dreams*, ricerca condotta al Marcell Experimental Forest (Minnesota), dove gli scienziati simulano condizioni di riscaldamento globale su ecosistemi boreali. Hans Ulrich Obrist (direttore artistico della Serpentine) ha dialogato direttamente con lui per il numero 39 di *CURA* magazine, "Are We Eternal Beings?", dedicato a vita, morte, estinzione e immortalità — un ancoraggio critico importante per la sua ricerca su memoria ecologica e tempo profondo. Un saggio accademico sulla rivista curatoriale peer-reviewed *On-Curating* (numero 63) analizza *Berl-Berl* e *Boreal Dreams* attraverso la lente di "mondi virtuali ed ecologia digitale nel complesso espositivo di internet", discutendo come il suo lavoro fonda estetica del videogioco/simulazione e narrazione ecologica.
 
 ## Opere principali
-
 ### Re-Animated (2017-2019)
 **Descrizione:** installazione multimediale VR/video che ricostruisce l'ʻōʻō di Kauaʻi, uccello hawaiano estinto, e il suo habitat, a partire da una ricerca iniziata all'American Museum of Natural History di New York. Il vero richiamo di accoppiamento dell'uccello — registrato dell'ultimo maschio vivente, circolato su YouTube prima dell'estinzione funzionale della specie, coincidente con l'anno di nascita dell'artista — è il detonatore emotivo e concettuale dell'opera: l'installazione permette di entrare in un'isola simulata di Kauaʻi dove flora e fauna crescono ed evolvono algoritmicamente, con una partitura generativa di Michael Riesman (direttore musicale del Philip Glass Ensemble). Formato: VR e due video 4K, fogliame scansionato in 3D, hardware personalizzato, luce LED. Vince il premio per la miglior grafica VR al Cinequest 2019 e il Prix du Jury alle Rencontres d'Arles; presentato come parte della shortlist del Future Generation Art Prize 2019 (Kyiv/Venezia).
 **Lettura critica:** un lavoro che usa la tecnologia di simulazione non per costruire un futuro speculativo ma per riportare in vita, letteralmente in forma sonora e visiva, una specie già persa — la simulazione come atto di lutto e di memoria, non di fuga.
@@ -54,9 +54,8 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 
 **Approfondimento:** [jakobsteensen.com — Boreal Dreams](http://www.jakobsteensen.com/boreal-dreams)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", dal sito ufficiale [jakobsteensen.com](http://www.jakobsteensen.com) e da Serpentine Galleries.
+## Interviste e talk
+- [CURA magazine — conversazione con Hans Ulrich Obrist](https://curamagazine.com/digital/jakob-kudsk-steensen/)
 
 ## Fonti
 - [jakobsteensen.com — sito ufficiale](http://www.jakobsteensen.com/about)
@@ -66,13 +65,7 @@ Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sott
 - [Kadist — Re-Animated](https://kadist.org/work/re-animated/)
 - [Rhizome — profilo artista](https://rhizome.org/editorial/2018/dec/14/artist-profile-jakob-kudsk-steensen/)
 - [On-Curating (n. 63) — saggio accademico su Berl-Berl e Boreal Dreams](https://www.on-curating.org/issues/issue-63/issue-63-reader/virtual-worlds-and-digital-ecology-in-the-exhibitionary-internet-complex-jakob-kudsk-steensen-s-berl-berl-and-boreal-dreams.html)
-- [CURA magazine — conversazione con Hans Ulrich Obrist](https://curamagazine.com/digital/jakob-kudsk-steensen/)
 - [Fondation Louis Vuitton — Open Space #17, The Song Trapper](https://www.fondationlouisvuitton.fr/en/events/open-space-17-jakob-kudsk-steensen-the-song-trapper)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di modellazione digitale 3D*, insieme a Harun Farocki, Rebecca Allen, Pierre Huyghe, Clement Valla, Alan Warburton, Lawrence Lek, Ian Cheng, Morehshin Allahyari, Daniel Rourke, David O'Reilly, Sondra Perry, Theo Triantafyllidis, Forensic Architecture.
-- ⚠️ Correzioni: alcune fonti circolanti riportano l'anno di nascita 1988 — la fonte più solida indica 1987. Non risulta nessun collegamento tra *Re-Animated* e la Fondation Cartier (citata in alcune fonti secondarie non verificate): le sedi effettivamente documentate sono Kadist, Toke Lykkeberg Gallery, VR Arles Festival e il contesto del Future Generation Art Prize/PinchukArtCentre.
-- Opere recenti non ancora incluse per mancanza di doppia fonte solida, da verificare prima di aggiungere: *The Ephemeral Lake* (2024, Hamburger Kunsthalle), *Beyond the Glacier* (2023, Teylers Museum, Haarlem), *Psychosphere* (2025, Cisternerne/Frederiksberg Museums), *Otherworlds* (2026, PHI Foundation Montréal, prima personale canadese).
-- Video ulteriori: [conversazione con Hans Ulrich Obrist (YouTube, Serpentine)](https://www.youtube.com/watch?v=ep_O4GQrOOU); canale Vimeo dell'artista: [vimeo.com/jakobsteensen](https://vimeo.com/jakobsteensen).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", dal sito ufficiale [jakobsteensen.com](http://www.jakobsteensen.com) e da Serpentine Galleries.

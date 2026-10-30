@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `procedurale-generativo`
 **Tag tema:** `capitalismo-lavoro` `sorveglianza-controllo` `fantascienza-speculativa`
+**Stato:** da verificare prima di aggiungerle: Mythological Menagerie, Unicorn in the Garden, Crown Juuls I (2023), citate solo da fonti secondarie
 
 ## Biografia
 Nato il 14 settembre 1986 a Rockaway Beach, Queens, New York. Consegue un BFA in computer graphics al New York Institute of Technology (2008) e un MFA alla University of Maryland (2011). Vive e lavora a Washington D.C., dove è professore associato e direttore del Dipartimento d'Arte della Catholic University of America (CUA). Rappresentato dalla galleria bitforms di New York. Riconoscimenti: Trawick Prize (premio "Ruby Award" per il miglior lavoro in mostra). Opere nelle collezioni della DC Commission on the Arts and Humanities e del Crystal Bridges Museum of American Art.
@@ -10,7 +11,6 @@ Nato il 14 settembre 1986 a Rockaway Beach, Queens, New York. Consegue un BFA in
 Monaghan lavora esclusivamente con software di animazione 3D/CGI di livello professionale (lo stesso usato in cinema, videogiochi e pubblicità) per costruire mondi video in loop, senza riprese dal vivo, attori o montaggio nel senso tradizionale. Lo descrive lui stesso, in un post sul blog del Crystal Bridges Museum intitolato "Man Without a Movie Camera": "non c'è film, non c'è ripresa, non ci sono attori, pochi montaggi, nessun dialogo, e di solito nessun inizio o fine specifici... [le opere] funzionano più come finestre su un altro mondo." Il critico G. Roger Denson, su *HuffPost*, legge *The Pavilion* come evocazione di "una direttiva distintamente autoritaria che ci comanda in modo ominoso, per quanto sardonico", inquadrando il lavoro come cattura "di una fissazione americana permanente, per quanto minacciosa, sul potere usurpato e sullo squilibrio osceno della ricchezza acquisita attraverso l'appiattimento della democrazia". Mark Jenkins, sul *Washington Post*, ha recensito la mostra "Out of the Abyss" a VisArts (2019) come "una mostra rivelatrice". Un'intervista estesa su *BOMB Magazine* ("New Myths: Jonathan Monaghan Interviewed", 2019) approfondisce la lettura del suo lavoro come "nuova mitologia" contemporanea: fonti popolari — architettura storica, iconografia religiosa, design, fantascienza, pubblicità — vengono ricombinate per mettere in scena ansie condivise su tecnologia, sorveglianza, consumismo e concentrazione di ricchezza e potere.
 
 ## Opere principali
-
 ### Mothership (2013)
 **Descrizione:** animazione CGI in loop continuo di 15 minuti. Combina riferimenti alla fantascienza, ai videogiochi e alla storia dell'arte (tra i riferimenti citati: Rainbow Road di Super Mario Kart 64, il paesaggismo romantico tedesco, il Technodrome delle Tartarughe Ninja) in una satira del potere corporativo/tecnologico e della ricchezza. Tra le prime opere d'arte registrate sul protocollo blockchain Ascribe (autunno 2013).
 **Lettura critica:** anticipa di anni il dibattito sull'autenticazione blockchain delle opere digitali, applicandolo però a un'opera che è già essa stessa una satira dell'eccesso tecnologico e corporativo.
@@ -47,29 +47,22 @@ Monaghan lavora esclusivamente con software di animazione 3D/CGI di livello prof
 
 **Approfondimento:** [jonathanmonaghan.com — The Gilded Passage](https://jonathanmonaghan.com/work/gilded-passage/)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da bitforms gallery, Brooklyn Rail e Vimeo.
-- [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
-- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)
-- [Crystal Bridges Museum — blog, "Man Without a Movie Camera"](https://crystalbridges.org/blog/jonathan-monaghan-man-without-movie-camera/)
+## Interviste e talk
+- [BOMB Magazine — "New Myths: Jonathan Monaghan Interviewed" (2019)](https://bombmagazine.org/articles/2019/07/31/jonathan-monaghan-interviewed/)
 
 ## Fonti
 - [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
 - [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)
 - [Crystal Bridges Museum — blog, "Man Without a Movie Camera"](https://crystalbridges.org/blog/jonathan-monaghan-man-without-movie-camera/)
 - [The Washington Post — recensione di "Out of the Abyss" (2019)](https://www.washingtonpost.com/entertainment/museums/in-the-galleries-a-revelatory-exhibition-by-dc-artist-jonathan-monaghan/2019/07/26/fc636fd6-acad-11e9-a0c9-6d2d7818f3da_story.html)
-- [BOMB Magazine — "New Myths: Jonathan Monaghan Interviewed" (2019)](https://bombmagazine.org/articles/2019/07/31/jonathan-monaghan-interviewed/)
 - [HuffPost — G. Roger Denson, "Ritualized Oligarchy and the Plight of Innocence..."](https://huffingtonpost.com/g-roger-denson/ritualized-oligarchy-and-_b_7444266.html)
 - [Brooklyn Rail — recensione di The Disco Beast](https://brooklynrail.org/2017/12/artseen/JON-MONAGHAN-The-Disco-Beast/)
 - [MTA Arts & Design — The Gilded Passage](https://www.mta.info/agency/arts-design/digital-art/gilded-passage)
 - [Luster Magazine — su The Gilded Passage (2025)](https://lustermagazine.com/2025/05/20/grand-centrals-unicorn-commute-jonathan-monaghans-the-gilded-passage/)
 - [The Catholic University of America — profilo docente](https://art.catholic.edu/faculty-and-research/faculty-profiles/index.html)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Triennio)*, insieme a Keiichi Matsuda, Metahaven, Alan Warburton, Harun Farocki, Vladan Joler, Rosa Menkman, Jon Rafman, David O'Reilly, Sabrina Ratté, Yoshi Sodeoka, Daniel Felstead.
-- ⚠️ Titoli citati in fonti secondarie ma non trovati/non verificabili — non includere senza fonte diretta: "Escapement" (2013, probabile confusione con *Mothership* o *Office*, entrambi del 2013); "Dear Deer"; "Le Petit Mort"/"La Petite Morte"; "Hippocrene" (2018, opera VR — non risulta nessuna opera in realtà virtuale interattiva nell'intero corpus dell'artista, che lavora sempre con video pre-renderizzati in loop, non con visori/interattività in tempo reale).
-- Opere aggiuntive citate solo da fonti secondarie sottili, da verificare prima di aggiungerle come opere principali: *Mythological Menagerie* (2023), *Unicorn in the Garden* (2023), *Crown Juuls I* (2023).
-- Video ulteriori: canale Vimeo dell'artista: [vimeo.com/jonathanmonaghan](https://vimeo.com/jonathanmonaghan/videos).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da bitforms gallery, Brooklyn Rail e Vimeo.
+- [jonathanmonaghan.com — sito ufficiale](https://jonathanmonaghan.com/bio-cv/)
+- [bitforms gallery — pagina artista](https://www.bitforms.art/artist/jonathan-monaghan)
+- [Crystal Bridges Museum — blog, "Man Without a Movie Camera"](https://crystalbridges.org/blog/jonathan-monaghan-man-without-movie-camera/)

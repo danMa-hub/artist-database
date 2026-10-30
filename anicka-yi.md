@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `intelligenza-artificiale-generativa`
 **Tag tema:** `ecologia-ambiente` `genere-queerness` `colonialismo-decolonialita`
+**Stato:** da verificare prima di citarla in classe: la citazione del 2026 sull'IA a rinforzo (fonte secondaria) · da approfondire: The Flavor Genome (2016)
 
 ## Biografia
 Nata nel 1971 a Seoul, Corea del Sud. La famiglia emigra quando ha circa due anni, vivendo prima in Alabama, poi in Florida, poi nella California meridionale; la madre lavora in un'azienda biomedica, il padre, ingegnere, diventa pastore protestante. Frequenta l'Hunter College di New York e la University of California, Los Angeles, senza però una formazione artistica accademica formale — inizia a fare arte solo attorno ai trent'anni, dopo aver lavorato a Londra come stylist di moda e copywriter pubblicitaria; il primo lavoro artistico documentato risale al 2008, con il collettivo "Circular File". Vive e lavora a New York, con studio a Brooklyn. Riconoscimenti: Louis Comfort Tiffany Foundation Award (2011); Hugo Boss Prize 2016 (Guggenheim, 100.000 dollari), la cui giuria elogia il suo "peculiare abbraccio del disagio nei suoi esperimenti con tecnologia, scienza e i mondi vegetale e animale". Nel 2021-22 realizza la Hyundai Commission per la Turbine Hall della Tate Modern, il suo progetto più ambizioso fino a quel momento. Rappresentata da Gladstone Gallery, 47 Canal ed Esther Schipper; dal marzo 2026 entra anche nella scuderia di Pace Gallery (prima personale da Pace prevista nel 2027).
@@ -12,7 +13,6 @@ Nata nel 1971 a Seoul, Corea del Sud. La famiglia emigra quando ha circa due ann
 Yi descrive la propria pratica attraverso il concetto di una "biopolitica dei sensi" — come la percezione sensoriale, in particolare l'olfatto, sia culturalmente e politicamente condizionata, non neutra. Collabora sistematicamente con scienziati e ingegneri: il biologo sintetico Tal Danino (opere batteriche, dal 2015), biologi molecolari e chimici forensi della Columbia University (per *Immigrant Caucus*, 2017), ingegneri robotici e biologi per gli "aerobi" della Tate. Distingue quella che chiama "Artificial General Intelligence" da una propria "Artificial Physical Intelligence" — macchine intese come "specie" incarnate ed evolutive dentro un ecosistema, non software disincarnato: una distinzione centrale nel progetto per la Turbine Hall. In un'intervista recente (2026) dichiara: "Rifiuto l'intero modello di IA a rinforzo (reinforcement learning) oggi popolare... Dobbiamo pensare alla fisica dell'IA" (citazione da verificare sulla fonte diretta prima di riportarla testualmente). Descrive il proprio studio come un "ecosistema" di collaboratori umani e non umani: "Il mio studio funziona più come un ecosistema che come un laboratorio, e io sono un nodo al suo interno, insieme a scienziati, macchine, microbi e materiali." Il catalogo *Metaspore* (Pirelli HangarBicocca, 2022) include saggi dello storico dell'arte Giovanni Aloi e della professoressa Rachel Lee, oltre a una conversazione tra Yi e il micologo Merlin Sheldrake. *Artforum* ha recensito la commissione alla Tate paragonandola a "The Weather Project" di Olafur Eliasson.
 
 ## Opere principali
-
 ### You Can Call Me F (2015, The Kitchen, New York)
 **Descrizione:** installazione multisensoriale su contagio, femminismo e reti femminili. In collaborazione con il biologo sintetico Tal Danino, fa crescere un "batterio collettivo" coltivato da campioni di saliva/tampone prelevati da circa cento donne della propria cerchia (amiche, donne del mondo dell'arte), producendo odore e crescita di muffa per tutta la durata della mostra. Opera centrale: *Grabbing At Newer Vegetables*, un testo ("YOU CAN CALL ME F") dipinto in agar/campioni biologici che viene progressivamente oscurato dalla crescita batterica.
 **Lettura critica:** letta criticamente come un accostamento tra la paura del contagio/igiene e la paura patriarcale delle reti di solidarietà femminile — il corpo collettivo delle partecipanti diventa letteralmente il materiale dell'opera.
@@ -53,9 +53,8 @@ Yi descrive la propria pratica attraverso il concetto di una "biopolitica dei se
 
 **Approfondimento:** [anickayistudio.biz/exhibitions/message-from-the-mud](https://www.anickayistudio.biz/exhibitions/message-from-the-mud)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [anickayistudio.biz](https://www.anickayistudio.biz/).
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [anickayistudio.biz — sito ufficiale](https://www.anickayistudio.biz/)
@@ -69,11 +68,5 @@ Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sott
 - [Ca' Foscari University Venezia — capitolo accademico open-access sulla biopolitica in Anicka Yi](https://edizionicafoscari.unive.it/media/pdf/books/978-88-6969-757-9/978-88-6969-757-9-ch-08.pdf)
 - [ArtNews — "5 Works to Know"](https://www.artnews.com/list/art-news/artists/anicka-yi-most-famous-works-1234606704/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito della biotecnologia e dell'ecologia speculativa nell'arte contemporanea.
-- ⚠️ Da verificare direttamente prima di citarla testualmente in classe: la citazione 2026 sull'IA a rinforzo, riportata solo tramite fonte secondaria.
-- Opera aggiuntiva da approfondire: *The Flavor Genome* (2016, video 3D di 22 minuti girato in Amazzonia, proiettato al Whitney Biennial 2017).
-- Mostra recente più estesa in Asia: "There Exists Another Evolution, But In This One" (Leeum Museum of Art, Seoul, 2024; UCCA Center for Contemporary Art, Pechino, 2025).
-- Video ulteriori da vedere in aula: [Tate, "In Love With The World – Anicka Yi at the Tate Modern" (YouTube)](https://www.youtube.com/watch?v=ggIGIflcknQ); [Art21/PBS, "Anicka Yi in 'Bodies of Knowledge'" (studio visit)](https://art21.org/watch/art-in-the-twenty-first-century/s11/anicka-yi-in-bodies-of-knowledge/).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [anickayistudio.biz](https://www.anickayistudio.biz/).

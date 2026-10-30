@@ -13,7 +13,6 @@ ArtefactoryLab è uno studio parigino specializzato nella rappresentazione visiv
 ArtefactoryLab produce immagini, animazioni ed esperienze VR per conto di studi di architettura, spesso anni prima del completamento reale degli edifici raffigurati — un genere di immagine professionale che condivide con l'arte contemporanea le stesse tecniche (modellazione 3D, rendering, compositing entro un contesto urbano fotografato) ma con una funzione dichiaratamente diversa: informare fedelmente su un progetto reale, anziché costruire una finzione dichiarata. Un raro testo critico/accademico indipendente che discute esplicitamente un'immagine di ArtefactoryLab è il post del blog *Picturing Architecture* ("Des usages et réalismes de l'image d'architecture", 25 giugno 2013), che confronta un'immagine dello studio realizzata per un progetto OMA con un fotomontaggio dell'artista Victor Enrich: entrambi usano tecniche identiche, ma mentre il lavoro di Enrich viene letto come finzione/arte, l'immagine ArtefactoryLab/OMA è tenuta allo standard di "informare fedelmente" su un progetto reale. L'autore del blog sostiene che il rischio di inganno non risieda nella tecnica di rendering in sé, ma nel modo in cui queste immagini vengono usate e presentate da architetti, promotori immobiliari e stampa — un punto di vista utile per una lettura critica in aula del confine sempre più sottile fra CGI documentaria e CGI artistica.
 
 ## Opere principali
-
 ### Louvre Abu Dhabi, render per Ateliers Jean Nouvel (edificio completato 2017)
 **Descrizione:** visualizzazioni CGI (render accreditati a Eric Anton) per il museo progettato da Jean Nouvel ad Abu Dhabi, caratterizzato da un'imponente cupola traforata che produce un effetto di "pioggia di luce". Le immagini vengono prodotte con diversi anni di anticipo rispetto al completamento reale dell'edificio.
 **Lettura critica:** un caso di studio paradigmatico del ruolo persuasivo/anticipatorio della CGI architettonica in contesti di concorso e raccolta fondi — il confronto fra i render "dell'edificio completato" prodotti anni prima e la fotografia reale dell'edificio finito offre un ottimo spunto didattico sulla natura promissoria di questo genere di immagine.
@@ -39,9 +38,8 @@ ArtefactoryLab produce immagini, animazioni ed esperienze VR per conto di studi 
 
 **Approfondimento:** [youtube.com/watch?v=pirOQxnV5Nk](https://www.youtube.com/watch?v=pirOQxnV5Nk)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali". Il sito ufficiale [artefactorylab.com](https://www.artefactorylab.com/en/) usa una galleria WebGL/canvas non estraibile via markup, quindi le immagini sono state recuperate da fonti terze che le ospitano con credito allo studio (Architizer, atelierfemia.com, YouTube).
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [artefactorylab.com — sito ufficiale](https://www.artefactorylab.com/en/)
@@ -55,11 +53,5 @@ Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto l
 - [VR Marketing — profilo azienda](https://www.virtualrealitymarketing.com/company/artefactorylab/)
 - [Vimeo — canale ufficiale](https://vimeo.com/artefactorylab)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero".
-- ⚠️ Correzione rispetto alla traccia di ricerca iniziale: non è stata reperita alcuna prova di installazioni artistiche su larga scala in senso proprio — il nucleo dell'attività dello studio è la CGI/VR di architettura e urbanistica per clienti professionali, non l'arte da galleria.
-- ⚠️ Da non includere senza ulteriore verifica: un ruolo dello studio nella visualizzazione del Grand Paris Express o in progetti di ricostruzione/VR di Notre-Dame de Paris — ricerche mirate su entrambi i temi non hanno trovato alcun collegamento con ArtefactoryLab.
-- Cross-link: possibile collegamento con la scheda [Sturm&Drang / Sturm&Drang Studio](sturm-und-drang-studio.md), già presente nel database.
-- Nota sul metodo: il WebFetch diretto su artefactorylab.com è stato bloccato dal proxy di rete durante la ricerca — raccomandata verifica diretta delle pagine "About" e "Projets" prima della pubblicazione finale.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali". Il sito ufficiale [artefactorylab.com](https://www.artefactorylab.com/en/) usa una galleria WebGL/canvas non estraibile via markup, quindi le immagini sono state recuperate da fonti terze che le ospitano con credito allo studio (Architizer, atelierfemia.com, YouTube).

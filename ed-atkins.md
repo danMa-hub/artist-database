@@ -11,7 +11,6 @@ Artista britannico, nato nel 1982, cresciuto a Stonesfield, un paese vicino a Ox
 Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali — come stand-in di sé stesso, mappando il proprio volto sul modello tramite motion capture. Il suo lavoro esplora il divario tra la perfezione apparente dell'immagine digitale e la fragilità, la finitezza e la malinconia dell'esperienza umana: gli avatar cadono nella "valle perturbante", con pelle simile a cera e movimenti goffi, portati al massimo dettaglio tecnico solo per rivelarne il fallimento nel catturare la vita vera. Il processo creativo parte quasi sempre dalla scrittura — testo come "sceneggiatura" che dà una parvenza di interiorità a figure altrimenti vuote — e da un sound design viscerale (respiri, deglutizioni, singhiozzi) che contrasta con l'immagine, re-iniettando fisicità in ciò che la CGI ha svuotato. Ha pubblicato anche un libro di testi, *A Primer for Cadavers*.
 
 ## Opere principali
-
 ### Us Dead Talk Love (2012)
 **Descrizione:** video a due canali con avatar digitale, esplora intimità e incarnazione digitale.
 **Lettura critica:** primo lavoro maturo sul corpo digitale come "guscio vuoto" che performa emozioni senza poterle davvero provare.
@@ -69,12 +68,8 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 
 ⚠️ Nessuna immagine trovata: le fonti individuate (Mimic Productions, Gladstone Gallery, Instagram/Facebook) non espongono immagini dirette scaricabili automaticamente.
 
-## Immagini
-
-Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Opere principali" — fotogrammi Vimeo/YouTube per i lavori senza immagine diretta disponibile, più fonti dirette (MoMA, Stedelijk) dove trovate.
-- [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
-- [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)
-- [Gladstone Gallery — biografia](https://www.gladstonegallery.com/artist/ed-atkins)
+## Interviste e talk
+- [Fantastic Man — intervista](https://www.fantasticman.com/articles/ed-atkins/)
 
 ## Fonti
 - [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
@@ -84,15 +79,12 @@ Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Op
 - [e-flux — criticism](https://www.e-flux.com/criticism/666807/ed-atkins)
 - [Dazed Digital — 58 Ed Atkins](https://www.dazeddigital.com/projects/article/22541/1/58-ed-atkins)
 - [SSENSE — I Am Not an Authority on Who I Am](https://www.ssense.com/en-us/editorial/art/i-am-not-an-authority-on-who-i-am)
-- [Fantastic Man — intervista](https://www.fantasticman.com/articles/ed-atkins/)
 - [Kunstsammlung Düsseldorf — Old Food](https://www.kunstsammlung.de/en/exhibitions-archive/ed-atkins-ye-olde-food-en)
 - [e-flux — annuncio Old Food](https://www.e-flux.com/announcements/244172/ed-atkinsye-olde-food)
 - Portfolio/sito ufficiale personale: **non individuato** — da cercare (l'artista è rappresentato da gallerie come Cabinet Gallery e dépendance).
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive. Il testo era chiaramente assemblato da una ricerca assistita da AI (link con parametro `utm_source=chatgpt.com`, e un frammento di conversazione non ripulito — un elenco di domande di follow-up rivolte "all'utente" lasciato nel documento). Le citazioni dirette e i link a Tate, Guardian, e-flux, Dazed, SSENSE e Fantastic Man sono **fonti reali verificabili**; ho rimosso i residui di conversazione e mantenuto solo il materiale riconducibile a fonti pubblicate.
-- **Correzione importante (verifica sostanziale)**: la biografia diceva "laureato al Goldsmiths College" — **falso**. Si è laureato al Central Saint Martins (BA) e allo Slade School/UCL (MA, 2009); al Goldsmiths ci ha solo insegnato dal 2012 al 2014.
-- **Immagini recuperate dal documento Drive** (esportazione PDF, 3 immagini): quella dell'installazione con costumi è confermata come *Old Food* (2017-18, costumi del Deutsche Oper Berlin — dettaglio verificato via Kunstsammlung Düsseldorf/e-flux); le altre due sono attribuite **in via probabile ma non certa** a *Warm, Warm, Warm Spring Mouths* (2013), coerenti per estetica e periodo ma non confermate puntualmente.
-- Da cercare ancora: video completi per *Ribbons*, *The Worm*, *Pianowork 2*, *Old Food*.
+## Crediti delle immagini
+Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Opere principali" — fotogrammi Vimeo/YouTube per i lavori senza immagine diretta disponibile, più fonti dirette (MoMA, Stedelijk) dove trovate.
+- [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
+- [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)
+- [Gladstone Gallery — biografia](https://www.gladstonegallery.com/artist/ed-atkins)

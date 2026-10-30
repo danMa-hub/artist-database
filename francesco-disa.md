@@ -10,7 +10,6 @@ Nato a Firenze il 22 settembre 1980. Artista, scrittore, filosofo e curatore ita
 D'Isa affronta l'intelligenza artificiale generativa da una posizione insolita nel panorama italiano: quella del filosofo praticante che usa gli strumenti generativi non come scorciatoia produttiva ma come dispositivo di interrogazione filosofica su creatività, autorialità e percezione estetica. Nel saggio "La rivoluzione algoritmica delle immagini" sostiene che l'irruzione dell'AI generativa non mette in discussione l'arte in sé, ma costringe a rileggere concetti come creatività, autorialità e percezione estetica: le macchine, scrive, non vanno pensate né come autrici né come nemiche, ma come specchi in cui non sempre ci piace vedere ciò che riflettono. Una parte della sua pratica lavora deliberatamente sull'errore computazionale: nel progetto "Error#0" sfida i software di generazione testo-immagine con prompt costruiti apposta per produrre errori di sistema e risposte impreviste, usando il malfunzionamento del modello come strumento espressivo. Il suo lavoro si muove costantemente tra scrittura filosofica, critica e produzione visiva, senza separare nettamente il piano teorico da quello dell'opera.
 
 ## Opere principali
-
 ### Sunyata (2023, Eris Edizioni)
 **Descrizione:** graphic novel realizzato interamente con strumenti di AI generativa (Midjourney v3/v4, Stable Diffusion XL) per la parte grafica, con testi dell'autore. La storia segue una ragazza alla ricerca di un'altra ragazza che potrebbe essere lei stessa, insieme a una chimera mutaforma, in una dimensione onirica dove identità, simboli culturali e sensazioni si fondono in un percorso sull'"io" e sul vuoto esistenziale (da cui il titolo, dal sanscrito "vacuità").
 **Lettura critica:** pubblicato in un momento di forte polemica pubblica sull'uso dell'AI generativa in editoria, il libro è stato letto sia come opera pionieristica sia come provocazione sui limiti dell'autorialità — la fonte Fumettologica ne documenta la ricezione controversa.
@@ -33,10 +32,8 @@ D'Isa affronta l'intelligenza artificiale generativa da una posizione insolita n
 
 **Approfondimento:** [Artribune — mostra Rifugio Digitale (2026)](https://www.artribune.com/arte-contemporanea-2/2026/04/mostra-firenze-disa/)
 
-## Immagini
-
-Immagine e link di approfondimento per due delle tre opere, incluse sotto la relativa descrizione in "Opere principali".
-- [Sito ufficiale dell'artista](https://francescodisa.netlify.app/)
+## Interviste e talk
+- [Poetarum Silva — intervista, "La rivoluzione algoritmica delle immagini"](https://poetarumsilva.com/2024/04/26/la-rivoluzione-algoritmica-delle-immagini-arte-e-intelligenza-artificiale-intervista-a-francesco-disa-a-cura-di-giulia-bocchio/)
 
 ## Fonti
 - [Sito ufficiale dell'artista](https://francescodisa.netlify.app/)
@@ -48,11 +45,7 @@ Immagine e link di approfondimento per due delle tre opere, incluse sotto la rel
 - [Artribune — "La mostra di Francesco D'Isa a Rifugio Digitale a Firenze" (2026)](https://www.artribune.com/arte-contemporanea-2/2026/04/mostra-firenze-disa/)
 - [Artribune — "Apre a Firenze Rifugio Digitale, museo dell'arte digitale" (2022)](https://www.artribune.com/arti-visive/arte-contemporanea/2022/04/firenze-rifugio-digitale-museo-arte-digitale/)
 - [Artuu Magazine — "Francesco D'Isa, quando gli errori dell'AI diventano opere d'arte"](https://www.artuu.it/francesco-disa-quando-gli-errori-dellai-diventano-opere-darte/)
-- [Poetarum Silva — intervista, "La rivoluzione algoritmica delle immagini"](https://poetarumsilva.com/2024/04/26/la-rivoluzione-algoritmica-delle-immagini-arte-e-intelligenza-artificiale-intervista-a-francesco-disa-a-cura-di-giulia-bocchio/)
 
----
-
-## Appunti da organizzare
-- Scheda scritta il 19 agosto 2026, ricerca sulla scena italiana. Nota sul metodo: WebFetch bloccato in sandbox — contenuti da snippet WebSearch, da riverificare prima di uso didattico.
-- Profilo particolare rispetto agli altri artisti della scheda: D'Isa è insieme artista, critico e teorico (saggista, direttore editoriale de "L'Indiscreto") — utile didatticamente proprio per discutere il rapporto tra pratica e teoria nell'AI art, ma da presentare con questa doppia natura esplicitata.
-- Da approfondire: mostre ed esposizioni precedenti a "Latent Rooms" — le fonti raccolte in questa sessione documentano bene la produzione editoriale/saggistica ma solo parzialmente il percorso espositivo pregresso (prima del 2022-2026).
+## Crediti delle immagini
+Immagine e link di approfondimento per due delle tre opere, incluse sotto la relativa descrizione in "Opere principali".
+- [Sito ufficiale dell'artista](https://francescodisa.netlify.app/)

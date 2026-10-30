@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `modellazione-3d` `videogioco-simulazione` `procedurale-generativo`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
 **Tag corso:** `TAD` `AW` `M3D`
+**Stato:** non confermato: l'ingresso di Everything nella collezione permanente del MoMA (da verificare su moma.org) · da verificare il progetto EACHOTHER (2026)
 
 ## Biografia
 Nato il 21 giugno 1985 a Kilkenny, Irlanda. Autodidatta, senza formazione accademica in animazione computerizzata: inizia a lavorare da adolescente allo studio Cartoon Saloon di Kilkenny. Si trasferisce a Londra, dove entra nel collettivo di design e regia Shynola (lavorandovi di notte mentre di giorno è impiegato allo Studio AKA), contribuendo a un video musicale di Beck ("E-Pro") e a segmenti animati per *Guida galattica per autostoppisti* di Garth Jennings (2005). Nel 2007 si trasferisce a Berlino per lavorare in autonomia. Nel 2009 vince l'Orso d'Oro alla Berlinale con *Please Say Something*, il lavoro che gli dà risonanza internazionale. Anima e dirige, nel film *Lei* di Spike Jonze (2013), le sequenze del videogioco olografico con il personaggio "Alien Child" — progetto spesso citato come ciò che lo spinge verso lo sviluppo di veri videogiochi. Dal 2014 realizza *Mountain* ed *Everything* (2017), entrambi pubblicati da Double Fine Productions. Vive e lavora a Los Angeles.
@@ -11,7 +12,6 @@ Nato il 21 giugno 1985 a Kilkenny, Irlanda. Autodidatta, senza formazione accade
 Il tratto distintivo di O'Reilly è un'estetica 3D deliberatamente "low-poly" e non rifinita — ombreggiature piatte, assenza di fonti di luce realistiche, nessuna texture map elaborata — posizionata consapevolmente contro lo standard fotorealistico ad alta definizione imposto da Pixar, DreamWorks e Hollywood in generale. Ha articolato questa posizione nel proprio saggio *Basic Animation Aesthetics*, largamente diffuso online: "C'è un flusso continuo di animazione, sia commerciale sia indipendente, che appare sempre uguale, e non credo debba essere necessariamente così." A proposito di *Please Say Something* scrive: "la mia idea centrale nel costruire il mondo del film era dimostrare che qualcosa di totalmente artificiale e irreale potesse comunque comunicare emozione e reggere una verità cinematografica." Sostiene inoltre che "la chiave dell'estetica è la coerenza" — le regole visive di un mondo possono essere del tutto arbitrarie, purché internamente coerenti. In un'intervista all'*Irish Times* estende questo principio al proprio lavoro interattivo: "Tutta l'arte è una descrizione del mondo, o il mondo che descrive se stesso. Il 3D è un mezzo eccellente per farlo, e lo è ancora di più perché il medium interattivo dei videogiochi è ancora più vicino a questo: si basa su simulazioni, su sistemi vicini al modo in cui funziona la natura." Descrive *Everything* come un "documentario naturalistico giocabile", costruito attorno all'idea di Alan Watts secondo cui "ciò che è caos a un livello di ingrandimento è armonia a un livello di ingrandimento superiore".
 
 ## Opere principali
-
 ### Please Say Something (2009)
 **Descrizione:** cortometraggio di 10 minuti, allegoria minimalista in 3D di una relazione travagliata tra un gatto e un topo "in un futuro remoto". Scritto, diretto e prodotto da O'Reilly, sound design e sintesi vocale di David Kamp, musica di Bram Meindersma. Vince l'Orso d'Oro per il miglior cortometraggio alla Berlinale 2009; la giuria lo definisce "un film che ci ha dato molta emozione, sensibilità e molto su cui riflettere".
 **Lettura critica:** dimostrazione precoce e condensata della tesi della "basic animation aesthetics" — forme deliberatamente rozze e artificiali possono comunque portare un peso emotivo e narrativo autentico.
@@ -57,10 +57,9 @@ Il tratto distintivo di O'Reilly è un'estetica 3D deliberatamente "low-poly" e 
 
 **Approfondimento:** [berlinerfestspiele.de — Eye of the Dream](https://www.berlinerfestspiele.de/en/programm/archiv/the-new-infinity/2018/david-oreilly-eye-of-the-dream)
 
-## Immagini
-
-Immagine per cinque delle sei opere, incluse sotto la relativa descrizione in "Opere principali", da Vimeo, Double Fine e Berliner Festspiele — manca solo *A Glitch Is a Glitch*, le cui fonti con immagini (Rhizome, Adventure Time Wiki) bloccano l'accesso automatizzato.
-- [Berlinale — Please Say Something, programma 2009](https://www.berlinale.de/en/2009/programme/20097362.html)
+## Interviste e talk
+- [The Irish Times — intervista](https://www.irishtimes.com/culture/art-and-design/david-o-reilly-this-irish-game-maker-s-theory-about-everything-1.3096313)
+- [Rhizome — intervista su "A Glitch Is a Glitch"](https://rhizome.org/editorial/2013/apr/25/datamoshing-land-ooo-conversation-david-oreilly/)
 
 ## Fonti
 - [Vimeo — canale ufficiale dell'artista](https://vimeo.com/davidoreilly/videos)
@@ -68,17 +67,10 @@ Immagine per cinque delle sei opere, incluse sotto la relativa descrizione in "O
 - [Double Fine Productions — Everything](https://www.doublefine.com/games/everything)
 - [Double Fine Productions — Mountain](https://www.doublefine.com/games/mountain)
 - [Ars Electronica — blog su Everything](https://ars.electronica.art/aeblog/en/2017/09/07/everything/)
-- [The Irish Times — intervista](https://www.irishtimes.com/culture/art-and-design/david-o-reilly-this-irish-game-maker-s-theory-about-everything-1.3096313)
 - [PBS SoCal Artbound — profilo critico](https://www.pbssocal.org/shows/artbound/you-are-being-generated-the-work-of-animator-david-oreilly)
-- [Rhizome — intervista su "A Glitch Is a Glitch"](https://rhizome.org/editorial/2013/apr/25/datamoshing-land-ooo-conversation-david-oreilly/)
 - [Basic Animation Aesthetics, saggio (PDF)](https://www.media-arts-uts.com/aes1/wp-content/uploads/2012/01/BasicAnimationAesthetics.pdf)
 - [IDFA DocLab — Eye of the Dream](https://www.doclab.org/2018/eye-of-the-dream/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di modellazione digitale 3D*, insieme a Harun Farocki, Rebecca Allen, Pierre Huyghe, Clement Valla, Alan Warburton, Lawrence Lek, Ian Cheng, Morehshin Allahyari, Daniel Rourke, Sondra Perry, Jakob Kudsk Steensen, Theo Triantafyllidis, Forensic Architecture; e in *Tecniche di animazione digitale (Biennio)*, insieme a Ian Cheng, Lawrence Lek, Jacolby Satterwhite, Lu Yang, nell'ambito degli algoritmi di simulazione e dei game engine real-time.
-- ⚠️ Correzione da segnalare se il materiale del corso cita un "lavoro sulle sigle di *Adventure Time*": non risulta un coinvolgimento nella sigla standard 2D della serie (produzione separata, non di O'Reilly), ma nello specifico episodio CGI *A Glitch Is a Glitch* (2013), da lui scritto e diretto.
-- ⚠️ Non confermato: l'ingresso di *Everything* nella collezione permanente del MoMA — il dataset pubblico della collezione MoMA non riporta un'opera di David O'Reilly; risulta invece un evento pubblico "An Evening with David O'Reilly" al MoMA nel 2015. Da verificare direttamente su moma.org prima di citare un ingresso in collezione.
-- ⚠️ Non confermato: il progetto *EACHOTHER* (2026, simulazione dal vivo di un milione di esseri digitali autonomi, presentato all'Hamburg International Short Film Festival) — fonti deboli, da verificare su sub.davidoreilly.com prima di citarlo.
-- Sito ufficiale (davidoreilly.com) non raggiungibile direttamente per restrizioni di rete durante la ricerca — da consultare di persona.
+## Crediti delle immagini
+Immagine per cinque delle sei opere, incluse sotto la relativa descrizione in "Opere principali", da Vimeo, Double Fine e Berliner Festspiele — manca solo *A Glitch Is a Glitch*, le cui fonti con immagini (Rhizome, Adventure Time Wiki) bloccano l'accesso automatizzato.
+- [Berlinale — Please Say Something, programma 2009](https://www.berlinale.de/en/2009/programme/20097362.html)

@@ -13,7 +13,6 @@ Nata nel 1988 a Los Angeles, California. Consegue un BFA alla School of the Art 
 Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice concettuale) per descrivere la propria pratica — un'autodefinizione legata al proprio interesse per la musica indipendente, le attività commerciali gestite da neri e l'"autodeterminazione attraverso un'istituzione sostenibile" (istituzionalizzare se stessi). Il suo lavoro attraversa video, performance, installazione, fotografia, disegno, scultura, editoria e lecture-performance per esaminare le rappresentazioni della blackness, il vernacolo delle sitcom/della televisione americana, le tradizioni femministe e radicali nere, la cultura di internet/dei meme e la circolazione e manipolazione delle immagini. Il testo più citato della sua produzione è **"The Mundane Afrofuturist Manifesto"** (2013, pubblicato da Rhizome, il portale di net art affiliato al New Museum), che argomenta contro le convenzioni spazio-fantascientifiche e aliene tipiche dell'afrofuturismo, proponendo al loro posto un "afrofuturismo mondano" radicato nelle condizioni materiali e politiche quotidiane della vita nera. Il saggio è stato oggetto di trattazione accademica sul *New American Studies Journal*, nell'articolo "The Intertextual Aesthetics of Contemporary Art Manifestos... in Martine Syms's 'The Mundane Afrofuturist Manifesto'". Il suo lavoro riceve ampia attenzione critica: *Artforum* le ha dedicato un'intervista in occasione della mostra "Projects 106" al MoMA (2017) e una recensione della performance "Misdirected Kiss" al The Broad (a firma di Catherine Damman); *frieze* le ha dedicato più articoli, tra cui "The Electricity of Martine Syms's Misdirected Kiss"; *ARTnews* le ha dedicato la rubrica "Consumer Reports" (2015); *The Art Newspaper* ha recensito "She Mad Season One" al MCA Chicago (2022).
 
 ## Opere principali
-
 ### The Mundane Afrofuturist Manifesto (2013, poi ampliato 2014-15)
 **Descrizione:** testo/saggio, in seguito messo in scena come installazione a parete, post di blog e video-lezione di un'ora. Pubblicato per la prima volta su Rhizome (New Museum) il 17 dicembre 2013. Argomenta contro la dipendenza dell'afrofuturismo dai tropi alieni/spaziali, orientando l'immaginazione speculativa nera verso il "mondano", il presente materiale e politico. Ripubblicato/esposto dal Pérez Art Museum Miami (PAMM) come opera di collezione.
 **Lettura critica:** un testo teorico che ha avuto un impatto diretto sul discorso critico dell'afrofuturismo contemporaneo — non solo un manifesto artistico personale, ma un intervento di teoria culturale ampiamente citato e insegnato.
@@ -59,12 +58,8 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 
 **Approfondimento:** [Philadelphia Museum of Art — Neural Swamp](https://www.philamuseum.org/exhibitions/martine-syms-neural-swamp-future-fields-commission)
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dall'archivio dell'artista (shopgoldenage.com), Art Institute of Chicago, Philadelphia Museum of Art e YouTube. Nessuna immagine reperita per *The Mundane Afrofuturist Manifesto* — vedi nota nella sezione corrispondente.
-- [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
-- [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)
-- [MoMA — Lessons I-CLXXX, collezione](https://www.moma.org/collection/works/273168)
+## Interviste e talk
+- [Artforum — intervista su Projects 106 al MoMA](https://www.artforum.com/interviews/martine-syms-discusses-her-projects-exhibition-at-moma-68509)
 
 ## Fonti
 - [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
@@ -75,14 +70,11 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [Philadelphia Museum of Art — Neural Swamp](https://www.philamuseum.org/exhibitions/martine-syms-neural-swamp-future-fields-commission)
 - [MCA Chicago — She Mad Season One](https://mcachicago.org/exhibitions/2022/martine-syms)
 - [The Art Newspaper — recensione di She Mad Season One](https://www.theartnewspaper.com/2022/08/29/martine-syms-museum-contemporary-art-chicago-review)
-- [Artforum — intervista su Projects 106 al MoMA](https://www.artforum.com/interviews/martine-syms-discusses-her-projects-exhibition-at-moma-68509)
 - [ICA Londra — Fact & Trouble (archiviato)](https://archive.ica.art/whats-on/martine-syms-fact-trouble/)
 - [Filmmaker Magazine — su The African Desperate](https://filmmakermagazine.com/114258-martine-syms-the-african-desperate/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza nell'ambito dell'identità digitale nera e della cultura di internet/dei meme.
-- ⚠️ Da verificare prima di citarli con sicurezza in classe: anno esatto di fondazione di Dominica Publishing (2011 o 2012, a seconda della fonte); un'eventuale mostra personale al MOCA Los Angeles annunciata per il 2027 (trovata solo in una fonte secondaria); l'esistenza di un'intervista al Louisiana Channel (non confermata).
-- Mostra recente da approfondire: "Total" (2024-25, Lafayette Anticipations, Parigi), prima retrospettiva francese, allestita come un "concept store"/supermercato che ripercorre il lavoro dal 2007 insieme a merchandise ed edizioni realizzate con marchi commerciali.
-- Video ulteriori da vedere in aula: [Art21, "In the Studio: Martine Syms" (testo e video, 2022)](https://art21.org/read/in-the-studio-martine-syms/); catalogo delle opere video distribuite dal Video Data Bank per proiezioni didattiche: [vdb.org/artists/martine-syms](https://www.vdb.org/artists/martine-syms).
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dall'archivio dell'artista (shopgoldenage.com), Art Institute of Chicago, Philadelphia Museum of Art e YouTube. Nessuna immagine reperita per *The Mundane Afrofuturist Manifesto* — vedi nota nella sezione corrispondente.
+- [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
+- [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)
+- [MoMA — Lessons I-CLXXX, collezione](https://www.moma.org/collection/works/273168)

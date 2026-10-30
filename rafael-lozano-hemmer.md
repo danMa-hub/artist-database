@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `projection-mapping` `data-visualization`
 **Tag tema:** `corpo-identita` `sorveglianza-controllo`
+**Stato:** non ha un dottorato in chimica fisica (solo una laurea triennale): ha un dottorato honorario in Fine Arts (OCAD University, 2025) · da approfondire: Collider (2024)
 
 ## Biografia
 Nato nel 1967 a Città del Messico, artista messicano-canadese. Emigra in Canada nel 1985, dove studia inizialmente alla University of Victoria (British Columbia); consegue poi un Bachelor of Science in chimica fisica alla Concordia University di Montréal (1989), lavorando in un laboratorio di chimica del riconoscimento molecolare e pubblicando su riviste scientifiche prima di dedicarsi interamente all'arte. Vive e lavora a Montréal. Nel 2007 è il primo artista a rappresentare ufficialmente il Messico alla Biennale di Venezia (52ª edizione) — prima presenza in assoluto di un padiglione messicano ufficiale — con la mostra personale *Some Things Happen More Often Than All of the Time*, Palazzo Van Axel, a cura di Príamo Lozada e Bárbara Perea (10 giugno-21 novembre 2007, sei installazioni interattive nel palazzo storico). Riconoscimenti: due BAFTA Award per l'Interactive Art (2002, 2005); Golden Nica del Prix Ars Electronica; Governor General's Award in Visual and Media Arts del Canada Council (2015); Compagnon des Arts et des Lettres du Québec (2016); Rave Award di *Wired*; Rockefeller Fellowship; International Bauhaus Award (Dessau); Trophée des Lumières (Lione); dottorato honoris causa in Fine Arts della OCAD University di Toronto (2025).
@@ -12,7 +13,6 @@ Nato nel 1967 a Città del Messico, artista messicano-canadese. Emigra in Canada
 Lozano-Hemmer è l'autore della serie **"Relational Architecture"** (Architettura Relazionale): eventi interattivi su grande scala che usano robotica, software personalizzato, proiezioni e dati biometrici (battito cardiaco, respiro, impronte digitali, voce) per trasformare temporaneamente edifici simbolici e spazi pubblici/architettonici attraverso la presenza e la partecipazione del pubblico. Sceglie deliberatamente il termine "relazionale" invece di "interattivo", che considera un'estetica "predatoria, da pulsante" — mentre "relazionale" descrive qualcosa di più laterale, in rete, orientato a stabilire relazioni autentiche tra persone, tecnologia e luogo: una posizione esposta nel proprio manifesto "Perverting Technological Correctness" (*Leonardo*, MIT Press, vol. 29 n. 1, 1996). L'idea di fondo, ricorrente in tutta la sua opera, è che gli edifici non siano strutture fisse ma entità capaci di relazioni temporanee con chi li usa — l'obiettivo dichiarato è "materializzare i dati" nello spazio corporeo e architettonico reale, non in una simulazione virtuale che escluda il corpo: il corpo fisico resta l'interfaccia essenziale, non lo schermo. Il teorico dei nuovi media Ulrik Ekman, nel saggio "Of the Untouchability of Embodiment I: Rafael Lozano-Hemmer's Relational Architectures" (*CTheory*, 2012), e l'architetta e teorica María Fernández, in "Illuminating Embodiment: Rafael Lozano-Hemmer's Relational Architectures" (*Architectural Design*, Wiley, 2007), hanno entrambi affrontato criticamente come queste opere ridefiniscano il rapporto tra corpo, architettura e dato in tempo reale. Un articolo dedicato specificamente a *Pulse Room* — "Pulse on pulse: modulation and signification in Rafael Lozano-Hemmer's Pulse Room" (*Journal of Aesthetics & Culture*, Taylor & Francis, 2012) — ne teorizza il funzionamento come dispositivo di modulazione e significazione del battito cardiaco collettivo.
 
 ## Opere principali
-
 ### Vectorial Elevation / Alzado Vectorial — Relational Architecture n. 4 (1999-2000)
 **Descrizione:** installazione realizzata sullo Zócalo di Città del Messico per le celebrazioni del millennio: partecipanti da tutto il mondo, tramite un'interfaccia web 3D, disegnano sculture di luce controllando 18 fari robotici (126.000 watt totali) installati sui tetti attorno alla piazza, visibili fino a 15 km di distanza. Attiva per due settimane, chiude il 7 gennaio 2000 con oltre 800.000 partecipanti da 89 paesi. Rimessa in scena in seguito a Vancouver (Olimpiadi invernali 2010), Dublino (allargamento UE 2004), Lione (Fête des Lumières, 2003) e al Basque Museum of Contemporary Art (2002).
 **Lettura critica:** una delle prime opere a trasformare un intero centro urbano in interfaccia collettiva controllabile da remoto via web, anticipando linguaggi oggi comuni nell'arte partecipativa su scala cittadina.
@@ -55,12 +55,8 @@ Lozano-Hemmer è l'autore della serie **"Relational Architecture"** (Architettur
 
 **Approfondimento:** [bordertuner.net](https://www.bordertuner.net/)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da MoMA.
-- [lozano-hemmer.com — sito ufficiale, biografia](https://www.lozano-hemmer.com/bio.php)
-- [bitforms gallery — biografia ufficiale (PDF)](https://www.bitforms.art/wp-content/uploads/2024/07/lozano-hemmer_bio.pdf)
-- [MoMA — Pulse Room, collezione](https://www.moma.org/collection/works/180180)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [lozano-hemmer.com — sito ufficiale, biografia](https://www.lozano-hemmer.com/bio.php)
@@ -75,11 +71,8 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [e-flux — Messico alla Biennale di Venezia 2007](https://www.e-flux.com/announcements/40731/mexico-at-the-venice-biennale-2007)
 - [Canadian Art — su Pulse Room](https://canadianart.ca/features/pulse-room/)
 
----
-
-## Appunti da organizzare
-- Citato in *Tecniche di animazione digitale (Biennio)*, insieme a Klaus Obermaier, Miwa Matreyek, Nathaniel Stern e Robert Seidel, per l'interazione tra corpo fisico e proiezioni digitali.
-- ⚠️ Correzione importante da ricordare in classe: non ha un dottorato in chimica fisica (solo una laurea triennale), il dottorato che possiede è honorario in Fine Arts (OCAD University, 2025).
-- Non verificati con fonte solida (citati da fonte singola, da controllare prima di ripetere con sicurezza): nomination a un European Film Award; un eventuale saggio dedicato di Peter Weibel su Lozano-Hemmer, oltre alla presenza condivisa nell'antologia *Light Art from Artificial Light* (ZKM, 2006).
-- Video ulteriori da vedere in aula: [Voz Alta, l'artista spiega l'opera (YouTube, in spagnolo)](https://www.youtube.com/watch?v=xSvpzgsDT9Q); canale Vimeo del bitforms (galleria), con documentazione di molte installazioni per sede e anno: [vimeopro.com/bitforms/lozano-hemmer](https://vimeopro.com/bitforms/lozano-hemmer).
-- Opere recenti da approfondire: *Collider* (2024, Parrish Art Museum, tenda di luce LED reattiva ai muoni rilevati da un rilevatore di raggi cosmici in loco); *Listening Forest* (2023, Crystal Bridges Museum).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista e da MoMA.
+- [lozano-hemmer.com — sito ufficiale, biografia](https://www.lozano-hemmer.com/bio.php)
+- [bitforms gallery — biografia ufficiale (PDF)](https://www.bitforms.art/wp-content/uploads/2024/07/lozano-hemmer_bio.pdf)
+- [MoMA — Pulse Room, collezione](https://www.moma.org/collection/works/180180)

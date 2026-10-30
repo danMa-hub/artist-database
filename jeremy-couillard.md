@@ -11,7 +11,6 @@ Artista che realizza simulazioni e videogiochi narrativi interattivi.
 Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in software e simulazioni interattive navigabili dallo spettatore. I suoi mondi sono popolati da personaggi/AI con logiche proprie (procrastinazione, pettegolezzo, missioni assurde), costruiti per essere lasciati "girare" a lungo, rivelando comportamenti diversi nel tempo — un world-building che privilegia il dispiegarsi processuale rispetto alla narrazione chiusa.
 
 ## Opere principali
-
 ### Sometimes to Deal With the Difficulty of Being Alive I Need to Believe There Is a Possibility That Life Is Not Real
 **Descrizione:** software/simulazione ambientata a Polyp's Pond: tre AI (Smerga, Kaotoa, Skalitir), le più intelligenti sopravvissute a un apocalisse umana, costruiscono una macchina per generare altra vita artificiale; l'utente può abitare il corpo di una Tulpa generata da un'iterazione precedente della macchina, esplorare lo stagno, cambiare punto di vista o mettere in rete più computer.
 **Lettura critica:** lasciata "girare" per un giorno intero, la simulazione rivela comportamenti emergenti diversi ogni volta — un'opera pensata per l'osservazione prolungata più che per la fruizione lineare.
@@ -36,10 +35,8 @@ Couillard mescola fantascienza, umorismo assurdo e world-building speculativo in
 
 **Approfondimento:** [zabludowiczcollection.com — 360: Jeremy Couillard](https://www.zabludowiczcollection.com/exhibitions/view/360-jeremy-couillard)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali". Trovato anche il sito ufficiale dell'artista, non individuato nella ricerca originale: [jeremycouillard.com](https://www.jeremycouillard.com).
-- [Manuale "Sometimes..." (PDF)](https://www.dropbox.com/s/fafvkvsbe9enjk2/SometimesGuideBook.pdf?dl=0)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Manuale "Sometimes..." (PDF)](https://www.dropbox.com/s/fafvkvsbe9enjk2/SometimesGuideBook.pdf?dl=0)
@@ -48,7 +45,6 @@ Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto l
 - [Rebirth redirect](https://www.youtube.com/watch?v=ccsmAYdZSJ0&t=52s)
 - [jeremycouillard.com — sito ufficiale (ora individuato)](https://www.jeremycouillard.com)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive, fonte unica, contenuto integralmente ripreso nella parte organizzata.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle tre opere, inclusi sotto la relativa descrizione in "Opere principali". Trovato anche il sito ufficiale dell'artista, non individuato nella ricerca originale: [jeremycouillard.com](https://www.jeremycouillard.com).
+- [Manuale "Sometimes..." (PDF)](https://www.dropbox.com/s/fafvkvsbe9enjk2/SometimesGuideBook.pdf?dl=0)

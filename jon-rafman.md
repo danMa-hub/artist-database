@@ -11,7 +11,6 @@ Artista canadese (Montréal).
 Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per riconnettere gli utenti alla società e alla storia. Gran parte del suo lavoro si concentra sulla malinconia delle interazioni sociali contemporanee, delle community online e delle realtà virtuali (soprattutto Google Earth, Google Street View, Second Life), portando alla luce la loro bellezza con toni talvolta debitori del Romanticismo. Nei lavori più recenti il registro si fa più cupo: dystopie post-umane popolate da avatar senza volto, in cui l'alienazione contemporanea viene esasperata fino al collasso.
 
 ## Opere principali
-
 ### Kool-Aid Man in Second Life (2008-2011)
 **Descrizione:** l'artista performa dentro *Second Life* nei panni del Kool-Aid Man, generando conversazioni e situazioni kitsch con altri utenti.
 **Lettura critica:** collassa il registro celebrativo e quello della critica ironica, mostrando come i due si siano confusi nella cultura visiva della sua generazione.
@@ -51,17 +50,14 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 
 ![Disasters Under the Sun — fotogramma](immagini/jon-rafman/disasters-under-the-sun.jpg)
 
-## Immagini
-
-Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Vimeo.
-- [jonrafman.com](https://jonrafman.com/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [jonrafman.com](https://jonrafman.com/)
 - [Dream Journal (Vimeo)](https://vimeo.com/349313505)
 - [Legendary Reality](https://www.youtube.com/watch?v=i7cia6AUyvE)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive (migrata e riorganizzata col nuovo template).
+## Crediti delle immagini
+Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Vimeo.
+- [jonrafman.com](https://jonrafman.com/)

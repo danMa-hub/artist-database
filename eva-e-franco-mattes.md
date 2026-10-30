@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo` `net-art-sito-web` `video`
 **Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-controllo`
+**Stato:** da verificare prima di citarli in classe: come si sono conosciuti (fonti divergenti), l'esito dell'azione legale di Nike su Nike Ground, il ruolo di Franco Mattes al MIT ACT, la fonte della definizione «Bonnie e Clyde dell'arte contemporanea» · opere recenti (2023-24: P2P, But I Love Human, Sleep Mode, Copycat, Roomba Cat) da verificare
 
 ## Biografia
 Eva e Franco Mattes sono nati entrambi nel 1976 a Brescia. Lavorano insieme dalla metà degli anni Novanta, inizialmente sotto lo pseudonimo collettivo **0100101110101101.ORG** (un nome in codice binario), con cui hanno firmato i primi interventi di net art e le prime "bufale" mediatiche; il sito ufficiale del duo è tuttora ospitato sul dominio storico 0100101110101101.org, anche se oggi firmano il lavoro semplicemente come "Eva & Franco Mattes". Vivono e lavorano tra New York (Brooklyn) e l'Italia (Brescia). Non risulta una formazione artistica accademica documentata: si descrivono come autodidatti, avvicinatisi ai computer da adolescenti e a internet come via di fuga dalla provincia. Nel 2001 sono tra gli artisti più giovani mai inclusi nella Biennale di Venezia (tramite l'espediente del "Darko Maver", vedi sotto). Hanno ricevuto sostegno da Whitney Museum e Walker Art Center e il New York Prize 2006 dell'Italian Academy della Columbia University. Franco Mattes ha inoltre un'affiliazione documentata con il programma Art, Culture and Technology (ACT) del MIT (ruolo e date precisi da verificare). La loro pratica ha generato ripetute conseguenze legali reali — dal contenzioso con la Santa Sede per *Vaticano.org* (1998) alle azioni legali minacciate da Nike per *Nike Ground* (2003) — che hanno contribuito a una reputazione, ricorrente nella stampa di settore, da "Bonnie e Clyde dell'arte contemporanea" (formulazione esatta e fonte originale da verificare).
@@ -10,7 +11,6 @@ Eva e Franco Mattes sono nati entrambi nel 1976 a Brescia. Lavorano insieme dall
 Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero e falso, sintetico e naturale, diretto e mediato: mette in scena interventi e performance su scala di massa rivolti a un pubblico ignaro della loro natura artistica, spesso fino a generare conseguenze reali — panico, denunce, azioni legali — prima che l'intervento venga rivelato come opera. La Onassis Foundation descrive il loro lavoro come una dissezione costante della "condizione contemporanea in rete", condotta "con un taglio umoristico e cupo" sulle questioni etiche e politiche della vita online. Buona parte della produzione più recente (*BEFNOED*, *Dark Content*, *Riccardo Uncut*) sposta l'attenzione dalla provocazione mediatica alla condizione materiale del lavoro digitale invisibile — i moderatori di contenuti, i lavoratori del crowdsourcing, i "ghost worker" della gig economy — con letture curatoriali (Frankfurter Kunstverein, mostra *Fake Views*, 2023) che parlano esplicitamente di una critica al "sadismo capitalista della gig economy" e alla complicità dello spettatore nell'economia dell'attenzione. Julia Bryan-Wilson, in una recensione su *Artforum* (maggio 2007) dedicata a *13 Most Beautiful Avatars*, osserva come il lavoro riprenda esplicitamente i *13 Most Beautiful Boys/Women* di Andy Warhol (1964) ma ne risulti "svuotato delle imperfezioni che rendevano ipnotici gli screen test di Warhol" — interrogandosi sul perché gli avatar scelti dai Mattes assomiglino così tanto a esseri umani convenzionali invece di sfruttare la libertà formale del mondo virtuale. Il critico e curatore italiano Domenico Quaranta ha dedicato al duo la prima monografia critica (*Eva and Franco Mattes: 0100101110101101.org*, con testi di Maurizio Cattelan, RoseLee Goldberg, Bruce Sterling e Wu Ming, 2009), un indicatore della loro centralità nel canone della net art. In un'intervista al *The Art Newspaper* (2020) gli artisti sintetizzano la propria posizione così: "la tecnologia non crea i problemi sociali che così spesso critichiamo" — a chiarire che il bersaglio della loro ricerca non è la tecnologia in sé, ma i comportamenti umani che essa rende visibili o amplifica.
 
 ## Opere principali
-
 ### Darko Maver (1998-99)
 **Descrizione:** un elaborato falso d'artista: i Mattes inventano un fittizio artista serbo/jugoslavo, Darko Maver, autore — secondo la loro narrazione — di sculture iperrealistiche di corpi torturati realizzate durante la guerra in Jugoslavia. Le "opere" sono in realtà fotografie reali di atrocità recuperate da siti come rotten.com, spacciate come documentazione fotografica del lavoro di Maver, di cui viene inoltre annunciata la morte in un carcere del Kosovo. La bufala viene diffusa attraverso mailing list, siti e riviste del mondo dell'arte fino a includere (postuma) l'opera-fantasma di Maver nella 48ª Biennale di Venezia (2001), prima di essere smascherata.
 **Lettura critica:** un esperimento diretto sui meccanismi di autenticazione del sistema dell'arte e dei media — mostra quanto poco venga verificata l'origine di un'immagine "scioccante" quando è accompagnata da una narrazione plausibile, e quanto la macchina curatoriale/critica sia disposta a legittimare un autore mai verificato di persona.
@@ -76,11 +76,8 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 
 **Approfondimento:** [Whitney Museum — Riccardo Uncut](https://whitney.org/exhibitions/riccardo-uncut)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle otto opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [0100101110101101.org](https://0100101110101101.org/).
-- [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)
-- [Whitney Museum — pagina artista](https://whitney.org/artists/19027)
+## Interviste e talk
+- [The Art Newspaper — intervista (2020)](https://www.theartnewspaper.com/2020/05/05/eva-and-franco-mattes-technology-does-not-create-the-social-problems-we-so-often-criticise)
 
 ## Fonti
 - [0100101110101101.org — sito ufficiale](https://0100101110101101.org/about/) — ⚠️ non raggiungibile direttamente durante la ricerca per restrizioni di rete; da verificare in prima persona
@@ -96,21 +93,11 @@ Immagine e link di approfondimento per ciascuna delle otto opere, inclusi sotto 
 - [Hack Story — Vaticano.org](https://hackstory.net/Vaticano.org.html)
 - [Landmarks, UT Austin — Emily's Video](https://landmarks.utexas.edu/video-art/emilys-video)
 - [Hyperallergic — Dark Content, storie dei moderatori sul dark web](https://hyperallergic.com/the-stories-of-content-moderators-hosted-on-the-darknet/)
-- [The Art Newspaper — intervista (2020)](https://www.theartnewspaper.com/2020/05/05/eva-and-franco-mattes-technology-does-not-create-the-social-problems-we-so-often-criticise)
 - [Frankfurter Kunstverein — Fake Views, testo di mostra (2023)](https://www.fkv.de/en/exhibition/eva-franco-mattes/)
 - [Art Basel — How we became artists: Eva & Franco Mattes](https://www.artbasel.com/stories/how-we-became-artists-eva-franco-mattes?lang=en)
 - [Onassis Foundation — profilo artisti](https://www.onassis.org/people/eva-franco-mattes)
 
----
-
-## Appunti da organizzare
-- Citati in *Tecniche di animazione digitale (Biennio)*, insieme a Jon Rafman, per le performance condotte in ambiente virtuale o videoludico — Jon Rafman è già presente nel database (`jon-rafman.md`).
-- Citati anche in *Applicazioni digitali per l'arte*, tra gli artisti di riferimento per l'arte digitale.
-- Punti non ancora verificati con fonte solida, da controllare prima di citarli con sicurezza in classe:
-  - la storia esatta di come si sono conosciuti (le fonti divergono tra liceo in una piccola città del nord Italia, Berlino 1994 e Madrid 1994);
-  - se Nike abbia effettivamente perso o solo minacciato l'azione legale su *Nike Ground*;
-  - ruolo e date precise di Franco Mattes al MIT ACT;
-  - formulazione esatta e fonte originale della definizione "Bonnie e Clyde dell'arte contemporanea";
-  - opere più recenti (2023-24) citate solo da fonti secondarie sottili — *P2P*, *But I Love Human*, *Sleep Mode*, *Copycat*, *Roomba Cat* — da verificare singolarmente prima di aggiungerle come opere principali documentate.
-  - il sito ufficiale (0100101110101101.org) non è stato raggiungibile direttamente per restrizioni di rete durante la ricerca: andrebbe consultato di persona come fonte primaria di controllo.
-- Video: non risulta un documentario integrale dedicato al duo, ma diversi artist talk e interviste video complete — vedi link in Fonti/talk: [Vienna Digital Cultures](https://www.youtube.com/watch?v=-U3Fxfi7F_8), [talk con Valentina Tanni](https://www.youtube.com/watch?v=N25cP2m5IWs), [canale YouTube ufficiale](https://www.youtube.com/user/francomattes).
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle otto opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [0100101110101101.org](https://0100101110101101.org/).
+- [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)
+- [Whitney Museum — pagina artista](https://whitney.org/artists/19027)

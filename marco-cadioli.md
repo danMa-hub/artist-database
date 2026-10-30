@@ -12,7 +12,6 @@ Nato nel 1960 a Milano, dove vive e lavora. Laureato in Fisica (indirizzo Cibern
 Fin dai primi anni Duemila la ricerca di Cadioli si concentra sullo sfumare il confine tra reale e virtuale, a partire dalle prime esperienze come "fotoreporter" nei mondi virtuali. Con lo pseudonimo Marco Manray, dal 2005 al 2008 documenta con "scatti" fotografici gli eventi, i protagonisti e la vita quotidiana di Second Life, pubblicando poi il libro "Io, reporter in Second Life" (Shake Edizioni, 2007). Un tratto ricorrente della sua pratica è la sovversione dell'uso previsto del software: forzarne i limiti e superare la superficie levigata degli algoritmi per appropriarsi del sistema dall'interno — un metodo applicato anche a Google Earth e Google Maps, di cui l'artista attraversa le geografie sfruttando gli errori di rendering e le cuciture visibili tra le fotografie satellitari per rompere l'illusione iperrealistica offerta dal software. Negli anni più recenti la ricerca si sposta sull'intelligenza artificiale, osservata non come strumento di produzione di immagini ma come oggetto di indagine: cosa e come sta "imparando" un sistema di IA, e quale forma di conoscenza — o di incomprensione — si genera nell'incontro tra la logica umana e quella della macchina.
 
 ## Opere principali
-
 ### Marco Manray reporter in Second Life (2005-2008)
 **Descrizione:** serie fotografica realizzata all'interno del mondo virtuale Second Life, che documenta eventi, protagonisti e vita quotidiana della piattaforma nei suoi anni di massima visibilità mediatica. Confluita nel libro "Io, reporter in Second Life" (Shake Edizioni, 2007) e in una prima personale, "REPLICA", in occasione dell'apertura della sede in Second Life della galleria Overfoto di Napoli.
 **Lettura critica:** tra le prime pratiche italiane di fotografia documentaria applicata sistematicamente a un mondo virtuale, con l'artista nel ruolo esplicito di "reporter" — un dispositivo critico che tratta lo spazio virtuale con lo stesso statuto epistemico del reale.
@@ -47,11 +46,8 @@ Fin dai primi anni Duemila la ricerca di Cadioli si concentra sullo sfumare il c
 
 **Approfondimento:** [marcocadioli.com — Database for Human Training](https://marcocadioli.com/database-for-human-training/) · [marcocadioli.com — Watching the Sea](https://marcocadioli.com/watching-the-sea/)
 
-## Immagini
-Immagine per ciascuna opera/coppia di opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
-- [Sito ufficiale dell'artista](https://marcocadioli.com/)
-- [SMDOT/Contemporary Art, Udine — Back to the Metaverse](https://www.smdot.net/artists/marco-cadioli/)
-- [Arshake — Marco Cadioli, Back to the Metaverse](https://www.arshake.com/en/marco-cadioli-back-to-the-metaverse/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Sito ufficiale dell'artista](https://marcocadioli.com/)
@@ -64,9 +60,8 @@ Immagine per ciascuna opera/coppia di opere, inclusa sotto la relativa descrizio
 - [EduEDA — The Educational Encyclopedia of Digital Arts, voce Cadioli Marco](https://www.edueda.net/index.php?title=Cadioli_Marco)
 - [Accademia di Belle Arti di Carrara — pagina docente](https://accademiacarrara.it/cadioli-marco/)
 
----
-
-## Appunti da organizzare
-- Scheda scritta il 19 agosto 2026, ricerca sulla scena italiana (angolo gallerie/critica/accademia, non festival). Nota sul metodo: WebFetch bloccato in sandbox — contenuti da snippet WebSearch, da riverificare prima di uso didattico.
-- Da riverificare con fonte primaria: la data e il contenuto esatto dell'opera "The Whirlpool" — trovata solo tramite pagina Arshake "Special Project #20", non ancora letta per il blocco WebFetch; il legame con "Back to the Metaverse" (sottotitolo "the whirlpool and the promise") va chiarito.
-- Nota di metodo per chi aggiorna la scheda: verificare se il link a marcocadioli.com/about riporta ancora la stessa biografia sintetica trovata negli snippet (nato 1960, fisica/cibernetica) — dato preso da un unico passaggio WebSearch, non da lettura diretta della pagina.
+## Crediti delle immagini
+Immagine per ciascuna opera/coppia di opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
+- [Sito ufficiale dell'artista](https://marcocadioli.com/)
+- [SMDOT/Contemporary Art, Udine — Back to the Metaverse](https://www.smdot.net/artists/marco-cadioli/)
+- [Arshake — Marco Cadioli, Back to the Metaverse](https://www.arshake.com/en/marco-cadioli-back-to-the-metaverse/)

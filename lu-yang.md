@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `videogioco-simulazione` `motion-capture` `installazione`
 **Tag tema:** `corpo-identita` `fantascienza-speculativa`
 **Tag corso:** `TAD` `AW` `M3D`
+**Stato:** nel documento originale restavano due titoli senza descrizione, «EVERYTHING» e «PERSONA»: da verificare e integrare
 
 ## Biografia
 Artista new media cinese.
@@ -11,7 +12,6 @@ Artista new media cinese.
 Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che calano i visitatori in un mondo materiale simil-videogame, tramite video, scultura, luce e suono. Le installazioni mescolano l'estetica degli anime giapponesi con esplorazioni scientifiche reali e di finzione, iconografia religiosa e immaginari umoristici/sardonici della cultura tecnologica contemporanea — un lavoro che interroga costantemente dove risieda la coscienza e cosa sopravviva del sé quando il corpo diventa dato scansionabile e replicabile.
 
 ## Opere principali
-
 ### Delusional Mandala
 **Descrizione:** opera basata sul principio del sistema stereotattico e sulla stimolazione cerebrale profonda (deep brain stimulation, RTMS) applicata al sistema limbico, per estendere e simulare stati delusionali.
 **Lettura critica:** riflessione dell'artista sulla propria produzione passata/presente/futura — dove risiede la coscienza? È legata al cervello? Secondo capitolo di una serie iniziata con *Moving God*, tra religione e neuroscienza.
@@ -40,10 +40,8 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 
 **Approfondimento:** [doku.asia — Digital Reincarnation](https://doku.asia/digital-reincarnation)
 
-## Immagini
-
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo, ACMI e Dazed.
-- [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Delusional Mandala (Vimeo)](https://vimeo.com/141005910)
@@ -51,7 +49,6 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)
 - Portfolio/sito ufficiale personale: **non individuato** nella fonte originale — da cercare.
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive. Il documento originale terminava con due parole isolate senza contesto ("EVERYTHING", "PERSONA") — probabilmente titoli di opere annotati senza descrizione: da verificare e integrare quando si trova la fonte.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo, ACMI e Dazed.
+- [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)

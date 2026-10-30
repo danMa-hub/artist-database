@@ -12,7 +12,6 @@ Nato nel 1970 a Laatzen, Bassa Sassonia, Germania (data esatta di nascita non co
 Klingemann inizia a lavorare con le reti neurali e, dal 2015-16, con le GAN, anni prima del boom dell'arte IA basata sui modelli di diffusione (DALL-E, Midjourney, Stable Diffusion, dal 2021 in poi) — una cronologia da early adopter confermata dalla sua residenza Google (2015-2018) e dalla serie *Neural Glitch*, datata esplicitamente aprile-ottobre 2018. La curatrice e ricercatrice Luba Elliott, in un profilo per *Flash Art* ("AI through the Technologist's Eye", 2017), lo descrive come uno degli artisti pionieri nella comunità del machine learning e del creative coding, capace di "spingere i limiti delle capacità [delle reti neurali] ed esporne i confini", dettagliando la sua pratica di addestrare GAN su insiemi di immagini trovate (ad esempio annuari fotografici) invece di dipingere o fotografare. *Neural Glitch* è il corpus di lavori che meglio dimostra il suo impegno critico, non semplicemente spettacolare, con la percezione automatica: Klingemann corrompe deliberatamente i pesi interni delle proprie GAN già addestrate, così che i modelli — originariamente costruiti per migliorare o ricostruire immagini in ingresso — le fraintendano invece "a livello sia estetico sia semantico". I glitch risultanti vengono descritti dalla rivista *Issues in Science and Technology* come una rara finestra visibile sull'interno "scatola nera" di una specifica e breve generazione di architettura GAN convoluzionale — un metodo artistico per interrogare la macchina, non solo per usarla come generatore di stile. Klingemann viene sistematicamente distinto dagli artisti "di tendenza" arrivati con il boom successivo dell'IA proprio perché la sua sperimentazione con le GAN precede l'ondata mainstream, e perché le sue opere mettono in primo piano il processo/sistema (installazioni generative dal vivo, mai ripetute, modelli deliberatamente corrotti) piuttosto che una singola immagine finale rifinita: Sotheby's stessa, nella descrizione di *Memories of Passersby I*, sottolinea esplicitamente che l'opera è il sistema vivente stesso, non un manufatto stampato — "l'arte è il codice e il sistema".
 
 ## Opere principali
-
 ### Memories of Passersby I (2018)
 **Descrizione:** installazione GAN dal vivo e autosufficiente: una console/mobile in legno che ospita un computer personalizzato (il "cervello" dell'IA) collegato a due schermi incorniciati in stile vintage, che generano continuamente e autonomamente un flusso infinito e mai ripetuto di ritratti immaginari maschili e femminili in tempo reale. Addestrata su migliaia di dipinti-ritratto europei del XVII-XIX secolo; Klingemann ha ulteriormente calibrato le preferenze estetiche del modello con uno strumento di valutazione umana delle immagini in stile Tinder di propria invenzione. Realizzata in collaborazione con lo studio di arte digitale ONKAOS. Venduta da Sotheby's Londra, Contemporary Art Day Auction (6 marzo 2019, lotto 109), per 40.000 sterline (circa 51.000 dollari).
 **Lettura critica:** inquadrata da Sotheby's e dalla stampa come storicamente significativa proprio perché l'"opera" è il sistema generativo autonomo stesso, non un'immagine fissa — sollevando interrogativi su autorialità, proprietà e cosa costituisca "l'opera" quando l'output è infinito e mai ripetuto. *Dazed* ha offerto una lettura più scettica del risultato modesto della vendita rispetto al clamore mediatico.
@@ -49,12 +48,9 @@ Klingemann inizia a lavorare con le reti neurali e, dal 2015-16, con le GAN, ann
 
 **Approfondimento:** [Lumen Prize — The Butcher's Son](https://lumenprize.org/2018-winners/mario-klingemann)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube, Vimeo, Issues in Science and Technology e Lumen Prize.
-- [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
-- [Sotheby's — approfondimento editoriale sull'IA e Klingemann](https://www.sothebys.com/en/articles/artificial-intelligence-and-the-art-of-mario-klingemann)
-- [Issues in Science and Technology — "Neural Glitch"](https://issues.org/klingemann-neural-glitch/)
+## Interviste e talk
+- [Ars Electronica — pagina artista, Kepler's Gardens](https://ars.electronica.art/keplersgardens/en/artist-talk-mario-klingemann/)
+- [Goethe-Institut — intervista "Words behave like pixels and sentences like pictures"](https://www.goethe.de/prj/k40/en/kun/kli.html)
 
 ## Fonti
 - [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
@@ -63,14 +59,11 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [Flash Art — Luba Elliott, "AI through the Technologist's Eye"](https://flash---art.com/article/mario-klingemann/)
 - [Lumen Prize — vincitori 2018](https://lumenprize.org/2018-winners/mario-klingemann)
 - [Victoria & Albert Museum — The Butcher's Son (disegno), collezione](https://collections.vam.ac.uk/item/O1572110/the-butchers-son-drawing-mario-klingemann)
-- [Ars Electronica — pagina artista, Kepler's Gardens](https://ars.electronica.art/keplersgardens/en/artist-talk-mario-klingemann/)
 - [Barbican — comunicato stampa "AI: More Than Human" (PDF)](https://www.barbican.org.uk/sites/default/files/documents/2019-04/FINAL%20AI%20More%20than%20Human%20exhibition%20release%20280219_1.pdf)
-- [Goethe-Institut — intervista "Words behave like pixels and sentences like pictures"](https://www.goethe.de/prj/k40/en/kun/kli.html)
 - [Artnet News — sulla vendita da Sotheby's](https://news.artnet.com/market/artificial-intelligence-sothebys-1481590)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" per il ruolo pionieristico nell'arte con reti neurali/GAN, precedente al boom mainstream dell'IA generativa.
-- ⚠️ Non confermati: data esatta di nascita (solo anno e città certi); un riconoscimento specifico del Prix Ars Electronica per *Circuit Training* (non trovato, non includere senza fonte diretta).
-- Video ulteriori: canale X/Twitter dell'artista con documentazione diretta delle opere: [@quasimondo](https://x.com/quasimondo); documentazione di *Circuit Training* (Vimeo): [vimeo.com/338883309](https://vimeo.com/338883309).
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube, Vimeo, Issues in Science and Technology e Lumen Prize.
+- [Sotheby's — pagina del lotto, Memories of Passersby I](https://www.sothebys.com/en/auctions/ecatalogue/2019/contemporary-art-day-auction-l19021/lot.109.html)
+- [Sotheby's — approfondimento editoriale sull'IA e Klingemann](https://www.sothebys.com/en/articles/artificial-intelligence-and-the-art-of-mario-klingemann)
+- [Issues in Science and Technology — "Neural Glitch"](https://issues.org/klingemann-neural-glitch/)

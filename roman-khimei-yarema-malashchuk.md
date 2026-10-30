@@ -12,7 +12,6 @@ Entrambi nati a Kolomyya, Ucraina; diplomati come direttori della fotografia all
 Pratica al confine fra documentario e finzione, incentrata sulla storia recente e presente dell'Ucraina, sulle strutture residue del potere post-imperiale e sul loro impatto sulle nuove generazioni. Attraverso installazioni video multicanale e narrazioni cinematografiche, catturano la natura fratturata della realtà dove memoria collettiva ed esperienza personale si intrecciano.
 
 ## Opere principali
-
 ### Additional Scenes (2024)
 **Descrizione:** cortometraggio, premiato a Tallinn Black Nights IFF e con lo Ukrainian Film Critics Award.
 
@@ -23,7 +22,8 @@ Pratica al confine fra documentario e finzione, incentrata sulla storia recente 
 **Descrizione:** installazione video multicanale, serie di testimonianze speculative in cui anziani soldati russi rievocano, proiettati nel futuro e nel momento terminale dell'esistenza individuale, il proprio coinvolgimento nella guerra contro l'Ucraina. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
 **Lettura critica:** intreccia la banalità della violenza con il pentimento (o la sua assenza), storia collettiva e memoria individuale, proiettata in una cornice speculativa/futura.
 
-## Immagini
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Berliner Künstlerprogramm des DAAD — pagina artisti](https://www.berliner-kuenstlerprogramm.de/en/artist/roman-khimei-and-yarema-malashchuk/)
@@ -32,8 +32,5 @@ Pratica al confine fra documentario e finzione, incentrata sulla storia recente 
 - [Future Generation Art Prize / PinchukArtCentre — pagina artisti](https://futuregenerationartprize.org/en/persons-fgap/artist-en/roman-khimei-and-yarema-malashchuk)
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
 
----
-
-## Appunti da organizzare
-- Fonte diretta: visita dell'utente alla mostra CANICULA (Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia), agosto 2026 — cartello mostra fotografato in loco, poi approfondito con ricerca web (nessuna foto dei pannelli delle singole opere).
-- Nota sul metodo: molti domini bloccati al fetch diretto in questa sessione — informazioni derivate da snippet di ricerca, da riverificare con lettura diretta prima di uso didattico definitivo.
+## Mostre viste
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub

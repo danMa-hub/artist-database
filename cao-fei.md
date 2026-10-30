@@ -3,6 +3,7 @@
 **Tag tecnica/formato:** `video` `mondi-virtuali-simulazione` `vr-ar` `performance-dal-vivo`
 **Tag tema:** `capitalismo-lavoro` `mondi-virtuali-simulazione` `colonialismo-decolonialita`
 **Tag corso:** `TAD` `AW`
+**Stato:** date discordanti da verificare: la chiusura di RMB City (2011 secondo alcune fonti, fine 2012 secondo l'artista) · identità e età dell'avatar
 
 ## Biografia
 Nata nel 1978 a Guangzhou, Cina. Consegue un BFA alla Guangzhou Academy of Fine Arts (2001). Vive e lavora a Pechino. Prime opere: la performance *The Little Spark* (1998), il primo film *Imbalance 257* (1999), poi *Rabid Dogs* (2002), *Burners* (2003), *COSPlayers* (2004). Nel 2007 rappresenta la Cina alla 52ª Biennale di Venezia (Padiglione cinese a cura di Hou Hanru) con il "China Tracy Pavilion" virtuale dentro Second Life. Nel 2016 il MoMA PS1 le dedica la sua prima mostra personale museale statunitense, "Cao Fei" (3 aprile-31 agosto 2016, a cura di Klaus Biesenbach con Jocelyn Miller). Nel 2020 le Serpentine Galleries di Londra presentano "Cao Fei: Blueprints", la sua prima grande mostra personale istituzionale nel Regno Unito, a cura di Hans Ulrich Obrist e Joseph Constable con Rebecca Lewin. Ha esposto anche a Tate Modern, Palais de Tokyo, Centre Pompidou, alla 56ª Biennale di Venezia, alla Sharjah Biennial 15 (2023) e al Lenbachhaus di Monaco ("Meta-mentary", 2024). Rappresentata da Vitamin Creative Space (Guangzhou) e Sprüth Magers (Berlino/Londra/Los Angeles/New York); in precedenza anche da Lombard-Freid Projects, New York.
@@ -11,7 +12,6 @@ Nata nel 1978 a Guangzhou, Cina. Consegue un BFA alla Guangzhou Academy of Fine 
 La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando video, mondi virtuali, performance e installazione per esaminare la cultura giovanile cinese post-Rivoluzione Culturale, l'urbanizzazione rapida, il lavoro in fabbrica e migrante e — dal 2007 — il confine sfumato tra identità fisica e virtuale/digitale, prima attraverso Second Life (l'avatar China Tracy, *RMB City*) e più di recente attraverso piattaforme metaverso e fantascienza speculativa adiacente all'IA. Hans Ulrich Obrist, in un saggio per *Defining Contemporary Art* (Phaidon), la inquadra come guida di una generazione "postmediale" di giovani artisti cinesi che lavorano attraverso cultura pop e mass media, citando la serie *COSPlayers* (2004) come esempio precoce. Klaus Biesenbach, direttore del MoMA PS1, l'ha descritta come una delle artiste giovani più innovative provenienti dalla Cina, capace di mescolare commento sociale, estetica pop, riferimenti surrealisti e convenzioni documentarie. La critica Doretta Lau le ha dedicato il saggio "Cao Fei (and me)" su *ArtReview* (marzo 2016). Emily McDermott, su *frieze* (2024), recensendo la retrospettiva "Meta-mentary" al Lenbachhaus, descrive un percorso che si sposta da un utopismo tecnologico dai colori confetto verso un registro "oscuramente distopico". A proposito di *Whose Utopia*, l'artista dichiara che il proprio obiettivo era "liberare i lavoratori da una nozione standardizzata di produttività", descrivendo i lavoratori migranti ritratti come "anti-eroi... eroi senza nome, anonimi e non celebrati", la "forza di riserva" della competitività cinese nell'economia globale.
 
 ## Opere principali
-
 ### Whose Utopia (2006)
 **Descrizione:** video in tre parti (circa 20 minuti) realizzato durante una residenza di sei mesi nella fabbrica di illuminazione OSRAM, Foshan, delta del fiume delle Perle. Le parti: "Imagination of Product" (lavoratori/macchine), "Factory Fairytale" (danzatori/musicisti messi in scena tra i macchinari), "My Future Is Not a Dream" (ritratti statici di lavoratori che guardano in camera). Prima di girare, Cao Fei sottopone ai lavoratori un questionario sul loro background e le loro aspirazioni.
 **Lettura critica:** letta come risposta alla manifattura globalizzata "Made in China" — trasforma i lavoratori da forza produttiva anonima in soggetti con desideri e narrazioni proprie, senza però nascondere la durezza dell'ambiente di fabbrica.
@@ -53,11 +53,8 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 
 **Approfondimento:** [Sprüth Magers — Cao Fei, Duotopia](https://spruethmagers.com/exhibitions/cao-fei-duotopia-berlin/)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da MoMA, dal sito ufficiale [caofei.com](https://www.caofei.com) e da Sprüth Magers.
-- [Vitamin Creative Space — pagina artista](https://vitamincreativespace.com/en/?artist=caofei)
-- [MoMA — pagina artista](https://www.moma.org/artists/35159-cao-fei)
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [caofei.com — sito ufficiale, CV](https://www.caofei.com/about_cv.aspx)
@@ -72,10 +69,7 @@ Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di ope
 - [Sprüth Magers — mostra Duotopia, Berlino](https://spruethmagers.com/exhibitions/cao-fei-duotopia-berlin/)
 - [Hyperallergic — recensione di Blueprints](https://hyperallergic.com/583983/cao-fei-blueprints-serpentine-galleries/)
 
----
-
-## Appunti da organizzare
-- Non citata in un programma specifico dei corsi — inserita dalla lista generale "da scrivere da zero" per la rilevanza storica come una delle prime artiste di rilievo a lavorare con Second Life e i mondi virtuali.
-- ⚠️ Correzione: non risulta un'opera intitolata "Metaverse Index" (citata in alcune fonti secondarie) — i lavori effettivamente documentati dell'era metaverso/IA sono *HX* (2019-2020), *Meta-mentary* (2022) e *Duotopia* (2022-24).
-- ⚠️ Discrepanze da verificare: data esatta di chiusura di *RMB City* (2011 secondo alcune fonti, "fine 2012" secondo una dichiarazione successiva della stessa artista); identità reale e età dell'avatar "Hug Yue" in *i.Mirror* (fonti secondarie discordanti).
-- Video ulteriori da vedere in aula: [Art21, "Cao Fei: Building 'RMB City'" (short)](https://art21.org/watch/extended-play/cao-fei-building-rmb-city-short/); [Art21, "Cao Fei in 'Fantasy'" (Art in the Twenty-First Century, stagione 5)](https://art21.org/watch/art-in-the-twenty-first-century/s5/cao-fei-in-fantasy-segment/). *i.Mirror* e *Nova* non risultano liberamente disponibili in streaming — circolano principalmente tramite proiezioni museali/istituzionali; contattare Vitamin Creative Space o Sprüth Magers per copie di visione didattiche.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da MoMA, dal sito ufficiale [caofei.com](https://www.caofei.com) e da Sprüth Magers.
+- [Vitamin Creative Space — pagina artista](https://vitamincreativespace.com/en/?artist=caofei)
+- [MoMA — pagina artista](https://www.moma.org/artists/35159-cao-fei)

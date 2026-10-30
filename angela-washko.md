@@ -11,7 +11,6 @@ Artista che realizza interventi femministi dentro spazi di gioco online multipla
 Washko usa la performance e il dialogo diretto con i giocatori per far emergere le dinamiche di genere delle community videoludiche — spazi che descrive come geograficamente, politicamente, economicamente e socialmente più diversificati di molti spazi pubblici fisici, ma spesso ostili e misogini verso le donne. Il suo lavoro rende visibile, attraverso l'intervento performativo dal vivo, come queste community trattino il tema del femminismo e del genere.
 
 ## Opere principali
-
 ### Playing a Girl / The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft (dal 2012)
 **Descrizione:** intervento performativo dentro *World of Warcraft*: Washko fonda un "consiglio" fittizio e facilita discussioni sul genere e sul femminismo con i giocatori direttamente nel gioco, incluse conversazioni su avatar di genere diverso dal proprio e su vittim-blaming.
 **Lettura critica:** usa lo spazio ludico come laboratorio sociale per un sondaggio dal vivo sull'opinione pubblica americana riguardo al ruolo delle donne.
@@ -28,16 +27,13 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 
 **Approfondimento:** [angelawashko.com — Weaponizing Courtship](https://angelawashko.com/artwork/4801953-Weaponizing%20Courtship.html) · [Fotomuseum Winterthur — SITUATIONS/Strike](https://www.fotomuseum.ch/en/explore/situations/157382)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle due opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [angelawashko.com](https://angelawashko.com) (fotogramma Vimeo via servizio di thumbnail pubblico per Weaponizing Courtship).
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [angelawashko.com](https://angelawashko.com)
 - [Weaponizing Courtship — Fotomuseum Winterthur](https://www.fotomuseum.ch/en/explore/situations/157382)
 - [Cutscenes: Critical Optimism — Angela Washko's Online Interventions (MUBI Notebook)](https://mubi.com/it/notebook/posts/cutscenes-critical-optimism-angela-washko-s-online-interventions)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive, fonte unica, contenuto integralmente ripreso nella parte organizzata.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle due opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [angelawashko.com](https://angelawashko.com) (fotogramma Vimeo via servizio di thumbnail pubblico per Weaponizing Courtship).
