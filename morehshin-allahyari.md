@@ -1,8 +1,8 @@
 # Morehshin Allahyari
 
 **Tag tecnica/formato:** `stampa-3d-scultura` `ai-generativa`
-**Tag tema:** `colonialismo-decolonialita` `genere-queerness` `memoria-archivio`
-**Tag corso:** `M3D`
+**Tag tema:** `colonialismo-decolonialita` `genere-queerness` `memoria-archivio` `lecture-performance`
+**Tag corso:** `M3D` `TAD-AVM`
 **Stato:** testo in parte generato con IA: da verificare l'anno di nascita (1985) e, contro additivism.org, l'esattezza di ogni progetto del Cookbook elencato · le sezioni *Moon-faced*, *She Who Sees the Unknown* e le opere dopo *Moon-faced* sono riscritte dal sito dell'artista; le letture critiche delle opere più vecchie restano da verificare
 
 ## Biografia
@@ -127,7 +127,9 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 **Approfondimento:** [morehshin.com — Like Pearls](https://www.morehshin.com/like-pearls); [likepearls.com](http://likepearls.com/)
 
 ### Digital Colonialism (2016-2019)
-**Descrizione:** ricerca che Allahyari porta avanti dal 2016, in conferenze e testi, e che nel 2019 diventa una lecture-performance commissionata da Rhizome (New Museum). Definisce il colonialismo digitale come un quadro per esaminare criticamente la tendenza delle tecnologie dell'informazione a essere usate in modi che riproducono relazioni di potere coloniali, con attenzione a stampanti e scanner 3D e al loro uso, o abuso, nella ricostruzione di manufatti e patrimonio culturale mediorientale in pericolo o perduto. Nella performance lo scanner 3D, descritto come «uno strumento di stregoneria e magia», diventa un atto performativo e incarnato: l'artista esegue scansioni dal vivo di repliche di manufatti del Medio Oriente mentre parla della loro storia.
+**Corso:** `M3D` `TAD-AVM`
+**Temi:** `lecture-performance` `patrimonio-e-scansione`
+**Descrizione:** esempio di *lecture performance*: ricerca che Allahyari porta avanti dal 2016, in conferenze e testi, e che nel 2019 diventa una lecture-performance commissionata da Rhizome (New Museum). Definisce il colonialismo digitale come un quadro per esaminare criticamente la tendenza delle tecnologie dell'informazione a essere usate in modi che riproducono relazioni di potere coloniali, con attenzione a stampanti e scanner 3D e al loro uso, o abuso, nella ricostruzione di manufatti e patrimonio culturale mediorientale in pericolo o perduto. Nella performance lo scanner 3D, descritto come «uno strumento di stregoneria e magia», diventa un atto performativo e incarnato: l'artista esegue scansioni dal vivo di repliche di manufatti del Medio Oriente mentre parla della loro storia.
 
 ![Digital Colonialism — dal sito ufficiale](immagini/morehshin-allahyari/digital-colonialism.jpg)
 
