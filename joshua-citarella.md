@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `installazione` `net-art-sito-web`
 **Tag tema:** `economia-attenzione` `game-culture`
-**Tag corso:** `TAD` `M3D`
+**Tag corso:** `TAD-DCV` `AVM` `M3D`
 **Stato:** fonte unica finora: il testo di sala della mostra «Strange Rules» (Palazzo Diedo, Venezia, 2026)
 
 ## Biografia

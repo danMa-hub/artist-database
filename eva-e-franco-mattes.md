@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo` `net-art-sito-web` `video`
 **Tag tema:** `game-culture` `economia-attenzione` `sorveglianza-controllo`
+**Tag corso:** `TAD-DCV` `AW`
 **Stato:** da verificare prima di citarli in classe: come si sono conosciuti (fonti divergenti), l'esito dell'azione legale di Nike su Nike Ground, il ruolo di Franco Mattes al MIT ACT, la fonte della definizione «Bonnie e Clyde dell'arte contemporanea» · opere recenti (2023-24: P2P, But I Love Human, Sleep Mode, Copycat, Roomba Cat) da verificare
 
 ## Biografia

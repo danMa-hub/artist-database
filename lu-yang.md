@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `motion-capture` `installazione`
 **Tag tema:** `corpo-identita` `fantascienza-speculativa`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** nel documento originale restavano due titoli senza descrizione, «EVERYTHING» e «PERSONA»: da verificare e integrare
 
 ## Biografia

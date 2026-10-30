@@ -34,6 +34,7 @@ Gli stessi tag possono comparire anche accanto a una singola opera, dentro "Oper
 
 Tag in maiuscolo che indicano per quale corso di Daniele Maffeis un artista è utile. Un artista può averne più d'uno. Stanno su una riga a parte, `**Tag corso:**`, sotto gli altri tag.
 
-- `TAD` — Tecniche di animazione digitale (triennio Design della Comunicazione Visiva e biennio). Chi lavora con l'animazione.
+- `TAD-DCV` — Tecniche di animazione digitale, triennio Design della Comunicazione Visiva. Qui il riciclo di artisti tra corsi è benvenuto.
+- `AVM` — Tecniche di animazione digitale, biennio Audiovisivi e Multimedia. Non condivide artisti con `AW`, perché la classe è la stessa.
 - `AW` — Mondi virtuali (Audiovisivi per il web). Chi lavora con mondi virtuali, simulazioni, game engine, ambienti online.
 - `M3D` — Tecniche di modellazione digitale 3D. Valgono in generale, ma in particolare per chi lavora sul digitale in modo esplicito: texture mapping, storia della computer grafica, fotogrammetria, rendering.

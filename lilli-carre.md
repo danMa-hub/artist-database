@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d` `stampa-3d-scultura`
 **Tag tema:** `corpo-identita` `temporalita-non-lineare`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 **Stato:** nata a Los Angeles (non a Chicago) · Nine Ways to Disappear (2009) è un libro illustrato, non un cortometraggio animato
 
 ## Biografia

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `modellazione-3d`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione` `corpo-identita`
-**Tag corso:** `TAD` `M3D`
+**Tag corso:** `TAD-DCV` `AVM` `M3D`
 **Stato:** testo in parte generato con IA: da verificare anno e luogo di nascita (1980, Londra), la formazione al Royal College of Art e le sedi espositive · alcuni link della fonte originale non sono verificati
 
 ## Biografia

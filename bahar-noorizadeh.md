@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `ai-generativa`
 **Tag tema:** `capitalismo-lavoro` `temporalita-non-lineare`
-**Tag corso:** `TAD` `AW`
+**Tag corso:** `TAD-DCV` `AW`
 **Stato:** testo in parte generato con IA: tre link della fonte originale non sono verificati
 
 ## Biografia

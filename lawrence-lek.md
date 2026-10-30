@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `modellazione-3d` `video`
 **Tag tema:** `sorveglianza-controllo` `capitalismo-lavoro` `intelligenza-artificiale-critica`
-**Tag corso:** `TAD` `AW`
+**Tag corso:** `TAD-DCV` `AW`
 **Stato:** scheda avanzata · l'attribuzione di tre immagini alle rispettive opere è probabile ma non certa (vedi Crediti delle immagini)
 
 ## Biografia

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `projection-mapping` `performance-dal-vivo` `animazione-2d`
 **Tag tema:** `corpo-identita` `ecologia-ambiente`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia
 Animatrice, designer e performer con base a Los Angeles. Co-fondatrice e collaboratrice principale della compagnia teatrale multimediale **Cloud Eye Control**. Sherwood Award (2016), Creative Capital Award (2013), Princess Grace Award (2007) e Special Projects Award della Princess Grace Foundation (2009, 2012). Ha portato le proprie performance a TED, MoMA, Lincoln Center, Sundance New Frontier e in numerose sedi internazionali.

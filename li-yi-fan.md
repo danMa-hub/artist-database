@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `modellazione-3d` `vr-ar` `stampa-3d-scultura` `video`
 **Tag tema:** `storia-computer-grafica` `corpo-identita` `intelligenza-artificiale-critica` `economia-attenzione`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 
 ⚠️ **Avviso di contenuto**: le opere includono immagini di corpi/organi antropomorfizzati e senza testa, con movimento instabile/da "bug" — l'installazione veneziana segnalava esplicitamente discrezione consigliata per il pubblico e supervisione per i minori.
 

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `economia-attenzione`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 **Stato:** dati da verificare: data e luogo di nascita, nazionalità (presunta britannica) e identità del profilo online · da controllare i talk «Welcome to HYPERBODIES» (2022) e «HYPERHYPERBODIES» (2023)
 
 ## Biografia

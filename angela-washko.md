@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `performance-dal-vivo`
 **Tag tema:** `genere-queerness` `game-culture`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia
 Artista che realizza interventi femministi dentro spazi di gioco online multiplayer.

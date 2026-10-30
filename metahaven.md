@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `data-visualization` `net-art-sito-web`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `capitalismo-lavoro`
-**Tag corso:** `TAD` `M3D`
+**Tag corso:** `TAD-DCV` `AVM` `M3D`
 
 ## Biografia
 Metahaven è uno studio di design, ricerca e — dal 2014 circa — cinema con sede ad Amsterdam, fondato nel 2007 da **Vinca Kruk** (nata nel 1980) e **Daniel van der Velden** (nato nel 1971). Entrambi si formano in graphic design alla Willem de Kooning Academy di Rotterdam; Van der Velden consegue poi un master alla Jan van Eyck Academie di Maastricht (1998), dove lavora come consulente di ricerca dal 2004, mentre Kruk è ricercatrice nel dipartimento di design della stessa accademia fino al 2005, poi consulente di ricerca 2006-2007. Il nome dello studio deriva dal loro primo progetto in collaborazione, il "Sealand Identity Project" — una proposta speculativa di identità visiva per la micronazione offshore di Sealand, un "data haven" al culmine della bolla dot-com: "Metahaven" sta per "oltre l'haven" (rifugio/porto). Riconoscimenti: Icon Magazine (UK) li nomina "Design Studio of the Year" nel 2013; vincono il Cobra Art Prize (Cobra Museum voor Moderne Kunst) nel 2013. Continuano a operare come pratica collaborativa a due, oggi spaziando tra design, film e immagine in movimento.

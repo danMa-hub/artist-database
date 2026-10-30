@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `procedurale-generativo` `video`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 **Stato:** da approfondire: Micromovements in Snapshots (2014) e i video completi della Trilogia della Prospettiva · un'immagine nei Crediti non è identificata
 
 ## Biografia

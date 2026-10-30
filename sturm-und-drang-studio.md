@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `game-engine-realtime` `installazione`
 **Tag tema:** `storia-computer-grafica` `economia-attenzione`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** non è uno studio di produzione CGI commerciale ma un progetto curatoriale ed educativo (Fondazione Prada × ETH Zürich) · da non confondere con sturm@drang GmbH (Augusta)
 
 ## Biografia

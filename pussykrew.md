@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `fotogrammetria-scansione` `stampa-3d-scultura` `vr-ar`
 **Tag tema:** `corpo-identita` `genere-queerness` `fantascienza-speculativa`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** è un duo (Ewelina Aleksandrowicz e Andrzej Wojtas), non un collettivo più ampio · da non attribuirgli il video «Marilyn Monroe» di Sevdaliza (2016), diretto da Hirad Sab
 
 ## Biografia

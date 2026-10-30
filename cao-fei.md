@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `mondi-virtuali-simulazione` `vr-ar` `performance-dal-vivo`
 **Tag tema:** `capitalismo-lavoro` `mondi-virtuali-simulazione` `colonialismo-decolonialita`
-**Tag corso:** `TAD` `AW`
+**Tag corso:** `TAD-DCV` `AW`
 **Stato:** date discordanti da verificare: la chiusura di RMB City (2011 secondo alcune fonti, fine 2012 secondo l'artista) · identità e età dell'avatar
 
 ## Biografia

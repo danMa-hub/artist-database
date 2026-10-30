@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video`
 **Tag tema:** `corpo-identita` `memoria-archivio`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 **Stato:** da non citare senza verifica: il Genie Award 2005 attribuito a Ryan · un progetto annunciato di adattamento a lungometraggio
 
 ## Biografia

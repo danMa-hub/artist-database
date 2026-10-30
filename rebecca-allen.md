@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `vr-ar`
 **Tag tema:** `storia-computer-grafica` `corpo-identita`
-**Tag corso:** `TAD` `M3D`
+**Tag corso:** `TAD-DCV` `AVM` `M3D`
 **Stato:** scheda avanzata · da completare con il materiale della retrospettiva «Synthetic Creatures» (MEET, Milano, 2026)
 
 ## Biografia

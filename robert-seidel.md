@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `projection-mapping` `procedurale-generativo` `modellazione-3d`
 **Tag tema:** `corpo-identita` `storia-computer-grafica`
+**Tag corso:** `AVM` `M3D`
 
 ## Biografia
 Nato nel 1977 a Jena, Germania. Inizia gli studi in biologia, poi si trasferisce alla Bauhaus-Universität Weimar per completare la formazione in media design. Con base a Berlino, lavora tra film sperimentale, installazione, arte pubblica, performance, suono e curatela.

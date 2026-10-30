@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `net-art-sito-web`
 **Tag tema:** `corpo-identita` `economia-attenzione`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia
 Nato nel 1981 a Fort Worth, Texas (USA), Geoffrey Lillemon è un artista/regista con base ad Amsterdam da oltre vent'anni, dove è diventato una figura di culto della scena digitale locale. Co-fonda lo studio **Champagne Valentine** insieme ad Anita Fontaine, tra le realtà pionieristiche del cosiddetto Net Art Movement, attive nell'interazione fra mondo digitale e fisico fin dai primi anni 2000. È **direttore creativo del Department of New Realities** di Wieden+Kennedy Amsterdam, ruolo in cui applica la propria pratica CGI/VFX al lavoro pubblicitario e di brand. Rappresentato come regista dalla casa di produzione amsterdamese **100%** (già HALAL). Le sue opere digitali sono distribuite anche tramite le piattaforme di edizioni digitali **Sedition** e **Foundation** (NFT). Collabora regolarmente con artisti musicali di primo piano — Beyoncé, Coldplay, Lady Gaga, Miley Cyrus (visual per il tour Bangerz, 2014, con Diane Martel), Nicki Minaj, Snoop Dogg, Travis Scott — e con marchi come adidas, Chanel, Converse, Diesel, Rick Owens, Iris Van Herpen, Gucci, Versace, Dazed Beauty. Opere acquisite dallo Stedelijk Museum e mostrate da Boijmans Van Beuningen (Rotterdam); ha inoltre presentato lavori/performance al Museo Tamayo di Città del Messico e al Centre Pompidou di Parigi.

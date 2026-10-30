@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `vr-ar` `video`
 **Tag tema:** `sorveglianza-controllo` `economia-attenzione` `game-culture`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** testo in parte generato con IA, da verificare
 
 ## Biografia

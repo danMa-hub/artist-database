@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione` `ai-generativa`
 **Tag tema:** `intelligenza-artificiale-critica` `capitalismo-lavoro` `genere-queerness`
+**Tag corso:** `TAD-DCV` `AW`
 **Stato:** contenuti ricavati da risultati di ricerca, da riverificare prima dell'uso didattico · da verificare la mostra all'ICA di Londra (2023) · da approfondire il collettivo Radha May
 
 ## Biografia

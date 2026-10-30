@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `videogioco-simulazione` `procedurale-generativo`
 **Tag tema:** `storia-computer-grafica` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** non confermato: l'ingresso di Everything nella collezione permanente del MoMA (da verificare su moma.org) · da verificare il progetto EACHOTHER (2026)
 
 ## Biografia

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `stampa-3d-scultura` `vr-ar`
 **Tag tema:** `economia-attenzione` `corpo-identita`
+**Tag corso:** `TAD-DCV` `M3D`
 **Stato:** da cercare: documentazione video dei visual per PC Music e della mostra al Carnegie Museum · da controllare l'attribuzione dei video QT ed EasyFun
 
 ## Biografia

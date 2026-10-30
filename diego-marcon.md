@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `video` `ai-generativa`
 **Tag tema:** `corpo-identita` `memoria-archivio` `temporalita-non-lineare`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 **Stato:** non verificata un'opera «Rain» attribuita all'artista (probabile confusione con un altro) · da approfondire: Dolle (2023)
 
 ## Biografia

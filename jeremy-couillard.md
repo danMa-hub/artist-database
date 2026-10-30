@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `videogioco-simulazione` `vr-ar` `installazione`
 **Tag tema:** `fantascienza-speculativa` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD`
+**Tag corso:** `TAD-DCV` `AVM`
 
 ## Biografia
 Artista che realizza simulazioni e videogiochi narrativi interattivi.

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `vr-ar` `modellazione-3d` `fotogrammetria-scansione` `installazione`
 **Tag tema:** `corpo-identita` `mondi-virtuali-simulazione`
-**Tag corso:** `TAD` `AW` `M3D`
+**Tag corso:** `TAD-DCV` `AW` `M3D`
 **Stato:** THE MAW OF è una commissione del 2022 (KW Institute e Whitney artport), non del 2015 · non confermata un'opera con dati EEG/biometrici
 
 ## Biografia
