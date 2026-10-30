@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `stampa-3d-scultura` `installazione` `video`
 **Tag tema:** `sorveglianza-controllo` `genere-queerness`
+**Stato:** testo in parte generato con IA: anno di nascita e dettagli biografici da verificare · il quadro teorico (Foucault, Glissant, Zuboff, Deleuze) va controllato prima di usarlo come riferimento
 
 ## Biografia
 Artista attivo all'intersezione tra arte, teoria queer e attivismo. *(Anno di nascita indicato in una fonte non verificata come 1981 — da controllare.)*
@@ -42,21 +43,16 @@ Blas indaga i presupposti ideologici e le implicazioni biopolitiche incorporate 
 
 **Approfondimento:** [zachblas.info — The Doors](https://zachblas.info/works/the-doors/)
 
-## Immagini
-
-Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista. Il dominio zachblas.com citato nelle fonti originali non è più attivo: l'indirizzo corrente è zachblas.info. Nessuna immagine reperita per *Biometric Mirror*, la cui attribuzione andrebbe verificata (vedi nota nella relativa sezione).
-- [zachblas.info — sito ufficiale](https://zachblas.info/)
-- [Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)
+## Interviste e talk
+- **Video:** [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)
+- **Video:** [The Right to Be Opaque — talk, transmediale (YouTube)](https://www.youtube.com/watch?v=Pbcr-n1e-IA)
 
 ## Fonti
 - [zachblas.info — sito ufficiale](https://zachblas.info/)
 - [Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)
 - [Contra-Internet: Jubilee 2033 — trailer](https://vimeo.com/261314972)
-- [Art, AI and Control Societies — talk, Walker Art Center (YouTube)](https://www.youtube.com/watch?v=FwT0hYyIe20)
-- [The Right to Be Opaque — talk, transmediale (YouTube)](https://www.youtube.com/watch?v=Pbcr-n1e-IA)
 
----
-
-## Appunti da organizzare
-- Fonte: unica scheda trovata, in cartella "new refs" (nessuna versione nella cartella REF principale). Testo con caratteri di codifica anomali che suggeriscono origine da un output AI precedente — **anno di nascita e dettagli biografici da verificare**; l'apparato critico-teorico (riferimenti a Foucault, Glissant, Zuboff, Deleuze) è utile come lettura ma andrebbe controllato prima di un uso didattico definitivo.
-- A differenza di Warburton/Evans/Lek/Cheng/Bahar Noorizadeh, qui il taglio rispetto alla fonte originale è stato minore: le 4 opere e la cornice teorica principale sono già tutte riprese sopra. Se serve il testo integrale (paragrafi introduttivi più estesi sull'"archeologia del controllo"), va ripreso dal documento "new refs" su Drive.
+## Crediti delle immagini
+Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista. Il dominio zachblas.com citato nelle fonti originali non è più attivo: l'indirizzo corrente è zachblas.info. Nessuna immagine reperita per *Biometric Mirror*, la cui attribuzione andrebbe verificata (vedi nota nella relativa sezione).
+- [zachblas.info — sito ufficiale](https://zachblas.info/)
+- [Facial Weaponization Suite](https://zachblas.info/works/facial-weaponization-suite/)

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `storia-computer-grafica` `sorveglianza-controllo`
+**Stato:** dati da verificare: testo e data del necrologio del New York Times, anni di alcuni premi (UNESCO Picasso Medal 1988, Kaiserring 1991) · nessuna immagine per *Good Morning, Mr. Orwell*
 
 ## Biografia
 Nato nel 1932 a Seoul, Corea, da una famiglia industriale benestante. Fugge dalla Corea nel 1950, all'inizio della guerra di Corea, prima a Hong Kong poi in Giappone. Studia estetica all'Università di Tokyo, laureandosi nel 1956 con una tesi su Arnold Schönberg. Si trasferisce poi in Germania per approfondire la composizione d'avanguardia: studia alle università di Monaco e Colonia e al Conservatorio di Musica di Friburgo. A Colonia lavora allo studio di musica elettronica della WDR, dove incontra John Cage e Karlheinz Stockhausen (circa 1958-63); nel 1961 conosce George Maciunas, fondatore di Fluxus, ed entra nel movimento neo-dada. Nel 1963 realizza la sua prima mostra personale, "Exposition of Music – Electronic Television", alla Galerie Parnass di Wuppertal, con televisori "preparati" (alterati fisicamente). Nel 1964 emigra negli Stati Uniti, stabilendosi a New York, dove vive e lavora per il resto della carriera, legato all'ambiente Fluxus/dell'avanguardia newyorkese. Nel 1996 un ictus lo lascia parzialmente paralizzato, ma continua a lavorare. Muore il 29 gennaio 2006 a Miami, Florida, a 73 anni. Riconoscimenti: Will Grohmann Prize (1981); borsa della Rockefeller Foundation; Maya Deren Award dell'American Film Institute; UNESCO Picasso Medal (1988); Kurt Schwitters Prize (1989); Kaiserring della città di Goslar (1991); Leone d'oro per il miglior padiglione nazionale alla Biennale di Venezia (1993, Padiglione tedesco); Ho-Am Prize (1995); Kyoto Prize (1998); Wilhelm Lehmbruck Prize (2001). Nel 2000 il Solomon R. Guggenheim Museum gli dedica la retrospettiva "The Worlds of Nam June Paik" (curata da John G. Hanhardt e Jon Ippolito), la prima retrospettiva statunitense dal 1982. Nel 2009 lo Smithsonian American Art Museum acquisisce l'intero archivio del suo lascito (oltre 200 videocassette, corrispondenza, robot, appunti di produzione), diventando il centro internazionale di riferimento per gli studi su Paik. Nel 2008 apre a Yongin, vicino Seoul, il Nam June Paik Art Center, pensato dallo stesso artista come propria sede istituzionale permanente.
@@ -18,6 +19,18 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 ![Zen for TV](immagini/nam-june-paik/zen-for-tv.jpg)
 
 **Approfondimento:** [Smithsonian American Art Museum — Zen for TV](https://americanart.si.edu/artwork/zen-tv-76252)
+
+### Random Access (1963)
+**Descrizione:** presentata alla prima mostra personale di Paik, *Exposition of Music – Electronic Television* (Galerie Parnass, Wuppertal, marzo 1963): strisce di nastro magnetico fissate alla parete producevano suono quando venivano strofinate con una testina di lettura. Il visitatore ascoltava dal punto scelto, in modo casuale, invece che in sequenza come in una riproduzione meccanica: da qui il titolo.
+
+**Approfondimento:** [Nam June Paik Art Center — Random Access nella mostra di Wuppertal](https://prenjpac-en.ggcf.kr/?p=1202)
+
+### Magnet TV (1965)
+**Descrizione:** presentata alla prima mostra personale di Paik negli Stati Uniti, *Nam June Paik: Cybernetic Arts and Music* (New School for Social Research, New York): il pubblico poteva modificare le immagini sullo schermo spostando un magnete. Secondo il Whitney, la sua interattività richiama il coinvolgimento del pubblico tipico della performance e degli happening dei primi anni Sessanta.
+
+![Magnet TV (1965) — immagine dalla pagina della fonte](immagini/nam-june-paik/magnet-tv.jpg)
+
+**Approfondimento:** [Whitney Museum — Magnet TV](https://whitney.org/collection/works/6139)
 
 ### TV Bra for Living Sculpture (1969, con Charlotte Moorman)
 **Descrizione:** due piccoli tubi TV alloggiati in custodie di plexiglass, indossati come un reggiseno sul petto di Charlotte Moorman tramite cinghie di vinile/plastica trasparente, mentre esegue dal vivo musica per violoncello. Moorman può alterare le immagini trasmesse tramite un pedale o un magnete legato al polso, distorcendo l'immagine in tempo reale. Presentata per la prima volta alla Howard Wise Gallery, New York (maggio 1969), in parte come risposta al suo arresto per oscenità del 1967.
@@ -44,6 +57,8 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 
 ⚠️ Nessuna immagine trovata per questa trasmissione in questa sessione: né il sito del Nam June Paik Art Center né MoMA hanno restituito un'immagine al fetch diretto.
 
+![Good Morning, Mr. Orwell (1984) — immagine dalla pagina della fonte](immagini/nam-june-paik/good-morning-mr-orwell.jpg)
+
 ### Electronic Superhighway: Continental U.S., Alaska, Hawaii (1995)
 **Descrizione:** grande scultura/installazione video — installazione a 51 canali (incluso un feed a circuito chiuso), elettronica personalizzata, tubi al neon, acciaio e legno; oltre 300 monitor televisivi e circa 50 lettori video/DVD disposti nella forma di una mappa degli Stati Uniti (circa 15x40x4 piedi). Ogni stato mostra clip video in loop che citano la cultura popolare/mitologia di quello stato (ad esempio *Il mago di Oz* per il Kansas), mentre il neon disegna la rete autostradale interstatale. In mostra permanente allo Smithsonian American Art Museum di Washington D.C. dal 2006.
 **Lettura critica:** letta come visualizzazione della collisione tra il sistema autostradale interstatale di metà secolo, la televisione via cavo e l'internet emergente degli anni '90 in un unico sistema nervoso nazionale/elettronico — la realizzazione concreta del concetto di "electronic superhighway" coniato nel rapporto Rockefeller del 1974.
@@ -52,12 +67,9 @@ Paik è comunemente definito "padre della videoarte" — un'etichetta ampiamente
 
 **Approfondimento:** [Smithsonian American Art Museum — Electronic Superhighway](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
 
-## Immagini
-
-Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Smithsonian American Art Museum, M+ Museum, Wikipedia e YouTube. Nessuna immagine reperita per *Good Morning, Mr. Orwell* — vedi nota nella sezione corrispondente.
-- [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
-- [Smithsonian American Art Museum — Electronic Superhighway: Continental U.S., Alaska, Hawaii](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
-- [MoMA — Global Groove, collezione](https://www.moma.org/collection/works/107679)
+## Interviste e talk
+- **Video:** [MoMA, walkthrough di *Zen for TV* (YouTube)](https://www.youtube.com/watch?v=-_EGwhZ64LQ)
+- [Smithsonian American Art Museum — archivio Paik](https://americanart.si.edu/research/paik): oltre 200 videocassette e trascrizioni di interviste, tra cui una a Dick Higgins.
 
 ## Fonti
 - [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
@@ -72,9 +84,10 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [Smarthistory — saggio su Electronic Superhighway](https://smarthistory.org/nam-june-paik-electronic-superhighway-continental-u-s-alaska-hawaii/)
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/nam-june-paik/biography)
 
----
-
-## Appunti da organizzare
-- Non citato in un programma specifico dei corsi — inserito dalla lista generale "da scrivere da zero" come figura storica fondativa/prehistoria della videoarte, riferimento implicito per gran parte degli artisti già presenti nel database.
-- ⚠️ Non verificati: testo esatto e autore/data del necrologio sul *New York Times*; anni precisi di alcuni premi (UNESCO Picasso Medal 1988, Kaiserring 1991, ecc.), aggregati da una sola ricerca incrociata — da verificare singolarmente se citati con precisione in classe. Ruolo preciso nell'attribuzione dell'etichetta "padre della videoarte" — designazione curatoriale/giornalistica diffusa, non riconducibile a un singolo critico.
-- Video ulteriori da vedere in aula: [MoMA, walkthrough di Zen for TV (YouTube)](https://www.youtube.com/watch?v=-_EGwhZ64LQ); archivio Smithsonian del lascito Paik (oltre 200 videocassette, trascrizioni di interviste incluse una a Dick Higgins): [americanart.si.edu/research/paik](https://americanart.si.edu/research/paik).
+## Crediti delle immagini
+Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", da Smithsonian American Art Museum, M+ Museum, Wikipedia e YouTube. Nessuna immagine reperita per *Good Morning, Mr. Orwell* — vedi nota nella sezione corrispondente.
+- [Smithsonian American Art Museum — biografia e archivio Paik](https://americanart.si.edu/research/paik/biography)
+- [Smithsonian American Art Museum — Electronic Superhighway: Continental U.S., Alaska, Hawaii](https://americanart.si.edu/artwork/electronic-superhighway-continental-us-alaska-hawaii-71478)
+- [MoMA — Global Groove, collezione](https://www.moma.org/collection/works/107679)
+- *Magnet TV*: immagine dalla pagina [whitney.org](https://whitney.org/collection/works/6139); diritti dei rispettivi titolari, uso didattico.
+- *Good Morning, Mr. Orwell*: immagine dalla pagina [asiasociety.org](https://asiasociety.org/blog/asia/good-morning-mr-orwell-look-back-nam-june-paik-video-greeted-1984); diritti dei rispettivi titolari, uso didattico.

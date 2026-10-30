@@ -2,9 +2,10 @@
 
 **Tag tecnica/formato:** `video` `fotografia`
 **Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
+**Stato:** descrizioni volutamente minime per cinque opere (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) · da approfondire
 
 ## Biografia
-Artista belga, nato nel 1969. Formato come pittore, si è progressivamente interessato al tempo attraverso indagini sulla natura della fotografia, l'immagine fissa e quella in movimento.
+Artista belga, nato nel 1969 a Kortrijk; vive e lavora tra Anversa e Berlino. Si forma come pittore presso il Nationaal Hoger Instituut voor Schone Kunsten di Anversa (secondo una fonte, anche presso la Rijksakademie di Amsterdam) e si è progressivamente interessato al tempo attraverso indagini sulla natura della fotografia, l'immagine fissa e quella in movimento, passando alla fotografia, al video e alle arti digitali. Realizza installazioni di grande formato che pongono domande su tempo, memoria e verità. Tra le mostre personali recenti in musei: Musée de l'Orangerie, Parigi (2025), Centraal Museum, Utrecht (2024), Milwaukee Art Museum (2022), Garage Museum of Contemporary Art, Mosca (2021); tra le precedenti, SFMOMA, San Francisco (2011). È rappresentato, tra gli altri, da Sean Kelly, Esther Schipper e Galerie Micheline Szwajcer ([EAI](https://www.eai.org/artists/david-claerbout/biography); [SMAK](https://smak.be/en/artists/david-claerbout); [Esther Schipper](https://www.estherschipper.com/artists/53-david-claerbout/biography/)).
 
 ## Poetica e ricerca
 Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la fiducia — sempre più incrinata — tra realtà e rappresentazione. Centrale è il concetto di **indicizzalità** (Charles Sanders Peirce): il segno fotografico come connessione fisica diretta con il proprio referente, oggi eroso dall'immagine digitale e dallo scanning 3D. La sua pratica è spesso descritta come "sculpting in duration": non racconta storie lineari, ma dà forma al tempo stesso — alla differenza percepita tra il minuto 1 e il minuto 10 — sottraendo l'immagine alla logica della gratificazione istantanea.
@@ -72,24 +73,37 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 
 ![The confetti piece — installazione, Annet Gelink Gallery, Amsterdam](immagini/david-claerbout/the-confetti-piece.jpg)
 
+### Shadow Piece (2005)
+**Descrizione:** installazione video in bianco e nero di circa 30 minuti: alcuni passanti cercano di aprire una serie di porte a vetri per entrare nell'atrio di un edificio.
+
+**Approfondimento:** [Wikipedia — David Claerbout](https://en.wikipedia.org/wiki/David_Claerbout)
+
+### Sections of a Happy Moment (2007)
+**Descrizione:** video in bianco e nero a canale singolo, con audio stereo, di circa 26 minuti: presenta un momento della vita di una famiglia cinese nel cortile di una tenuta anonima. Ne esiste una versione ampliata, *The Algiers' Sections of a Happy Moment* (realizzata tra il 2008 e il 2011, 37 minuti secondo la Pinault Collection).
+
+**Approfondimento:** [Pinault Collection — The Algiers' Sections of a Happy Moment](https://lesoeuvres.pinaultcollection.com/en/node/2291)
+
+### Travel (1996-2013)
+**Descrizione:** opera del 1996 completata nel corso degli anni (le fonti danno 1996-2013 oppure 1996-2014), di circa 12 minuti, con una colonna sonora di musica terapeutica sintetizzata composta dal francese Eric Breton.
+
+![Travel (1996-2013) — immagine dalla pagina della fonte](immagini/david-claerbout/travel.jpg)
+
+**Approfondimento:** [Hirshhorn — David Claerbout, Travel](https://hirshhorn.si.edu/explore/david-claerbout-travel)
+
 ### The Silence of the Lens (saggio, e-flux Journal #73, 2016)
 **Descrizione:** testo teorico dell'artista sul passaggio dalla fotografia analogica (lens-based) allo scanning e all'immagine 3D.
 **Lettura critica:** oppone la "logica dell'incontro" della fotografia (autenticazione reciproca tra obiettivo e mondo) alla "logica dell'evitamento" dello scanning, orientato alla sicurezza e all'individuazione di minacce — una critica alla "radicale conservatività" del 3D fotorealistico.
 
-## Immagini
-
-Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [davidclaerbout.com](https://davidclaerbout.com/) (*The Silence of the Lens* è un saggio testuale, non ha immagine).
-- [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
+## Interviste e talk
+- **Video:** [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
+- **Video:** [«On Dark Optics», lecture all'e-flux, New York, 11 marzo 2019 (YouTube)](https://www.youtube.com/watch?v=udVGSu5A2lw)
+- Conversazione con Sara Dolfi Agostini su *Oil Workers*: vedi il video sotto l'opera.
 
 ## Fonti
 - [davidclaerbout.com](https://davidclaerbout.com/)
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
-- [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
-- ["On Dark Optics", lecture e-flux, New York, 11 marzo 2019 (YouTube)](https://www.youtube.com/watch?v=udVGSu5A2lw)
-- [David Claerbout in conversazione su Oil Workers (YouTube)](https://www.youtube.com/watch?v=3nQVjL6k6ZU)
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive (migrata e riorganizzata col nuovo template). Contiene molte citazioni dirette dell'artista (interviste, talk e-flux) da cui è stata sintetizzata la poetica — utile riascoltare le fonti audio/video originali per citazioni più precise.
-- Opere aggiunte in un secondo passaggio (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) direttamente dai link nella scheda REF originale — descrizioni volutamente minime, da approfondire con ricerca dedicata se necessario.
+## Crediti delle immagini
+Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [davidclaerbout.com](https://davidclaerbout.com/) (*The Silence of the Lens* è un saggio testuale, non ha immagine).
+- [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
+- *Travel*: immagine dalla pagina [hirshhorn.si.edu](https://hirshhorn.si.edu/explore/david-claerbout-travel); diritti dei rispettivi titolari, uso didattico.

@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `vr-ar`
 **Tag tema:** `storia-computer-grafica` `corpo-identita`
+**Stato:** scheda avanzata · da completare con il materiale della retrospettiva «Synthetic Creatures» (MEET, Milano, 2026)
 
 ## Biografia
 Nata nel 1953 a Detroit. BFA alla Rhode Island School of Design (RISD), dove inizia la propria pratica artistica nei primi anni '70. Lavora con il computer come medium artistico dal 1970. Vincitrice del DAM Digital Art Award 2023/24 ([Beyond New Media Art](https://www.beyondnewmedia.art/texts/my-laudatory-speech-for-rebecca-allen-winner-of-the-dam-digital-art-award-2023-24/)).
@@ -53,17 +54,12 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 
 **Approfondimento:** [rebeccaallen.com — Figures Crawling](https://www.rebeccaallen.com/projects/figures-crawling), [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
 
-## Immagini
-
-Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
-- [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
-- [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)
-- [Serpentine Galleries — "Rebecca Allen on Kraftwerk, Video Games & Artificial Life"](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
+## Interviste e talk
+- [Serpentine Galleries — «Rebecca Allen on Kraftwerk, Video Games & Artificial Life»](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
 
 ## Fonti
 - [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
 - [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist))
-- [Serpentine Galleries — "Rebecca Allen on Kraftwerk, Video Games & Artificial Life"](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
 - [SIGGRAPH History Archives — Catherine Wheel](https://history.siggraph.org/artwork/rebecca-allen-catherine-wheel/)
 - [The Bush Soul (#1) — rebeccaallen.com](https://www.rebeccaallen.com/projects/bush-soul-number-1)
 - [Life Without Matter — rebeccaallen.com](https://www.rebeccaallen.com/projects/life-without-matter)
@@ -71,9 +67,10 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [MEET Digital Culture Center — "Synthetic Creatures", retrospettiva Milano (9 maggio–13 settembre 2026)](https://www.meetcenter.it/en/event/rebecca-allen-synthetic-creatures/)
 - [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
 
----
+## Mostre viste
+- *Synthetic Creatures*, MEET, Milano (2026) — visto da @danMa-hub
 
-## Appunti da organizzare
-- Citata in *Tecniche di modellazione digitale 3D* e in *Applicazioni digitali per l'arte* come artista che ha posto le basi per le prime sperimentazioni nell'arte digitale.
-- Video da cercare: *Musique Non-Stop* (Kraftwerk) dovrebbe essere reperibile su YouTube; *Life Without Matter* è opera VR, verificare se esiste documentazione video.
-- ✅ Visitata dall'utente la retrospettiva "Synthetic Creatures" al MEET Milano (12 settembre 2026, ultimo giorno) — materiale completo (foto pannelli, video opere) in [`mostre/2026-09-12-meet-rebecca-allen.md`](../mostre/2026-09-12-meet-rebecca-allen.md). Aggiunta l'opera *Figures Crawling* trovata via ricerca web a partire dai pannelli fotografati. 19 video della visita non ancora rivisti (troppo pesanti per questa sessione) — probabilmente documentano altre opere della galleria immersiva, da riprendere in locale insieme alle foto di QR code non decodificabili da qui.
+## Crediti delle immagini
+Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista.
+- [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
+- [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)

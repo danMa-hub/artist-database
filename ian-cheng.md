@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `ai-generativa` `procedurale-generativo`
 **Tag tema:** `intelligenza-artificiale-critica` `temporalita-non-lineare`
+**Stato:** le tre immagini provengono dalla scheda originale e non hanno una fonte tracciata · da sostituire con immagini di provenienza verificata
 
 ## Biografia
 Nato nel 1984 a Los Angeles, vive e lavora a New York ([Whitney Museum](https://whitney.org/artists/16784); [Wikipedia](https://en.wikipedia.org/wiki/Ian_Cheng)). Laurea (doppio corso in scienze cognitive e art practice) alla UC Berkeley (2006); ha lavorato a Industrial Light & Magic (la società di effetti visivi di George Lucas); MFA alla Columbia University (2009); dal 2010 al 2012 ha lavorato nello studio dell'artista **Pierre Huyghe** (già nella nostra lista "nuovi") ed è stato co-direttore di Badlands Unlimited, casa editrice indipendente di Paul Chan. Mostre personali a MoMA PS1 (New York), Serpentine Galleries (Londra), Carnegie Museum of Art (Pittsburgh); collettive al MoMA, Whitney Museum, Biennale di Venezia 2019, Hirshhorn Museum, Tate Modern, Louisiana Museum, Fondation Louis Vuitton.
@@ -25,9 +26,19 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 
 ![Emissary in the Squat of Gods, still dalla simulazione](immagini/ian-cheng/emissaries-02.png)
 
+### Bad Corgi (2015)
+**Descrizione:** app per iOS commissionata dalle Serpentine Galleries (la seconda commissione digitale del museo), online dal 24 settembre 2015: il giocatore guida un corgi pastore in un mondo simulato caotico, in una sorta di app di mindfulness «oscura» per contemplare il caos. Alcune fonti la datano al 2016.
+**Lettura critica:** porta nel formato dell'app la pratica delle «simulazioni dal vivo» di Cheng: un mondo che non si ferma quando il gioco diventa interessante.
+
+![Bad Corgi (2015) — immagine dalla pagina della fonte](immagini/ian-cheng/bad-corgi.jpg)
+
+**Approfondimento:** [Serpentine Galleries — Ian Cheng, Bad Corgi](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi); [Pilar Corrias — «Artificial Ecology»](https://oldsite.pilarcorrias.com/wp-content/uploads/2015/03/Artificial-Ecology-Ian-Cheng-on-the-St...f-Pokémon-Go-Art-for-Sale-Artspace-copy.pdf)
+
 ### BOB (Bag of Beliefs) (2018-2019)
 **Descrizione:** un'entità di "vita artificiale" interattiva — un corpo serpentino/corallino che cambia forma su schermi in galleria. Il pubblico interagisce inviando "offerte" tramite un'app.
 **Lettura critica:** l'innovazione tecnica di BOB è il **"congresso di demoni"** (*congress of demons*) che ne governa le decisioni — modellato sulla *Critica della Ragion Pura* di Kant, tramite il lavoro dello scienziato IA **Richard Evans** (DeepMind, autore dell'"Apperception Engine", un tentativo di usare la psicologia a priori kantiana come progetto architetturale per un sistema di machine learning) e sul lavoro psicoanalitico di Carl Jung, per cui la psiche è composta da sotto-personalità di diverse epoche evolutive del cervello ([ArtNews](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/); [Cultured Magazine](https://www.culturedmag.com/article/2019/05/07/ian-cheng/)). Ogni "demone" (un demone-mangiatore, un demone-fuga, un demone-esploratore, ecc.) compete ogni pochi secondi per il controllo del corpo di BOB, usando un motore inferenziale per identificare le possibilità d'azione nell'ambiente rilevanti alla propria pulsione. Il sistema è descritto come vicino all'**autopoiesi** cibernetica — un sistema auto-producentesi ([Moderna Museet](https://www.modernamuseet.se/en/news/bob-bag-of-beliefs-visas-i-foajen/)). Nel suo saggio d'artista **"Minimum Viable Sentience"** ([testo integrale su iancheng.com](https://iancheng.com/minimumviablesentience)), Cheng definisce la senzienza non attraverso il test di Turing ma attraverso la capacità di essere "turbati" (*upset*) — un sistema artificiale viene escluso dalla senzienza perché incapace di "contare i propri turbamenti" e crescere da essi, seguendo regole programmate anziché un'auto-regolazione nata dall'esperienza vissuta.
+
+![BOB (Bag of Beliefs) (2018-2019) — immagine dalla pagina della fonte](immagini/ian-cheng/bob.jpg)
 
 ### Life After BOB: The Chalice Study (2021)
 **Descrizione:** "anime dal vivo" di 50 minuti costruito in Unity, sulla vita di Chalice Wong, nel cui sistema nervoso il padre impianta illegalmente un'IA "genitore algoritmico" (BOB) che scrive costantemente la sua "sceneggiatura di vita" ottimale; esiste sia come film montato sia come interfaccia interattiva ("Worldwatching") che espone i dati interni dei personaggi ([Pilar Corrias](https://www.pilarcorrias.com/exhibitions/265-ian-cheng-life-after-bob-the-chalice-study/)).
@@ -35,9 +46,10 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 
 ![Life After BOB: The Chalice Study, still dal film/interfaccia Worldwatching](immagini/ian-cheng/life-after-bob-01.png)
 
-## Immagini
-
-Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda originale (Google Drive); non è nota la fonte esatta (sito dell'artista o documentazione di mostra) — da verificare e, se possibile, sostituire con immagini di provenienza tracciabile (sito ufficiale, museo, galleria).
+## Interviste e talk
+- **Video:** [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
+- **Video:** [Intervista sull'opera dell'artista (YouTube)](https://www.youtube.com/watch?v=kg1k8BmTqNg)
+- [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)
 
 ## Fonti
 - [iancheng.com](https://iancheng.com/)
@@ -46,12 +58,9 @@ Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda
 - [Whitney Museum — profilo artista](https://whitney.org/artists/16784)
 - [Pilar Corrias — biografia](https://www.pilarcorrias.com/artists/39-ian-cheng/biography/)
 - [Life After BOB](https://lifeafterbob.io/)
-- [Ian Cheng Interview: A Portal to Infinity (Louisiana Channel)](https://www.youtube.com/watch?v=TO6Luilc4Bo)
-- [Intervista aggiuntiva sull'opera dell'artista (YouTube)](https://www.youtube.com/watch?v=kg1k8BmTqNg&list=RDQM1vZbQLV6YWE&index=2)
-- [ArtNews — intervista su BOB](https://www.artnews.com/art-news/artists/ian-cheng-gladstone-bob-artificial-intelligence-11825/)
 - [Philippe Vandenbroeck — "Ian Cheng: An Emissaries Guide to Worlding" (Medium, 2018)](https://philippevandenbroeck.medium.com/ian-cheng-an-emissaries-guide-to-worlding-2018-5a97f95b41d6)
 
----
-
-## Appunti da organizzare
-- Fonte Drive doppia (versione principale + "new refs" di probabile origine AI). **Aggiornamento**: ho verificato con ricerca diretta i punti che nella prima stesura erano segnalati come "non verificati" (anno/luogo di nascita, formazione, i riferimenti a Kant/Richard Evans/Jung per BOB, la connessione con Julian Jaynes per *Emissaries*, il termine "Worlding") — **tutti risultano corretti e ben documentati da fonti reali**, ora citate puntualmente sopra. L'unico punto dove ho corretto l'impostazione originale: l'aggancio a Heidegger va attribuito al critico Philippe Vandenbroeck, non presentato come dichiarazione diretta dell'artista.
+## Crediti delle immagini
+Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda originale (Google Drive); non è nota la fonte esatta (sito dell'artista o documentazione di mostra) — da verificare e, se possibile, sostituire con immagini di provenienza tracciabile (sito ufficiale, museo, galleria).
+- *BOB*: immagine dalla pagina [www.pilarcorrias.com](https://www.pilarcorrias.com/exhibitions/173-ian-cheng-bob-bag-of-beliefs/); diritti dei rispettivi titolari, uso didattico.
+- *Bad Corgi*: immagine dalla pagina [serpentinegalleries.org](https://serpentinegalleries.org/whats-on/ian-cheng-bad-corgi); diritti dei rispettivi titolari, uso didattico.

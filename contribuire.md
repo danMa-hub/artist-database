@@ -62,14 +62,14 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 ## Interviste e talk
 - [Titolo, sede o testata (anno)](https://...) — intervista, talk o risorsa online utile per capire l'artista, da mostrare o leggere
 
-## Mostre viste
-(opzionale: mostre in cui l'artista è stato visto di persona o incontrato per la prima volta)
-- *Titolo della mostra*, luogo (anno) — visto da @tuo-utente-github
-
 ## Fonti
 - [Sito ufficiale dell'artista](https://...) — sempre la prima fonte, quando esiste
 - [Portfolio](portfolio/nome-artista-portfolio.pdf) — se esiste un PDF, va scaricato e archiviato nel repo (vedi sotto), non solo linkato
 - [Titolo fonte](https://...)
+
+## Mostre viste
+(opzionale: mostre in cui l'artista è stato visto di persona o incontrato per la prima volta)
+- *Titolo della mostra*, luogo (anno) — visto da @tuo-utente-github
 
 ## Crediti delle immagini
 - Opera / immagine — fonte e autore della fotografia

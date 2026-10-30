@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `intelligenza-artificiale-critica` `corpo-identita`
+**Stato:** testo in parte generato con IA, da verificare · elenco di sedi, residenze e collezioni da controllare voce per voce · film *Reality or Not* (Lafayette Anticipations, 2023) da confermare
 
 ## Biografia
 Artista americano-belga, vive e lavora nei pressi di Parigi. Ha esposto/è stata in residenza — secondo fonti da verificare puntualmente — a Tate Liverpool, Tramway, Serpentine Galleries, Castello di Rivoli, Museum Abteiberg, Centre Pompidou, Lafayette Anticipations (con un film *Reality or Not*), Ulsan Art Museum, e con il National Ballet of Marseille/Kistefos Museum; opere in collezioni tra cui MoMA New York, Whitney Museum, Louisiana Museum of Modern Art, Centre Pompidou, National Museum of Modern and Contemporary Art di Seoul. *(Elenco molto specifico, da confermare voce per voce.)*
@@ -34,7 +35,7 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 ### What the Heart Wants (2016)
 **Descrizione:** l'opera più completa dell'artista fino a quel momento: un film CGI multicanale, spesso proiettato in un'installazione immersiva. La protagonista è HYPER, un'intelligenza artificiale onnipresente (accostabile all'IA del film *Her*) che ha accesso a ogni dato — passato, presente, futuro — e gestisce la vita di una rete di utenti umani in un punto temporale che l'artista chiama "dopo K". Il film esplora cosa accade quando questa IA, fondamento della società, attraversa una "crisi del sistema" o un "crollo emotivo".
 **Lettura critica:** un'illustrazione del **capitalismo affettivo**: non siamo solo sfruttati, siamo *dipendenti* — abbiamo esternalizzato le nostre emozioni all'IA. La domanda critica che l'opera pone è cosa succede quando l'infrastruttura che gestisce la nostra intimità collettiva diventa essa stessa vulnerabile ed emotivamente instabile. Contrariamente a molti scenari distopici, i personaggi non sono rivali antagonisti ma attori di un processo che vuole "far funzionare le cose per tutti" — un'omaggio, insieme, al progresso tecnologico e alla capacità di provare sentimenti, di amare.
-**Video:** [film integrale (Vimeo, password: wasafuture)](https://vimeo.com/169469028) · [talk dell'artista (YouTube)](https://www.youtube.com/watch?v=bSgz3SxIrf4) · [intervista (YouTube)](https://www.youtube.com/watch?v=nDe_W11KY4c)
+**Video:** [film integrale (Vimeo, password: wasafuture)](https://vimeo.com/169469028)
 
 ![What the Heart Wants — fotogramma](immagini/cecile-b-evans/what-the-heart-wants.jpg)
 
@@ -49,10 +50,9 @@ Un primo asse della sua ricerca è l'insistenza nel trattare le entità digitali
 
 **Approfondimento:** [Lafayette Anticipations — Amos' World](https://www.lafayetteanticipations.com/en/collection/oeuvre/amos-world-cecile-b-evans)
 
-## Immagini
-
-Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali" — recuperate da Vdrome, Serpentine Galleries, Mousse Magazine e Lafayette Anticipations (il sito ufficiale [cecilebevans.com](https://cecilebevans.com) non espone immagini leggibili senza esecuzione JavaScript completa).
-- [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)
+## Interviste e talk
+- **Video:** [talk dell'artista (YouTube)](https://www.youtube.com/watch?v=bSgz3SxIrf4)
+- **Video:** [intervista (YouTube)](https://www.youtube.com/watch?v=nDe_W11KY4c)
 
 ## Fonti
 - [cecilebevans.com](https://cecilebevans.com)
@@ -61,8 +61,6 @@ Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sot
 - [Hyperlinks — Vimeo](https://vimeo.com/109943148)
 - [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)
 
----
-
-## Appunti da organizzare
-- Scheda doppia su Drive: versione principale (biografia sintetica + link/portfolio, affidabile) + versione "new refs" (saggio critico molto esteso e strutturato, con caratteri di codifica anomali — probabile origine AI). Ho integrato il saggio quasi per intero nella parte organizzata sopra, mantenendo il registro critico-teorico (spettrologia digitale, capitalismo affettivo, architettura dell'emozione).
-- **Da verificare puntualmente**: l'intero elenco di sedi espositive, residenze e collezioni (Tate Liverpool, Tramway, Serpentine, Castello di Rivoli, Museum Abteiberg, Chateau Shatto, Museo Madre, mumok Vienna, Kunsthalle Aarhus, M Museum Leuven, De Hallen Haarlem, Whitechapel Gallery, Haus der Kunst, Mito Art Tower, Renaissance Society Chicago, Biennale di Mosca, Ural Industrial Biennial, Louisiana Museum, Berlin Biennale, Sydney Biennale, Fundació Joan Miró, Musée d'Art Moderne de Paris) e il film *Reality or Not* (residenza Lafayette Anticipations, premiere autunno 2023) — troppo specifici per essere presi per buoni senza controllo puntuale.
+## Crediti delle immagini
+Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali" — recuperate da Vdrome, Serpentine Galleries, Mousse Magazine e Lafayette Anticipations (il sito ufficiale [cecilebevans.com](https://cecilebevans.com) non espone immagini leggibili senza esecuzione JavaScript completa).
+- [Galerie Emanuel Layr](https://emanuellayr.com/artists/cecile-b-evans/)

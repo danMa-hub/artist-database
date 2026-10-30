@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `game-engine-realtime` `modellazione-3d` `video`
 **Tag tema:** `sorveglianza-controllo` `capitalismo-lavoro` `intelligenza-artificiale-critica`
+**Stato:** scheda avanzata · l'attribuzione di tre immagini alle rispettive opere è probabile ma non certa (vedi Crediti delle immagini)
 
 ## Biografia
 Nato nel 1982 a Francoforte sul Meno, di origini malaysiana-cinesi; infanzia divisa tra Europa e Asia (incluso un periodo a Osaka) prima di stabilirsi nel Regno Unito. Vive e lavora a Londra ([Wikipedia](https://en.wikipedia.org/wiki/Lawrence_Lek); [Ocula](https://ocula.com/artists/lawrence-lek/)). Formazione in architettura: laurea al Trinity College, Università di Cambridge (2004); AA Diploma alla Architectural Association di Londra (2008); Master of Architecture II alla Cooper Union di New York (2012); PhD al Royal College of Art di Londra (2022). Nel 2024 ha vinto il **Frieze Artist Award**; incluso da *Time* tra le 100 persone più influenti nell'IA.
@@ -79,12 +80,8 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 
 **Approfondimento:** [lawrencelek.com — Guanyin (Confessions of a Former Carebot)](https://www.lawrencelek.com/works/guanyin-confessions-of-a-former-carebot)
 
-## Immagini
-
-Immagine per ciascuna delle nove opere, inclusa sotto la relativa descrizione in "Opere principali", da materiali forniti direttamente, Vimeo e hsds.pro.
-- [lawrencelek.com](https://www.lawrencelek.com/)
-- [Wikipedia — Lawrence Lek](https://en.wikipedia.org/wiki/Lawrence_Lek)
-- [Ocula — biografia](https://ocula.com/artists/lawrence-lek/)
+## Interviste e talk
+- Conversazione con l'artista e il professor Iyad Rahwan su *NOX*: vedi il video sotto l'opera.
 
 ## Fonti
 - [lawrencelek.com](https://www.lawrencelek.com/)
@@ -97,8 +94,8 @@ Immagine per ciascuna delle nove opere, inclusa sotto la relativa descrizione in
 - [Rhizome — "Simulation as Institutional Critique: Lawrence Lek's Unreal Estate"](https://rhizome.org/editorial/2015/aug/27/lawrence-lek-simulation/)
 - [NOX — LAS Art Foundation](https://www.las-art.foundation/programme/nox)
 
----
-
-## Appunti da organizzare
-- Fonte Drive doppia (versione principale + "new refs" di probabile origine AI). **Aggiornamento**: ho verificato con ricerca diretta i punti segnalati come "non verificati" nella prima stesura (anno/luogo di nascita, formazione, Frieze Award 2024, il termine Sinofuturismo) — **tutti confermati da fonti reali**, ora citate sopra. La formazione era imprecisa nella prima stesura ("MA Cooper Union", "PhD più recente" senza istituzione): corretto in Master of Architecture II alla Cooper Union (2012) e PhD al Royal College of Art (2022). Aggiunta anche la ricezione critica reale (la critica di Gabriele de Seta al Sinofuturismo) per dare conto del dibattito, non solo di una lettura univoca.
-- **Immagini** fornite direttamente (esportazione HTML/zip del Google Doc originale, 7 immagini). Attribuzione a opera specifica: sicura per Sinofuturism (fotogramma del titolo), Geomancer (satellite su Marina Bay Sands — coerente anche con la sede ArtScience Museum trovata in ricerca), Unreal Estate (il coniglio Koons nel cortile, dettaglio confermato dalle fonti su Rhizome/LUX), NOX (fotogramma del titolo "Home of Nonhuman Excellence"). **Probabile ma non certa**: l'immagine con testure a QR code e sottotitolo sui "gamblers" (attribuita a Sinofuturism per coerenza tematica con i 7 stereotipi del video-saggio, incluso "gambling"); la veduta aerea della città con anello verde (attribuita a NOX per prossimità nel documento originale); la figura incappucciata nella giungla con sottotitolo su "stars, producers, designers" (attribuita ad AIDOL per coerenza con il tema showbiz, ma potrebbe appartenere a un'altra opera non ancora documentata).
+## Crediti delle immagini
+Immagine per ciascuna delle nove opere, inclusa sotto la relativa descrizione in "Opere principali", da materiali forniti direttamente, Vimeo e hsds.pro.
+- [lawrencelek.com](https://www.lawrencelek.com/)
+- [Wikipedia — Lawrence Lek](https://en.wikipedia.org/wiki/Lawrence_Lek)
+- [Ocula — biografia](https://ocula.com/artists/lawrence-lek/)

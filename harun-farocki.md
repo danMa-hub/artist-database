@@ -2,6 +2,7 @@
 
 **Tag tecnica/formato:** `video` `data-visualization`
 **Tag tema:** `sorveglianza-controllo` `storia-computer-grafica` `game-culture`
+**Stato:** sintesi: l'opera di Farocki è molto più vasta di quella qui raccolta · la parte sulle immagini operative si basa su due saggi (Parikka, Paglen)
 
 ## Biografia
 Regista, artista e scrittore tedesco (1944-2014). Figura centrale del cinema saggistico e dell'arte dei media critica sulle immagini tecniche, la guerra e il lavoro.
@@ -41,11 +42,31 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 
 ![Parallel I-IV — fotogramma](immagini/harun-farocki/parallel-i-iv.jpg)
 
-## Immagini
+### Inextinguishable Fire (1969)
+**Descrizione:** film saggistico breve, realizzato nella Germania Ovest poco dopo l'espulsione di Farocki dall'accademia di cinema di Berlino per il suo impegno contro la guerra in Vietnam; esamina l'uso del napalm in Vietnam e il suo legame con la tecnologia e la guerra.
+**Lettura critica:** è la prima formulazione di un tema che attraversa tutta la sua opera, il legame fra produzione tecnologica e violenza.
 
-Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale [harunfarocki.de](http://www.harunfarocki.de), YouTube e Internet Archive.
-- [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
-- [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
+**Approfondimento:** [Goethe-Institut — retrospettiva Harun Farocki, note di programma](https://www.goethe.de/resources/files/pdf329/harun-farocki-retrospective_schedule-and-programm-notes.pdf)
+
+### Videograms of a Revolution (1992, con Andrei Ujică)
+**Descrizione:** montaggio di video amatoriali e di materiale della televisione di stato rumena del dicembre 1989, che documenta la caduta del regime di Ceaușescu.
+**Lettura critica:** è spesso citato come primo esempio del ruolo della televisione nella costruzione stessa di una rivoluzione.
+
+**Approfondimento:** [Artlist — Harun Farocki](https://artlist.cz/en/umelci/harun-farocki/)
+
+### Workers Leaving the Factory (1995)
+**Descrizione:** montaggio di 36 minuti che parte dal film dei fratelli Lumière del 1895 e raccoglie le variazioni della stessa scena (l'uscita degli operai dalla fabbrica) in un secolo di cinema. Farocki lo ha poi ripreso in un'installazione a più schermi, *Workers Leaving the Factory in Eleven Decades*.
+**Lettura critica:** la storia del cinema letta attraverso un solo motivo, il lavoro industriale.
+
+**Approfondimento:** [Goethe-Institut — retrospettiva Harun Farocki](https://www.goethe.de/resources/files/pdf329/harun-farocki-retrospective_schedule-and-programm-notes.pdf)
+
+### Counter-Music (2004)
+**Descrizione:** ambientato a Lille, città del nord della Francia segnata dalla deindustrializzazione, si chiede come oggi si debba filmare una città; richiama le sinfonie urbane degli anni Venti, come quella di Vertov.
+
+**Approfondimento:** [Haus der Kunst — Harun Farocki, Counter-Music](https://hausderkunst.de/en/eintauchen/harun-farocki-counter-music)
+
+## Interviste e talk
+- _Nessuna ancora: da aggiungere._
 
 ## Fonti
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
@@ -58,9 +79,7 @@ Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione
 - [Whitechapel Gallery — Parallel I-IV](https://www.whitechapelgallery.org/exhibitions/harun-farocki/)
 - Portfolio/sito ufficiale: **non individuato** nella fonte originale (l'opera è gestita dall'Harun Farocki Institut) — da cercare.
 
----
-
-## Appunti da organizzare
-- Fonte: scheda REF originale su Drive, molto ricca (~12MB, la più pesante della cartella) — contiene un lungo estratto del saggio di Jussi Parikka e uno di Trevor Paglen su e-flux. Ho sintetizzato il contenuto principale; **il documento originale su Drive è molto più esteso** e vale la pena riconsultarlo per approfondire ulteriormente (in particolare la parte finale sull'essai di Paglen, solo parzialmente ripresa qui).
-- Interessante notare che sia Paglen (già in database, presente anche a Strange Rules/Obrist a Venezia, con scheda propria che cita lo stesso saggio) sia Farocki condividono il tema delle "immagini operative".
-- **Immagini**: il documento Drive originale (~12MB) potrebbe contenere immagini incorporate, ma l'esportazione PDF necessaria per estrarle **supera il limite di questo strumento** ("File too large for export") — stesso problema riscontrato con Lawrence Lek. Se il documento contiene screenshot utili, andrebbero recuperati manualmente (export HTML/zip dal Google Doc) come fatto per Lek.
+## Crediti delle immagini
+Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale [harunfarocki.de](http://www.harunfarocki.de), YouTube e Internet Archive.
+- [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
+- [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
