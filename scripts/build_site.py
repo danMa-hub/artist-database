@@ -154,6 +154,42 @@ def sezioni_comprimibili(righe):
     return uscita
 
 
+RIGA_OPERA_TAG = re.compile(r"^\*\*(Corso|Temi):\*\*\s*(.*)$")
+
+
+def tag_opere(righe, titoli_usati):
+    """Legge le righe **Corso:** e **Temi:** sotto ogni opera, le rende link e dà un'ancora a ogni titolo."""
+    opere, i = [], 0
+    in_opere = False
+    while i < len(righe):
+        r = righe[i]
+        if r.startswith("## "):
+            in_opere = r.strip().lower() == "## opere principali"
+        if in_opere and r.startswith("### "):
+            titolo = re.sub(r"\s*\{#[^}]*\}\s*$", "", r[4:]).strip()
+            base = "opera-" + (slug_tag(titolo)[:40] or "senza-titolo")
+            ancora, n = base, 2
+            while ancora in titoli_usati:
+                ancora, n = f"{base}-{n}", n + 1
+            titoli_usati.add(ancora)
+            righe[i] = f"### {titolo} {{#{ancora}}}"
+            corso, temi = [], []
+            j = i + 1
+            while j < len(righe) and not righe[j].startswith("## ") and not righe[j].startswith("### "):
+                m = RIGA_OPERA_TAG.match(righe[j])
+                if m:
+                    trovati = re.findall(r"`([^`]+)`", m.group(2)) or m.group(2).split()
+                    (corso if m.group(1) == "Corso" else temi).extend(trovati)
+                    righe[j] = f"**{m.group(1)}:** " + " ".join(
+                        f"[`{x}`](tag/{slug_tag(x)}.html)" for x in trovati
+                    )
+                j += 1
+            opere.append({"titolo": titolo, "ancora": ancora, "corso": corso, "tema": temi})
+        i += 1
+    return opere
+
+
+titoli_usati = set()
 schede = []
 mostre = defaultdict(lambda: {"artisti": [], "visto_da": set()})
 for f in sorted(ROOT.glob("*.md")):
@@ -203,15 +239,28 @@ for f in sorted(ROOT.glob("*.md")):
             righe[j] = re.sub(
                 r"(?<![\w/])@([A-Za-z0-9-]+)", r"[@\1](https://github.com/\1)", righe[j]
             )
+    opere = tag_opere(righe, set())
     righe = sezioni_comprimibili(video(carosello(righe)))
     f.write_text("\n".join(righe), encoding="utf-8")
-    schede.append({"slug": f.stem, "nome": nome, "tag": tag, "miniatura": miniatura})
+    for o in opere:
+        for chiave, lista in (("corso", o["corso"]), ("tema", o["tema"])):
+            for x in lista:
+                if x not in tag[chiave]:
+                    tag[chiave].append(x)
+    schede.append({"slug": f.stem, "nome": nome, "tag": tag, "miniatura": miniatura, "opere": opere})
 
 per_tag = {"tecnica": {}, "tema": {}, "corso": {t: [] for t in TAG_CORSO}}
 for s in schede:
     for chiave in per_tag:
         for t in s["tag"][chiave]:
             per_tag[chiave].setdefault(t, []).append(s)
+
+lavori = defaultdict(list)  # (categoria, tag) -> [(scheda, opera)]
+for s in schede:
+    for o in s["opere"]:
+        for chiave, lista in (("corso", o["corso"]), ("tema", o["tema"])):
+            for x in lista:
+                lavori[(chiave, x)].append((s, o))
 
 
 def scheda_card(s, prefisso=""):
@@ -228,6 +277,21 @@ def scheda_card(s, prefisso=""):
         f'<div class="info"><strong>{html.escape(s["nome"])}</strong>'
         f'<span class="tags">{tags}</span></div></a>'
     )
+
+
+def sezione_opere(chiave, tag):
+    voci = lavori.get((chiave, tag), [])
+    if not voci:
+        return ""
+    per_artista = defaultdict(list)
+    for s, o in voci:
+        per_artista[(s["nome"], s["slug"])].append(o)
+    righe = ["", "## Opere", ""]
+    for (nome, slug), ops in sorted(per_artista.items(), key=lambda x: x[0][0].lower()):
+        righe.append(f"- [{nome}](../{slug}.html)")
+        for o in ops:
+            righe.append(f"  - [{o['titolo']}](../{slug}.html#{o['ancora']})")
+    return "\n".join(righe) + "\n"
 
 
 cartella = ROOT / "tag"
@@ -250,7 +314,7 @@ title: {t}
 <div class="grid">
 {card}
 </div>
-"""
+{sezione_opere(chiave, t)}"""
         (cartella / f"{slug_tag(t)}.md").write_text(pagina, encoding="utf-8")
 
 indice_tag = ["---", "title: Tag", "---", "", "# Tag", "",

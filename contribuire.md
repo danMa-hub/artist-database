@@ -135,6 +135,20 @@ Nell'elenco degli artisti ogni scheda è mostrata con un'immagine. Per impostazi
 - **Video**: una riga `**Video:** [titolo](https://www.youtube.com/watch?v=...)` sotto l'opera. Se il link è di YouTube o di Vimeo il sito incorpora il video direttamente nella pagina, sotto la riga.
 - Nelle schede ogni sezione si apre e si chiude: sono aperte per impostazione predefinita *Poetica e ricerca*, *Opere principali*, *Interviste e talk* e *Fonti*; le altre (Biografia, Mostre viste, Crediti delle immagini, Appunti da organizzare) sono chiuse. Nella biografia vanno solo i dati biografici; la poetica e lo statement vanno in *Poetica e ricerca*.
 
-## Tag
+## Tag per opera
 
-Per ora i tag sono solo sugli artisti. In futuro potranno essere aggiunti anche alle singole opere, per collegare opere che parlano degli stessi temi.
+Sotto il titolo di ogni opera si possono aggiungere due righe:
+
+```md
+### Titolo dell'opera (anno)
+**Corso:** `M3D` `AVM`
+**Temi:** `immagini-operative` `guerra`
+```
+
+- `**Corso:**` indica in quali corsi ha senso presentare *quell'opera* (anche se l'artista ha altri corsi per altre opere). I valori sono `TAD-DCV`, `AVM`, `AW`, `M3D`. La stessa opera non va in `AVM` e `AW` insieme.
+- `**Temi:**` dice di cosa parla l'opera, con i temi del vocabolario in `tags.md`.
+- Le opere senza queste righe ereditano i tag dell'artista. Le pagine dei corsi e dei temi mostrano, sotto gli artisti, le opere che hanno quel tag, con un collegamento diretto alla sezione dell'opera.
+
+## Tag sull'artista
+
+I tag sull'artista restano nelle righe sotto il nome. In futuro potranno essere aggiunti anche alle singole opere, per collegare opere che parlano degli stessi temi.
