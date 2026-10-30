@@ -56,6 +56,13 @@ details h3 { margin-top: 2.6em; padding-top: 0.9em; border-top: 2px solid #d0d3d
 details h3:first-of-type { margin-top: 1.2em; }
 html[data-theme="dark"] details h3 { color: #f2b66d; border-top-color: #3d4149; }
 
+/* sotto-capitoli delle opere (chiusi, con miniatura) */
+details.sotto-opera { margin: 8px 0 8px 14px; padding: 4px 0 4px 12px; border-top: none; border-left: 3px solid #d0d3d8; }
+details.sotto-opera > summary { font-size: 1.05rem; font-weight: bold; display: flex; align-items: center; gap: 10px; color: #9a4b00; }
+details.sotto-opera > summary img.mini { height: 56px; width: 84px; object-fit: cover; border-radius: 4px; }
+html[data-theme="dark"] details.sotto-opera { border-left-color: #3d4149; }
+html[data-theme="dark"] details.sotto-opera > summary { color: #f2b66d; }
+
 /* carosello di immagini */
 .carosello {
   display: flex;

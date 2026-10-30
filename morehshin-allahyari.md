@@ -57,10 +57,8 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [shewhoseestheunknown.com](https://shewhoseestheunknown.com/)
 
-### She Who Sees the Unknown: Huma (2016-2021)
+#### Huma
 **Descrizione:** Huma è un jinn noto in vari racconti e miti mediorientali che porta il calore al corpo umano ed è responsabile della comune febbre. Viene raffigurata come un demone con tre teste e una o due code. Installazione con scultura 3D e video.
-
-![Huma — dal sito del progetto](immagini/morehshin-allahyari/huma-1.jpg)
 
 ![Huma — dal sito del progetto](immagini/morehshin-allahyari/huma-3.jpg)
 
@@ -68,10 +66,8 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [She Who Sees the Unknown — Huma](https://shewhoseestheunknown.com/huma/)
 
-### She Who Sees the Unknown: Ya'jooj Ma'jooj (2016-2021)
+#### Ya'jooj Ma'jooj
 **Descrizione:** secondo il Corano, i popoli di Ya'jooj e Ma'jooj diffondono grande disordine sulla terra e rappresentano il caos: Dio concede a Zulqarnain (in altre versioni identificato con Alessandro Magno) il potere di costruire un muro di ferro per trattenerli, separandoli dagli esseri umani. Installazione con video.
-
-![Yajooj Majooj — dal sito del progetto](immagini/morehshin-allahyari/yajooj-majooj-1.jpg)
 
 ![Yajooj Majooj — dal sito del progetto](immagini/morehshin-allahyari/yajooj-majooj-3.jpg)
 
@@ -81,7 +77,7 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [She Who Sees the Unknown — Ya'jooj Ma'jooj](https://shewhoseestheunknown.com/yajooj-majooj/)
 
-### She Who Sees the Unknown: Aisha Qandisha (2016-2021)
+#### Aisha Qandisha
 **Descrizione:** Aisha Qandisha (عيشة قنديشه) è uno dei jinn più onorati e temuti dell'Islam, originario del Marocco; è chiamata «colei che apre» ed è il jinn dei fiumi. Installazione con scultura in resina stampata in 3D, vasca riflettente e video HD.
 
 ![Aisha Qandisha — dal sito del progetto](immagini/morehshin-allahyari/aisha-qandisha-1.jpg)
@@ -90,14 +86,14 @@ La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: 
 
 **Approfondimento:** [She Who Sees the Unknown — Aisha Qandisha](https://shewhoseestheunknown.com/aisha-qandisha/)
 
-### She Who Sees the Unknown: Kabous (2016-2021)
+#### Kabous
 **Descrizione:** Kabous (al-Kabus, detto anche al-Jathoom, «incubo») appartiene alla stirpe di jinn che portano agli esseri umani malattie, traumi e incubi: viene raffigurata mentre possiede una persona con un incubo, seduta sul suo petto mentre dorme. Il progetto comprende un'installazione e un film in realtà virtuale.
 
 **Video:** [Kabous (Vimeo)](https://vimeo.com/393977901)
 
 **Approfondimento:** [She Who Sees the Unknown — Kabous](https://shewhoseestheunknown.com/kabous/)
 
-### She Who Sees the Unknown: The Laughing Snake (2016-2021)
+#### The Laughing Snake
 **Descrizione:** i vari miti sul Serpente che Ride descrivono una figura mostruosa (per alcuni un jinn) che ha preso il controllo di una città e delle sue terre, uccidendone gli abitanti e gli animali; molti tentativi di distruggerla sono falliti. Installazione e narrazione ipertestuale.
 
 ![The Laughing Snake — dal sito del progetto](immagini/morehshin-allahyari/the-laughing-snake-1.jpg)

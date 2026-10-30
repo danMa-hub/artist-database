@@ -151,6 +151,33 @@ def video(righe):
     return uscita
 
 
+def sotto_opere(righe):
+    """Ogni '#### Titolo' diventa un sotto-capitolo chiuso, con miniatura e titolo nel sommario."""
+    uscita, i = [], 0
+    while i < len(righe):
+        if not righe[i].startswith("#### "):
+            uscita.append(righe[i])
+            i += 1
+            continue
+        titolo = righe[i][5:].strip()
+        j = i + 1
+        while j < len(righe) and not righe[j].startswith(("#", "<details")):
+            j += 1
+        corpo = righe[i + 1:j]
+        mini = ""
+        for k, r in enumerate(corpo):
+            m = RIGA_IMMAGINE.match(r)
+            if m:
+                mini = f'<img class="mini" loading="lazy" src="{html.escape(m.group(2), quote=True)}" alt=""> '
+                corpo = corpo[:k] + corpo[k + 1:]
+                break
+        uscita += ["", '<details markdown="1" class="sotto-opera">', f"<summary>{mini}{html.escape(titolo)}</summary>", ""]
+        uscita += corpo
+        uscita += ["", "</details>", ""]
+        i = j
+    return uscita
+
+
 def sezioni_comprimibili(righe):
     """Avvolge ogni sezione '## ' in <details>: aperte poetica e opere, le altre chiuse."""
     uscita, aperta = [], False
@@ -257,7 +284,7 @@ for f in sorted(ROOT.glob("*.md")):
                 r"(?<![\w/])@([A-Za-z0-9-]+)", r"[@\1](https://github.com/\1)", righe[j]
             )
     opere = tag_opere(righe, set())
-    righe = sezioni_comprimibili(video(carosello(righe)))
+    righe = sezioni_comprimibili(video(carosello(sotto_opere(righe))))
     f.write_text("\n".join(righe), encoding="utf-8")
     tag["tema"] = espandi(tag["tema"])
     for o in opere:
