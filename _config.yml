@@ -1,0 +1,11 @@
+title: Artist Database
+description: Schede di artisti e riferimenti critici su new media, 3D, mondi virtuali e IA
+theme: jekyll-theme-minimal
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+exclude:
+  - scripts
+  - .github
