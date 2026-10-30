@@ -1,104 +1,33 @@
-# Contenuti
+# Informazioni sul progetto
 
-Qui raccogliamo, in Markdown, le informazioni sugli artisti man mano che le troviamo.
+**Artist Database** è una raccolta di schede su artisti e collettivi che lavorano con new media, modellazione 3D, mondi virtuali e intelligenza artificiale. È nato come materiale didattico per i corsi di Daniele Maffeis al Politecnico delle Arti di Bergamo, Accademia di Belle Arti G. Carrara (animazione digitale, modellazione 3D, mondi virtuali), ed è aperto a studentesse e studenti, che possono leggerlo, usarlo per scegliere gli artisti da presentare e contribuire a migliorarlo.
 
-## Ambito del progetto
+## Una raccolta in costruzione
 
-Il database copre **artisti visivi di arte contemporanea** che lavorano con:
+- **È un lavoro in corso.** Molte schede sono state compilate in parte con l'aiuto dell'intelligenza artificiale e non sono ancora state riviste a fondo: possono contenere errori, date o titoli sbagliati, attribuzioni da verificare.
+- **Le fonti contano più del testo.** Ogni scheda rimanda alle fonti usate (siti degli artisti, interviste, testi critici): per citare un'opera o una data in un esame o in un testo, va controllata la fonte.
+- **Le segnalazioni dentro le schede sono utili.** Dove una scheda è parziale, un dato è da verificare o un testo ha un'origine incerta, lo trovi scritto nella scheda stessa.
+- **Le immagini** provengono da fonti online e sono usate a scopo didattico, con il riferimento alla fonte. Se sei titolare dei diritti e vuoi che un'immagine venga rimossa, scrivilo in un'*issue* e verrà tolta.
 
-- new media
-- modellazione ed esecuzione 3D
-- mondi virtuali
-- intelligenza artificiale applicata all'arte
+## Come usarlo
 
-Non è un database di design, CG "tecnica" o tutorial: gli artisti trattati lavorano anche a un livello **concettuale e critico** (es. Ian Cheng, Lawrence Lek, Jon Rafman, Forensic Architecture, Hito Steyerl...).
+- Dall'[elenco degli artisti](index.html) puoi cercare per nome o per tag.
+- Ogni tag di tecnica o di tema è un link: apre l'elenco di tutte le schede che lo hanno.
+- La pagina [Mostre viste](mostre.html) raccoglie le mostre in cui gli artisti sono stati visti di persona o incontrati per la prima volta.
 
-Il riferimento per il linguaggio e il taglio critico da usare nelle schede sono i [programmi dei corsi](../programmi/): le schede non sono biografie neutre, ma vanno scritte nello stesso registro (storia della computer grafica, sorveglianza, economia dell'attenzione, posizionamento critico rispetto all'AI, ecc.).
+## Come contribuire
 
-## Indice
+Chiunque ha un account GitHub può proporre modifiche. Nessuno modifica direttamente le schede: ogni cambiamento passa da una *pull request* che viene riletta e approvata prima di comparire sul sito.
 
-L'elenco completo di tutti gli artisti, con lo stato di avanzamento di ciascuna scheda, è in [`00-lista-artisti.md`](00-lista-artisti.md).
+1. Apri la scheda su GitHub e premi l'icona della matita (*Edit*): GitHub crea per te una copia del repository.
+2. Scrivi la correzione o la nuova scheda, seguendo le [regole e il modello](contribuire.html).
+3. Invia la proposta (*Propose changes*, poi *Create pull request*).
+4. La proposta viene letta; quando è approvata, il sito si aggiorna da solo.
 
-## Tag
+Per segnalare un errore senza correggerlo, apri una *issue* nel repository.
 
-Ogni scheda va taggata per permettere una navigazione per aree di interesse (utile in vista della pubblicazione online per gli studenti). Vocabolario e regole d'uso in [`tags.md`](tags.md) — lista viva, si possono proporre nuovi tag quando emergono nuclei tematici o tipologie di opere non ancora coperte.
+Cose utili da aggiungere: l'immagine di un'opera che manca, un link a un video o a un'intervista, una mostra vista di persona, la correzione di un dato, una nuova scheda.
 
-## Struttura
+## Cosa trovi in una scheda
 
-- Un file `.md` per artista (es. `contenuti/nome-artista.md`)
-- Le immagini vanno in `contenuti/immagini/`, richiamate nei file `.md` con link relativi:
-  ```md
-  ![Descrizione](immagini/nome-file.jpg)
-  ```
-
-## Template scheda artista
-
-Ogni scheda ha due parti:
-
-1. **Intestazione**: materiale organizzato, curato, pronto per essere mostrato agli studenti.
-2. **Appunti**: materiale grezzo/non ancora organizzato, raccolto man mano (link, frammenti, cose da verificare). Si sposta nell'intestazione quando viene rifinito.
-
-```md
-# Nome Artista
-
-**Tag tecnica/formato:** `tag1` `tag2`
-**Tag tema:** `tag3` `tag4`
-
-## Biografia
-Anno di nascita, paese/città di provenienza (e dove opera, se diverso) — le informazioni di base per contestualizzare il lavoro. Può restare breve o approfondirsi quando la biografia è centrale per la poetica dell'artista. Se rilevanti e reperibili, menzionare le mostre/istituzioni più importanti della carriera (non un CV completo: solo ciò che aiuta a capire la rilevanza dell'artista).
-
-## Poetica e ricerca
-Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'artista: in cosa consiste, quali sono i temi centrali, quali medium usa. Va scritta con linguaggio critico-teorico, agganciato alla storia dell'arte e alla fenomenologia delle arti contemporanee (lo stesso registro dei [programmi dei corsi](../programmi/)) — non una biografia neutra. Il testo può essere teorico, ma deve sempre fare riferimento a opere concrete: mostrare come i concetti si sono effettivamente declinati nella pratica.
-
-## Opere principali
-
-### Titolo opera (anno)
-**Descrizione:** cosa si vede concretamente — tecnica, media, eventualmente il processo/approccio di lavoro.
-**Lettura critica:** come l'opera si collega ai temi della poetica dell'artista.
-
-(ripetere per ogni opera rilevante)
-
-## Immagini
-![Descrizione](immagini/nome-file.jpg)
-
-## Fonti
-- [Sito ufficiale dell'artista](https://...) — sempre la prima fonte, quando esiste
-- [Portfolio](portfolio/nome-artista-portfolio.pdf) — se esiste un PDF, va scaricato e archiviato nel repo (vedi sotto), non solo linkato
-- [Titolo fonte](https://...)
-
----
-
-## Appunti da organizzare
-(materiale grezzo raccolto ma non ancora sistemato sopra)
-- ...
-```
-
-Nessuna regola rigida oltre a questa: l'importante è iniziare a raccogliere il materiale in modo ordinato, distinguendo sempre ciò che è rifinito da ciò che è ancora grezzo.
-
-## Regola fondamentale: niente contenuto senza fonte
-
-Ogni scheda deve poter essere ricondotta a qualcosa di verificabile — mai inventare o "arrotondare" informazioni. In pratica:
-
-- **Sito ufficiale dell'artista**: prima fonte da cercare e linkare, quando esiste.
-- **Portfolio PDF**: se l'artista ha un portfolio scaricabile (es. trovato su Drive o online), va **scaricato e archiviato in `contenuti/portfolio/`** — non solo linkato — perché i link esterni possono sparire nel tempo. File nominato `nome-artista-portfolio.pdf`.
-- **Articoli, interviste, testi critici**: linkare sempre la fonte specifica usata, non un generico "si dice che...".
-- **Materiale da mostre** (foto di pannelli/etichette): la fonte è la foto stessa — indicare da quale mostra/data proviene.
-- Se un testo pre-esistente (es. da Drive) ha un'origine incerta o sembra generato da un'AI precedente senza controllo su fonti primarie, va segnalato esplicitamente come non verificato (vedi schede già migrate per un esempio), non ripulito silenziosamente.
-- **Collegamenti teorici/filosofici** (es. "l'opera di X richiama Heidegger/Foucault/Kant..."): va sempre citata la fonte che ha fatto quel collegamento — un'intervista, un saggio critico, una dichiarazione dell'artista. Il linguaggio tecnico/filosofico va benissimo nella parte "Poetica e ricerca" (è il registro dei programmi dei corsi), ma **non deve essere un'elaborazione teorica generata dall'AI senza aggancio a una fonte reale**: il rischio è che la connessione risulti suggestiva ma infondata. Se non si trova la fonte del collegamento, va tolto o segnalato esplicitamente come non verificato — mai lasciato come se fosse un fatto critico consolidato.
-
-## Regola fondamentale: verifica sostanziale, non opportunistica
-
-Ogni scheda va sottoposta a un controllo puntuale di **tutte** le affermazioni fattuali (titoli, anni, medium, dove/come un'opera è stata esposta, cosa mostra concretamente) tramite ricerca diretta — non solo quando capita di trovare un'immagine o un dettaglio che insospettisce. Il caso di Meriem Bennani (*Windy* descritta come "un video con un personaggio animato", quando è in realtà una scultura cinetica sulla High Line) è l'esempio di un errore che sarebbe potuto restare invisibile per sempre senza un controllo esplicito. Quindi:
-
-- Ogni opera elencata in una scheda va verificata con almeno una ricerca dedicata, non solo trascritta dalla fonte Drive originale.
-- Le schede migrate più rapidamente (primi batch, senza verifica approfondita) vanno riprese e sottoposte allo stesso controllo, non solo le nuove.
-- Non aspettare un'occasione (un'immagine, un dubbio) per verificare: la verifica è il passo di default, non l'eccezione.
-
-## Regola: referenze video e interviste per ogni scheda
-
-Oltre alle immagini, ogni scheda dovrebbe raccogliere link a **video delle opere** (idealmente opere complete, in alternativa ampi estratti) e a **interviste/contenuti con informazioni significative sull'artista** — materiale pensato per essere mostrato direttamente in classe agli studenti, non solo letto. In pratica:
-
-- Cercare per ogni opera principale il video integrale (canale ufficiale dell'artista, Vimeo, museo, galleria) prima di accontentarsi di un trailer o di un estratto breve.
-- I link vanno verificati (aprire/controllare che siano quelli giusti, non indovinati) e da fonti affidabili — stessa regola del sourcing generale.
-- Le interviste vanno preferite quando aggiungono informazioni sostanziali sulla poetica dell'artista (non semplici promo).
-- Se non si trova un video completo affidabile, va bene un estratto ampio, segnalato come tale — meglio di niente ma da migliorare quando possibile.
+Biografia, poetica e ricerca, opere principali (con immagini e letture critiche), mostre viste, fonti. Alla fine di molte schede c'è una sezione di appunti ancora da organizzare: è materiale grezzo, da prendere con cautela.

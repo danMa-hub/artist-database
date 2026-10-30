@@ -23,7 +23,9 @@ jobs:
         with:
           python-version: "3.12"
       - name: Genera pagine dei tag e indice
-        run: python scripts/build_site.py .
+        run: |
+          pip install pillow
+          python scripts/build_site.py .
       - uses: actions/jekyll-build-pages@v1
       - uses: actions/upload-pages-artifact@v3
 
