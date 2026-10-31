@@ -59,6 +59,18 @@ Descrizione — breve o approfondita a seconda dei casi — della ricerca dell'a
 
 (ripetere per ogni opera rilevante)
 
+## Approfondimenti
+(opzionale, per gli artisti con materiale ampio: base teorica per la didattica, dopo le opere)
+
+### Parole dell'artista
+- Citazioni brevi o parafrasi da interviste, talk, saggi, con il link alla fonte.
+
+### Letture critiche e concetti
+- Testi critici, concetti teorici, riferimenti filosofici, ognuno con la fonte che ha fatto il collegamento.
+
+### Per la didattica
+- Spunti di confronto con altri artisti, domande, esercizi.
+
 ## Interviste e talk
 - [Titolo, sede o testata (anno)](https://...) — intervista, talk o risorsa online utile per capire l'artista, da mostrare o leggere
 
@@ -133,7 +145,7 @@ Nell'elenco degli artisti ogni scheda è mostrata con un'immagine. Per impostazi
 
 - **Da 3 a 4 immagini per ogni opera**, quando si trovano. Si mettono una dopo l'altra sotto l'opera, ognuna con la sua didascalia nel testo alternativo: `![didascalia](immagini/nome-file.jpg)`. Da due immagini consecutive in su il sito le mostra in un **carosello a scorrimento orizzontale**; una sola immagine resta fissa.
 - **Video**: una riga `**Video:** [titolo](https://www.youtube.com/watch?v=...)` sotto l'opera. Se il link è di YouTube o di Vimeo il sito incorpora il video direttamente nella pagina, sotto la riga.
-- Nelle schede ogni sezione si apre e si chiude: sono aperte per impostazione predefinita *Poetica e ricerca*, *Opere principali*, *Interviste e talk* e *Fonti*; le altre (Biografia, Mostre viste, Crediti delle immagini, Appunti da organizzare) sono chiuse. Nella biografia vanno solo i dati biografici; la poetica e lo statement vanno in *Poetica e ricerca*.
+- Nelle schede ogni sezione si apre e si chiude: sono aperte per impostazione predefinita *Poetica e ricerca*, *Opere principali*, *Interviste e talk* e *Fonti*; le altre (Biografia, Approfondimenti, Mostre viste, Crediti delle immagini, Appunti da organizzare) sono chiuse. Nella biografia vanno solo i dati biografici; la poetica e lo statement vanno in *Poetica e ricerca*.
 
 ## Tag per opera
 

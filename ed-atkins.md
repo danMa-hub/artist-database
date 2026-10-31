@@ -84,6 +84,27 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 
 ⚠️ Nessuna immagine trovata: le fonti individuate (Mimic Productions, Gladstone Gallery, Instagram/Facebook) non espongono immagini dirette scaricabili automaticamente.
 
+## Approfondimenti
+Materiale per la didattica, dal documento di riferimento originale (REF su Drive). **Attenzione sull'origine:** quel documento è in gran parte un testo compilato da AI (i link riportano parametri di tracciamento da chatbot) e le frasi attribuite all'artista non hanno una fonte primaria indicata. Vanno quindi controllate prima di citarle in classe.
+
+### Parole attribuite all'artista *(origine AI, da verificare)*
+- Il volto: «Mappo il movimento del mio volto su quello del modello CGI: è il mio volto che si contorce, recitando dietro questa maschera immateriale.»
+- L'artificio: vuole un'arte «ferocemente artificiale, ma che ti dice di controllare il neo sulla spalla».
+- I temi: morte, cedimento del corpo, rimpianto, perdita e malinconia come motivi ricorrenti.
+- Tate Britain, sulla sua pratica: usa le proprie esperienze, sentimenti e corpo come modelli per intimità, amore e perdita ([Tate Britain](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)).
+
+### Dall'intervista «Something is Missing» *(sintesi AI del REF, da riascoltare)*
+Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.youtube.com/watch?v=H1iwLbwxKys).
+- **Scrittura come sorgente.** Il processo parte quasi sempre dalla scrittura, un modo di «pensare attraverso il linguaggio»; in passato il ritmo della scrittura determinava la struttura dei video.
+- **Avatar «evidentemente falsi e senza vita».** Proprio l'artificialità palese gli permette di usarli; un volto reale sarebbe «troppo specifico», l'avatar consente temi universali.
+- **Rivelare l'artificio.** Vuole video che «parlino molto del modo in cui sono stati fatti», perché ci sia qualcosa di commovente nel mostrare la struttura dell'opera.
+- **Malinconia e perdita.** Titolo e temi: insufficienza, fallimento, il passaggio tra esperienza corporea e senso «intangibile e sentimentale» di perdita.
+
+### Per la didattica
+- *A Primer for Cadavers* (libro di testi dell'artista, citato nel REF come chiave: l'avatar come «cadavere» perfetto ma morto): da verificare titolo e anno su una fonte editoriale.
+- Video segnati nel REF: [Safe Conduct (Hirshhorn, 2017)](https://www.youtube.com/watch?v=eUgU0dziZG4); [Us Dead Talk Love](https://www.youtube.com/watch?v=yVMN0Y6rM-0); [Ed Atkins: Get Life / Love's Work](https://www.youtube.com/watch?v=Kty-OFt0hX4).
+- Confronto con Cheng e Claerbout sul rapporto tra superficie perfetta e vuoto: l'avatar come corpo che fallisce nel catturare la vita.
+
 ## Interviste e talk
 - [Fantastic Man — intervista](https://www.fantasticman.com/articles/ed-atkins/)
 

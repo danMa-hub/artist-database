@@ -71,6 +71,22 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 
 **Approfondimento:** [Video Data Bank — Harun Farocki](https://vdb.org/node/9912)
 
+## Approfondimenti
+Materiale teorico per la didattica, ricavato dalla scheda di riferimento originale (REF su Drive) e dai saggi che cita.
+
+### Immagini operative: la genealogia
+- **Dal visivo all'invisuale.** Secondo Jussi Parikka le immagini operative incrinano la nozione stessa di immagine: non sono necessariamente rappresentative né pittoriche, passano dal primato della percezione umana alla misura, all'analisi di pattern, alla navigazione. Hanno una forza epistemica e intervengono nel mondo, direttamente o indirettamente: sono «dai modi di vedere ai modi di calcolare» ([Parikka, «Operational Images: From the Visual to the Invisual»](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)).
+- **Una storia alternativa delle tecnologie visive.** Parikka fa risalire l'imaging operativo al telerilevamento ottocentesco: lo spettrometro di Joseph von Fraunhofer (anni 1810) è per lui un caso centrale, perché ciò che registra non è una «immagine» in senso tradizionale. Già nel suo primo secolo la fotografia era uno strumento di misura che analizzava il mondo, compreso quello extraterrestre (astronomia); l'incontro fra media e scienze ha poi guidato il passaggio al «digitale», all'analisi di dati e all'infrastruttura planetaria.
+- **Il termine in Farocki.** Appare nei primi anni Duemila nella trilogia *Eye/Machine I–III* (2001–03), su armi autonome, visione artificiale industriale e passaggio dalle rappresentazioni al primato delle operazioni. Il REF lega le immagini di Farocki a una storia di chimica, violenza, lavoro, sfruttamento e dati, non solo di cultura visiva; precedente di terreno in *Bilder der Welt und Inschrift des Krieges* (1989).
+- **Paglen.** Il REF segna il saggio [Trevor Paglen, «Operational Images» (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/), che parte dalla visione di *Eye/Machine III*: frecce animate che mostrano come un robot «vede» il paesaggio, la traiettoria di un missile da crociera, riquadri verdi che tracciano oggetti in movimento.
+
+### Guerra simulata: Theweleit
+Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolgen / War at a Distance*, 2003, dal minuto 25:59): le immagini computerizzate della guerra cancellano la differenza tra eventi simulati e reali e tra tempo storico e tempo simulato; diventa impossibile decidere se qualcosa accade, che cosa accade, e se accade mentre lo vediamo. Le persone morte in Iraq sotto le bombe con telecamera erano già trattate dalla macchina come persone simulate. Ne consegue l'abolizione dell'«immagine autentica» (con il suo cartellino di tempo e luogo) e degli occhi come organo che testimonia la storia. *(Numero di nota 19 nel REF: titolo e pagina del testo di Theweleit da rintracciare nel saggio di Parikka.)*
+
+### Spunti per la didattica
+- Confronto con Paglen e Steyerl (immagini operative) e con Claerbout sulla fiducia nell'immagine (*The Silence of the Lens*: scansione come logica dell'evitare).
+- *Parallel I–IV*: storia degli stili della grafica computerizzata, dalle sole linee orizzontali e verticali agli anni Ottanta al fotorealismo; i mondi di gioco come dischi sospesi, con quinte e fondali come in teatro (vedi la descrizione dell'opera).
+
 ## Interviste e talk
 - «Nine Minutes in the Yard: A Conversation with Harun Farocki», di Rembert Hüser, in Thomas Elsaesser (a cura di), *Harun Farocki: Working on the Sight-Lines* (2004) — testo a stampa
 - [MACBA — Harun Farocki. To think in images](https://www.macba.cat/en/node/21709): scheda dell'evento, con la lecture «Subtext and subimage» tenuta da Farocki con Roger M. Buergel (non è una registrazione)
