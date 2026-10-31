@@ -70,7 +70,8 @@ Ikeda descrive il proprio lavoro come un'esplorazione del "potenziale di percepi
 ⚠️ Nessuna immagine trovata con attribuzione certa in questa sessione: il sito ufficiale dell'artista elenca un'opera "X-verse" (2018) distinta dalla trilogia "data-verse" (2019-2023) qui descritta — da non confondere.
 
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- **Video:** [Ryoji Ikeda: a hypnotic audio-visual explosion (NOWNESS, YouTube)](https://www.youtube.com/watch?v=cywFvcRR-QI)
+- **Video:** [Ryoji Ikeda — code-verse (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=Ip4qW6g9p9Q) — dalle tracce di lezione; opera e anno [verificare]
 
 ## Fonti
 - [ryojiikeda.com — sito ufficiale](https://www.ryojiikeda.com/biography/)

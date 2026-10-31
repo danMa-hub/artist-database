@@ -84,6 +84,7 @@ Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersiv
 - [Fondazione Spazio Vitale — mostra "Sisyphean Cycles"](https://fondazionespaziovitale.it/en/exhibition/theo-triantafyllidis-sisyphean-cycles/)
 - [FACT Magazine — "Theo Triantafyllidis Presents: Radicalization Pipeline"](https://www.factmag.com/2022/04/05/theo-triantafyllidis-presents-radicalization-pipeline/)
 - [Galerie Magazine — "Next Big Thing: Theo Triantafyllidis"](https://galeriemagazine.com/next-big-thing-theo-triantafyllidis/)
+- [World on a Wire — *Studio Visit*](https://worldonawire.net/#3) — progetto citato nelle tracce di lezione: avatar Ork che crea forme 3D, poi realizzate come sculture in legno, con motion capture artigianale; anno e sede espositiva [verificare]
 
 ## Crediti delle immagini
 Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista (slimetech.org), dal Whitney Museum e da YouTube.

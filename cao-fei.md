@@ -78,6 +78,7 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 - [frieze — Emily McDermott su Meta-mentary](https://www.frieze.com/article/cao-fei-meta-mentary-2024-review)
 - [Sprüth Magers — mostra Duotopia, Berlino](https://spruethmagers.com/exhibitions/cao-fei-duotopia-berlin/)
 - [Hyperallergic — recensione di Blueprints](https://hyperallergic.com/583983/cao-fei-blueprints-serpentine-galleries/)
+- [Rhizome Anthology — RMB City](https://anthology.rhizome.org/rmb-city) — link dalle tracce, non aperto (il sito blocca le richieste automatiche) [verificare]
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da MoMA, dal sito ufficiale [caofei.com](https://www.caofei.com) e da Sprüth Magers.

@@ -88,6 +88,7 @@ Dati verificati sulla sinossi ufficiale ([lifeafterbob.io](https://lifeafterbob.
 - [Serpentine — Ian Cheng: BOB, Emissaries (video)](https://www.serpentinegalleries.org/watch/ian-cheng-bob-emissaries/)
 - [The Brooklyn Rail — Ian Cheng con Osman Can Yerebakan (febbraio 2019)](https://brooklynrail.org/2019/02/art/IAN-CHENG-with-Osman-Can-Yerebakan)
 - *Emissaries Guide to Worlding* ([Serpentine](https://shop.serpentinegalleries.org/products/coming-soon-ian-cheng-emissaries-guide-to-worlding)): il libro include un'intervista di Hans Ulrich Obrist a Cheng.
+- **Video:** [Ian Cheng: Life After BOB Trailer (The Shed, YouTube)](https://www.youtube.com/watch?v=AMg4JQIGjns)
 
 ## Fonti
 - [iancheng.com](https://iancheng.com/)
@@ -97,6 +98,7 @@ Dati verificati sulla sinossi ufficiale ([lifeafterbob.io](https://lifeafterbob.
 - [Pilar Corrias — biografia](https://www.pilarcorrias.com/artists/39-ian-cheng/biography/)
 - [Life After BOB](https://lifeafterbob.io/)
 - [Philippe Vandenbroeck — "Ian Cheng: An Emissaries Guide to Worlding" (Medium, 2018)](https://philippevandenbroeck.medium.com/ian-cheng-an-emissaries-guide-to-worlding-2018-5a97f95b41d6)
+- [Cantor Arts Center, Stanford — *Emissary Sunsets the Self* (mostra)](https://museum.stanford.edu/exhibitions/ian-cheng-emissary-sunsets-self) — link dalle tracce, non aperto (il sito blocca le richieste automatiche) [verificare]
 
 ## Crediti delle immagini
 Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda originale (Google Drive); non è nota la fonte esatta (sito dell'artista o documentazione di mostra) — da verificare e, se possibile, sostituire con immagini di provenienza tracciabile (sito ufficiale, museo, galleria).

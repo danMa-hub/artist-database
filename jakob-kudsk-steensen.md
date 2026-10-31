@@ -66,6 +66,7 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 - [Rhizome — profilo artista](https://rhizome.org/editorial/2018/dec/14/artist-profile-jakob-kudsk-steensen/)
 - [On-Curating (n. 63) — saggio accademico su Berl-Berl e Boreal Dreams](https://www.on-curating.org/issues/issue-63/issue-63-reader/virtual-worlds-and-digital-ecology-in-the-exhibitionary-internet-complex-jakob-kudsk-steensen-s-berl-berl-and-boreal-dreams.html)
 - [Fondation Louis Vuitton — Open Space #17, The Song Trapper](https://www.fondationlouisvuitton.fr/en/events/open-space-17-jakob-kudsk-steensen-the-song-trapper)
+- [berlberl.world — esperienza online di *Berl-Berl*](https://berlberl.world/experience)
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", dal sito ufficiale [jakobsteensen.com](http://www.jakobsteensen.com) e da Serpentine Galleries.

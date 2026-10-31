@@ -39,6 +39,7 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 ![Ribbons — fotogramma](immagini/ed-atkins/ribbons.jpg)
 
 **Approfondimento:** [stedelijk.nl — Ribbons](https://www.stedelijk.nl/en/collection/96446-ed-atkins-ribbons)
+**Video:** [Ed Atkins — Ribbons, 2014 (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=3EkqVWXBVOQ)
 
 ### Safe Conduct (2016)
 **Corso:** `TAD-AVM` `M3D`
@@ -107,6 +108,9 @@ Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.yo
 
 ## Interviste e talk
 - [Fantastic Man — intervista](https://www.fantasticman.com/articles/ed-atkins/)
+- **Video:** [Ed Atkins in conversation with Tom McCarthy (AA School of Architecture, YouTube)](https://www.youtube.com/watch?v=Lt4TfzN-f2s) — nelle tracce di lezione: «talk con estratto da Safe Conduct»
+- **Video:** [Blind Faith, Artist Lecture by Ed Atkins (Haus der Kunst, YouTube)](https://www.youtube.com/watch?v=k8tb3KiEg5o) — nelle tracce di lezione: talk con estratti video
+- **Video:** [V. Ed Atkins — «Digital PTSD Part II. The Practice of Art and Its Impact on Digital Trauma» (Castello di Rivoli, YouTube)](https://www.youtube.com/watch?v=ms-1XQoI6a4)
 
 ## Fonti
 - [Tate Britain — profilo artista](https://www.tate.org.uk/whats-on/tate-britain/ed-atkins)
@@ -119,6 +123,7 @@ Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.yo
 - [Kunstsammlung Düsseldorf — Old Food](https://www.kunstsammlung.de/en/exhibitions-archive/ed-atkins-ye-olde-food-en)
 - [e-flux — annuncio Old Food](https://www.e-flux.com/announcements/244172/ed-atkinsye-olde-food)
 - Portfolio/sito ufficiale personale: **non individuato** — da cercare (l'artista è rappresentato da gallerie come Cabinet Gallery e dépendance).
+- [Cabinet Gallery — Ed Atkins](https://www.cabinet.uk.com/ed-atkins)
 
 ## Crediti delle immagini
 Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Opere principali" — fotogrammi Vimeo/YouTube per i lavori senza immagine diretta disponibile, più fonti dirette (MoMA, Stedelijk) dove trovate.

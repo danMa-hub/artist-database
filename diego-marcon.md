@@ -23,6 +23,7 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 ![Ludwig — fotogramma](immagini/diego-marcon/ludwig.jpeg)
 
 **Approfondimento:** [sadiecoles.com — Ludwig](https://www.sadiecoles.com/artworks/diego-marcon/ludwig)
+**Video:** [Ludwig (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=70rKrEKSkcE) — dalle tracce di lezione
 
 ### Monelle (2017, uscito nel 2018)
 **Corso:** `TAD-AVM` `TAD-DCV`
@@ -51,6 +52,7 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 ![The Parents' Room — fotogramma](immagini/diego-marcon/the-parents-room.jpeg)
 
 **Approfondimento:** [sadiecoles.com — The Parents' Room](https://www.sadiecoles.com/artworks/diego-marcon/the-parents-room)
+**Video:** [«The Parents' Room» di Diego Marcon (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=B94pgamC3sk) — dalle tracce di lezione
 
 ### La Gola (2024)
 **Corso:** `TAD-AVM` `TAD-DCV`

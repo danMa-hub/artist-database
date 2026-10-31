@@ -38,7 +38,7 @@ Il progetto esplora le applicazioni, le esperienze e gli ambienti legati alla co
 **Approfondimento:** [STIRworld — "'Sturm & Drang' exhibition at Prada's Milan Osservatorio unpacks ins and outs of CGI"](https://www.stirworld.com/see-features-sturm-drang-exhibition-at-pradas-milan-osservatorio-unpacks-ins-and-outs-of-cgi)
 
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- **Video:** [Sturm&Drang Studio | Ntopology (Fondazione Prada, YouTube)](https://www.youtube.com/watch?v=uBVbun2yRJw)
 
 ## Fonti
 - [Fondazione Prada — pagina progetto "Sturm&Drang"](https://www.fondazioneprada.org/project/sturmdrang-ita/?lang=en)

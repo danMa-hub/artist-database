@@ -69,6 +69,7 @@ Rossin viene descritta con continuità come "una pittrice e programmatrice" la c
 - [Art21 — pagina artista](https://art21.org/artist/rachel-rossin/)
 - [Creative Capital — pagina artista](https://creative-capital.org/artists/rachel-rossin/)
 - [Elephant Art — su I Came and Went as a Ghost Hand](https://elephant.art/digital-disintegration-the-artists-embracing-pixels-glitches-and-nineties-net-nostalgia-22042020/rachel-rossin-i-came-and-went-as-a-ghost-hand-cycle-2-2015-1/)
+- [artport (Whitney Museum) — THE MAW OF, sito del progetto](https://artport.whitney.org/commissions/the-maw-of/website/)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione in "Opere principali", da purple.fr, elephant.art e Magenta Plains.
