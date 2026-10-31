@@ -23,15 +23,9 @@ Il suo lavoro si muove spesso nella tensione tra arte e tecnologia, tra realtà 
 
 ⚠️ Nessuna immagine trovata.
 
-## Interviste e talk
-- **Video:** [Emmanuel Van der Auwera presenta *The Sky Is On Fire* (Mubi Notebook)](https://mubi.com/notebook/posts/emmanuel-van-der-auwera-introduces-his-film-the-sky-is-on-fire)
-- **Video:** [Nasher Prize Dialogues: Disembodied Intimacy — Digitally Communicating Art, Caregiving, and Sex (YouTube)](https://www.youtube.com/watch?v=Gm9odW8NSjM) — con Mika Rottenberg, Alice Rawsthorn, Jacolby Satterwhite, Randy Kennedy
-- [The Death of K9 Cigo, 2019 (Vimeo, Harlan Levey Projects)](https://vimeo.com/367142681) — film citato nelle tracce di lezione come precedente di *The Sky Is On Fire* per il tema del rapporto tra esistenza online e immortalità
-
 ## Fonti
 - [Harlan Levey Projects — The Sky Is on Fire](https://hl-projects.com/artworks/831-emmanuel-van-der-auwera-the-sky-is-on-fire-2019)
 - [La Libre — Les décombres d'un désastre](https://www.lalibre.be/culture/arts/2019/10/02/les-decombres-dun-desastre-3IPGFJENCZDEPAEN77FXG2IIKI/)
-- [KABK — Emmanuel Van der Auwera](https://www.kabk.nl/docenten/emmanuel-van-der-auwera)
 - [HEK Basel — Seeing is Revealing](https://hl-projects.com/viewing-room/20-seeing-is-revealing-emmanuel-van-der-auwera-hek-basel/)
 
 ## Crediti delle immagini

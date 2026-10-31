@@ -42,6 +42,7 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 ### We Are in Hell When We Hurt Each Other (2020)
 **Descrizione:** video HD a colori e animazione 3D con sonoro, 24:22 minuti. Avatar femme-bot neri (modellati sul corpo dell'artista in motion capture, vestito digitalmente) danzano vogue attraverso un'Arcadia boschiva; l'opera si chiude con un tributo commemorativo a Breonna Taylor. Mostrata da Mitchell-Innes & Nash, New York (2020) e in seguito al Blaffer Art Museum di Houston.
 **Lettura critica:** inserita tra i momenti artistici più significativi del 2020 secondo la copertura del *New York Times* (da verificare direttamente) — l'opera più esplicitamente politica del suo percorso fino a quel momento, con un riferimento diretto e nominato alla violenza razziale contemporanea.
+**Da *WORLDBUILDING* (2022):** il video è un concerto virtuale, con musica prodotta con Nick Weiss e la voce a cappella della madre, Patricia Satterwhite, che fa da guida al mondo. Il riferimento a Tiziano rovescia un'immagine storica del corpo nero: non più erotizzato, ma rituale e divino.
 **Video:** [estratto (Vimeo)](https://vimeo.com/461561190) · [pagina mostra, Mitchell-Innes & Nash](https://www.miandn.com/exhibitions/jacolby-satterwhite)
 
 ![We Are in Hell When We Hurt Each Other — fotogramma](immagini/jacolby-satterwhite/we-are-in-hell.jpeg)
@@ -75,6 +76,7 @@ Il metodo centrale di Satterwhite è la performance in motion capture e green sc
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/jacolby-satterwhite/biography)
 - [Miller Institute for Contemporary Art, Carnegie Mellon — "Spirits Roaming on the Earth"](https://miller-ica.cmu.edu/exhibitions/jacolby-satterwhite-spirits-roam-the-earth)
 - [Document Journal — sull'eredità artistica della madre](https://www.documentjournal.com/2019/12/jacolby-satterwhites-unwavering-mission-to-honor-his-mothers-artistic-legacy/)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Sasha Bonét)
 
 ## Crediti delle immagini
 Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizione in "Opere principali", da Mitchell-Innes & Nash. *Reifying Desire* resta senza immagine con attribuzione certa.

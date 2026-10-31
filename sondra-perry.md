@@ -28,6 +28,7 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 ### IT'S IN THE GAME '17 (2017)
 **Descrizione:** video incentrato sul fratello gemello di Perry, Sandy Perry, giocatore di basket di Division I alla Georgia State University, la cui immagine e le cui statistiche sono state concesse in licenza dalla NCAA a EA Sports per i propri videogiochi cestistici senza il suo consenso — l'opera affianca il vero avatar digitale del fratello a uno creato dalla stessa Perry, interrogando la vendita e lo sfruttamento delle identità digitalizzate di atleti neri. Mostrata da Bridget Donahue (2018) e successivamente nella collettiva "Difference Machines: Technology and Identity in Contemporary Art" al Buffalo AKG Art Museum (2021-22).
 **Lettura critica:** rende concreto, con un caso biografico diretto e documentabile, il tema più ampio della proprietà e dello sfruttamento commerciale del corpo nero digitalizzato.
+**Da *WORLDBUILDING* (2022):** EA Sports negò inizialmente il legame tra atleti e avatar; nel processo la NCAA sostenne che le borse di studio escludevano i giocatori dai profitti. Perry accosta il caso ai manufatti africani nei musei del Nord globale: nei due casi la cultura nera viene sottratta al suo contesto senza consenso né compenso.
 **Video:** [IT'S IN THE GAME '17, documentazione (Vimeo)](https://vimeo.com/239709507)
 
 ![IT'S IN THE GAME '17 — fotogramma](immagini/sondra-perry/its-in-the-game.jpg)
@@ -69,6 +70,7 @@ Perry usa schermo verde/blu (chroma-key), avatar 3D, asset e motori di videogioc
 - [Frieze — recensione di Typhoon coming on](https://www.frieze.com/article/sondra-perry-typhoon-coming-2018-review)
 - [e-flux — critica sulla mostra da Bridget Donahue](https://www.e-flux.com/criticism/241047/sondra-perry)
 - [Herb Alpert Award in the Arts — profilo vincitrice 2025](https://herbalpertawards.org/artist/2025/sondra-perry)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Anna-Alexandra Pfau)
 
 ## Crediti delle immagini
 Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista, Serpentine Galleries, Vimeo e Art Institute of Chicago. Nessuna immagine reperita per *Flesh Wall*.

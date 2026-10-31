@@ -20,6 +20,11 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 
 ![Us Dead Talk Love — fotogramma](immagini/ed-atkins/us-dead-talk-love.jpg)
 
+### Even Pricks (2013)
+**Temi:** `realismo-sintetico`
+**Descrizione:** video-collage di 7'32" in CGI: carrellate su modelli di After Effects, titoli che esplodono come in un trailer di videogioco, simulazioni di vetro, neve, fiamme e acqua. Il motivo centrale è un braccio con il pollice alzato, il segno del «mi piace», che si sgonfia e si rigonfia in modo fallico. Compaiono uno scimpanzé che parla e un letto il cui materasso si frantuma.
+**Lettura critica:** simulazioni troppo perfette impediscono l'immersione. La catena di associazioni va dall'approvazione al fallimento, e l'immagine lucida e disumana diventa uno specchio per amore, speranza e depressione.
+
 ### Warm, Warm, Warm Spring Mouths (2013)
 **Corso:** `M3D` `TAD-AVM`
 **Temi:** `avatar-e-corpo-virtuale` `realismo-sintetico`
@@ -124,6 +129,7 @@ Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.yo
 - [e-flux — annuncio Old Food](https://www.e-flux.com/announcements/244172/ed-atkinsye-olde-food)
 - Portfolio/sito ufficiale personale: **non individuato** — da cercare (l'artista è rappresentato da gallerie come Cabinet Gallery e dépendance).
 - [Cabinet Gallery — Ed Atkins](https://www.cabinet.uk.com/ed-atkins)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Marion Eisele)
 
 ## Crediti delle immagini
 Immagine per otto delle nove opere, incluse sotto la relativa descrizione in "Opere principali" — fotogrammi Vimeo/YouTube per i lavori senza immagine diretta disponibile, più fonti dirette (MoMA, Stedelijk) dove trovate.

@@ -70,6 +70,12 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 
 ![AIDOL (probabile, non certo): figura incappucciata in una giungla, "I met all the stars there, the producers, the designers"](immagini/lawrence-lek/aidol-01.png)
 
+### Nepenthe Zone (2022)
+**Corso:** `AW`
+**Temi:** `architettura-e-citta` `mito-e-rituale`
+**Descrizione:** gioco open-world con video di 21 minuti, ambientato su un'isola tropicale di architetture lucide e riflettenti, ricavate dalle installazioni per la Biennale di Lubiana e per Goldsmiths CCA. Il giocatore si muove senza tempi prestabiliti. L'isola è la stessa simulata in *2065* e *Geomancer*. Il titolo richiama il nepente, la droga dell'oblio della mitologia greca.
+**Lettura critica:** lavora sulla memoria in un'economia che tratta l'attenzione come risorsa scarsa, sullo sfondo delle culture del benessere. Mondo e colonna sonora sono costruiti a partire dal *doorway effect*, per cui si dimentica perché si è entrati in una stanza. La memoria artificiale è letta come *pharmakon*, rimedio e veleno.
+
 ### Theta (2022, trailer del progetto NOX)
 **Corso:** `AW`
 **Temi:** `vita-artificiale-e-simulazione` `architettura-e-citta`
@@ -118,6 +124,7 @@ Metodologicamente, Lek rifiuta una distinzione netta tra "reale" e "virtuale": i
 - [Unreal Estate — lawrencelek.com](https://www.lawrencelek.com/works/unreal-estate-the-royal-academy-is-yours)
 - [Rhizome — "Simulation as Institutional Critique: Lawrence Lek's Unreal Estate"](https://rhizome.org/editorial/2015/aug/27/lawrence-lek-simulation/)
 - [NOX — LAS Art Foundation](https://www.las-art.foundation/programme/nox)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Joni Zhu)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle nove opere, inclusa sotto la relativa descrizione in "Opere principali", da materiali forniti direttamente, Vimeo e hsds.pro.

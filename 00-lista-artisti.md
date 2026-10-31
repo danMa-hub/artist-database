@@ -221,6 +221,20 @@ Schede parziali, scritte da fonti web: vedi la riga **Stato** di ciascuna.
 - [Jacob Hurwitz-Goodman](jacob-hurwitz-goodman.md) — documentari
 - [Gilbert (dis.art)](gilbert-dis-art.md) — video sul graphic design
 
+## 🎮 Da WORLDBUILDING e dalle lezioni di animazione (31 ottobre 2026)
+
+**Schede brevi: la maggior parte viene dal solo booklet della mostra e va completata con altre fonti.**
+
+- [Ladislas Starewitch](ladislas-starewitch.md) — pioniere del passo uno
+- [Jan Švankmajer](jan-svankmajer.md) — stop motion, surrealismo praghese
+- [Danielle Brathwaite-Shirley](danielle-brathwaite-shirley.md) — videogioco e installazione
+- [Gabriel Massan](gabriel-massan.md) — mondi 3D e videogioco
+- [Basmah Felemban](basmah-felemban.md) — videogioco, cosmografie
+- [Peggy Ahwesh](peggy-ahwesh.md) — video, machinima
+- [Cory Arcangel](cory-arcangel.md) — modifiche di videogiochi
+- [Suzanne Treister](suzanne-treister.md) — gioco su CD-ROM
+- [Keiken](keiken.md) — collettivo, videogioco e installazione
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*

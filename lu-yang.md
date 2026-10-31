@@ -35,6 +35,7 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 **Temi:** `mito-e-rituale`
 **Descrizione:** mitologia videoludica che affronta domande sull'esistenza di "sé" e "altro", e sulla vita oltre la morte, attraverso cut scene, salti temporali e ricominciamenti (redo).
 **Lettura critica:** i videogiochi come nuovo regno di reincarnazione narrativa — destabilizzano il senso lineare del tempo proprio del cinema del XX secolo.
+**Da *WORLDBUILDING* (2022):** gioco e videoinstallazione a tre canali. Il Cavaliere del Mondo Materiale conquista il *vajra*, oggetto rituale del buddhismo tibetano, e alla fine si trova davanti sé stesso come avversario. La trama segue il Sutra del Diamante, testo sul pensiero non duale: il gioco si conclude quando si capisce che è un'illusione. La figura anticipa l'avatar DOKU.
 
 ![The Great Adventure of Material World — fotogramma](immagini/lu-yang/great-adventure.jpg)
 
@@ -56,6 +57,7 @@ Lu Yang realizza installazioni immersive con tecnologie avanguardistiche che cal
 - [The Great Adventure of Material World (Vimeo)](https://vimeo.com/673837345)
 - [DOKU — Lu Yang's Digital Reincarnation](https://luyang.asia/2020/11/20/doku-luyangs-digital-reincarnation/)
 - Portfolio/sito ufficiale personale: **non individuato** nella fonte originale — da cercare.
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Malte Lin-Kröger)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", da Vimeo, ACMI e Dazed.

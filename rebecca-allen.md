@@ -44,6 +44,7 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 **Temi:** `vita-artificiale-e-simulazione` `avatar-e-corpo-virtuale`
 **Descrizione:** serie di opere/ambienti virtuali che esplorano la relazione tra forme di vita artificiale e presenza umana: l'"anima" di una persona entra in un mondo virtuale vivo e reattivo (un cespuglio virtuale), popolato da creature astratte animate da programmi che ne definiscono comportamenti e desideri; l'utente lo esperisce come una "coscienza in viaggio" che si sposta tra le diverse creature.
 **Lettura critica:** anticipa domande oggi centrali su agency, comportamento emergente e vita artificiale in ambienti simulati.
+**Da *WORLDBUILDING* (2022):** in *The Bush Soul #3* (1999) il pubblico guida con il joystick un avatar fatto di particelle, può abitare temporaneamente una creatura e ne sente le reazioni nelle vibrazioni. L'opera nasce dal sistema *Emergence*, motore 3D con vita artificiale sviluppato con un gruppo di lavoro. Non ha obiettivi, solo esplorazione. La colonna sonora è di Mark Mothersbaugh. Il titolo viene dalla credenza di alcune culture dell'Africa occidentale in un'anima che abita negli animali selvatici.
 
 ![The Bush Soul](immagini/rebecca-allen/the-bush-soul.jpg)
 
@@ -84,6 +85,7 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 - [MUDAM Luxembourg — profilo artista](https://www.mudam.com/rebecca-allen)
 - [MEET Digital Culture Center — "Synthetic Creatures", retrospettiva Milano (9 maggio–13 settembre 2026)](https://www.meetcenter.it/en/event/rebecca-allen-synthetic-creatures/)
 - [MEET — Figures Crawling](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Christiane Paul)
 
 ## Mostre viste
 - *Synthetic Creatures*, MEET, Milano (2026) — visto da @danMa-hub

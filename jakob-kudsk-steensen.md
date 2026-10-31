@@ -15,6 +15,7 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 ### Re-Animated (2017-2019)
 **Descrizione:** installazione multimediale VR/video che ricostruisce l'ʻōʻō di Kauaʻi, uccello hawaiano estinto, e il suo habitat, a partire da una ricerca iniziata all'American Museum of Natural History di New York. Il vero richiamo di accoppiamento dell'uccello — registrato dell'ultimo maschio vivente, circolato su YouTube prima dell'estinzione funzionale della specie, coincidente con l'anno di nascita dell'artista — è il detonatore emotivo e concettuale dell'opera: l'installazione permette di entrare in un'isola simulata di Kauaʻi dove flora e fauna crescono ed evolvono algoritmicamente, con una partitura generativa di Michael Riesman (direttore musicale del Philip Glass Ensemble). Formato: VR e due video 4K, fogliame scansionato in 3D, hardware personalizzato, luce LED. Vince il premio per la miglior grafica VR al Cinequest 2019 e il Prix du Jury alle Rencontres d'Arles; presentato come parte della shortlist del Future Generation Art Prize 2019 (Kyiv/Venezia).
 **Lettura critica:** un lavoro che usa la tecnologia di simulazione non per costruire un futuro speculativo ma per riportare in vita, letteralmente in forma sonora e visiva, una specie già persa — la simulazione come atto di lutto e di memoria, non di fuga.
+**Da *WORLDBUILDING* (2022):** l'animazione è intesa come ri-animazione, cioè dare vita e spirito a materia morta. Il testo legge Kaua'i come microcosmo dell'estinzione di massa e della colonizzazione, dall'arrivo di James Cook nel 1778 in poi: virus e specie invasive arrivate con i nuovi venuti. Steensen vi agisce come un «giardiniere digitale».
 
 ![Re-Animated — veduta della mostra, Tranen (foto David Stjernholm)](immagini/jakob-kudsk-steensen/re-animated.webp)
 
@@ -67,6 +68,7 @@ Steensen costruisce quella che la critica definisce "natura digitale" — ecosis
 - [On-Curating (n. 63) — saggio accademico su Berl-Berl e Boreal Dreams](https://www.on-curating.org/issues/issue-63/issue-63-reader/virtual-worlds-and-digital-ecology-in-the-exhibitionary-internet-complex-jakob-kudsk-steensen-s-berl-berl-and-boreal-dreams.html)
 - [Fondation Louis Vuitton — Open Space #17, The Song Trapper](https://www.fondationlouisvuitton.fr/en/events/open-space-17-jakob-kudsk-steensen-the-song-trapper)
 - [berlberl.world — esperienza online di *Berl-Berl*](https://berlberl.world/experience)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Toke Lykkeberg)
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali", dal sito ufficiale [jakobsteensen.com](http://www.jakobsteensen.com) e da Serpentine Galleries.

@@ -23,6 +23,12 @@ Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersiv
 
 **Approfondimento:** [Whitney Museum — Seamless](https://whitney.org/collection/works/67918)
 
+### Pastoral (2019)
+**Corso:** `AW`
+**Temi:** `avatar-e-corpo-virtuale` `paesaggio-e-territorio`
+**Descrizione:** opera per VR e installazione: con il controller si guida l'orco ipermuscolare in bikini, avatar ricorrente dell'artista, attraverso un vasto campo di fieno. L'unico altro personaggio è una creatura simile a una capra che suona il liuto sotto un albero. Pietre segnate e bandiere consumate fanno pensare a una battaglia dimenticata.
+**Lettura critica:** toglie al videogioco scopo, combattimento e storia, e lascia che sia il giocatore a riempire il vuoto. Il corpo da supereroe, rigido da guidare, mostra un lato gentile e isolato del personaggio; sotto il paesaggio idillico resta il sospetto della violenza.
+
 ### Anti-Gone (2019/2020)
 **Corso:** `AW`
 **Temi:** `performance-audiovisiva`
@@ -85,6 +91,7 @@ Triantafyllidis costruisce "simulazioni dal vivo" — ambienti software immersiv
 - [FACT Magazine — "Theo Triantafyllidis Presents: Radicalization Pipeline"](https://www.factmag.com/2022/04/05/theo-triantafyllidis-presents-radicalization-pipeline/)
 - [Galerie Magazine — "Next Big Thing: Theo Triantafyllidis"](https://galeriemagazine.com/next-big-thing-theo-triantafyllidis/)
 - [World on a Wire — *Studio Visit*](https://worldonawire.net/#3) — progetto citato nelle tracce di lezione: avatar Ork che crea forme 3D, poi realizzate come sculture in legno, con motion capture artigianale; anno e sede espositiva [verificare]
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Mary Flanagan)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle sei opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale dell'artista (slimetech.org), dal Whitney Museum e da YouTube.

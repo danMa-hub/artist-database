@@ -15,6 +15,11 @@ Cheng chiama questa pratica **"Worlding"**, distinguendola dal tradizionale "Wor
 
 ## Opere principali
 
+### BBRRAATTSS (2012)
+**Temi:** `vita-artificiale-e-simulazione`
+**Descrizione:** nato dall'esperienza di Cheng in una società di effetti visivi, porta Bugs Bunny ed Elmer Fudd dentro il software di animazione: gli scheletri si scontrano, gli arti si deformano, i personaggi sopravvivono alle esplosioni.
+**Lettura critica:** uno dei primi lavori in cui Cheng spinge su difetti e imprevisti del software, prima di passare alle simulazioni in cui i personaggi vengono messi in moto e lasciati agire.
+
 ### Entropy Wrangler (2013)
 **Descrizione:** simulazione dinamica presentata su Oculus Rift al Frieze Art Fair di Londra e in seguito a MoMA PS1: uno spazio virtuale caotico in cui il punto di vista del partecipante altera la dinamica di forme 3D senza peso, generando una narrazione propria dall'esperienza ([Rhizome](https://rhizome.org/editorial/2013/dec/23/prosthetic-knowledge-picks-oculus-rift/)).
 **Lettura critica:** opera precoce che anticipa il metodo maturo di Cheng — non un mondo narrato ma un sistema fisico/percettivo che il pubblico attiva e destabilizza.
@@ -99,6 +104,7 @@ Dati verificati sulla sinossi ufficiale ([lifeafterbob.io](https://lifeafterbob.
 - [Life After BOB](https://lifeafterbob.io/)
 - [Philippe Vandenbroeck — "Ian Cheng: An Emissaries Guide to Worlding" (Medium, 2018)](https://philippevandenbroeck.medium.com/ian-cheng-an-emissaries-guide-to-worlding-2018-5a97f95b41d6)
 - [Cantor Arts Center, Stanford — *Emissary Sunsets the Self* (mostra)](https://museum.stanford.edu/exhibitions/ian-cheng-emissary-sunsets-self) — link dalle tracce, non aperto (il sito blocca le richieste automatiche) [verificare]
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Travis Diehl)
 
 ## Crediti delle immagini
 Le tre immagini sopra sono screenshot raccolti dall'artista/docente nella scheda originale (Google Drive); non è nota la fonte esatta (sito dell'artista o documentazione di mostra) — da verificare e, se possibile, sostituire con immagini di provenienza tracciabile (sito ufficiale, museo, galleria).

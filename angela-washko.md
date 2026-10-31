@@ -16,6 +16,7 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 **Temi:** `performance-nei-mondi-virtuali`
 **Descrizione:** intervento performativo dentro *World of Warcraft*: Washko fonda un "consiglio" fittizio e facilita discussioni sul genere e sul femminismo con i giocatori direttamente nel gioco, incluse conversazioni su avatar di genere diverso dal proprio e su vittim-blaming.
 **Lettura critica:** usa lo spazio ludico come laboratorio sociale per un sondaggio dal vivo sull'opinione pubblica americana riguardo al ruolo delle donne.
+**Da *WORLDBUILDING* (2022):** Washko giocava a WoW da sei anni prima di iniziare. Non cerca di correggere gli altri giocatori ma di capirne le ragioni, in un paradosso: il gioco richiede collaborazione e insieme, grazie all'anonimato degli avatar, lascia correre l'ostilità. Le registrazioni fanno da archivio di quelle conversazioni.
 
 ![The Council on Gender Sensitivity and Behavioral Awareness in World of Warcraft — fotogramma](immagini/angela-washko/council-gender-sensitivity-01.jpg)
 
@@ -38,6 +39,7 @@ Washko usa la performance e il dialogo diretto con i giocatori per far emergere 
 - [angelawashko.com](https://angelawashko.com)
 - [Weaponizing Courtship — Fotomuseum Winterthur](https://www.fotomuseum.ch/en/explore/situations/157382)
 - [Cutscenes: Critical Optimism — Angela Washko's Online Interventions (MUBI Notebook)](https://mubi.com/it/notebook/posts/cutscenes-critical-optimism-angela-washko-s-online-interventions)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Adèle Koechlin)
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle due opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [angelawashko.com](https://angelawashko.com) (fotogramma Vimeo via servizio di thumbnail pubblico per Weaponizing Courtship).

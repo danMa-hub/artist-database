@@ -19,9 +19,18 @@ Fornieles è una figura chiave della generazione "post-internet", il cui lavoro 
 **Descrizione:** prima personale istituzionale britannica dell'artista: una nuova opera commissionata online presentata insieme a scultura e performance coreografata, che mappa l'immaginario della "buona vita" domestica suburbana americana (architettura da sitcom, estetica da centro commerciale/miglioramento della casa) come ambiente d'installazione.
 **Lettura critica:** esamina l'infiltrazione di internet nella famiglia, insieme come unità sociale borghese e come trope pop-culturale, proseguendo la sfumatura URL/IRL di *Dorm Daze* in forma scultorea fisica.
 
+### Bathing, Climbing, Falling, Sitting, Sleeping, Swimming (2015)
+**Corso:** `AW`
+**Temi:** `avatar-e-corpo-virtuale`
+**Descrizione:** serie di sei animazioni di circa tre minuti con l'avatar dell'artista, una volpe, che attraversa mondi di immagini di sorveglianza, montagne di dati e flussi aziendali.
+**Lettura critica:** il testo in mostra collega la serie alle «catene di approvvigionamento emotivo» (formula del curatore Paul Luckraft): nei mondi digitali il sé si costruisce con emozioni che diventano merce. Per Fornieles un mondo non esiste di per sé, ma dipende dal quadro di riferimento di chi vi partecipa.
+
 ### Der Geist: Flesh Feast (2016, Arratia Beer, Berlino)
 **Descrizione:** video (7:59 minuti, colore/sonoro) più oggetti e installazione, parte di un corpo di lavoro incentrato su una volpe da cartone animato che segue una dieta corporate di "auto-ottimizzazione" (modellata sulla "Bulletproof Diet" reale), incluse statuette, tappeti da parete stampati e confezioni-prop di integratori con messaggi motivazionali.
 **Lettura critica:** satireggia la cultura occidentale del wellness/auto-gestione come forma di controllo corporate interiorizzato sul corpo.
+
+### Cel (2019)
+**Descrizione:** performance in forma di gioco di ruolo dal vivo, sulle ideologie che danno forma alle strutture patriarcali degli spazi online più estremi.
 
 ### Finiliar / Fini (2022-in corso, con la curatrice Sam Spike)
 **Descrizione:** progetto NFT: collezione generativa di 10.000 piccole creature "viventi" ("Fini") il cui umore/aspetto risponde in tempo reale alle fluttuazioni del prezzo delle criptovalute tramite oracoli blockchain, evoluzione di un precedente prototipo GIF data-driven del 2016.
@@ -38,3 +47,5 @@ Fornieles è una figura chiave della generazione "post-internet", il cui lavoro 
 - [i-D — "Performing Ourselves: Revisiting Dorm Daze with Ed Fornieles"](https://i-d.co/article/performing-ourselves-revisiting-dorm-daze-with-ed-fornieles/)
 - [Rhizome — "Artist Profile: Ed Fornieles"](https://rhizome.org/editorial/2012/apr/2/artist-profile-ed-fornieles/)
 - [OpenSea — "Who Created Fini NFTs? Meet Ed Fornieles"](https://opensea.io/blog/articles/finiliar)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Tamara Hart)
+

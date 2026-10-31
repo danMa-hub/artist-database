@@ -21,6 +21,7 @@ JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorg
 ### Untitled Game (1996-2001)
 **Descrizione:** serie di modifiche (comunemente citate come quattordici) del videogioco Quake I, che riducono la complessa grafica 3D del gioco ad ambienti geometrici quasi astratti in bianco, nero e grigio, mantenendo intatti gameplay e sonoro originali. Una delle varianti più note colloca il giocatore dentro un cubo vorticoso in bianco e nero, risultato di un glitch del motore grafico scoperto e sfruttato da JODI.
 **Lettura critica:** oggetto di uno studio di conservazione interdisciplinare pubblicato da Rhizome — un caso di studio su come conservare un'opera che dipende da un motore di gioco obsoleto e da un glitch specifico di quella versione software.
+**Da *WORLDBUILDING* (2022):** il booklet data l'opera 1998-2001 (da verificare rispetto al 1996 di questa scheda). In *Arena* ogni elemento grafico è cancellato e tutto diventa bianco. *Ctrl-Space*, la modifica più antica, è il cubo: il motore prova senza riuscirci a visualizzarne l'interno.
 
 ![Untitled Game — fotogramma](immagini/jodi/untitled-game.jpg)
 
@@ -80,6 +81,7 @@ JODI lavora smontando il funzionamento nascosto delle interfacce — codice sorg
 - [Ed Halter, "JODI", 4Columns (2020)](https://www.4columns.org/halter-ed/jodi)
 - [Electronic Arts Intermix — biografia](https://www.eai.org/artists/jodi/biography)
 - [V2_ Lab for the Unstable Media — OSS/****](https://v2.nl/works/oss)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Mike Connor)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da fonti museali (ZKM, MoMA, Monoskop), EAI e YouTube.

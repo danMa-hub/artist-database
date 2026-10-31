@@ -60,6 +60,7 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 
 ### Permanent Sunset (documentazione video di una performance in-game, presentata a CUBO, Bologna, 2025)
 **Descrizione:** video che documenta una performance in corso dentro un videogioco, presentato nella stessa mostra a CUBO. Alcune opere della mostra erano visibili anche nel metaverso.
+**Da *WORLDBUILDING* (2022):** opera in corso dal 2020 (versione in mostra: 6'13"), machinima in cui l'avatar guarda il tramonto dentro giochi come *Star Citizen* e *Counter-Strike*. Pause tra un'azione e l'altra diventano l'opera. Il testo la lega alla videoarte anni Settanta, alla pittura romantica tedesca e al «sublime tecnologico»: il world building come pittura di paesaggio.
 
 **Approfondimento:** [Unipol — comunicato stampa della mostra (PDF)](https://www.unipol.com/sites/default/files/documents/2025-01/cs_cubo_das8_2025_def.pdf)
 
@@ -81,6 +82,7 @@ Il filo critico costante nella lettura del lavoro di LaTurbo Avedon è un'indagi
 - [TechCrunch — "The portrait of an avatar as a young artist"](https://techcrunch.com/2019/09/17/the-portrait-of-an-avatar-as-a-young-artist/)
 - [Kill Screen — "The unreal world and work of LaTurbo Avedon"](https://killscreen.com/previously/articles/unreal-world-and-work-laturbo-avedon/)
 - [Aksioma — "The Byzantine Generals Problem" (a cura di Domenico Quaranta)](https://aksioma.org/byzantine.generals.problem)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Tina Rivers Ryan)
 
 ## Mostre viste
 - *UNA, DOPPIA, COLLETTIVA. L'identità al tempo del Metaverso*, CUBO (Unipol), Bologna (2025) — visto da @danMa-hub

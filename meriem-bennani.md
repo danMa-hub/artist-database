@@ -16,6 +16,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Temi:** `migrazione-e-confini`
 **Descrizione:** film di fantascienza in cui il teletrasporto ha sostituito gli aerei e CAPS — ex istituto penale trasformato in campo profughi/isola per immigrati clandestini — diventa l'utopia di un'altra società possibile; la guida nel racconto è Fiona, un coccodrillo antropomorfo. Il film monta immagini documentarie di una festa della comunità marocchina insieme a sequenze CGI.
 **Lettura critica:** affronta sfollamento, biotecnologie, immigrazione, privacy e le nuove tecnologie di controllo (droni militari che sorvegliano l'isola) attraverso un registro che mescola umorismo e realismo "magico".
+**Da *WORLDBUILDING* (2022):** il teletrasporto danneggia i corpi, con sintomi come la «Plastic Face Syndrome» o il «Mega Ear», figure della dispersione delle diaspore. Il mondo unisce la «Favela Chic» di Bruce Sterling al mito afrofuturista di Drexciya. Chi può permetterselo compra un nuovo corpo.
 **Video:** [Party on the CAPS — trailer, IFFR 2019 (YouTube)](https://www.youtube.com/watch?v=v3nPMddau00) · [talk sulla genesi dell'opera, con trailer lungo (YouTube, da 15:30)](https://www.youtube.com/watch?v=UzArB94HzpI&t=3315s)
 
 ![Party on the CAPS, veduta d'installazione con schermi e neon](immagini/meriem-bennani/party-on-the-caps-01.png)
@@ -70,6 +71,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 - [Windy — The High Line](https://www.thehighline.org/art/projects/meriem-bennani-windy/)
 - [Art21 — New York Close Up: "Meriem Bennani: In Between Languages"](https://art21.org/watch/new-york-close-up/meriem-bennani-in-between-languages/)
 - [Sturm&Drang Studio | Meriem Bennani (YouTube)](https://www.youtube.com/watch?v=HCAnRGvSKSw) — vedi anche la scheda [Sturm&Drang / Sturm&Drang Studio](sturm-und-drang-studio.md)
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Rahel Aima)
 
 ## Crediti delle immagini
 Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).

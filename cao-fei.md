@@ -28,6 +28,7 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 **Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** "documentario virtuale" di 28 minuti che segue l'avatar Second Life dell'artista, China Tracy, includendo una storyline romantica con un altro avatar, "Hug Yue". Presentato come parte del China Tracy Pavilion alla 52ª Biennale di Venezia (2007), dentro il Padiglione cinese ufficiale curato da Hou Hanru.
 **Lettura critica:** complica la consueta paura che i mondi virtuali sostituiscano la realtà — mostra invece un'intimità e una connessione autentiche formatesi attraverso una relazione tra avatar, rivelando al tempo stesso le identità di "prima vita" dietro gli avatar.
+**Da *WORLDBUILDING* (2022):** il film è montato da molte ore di materiale. Hug Yue si rivela un uomo statunitense di sessant'anni. Oggi Second Life ha un ruolo marginale: l'opera è anche la cronaca di un mondo che viene dimenticato.
 
 ![i.Mirror — fotogramma](immagini/cao-fei/i-mirror.jpg)
 
@@ -79,6 +80,7 @@ La pratica di Cao Fei si muove tra documentario e finzione speculativa, usando v
 - [Sprüth Magers — mostra Duotopia, Berlino](https://spruethmagers.com/exhibitions/cao-fei-duotopia-berlin/)
 - [Hyperallergic — recensione di Blueprints](https://hyperallergic.com/583983/cao-fei-blueprints-serpentine-galleries/)
 - [Rhizome Anthology — RMB City](https://anthology.rhizome.org/rmb-city) — link dalle tracce, non aperto (il sito blocca le richieste automatiche) [verificare]
+- *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Kathrin Beßen e Agnieszka Skolimowska)
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere/gruppi di opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da MoMA, dal sito ufficiale [caofei.com](https://www.caofei.com) e da Sprüth Magers.
