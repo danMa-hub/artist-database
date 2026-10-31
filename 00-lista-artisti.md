@@ -196,6 +196,31 @@ Due giri di ricerca paralleli — uno dal lato istituzioni/festival/biennali (MA
 - 🔍 Giuliana Cunéaz (Aosta) — pioniera dei new media in Italia, ma fonti trovate soprattutto promozionali/di galleria minore
 - 🔍 Silvio Lorusso — figura interessante sul "post-digitale", ma produzione più teorico-editoriale/design che pratica artistica esposta
 
+## 🎞️ Animazione e cinema d'artista (31 ottobre 2026)
+
+Schede parziali, scritte da fonti web: vedi la riga **Stato** di ciascuna.
+
+- [Satoshi Kon](satoshi-kon.md) — animazione giapponese
+- [Don Hertzfeldt](don-hertzfeldt.md) — animazione indipendente
+- [René Laloux](rene-laloux.md) — storia dell'animazione
+- [Marcell Jankovics](marcell-jankovics.md) — storia dell'animazione
+- [Georges Méliès](georges-melies.md) — storia del cinema e dell'animazione
+- [Yuri Norstein](yuri-norstein.md) — storia dell'animazione
+- [Dash Shaw](dash-shaw.md) — animazione contemporanea
+- [Signe Baumane](signe-baumane.md) — animazione contemporanea
+- [Emma De Swaef e Marc James Roels](emma-de-swaef-marc-james-roels.md) — stop motion
+- [Cristóbal León e Joaquín Cociña](cristobal-leon-joaquin-cocina.md) — stop motion
+- [Bertrand Mandico](bertrand-mandico.md) — cinema d'autore
+- [Bi Gan](bi-gan.md) — cinema d'autore
+- [Ana Vaz](ana-vaz.md) — cinema sperimentale
+- [Emmanuel Van der Auwera](emmanuel-van-der-auwera.md) — video e installazione
+- [Chris Zhongtian Yuan](chris-zhongtian-yuan.md) — video
+- [Hannah Black](hannah-black.md) — video e scrittura
+- [Juliana Huxtable](juliana-huxtable.md) — performance e scrittura
+- [Will Benedict e Steffen Jørgensen](will-benedict-steffen-jorgensen.md) — serie video
+- [Jacob Hurwitz-Goodman](jacob-hurwitz-goodman.md) — documentari
+- [Gilbert (dis.art)](gilbert-dis-art.md) — video sul graphic design
+
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 
 *(sezione vuota — tutti i nominativi sono stati sviluppati, vedi sezione "Scritte da zero" sopra)*

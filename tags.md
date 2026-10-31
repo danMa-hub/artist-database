@@ -24,7 +24,7 @@ Gli stessi tag possono comparire anche accanto a una singola opera, dentro "Oper
 
 (tecnica, medium e formato dell'opera raggruppati insieme: nella pratica tendono a coincidere)
 
-`modellazione-3d` `game-engine-realtime` `motion-capture` `procedurale-generativo` `fotogrammetria-scansione` `stampa-3d-scultura` `video` `animazione-2d` `vr-ar` `projection-mapping` `live-visual-vjing` `ai-generativa` `data-visualization` `net-art-sito-web` `performance-dal-vivo` `desktop-lecture-performance` `installazione` `videogioco-simulazione` `fotografia`
+`modellazione-3d` `game-engine-realtime` `motion-capture` `procedurale-generativo` `fotogrammetria-scansione` `stampa-3d-scultura` `video` `animazione-2d` `stop-motion` `vr-ar` `projection-mapping` `live-visual-vjing` `ai-generativa` `data-visualization` `net-art-sito-web` `performance-dal-vivo` `desktop-lecture-performance` `installazione` `videogioco-simulazione` `fotografia`
 
 ## Tema / approccio critico
 

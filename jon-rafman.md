@@ -60,10 +60,16 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 
 ![Disasters Under the Sun — fotogramma](immagini/jon-rafman/disasters-under-the-sun.jpg)
 
+### Punctured Sky (2021)
+**Descrizione:** video 4K di circa 21 minuti. Un narratore mai visto ritrova un vecchio amico nel retro di un negozio di fumetti e giochi in un centro commerciale abbandonato; l'amico gli chiede se ricorda il videogioco preferito della loro infanzia, di cui è sparita ogni traccia dalla storia. Il narratore attraversa allora un universo parallelo di ibridi animale-umano per scoprire che cosa gli sia successo. Intreccia foto trovate rielaborate digitalmente e paesaggi 3D presi da videogiochi, in uno stile di collage fotografico animato.
+**Lettura critica:** tra i lavori video di Rafman, quello strutturato più come un film narrativo convenzionale; riprende i temi della memoria, dell'isolamento e della nostalgia per il web e i giochi dell'infanzia. Da non confondere con il rotolo illustrato *Punctured Sky* (2019), realizzato con il fumettista Connor Willumsen per la Biennale di Sharjah.
+
 ## Interviste e talk
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
+- [Leiden Shorts — Punctured Sky](https://leidenshorts.nl/film/punctured-sky/)
+- [Sharjah Art Foundation — Jon Rafman, various works, 2017-2019](https://v1.sharjahart.org/sharjah-art-foundation/projects/jon-rafman-various-works-20172019)
 - [jonrafman.com](https://jonrafman.com/)
 - [Dream Journal (Vimeo)](https://vimeo.com/349313505)
 - [Legendary Reality](https://www.youtube.com/watch?v=i7cia6AUyvE)

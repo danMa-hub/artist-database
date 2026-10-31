@@ -93,10 +93,22 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 
 **Approfondimento:** [Whitney Museum — Riccardo Uncut](https://whitney.org/exhibitions/riccardo-uncut)
 
+### The Bots (2020)
+**Descrizione:** serie di installazioni video, nata da un anno di ricerche con il giornalista Adrian Chen sui moderatori di contenuti di internet. Le testimonianze dei moderatori, raccolte in sei parti, sono presentate come finti tutorial di trucco; ogni video è mostrato sul retro di una scrivania da ufficio dello stesso modello usato nel centro di moderazione di Facebook a Berlino. Esistono versioni per diversi «mercati» (per esempio italiano, greco, britannico). Per realizzarla gli artisti hanno avuto accesso ai cataloghi riservati di linee guida con cui i moderatori valutano i contenuti.
+**Lettura critica:** rende visibile il lavoro invisibile della moderazione dei contenuti, travestendolo da genere di intrattenimento delle piattaforme: il tutorial di bellezza.
+
+### Up Next (2023)
+**Descrizione:** video-presentazione sulla storia di Sahar Tabar, ragazza iraniana diventata famosa su Instagram come «Angelina Jolie zombie» attraverso trucco e Photoshop. Presentato in prima mondiale al Frankfurter Kunstverein nella mostra *Fake Views* (14 luglio - 10 settembre 2023), poi nella personale *508 Loop Detected* (Brescia, 2024).
+**Lettura critica:** riflette sull'identità costruita per i social e sulla viralità come economia dell'attenzione.
+
 ## Interviste e talk
 - [The Art Newspaper — intervista (2020)](https://www.theartnewspaper.com/2020/05/05/eva-and-franco-mattes-technology-does-not-create-the-social-problems-we-so-often-criticise)
 
 ## Fonti
+- [Onassis Foundation — The Bots](https://www.onassis.org/art/works/the-bots)
+- [0100101110101101.org — The Bots](https://0100101110101101.org/the-bots/)
+- [Spike Art Magazine — Eva & Franco Mattes at Frankfurter Kunstverein (2023)](https://spikeartmagazine.com/articles/review-eva-franco-mattes-frankfurter-kunstverein-2023)
+- [Artribune — Eva & Franco Mattes, 508 Loop Detected](https://www.artribune.com/mostre-evento-arte/eva-franco-mattes-508-loop-detected/)
 - [0100101110101101.org — sito ufficiale](https://0100101110101101.org/about/) — ⚠️ non raggiungibile direttamente durante la ricerca per restrizioni di rete; da verificare in prima persona
 - [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)
 - [Whitney Museum — pagina artista](https://whitney.org/artists/19027)
