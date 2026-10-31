@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d`
 **Tag tema:** `fantascienza-speculativa` `colonialismo-decolonialita`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · nessuna immagine ancora
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
 
 ## Biografia
 Nato a Parigi il 13 luglio 1929, morto ad Angoulême nel marzo 2004. Studia pittura, lavora nella pubblicità e poi in un istituto psichiatrico, dove sperimenta l'animazione con i ricoverati. Lì realizza *Les Dents du singe* (1960), prodotto con lo studio di Paul Grimault.
@@ -16,7 +16,7 @@ Il suo collaboratore principale è Roland Topor, con cui realizza *Les Temps mor
 **Descrizione:** Film d'animazione di fantascienza surreale per adulti, tratto dal romanzo *Oms en série* (1957) di Stefan Wul e scritto da Laloux con Roland Topor, che ne cura anche la scenografia. Racconta di esseri umani trattati come animali dai giganti umanoidi che dominano il pianeta Ygam. Coproduzione franco-cecoslovacca, animato negli studi Jiří Trnka a Praga; produzione iniziata nel 1963. Gran Premio speciale della giuria a Cannes 1973.
 **Lettura critica:** Allegoria della dominazione e dell'oppressione; inserito da *Rolling Stone* (2016) al 36° posto tra i migliori film d'animazione.
 
-⚠️ Nessuna immagine trovata.
+![Fantastic Planet (La planète sauvage) — immagine 1](immagini/rene-laloux/fantastic-planet.jpg)
 
 ### Les Maîtres du temps (1982)
 **Descrizione:** Lungometraggio realizzato con Jean Giraud (Mœbius).
@@ -26,7 +26,7 @@ Il suo collaboratore principale è Roland Topor, con cui realizza *Les Temps mor
 ### Gandahar (1987)
 **Descrizione:** Ultimo lungometraggio, tratto dal romanzo *Les Hommes-machines contre Gandahar* (1969) di Jean-Pierre Andrevon. Negli Stati Uniti uscì in versione abbreviata e ridoppiata con il titolo *Light Years*.
 
-⚠️ Nessuna immagine trovata.
+![Gandahar (Light Years) — immagine 1](immagini/rene-laloux/gandahar.jpg)
 
 ## Fonti
 - [Wikipedia — René Laloux](https://en.wikipedia.org/wiki/René_Laloux)
@@ -34,4 +34,6 @@ Il suo collaboratore principale è Roland Topor, con cui realizza *Les Temps mor
 - [Wikipedia — Gandahar](https://en.wikipedia.org/wiki/Gandahar_(film))
 
 ## Crediti delle immagini
-Nessuna immagine ancora.
+Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+- Fantastic Planet (La planète sauvage) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AFantastic_Planet_film_poster.jpg) · Fair use
+- Gandahar (Light Years) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AGandahar-poster.jpg) · Fair use

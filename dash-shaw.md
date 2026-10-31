@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d`
 **Tag tema:** `fantascienza-speculativa`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · nessuna immagine ancora
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
 
 ## Biografia
 Nato il 6 aprile 1983, fumettista e animatore statunitense. È autore dei romanzi grafici *Cosplayers*, *Doctors*, *New School* e *Bottomless Belly Button*, pubblicati da Fantagraphics, e di *BodyWorld* (Pantheon). A 19 anni, al Small Press Expo del 2002, viene indicato tra i dieci artisti da tenere d'occhio. Suona anche nella band Love Eats Brains!.
@@ -20,11 +20,12 @@ I suoi fumetti sono noti per la logica emotiva e lirica e per l'invenzione grafi
 ### Cryptozoo (2021)
 **Descrizione:** Film d'animazione drammatico per adulti scritto e diretto da Shaw, con le voci di Lake Bell, Michael Cera, Angeliki Papoulia, Zoe Kazan, Peter Stormare e altri. Prima mondiale al Sundance il 29 gennaio 2021, uscita Magnolia Pictures il 20 agosto 2021.
 
-⚠️ Nessuna immagine trovata.
+![Cryptozoo — immagine 1](immagini/dash-shaw/cryptozoo.jpg)
 
 ## Fonti
 - [Wikipedia — Dash Shaw](https://en.wikipedia.org/wiki/Dash_Shaw)
 - [Wikipedia — Cryptozoo](https://en.wikipedia.org/wiki/Cryptozoo)
 
 ## Crediti delle immagini
-Nessuna immagine ancora.
+Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+- Cryptozoo (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ACryptozoo_poster.jpg) · Fair use

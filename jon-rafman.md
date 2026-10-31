@@ -64,6 +64,8 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 **Descrizione:** video 4K di circa 21 minuti. Un narratore mai visto ritrova un vecchio amico nel retro di un negozio di fumetti e giochi in un centro commerciale abbandonato; l'amico gli chiede se ricorda il videogioco preferito della loro infanzia, di cui è sparita ogni traccia dalla storia. Il narratore attraversa allora un universo parallelo di ibridi animale-umano per scoprire che cosa gli sia successo. Intreccia foto trovate rielaborate digitalmente e paesaggi 3D presi da videogiochi, in uno stile di collage fotografico animato.
 **Lettura critica:** tra i lavori video di Rafman, quello strutturato più come un film narrativo convenzionale; riprende i temi della memoria, dell'isolamento e della nostalgia per il web e i giochi dell'infanzia. Da non confondere con il rotolo illustrato *Punctured Sky* (2019), realizzato con il fumettista Connor Willumsen per la Biennale di Sharjah.
 
+![Punctured Sky — immagine 1](immagini/jon-rafman/punctured-sky-1.jpg)
+
 ## Interviste e talk
 - _Nessuna ancora: da aggiungere._
 
@@ -77,3 +79,4 @@ Rafman lavora su tecnologia e media digitali, spesso usando la narrazione per ri
 ## Crediti delle immagini
 Immagine per ciascuna delle sette opere, inclusa sotto la relativa descrizione in "Opere principali", da YouTube e Vimeo.
 - [jonrafman.com](https://jonrafman.com/)
+- Punctured Sky (1): [iffr.com](https://iffr.com/en/2022/films/punctured-sky) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

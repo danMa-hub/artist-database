@@ -78,3 +78,4 @@ Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa 
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
 - [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
+

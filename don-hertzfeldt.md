@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d` `video`
 **Tag tema:** `corpo-identita` `memoria-archivio` `fantascienza-speculativa`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · nessuna immagine ancora
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
 
 ## Biografia
 Nato il 1° agosto 1976, animatore, sceneggiatore e regista indipendente statunitense. Due volte candidato all'Oscar. Nove suoi cortometraggi sono stati in concorso al Sundance Film Festival (un record per il festival) ed è l'unico regista ad aver vinto due volte il Gran Premio della Giuria per il cortometraggio. Il suo ultimo film, *Paper Trail*, è stato presentato al Sundance 2026 e ha vinto il Premio speciale della giuria per la visione creativa.
@@ -15,7 +15,7 @@ Lavora in modo indipendente e artigianale. La critica ha descritto la sua opera 
 ### It's Such a Beautiful Day (2012)
 **Descrizione:** Lungometraggio che riunisce la trilogia di cortometraggi animati sul personaggio di Bill, un uomo che cerca di rimettere insieme la propria psiche in frantumi. Considerato dalla critica tra i migliori film d'animazione di sempre.
 
-⚠️ Nessuna immagine trovata.
+![It's Such a Beautiful Day — immagine 1](immagini/don-hertzfeldt/its-such-a-beautiful-day.jpg)
 
 ### World of Tomorrow e World of Tomorrow Episode Two
 **Descrizione:** Serie di cortometraggi in cui una bambina, Emily, viene portata in un viaggio nel suo lontano futuro e poi incontra un suo clone di riserva dal futuro ancora più lontano. Considerato dalla critica tra i migliori film d'animazione di sempre.
@@ -41,4 +41,5 @@ Lavora in modo indipendente e artigianale. La critica ha descritto la sua opera 
 - Davide Giurlando (a cura di), *Fantasmagoria. Un secolo (e oltre) di cinema d'animazione*, Marsilio, 2017 (citato tra gli ospiti del festival Georama, saggio di Maria Roberta Novielli, PDF 78)
 
 ## Crediti delle immagini
-Nessuna immagine ancora.
+Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+- It's Such a Beautiful Day (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AIt%27s_Such_A_Beautiful_Day_Poster.jpg) · Fair use

@@ -75,6 +75,10 @@ Farocki ha coniato e sviluppato il concetto di **"immagine operativa"** (*operat
 **Descrizione:** saggio documentario di circa 58 minuti, con voce narrante di Margarita Broich, prodotto da Harun Farocki Filmproduktion con ZDF/3sat. Parte dalla guerra del Golfo del 1991, quando le immagini trasmesse e quelle generate al computer diventano difficili da distinguere, e mostra l'immagine come anello di una catena di produzione e distruzione. Con materiali d'archivio e originali, lega strategia militare e produzione industriale e mostra come la tecnologia bellica passi nell'uso quotidiano.
 **Lettura critica:** uno dei film chiave sulle «immagini operative»: le immagini non servono più a mostrare ma a guidare un'azione.
 
+![War at a Distance (Erkennen und Verfolgen) — immagine 1](immagini/harun-farocki/farocki-war-at-a-distance-1.jpg)
+
+![War at a Distance (Erkennen und Verfolgen) — immagine 2](immagini/harun-farocki/farocki-war-at-a-distance-2.jpg)
+
 ## Approfondimenti
 Materiale teorico per la didattica, ricavato dalla scheda di riferimento originale (REF su Drive) e dai saggi che cita.
 
@@ -113,3 +117,5 @@ Dal REF, citazione di Klaus Theweleit (usata da Farocki in *Erkennen und Verfolg
 Immagine per ciascuna delle quattro opere, inclusa sotto la relativa descrizione in "Opere principali", dal sito ufficiale [harunfarocki.de](http://www.harunfarocki.de), YouTube e Internet Archive.
 - [Jussi Parikka — "Operational Images: From the Visual to the Invisual"](https://manifold.umn.edu/read/operational-images/section/91d3d20c-0c66-4cc7-9e1d-ba5d1f144574)
 - [Trevor Paglen — "Operational Images" (e-flux journal #59)](https://www.e-flux.com/journal/59/61130/operational-images/)
+- War at a Distance (Erkennen und Verfolgen) (1): [www.eyefilm.nl](https://www.eyefilm.nl/en/whats-on/farocki-fast-night/1468047) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- War at a Distance (Erkennen und Verfolgen) (2): [iffr.com](https://iffr.com/en/2004/films/erkennen-und-verfolgen) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

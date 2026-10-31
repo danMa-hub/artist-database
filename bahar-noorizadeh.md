@@ -80,3 +80,4 @@ Un secondo asse della sua ricerca è l'**archeologia computazionale**: non solo 
 
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle cinque opere, inclusi sotto la relativa descrizione in "Opere principali" — recuperate da fonti terze (dis.art, Otolith Group, transmediale, e-flux, Mercer Union) poiché il sito ufficiale [baharnoorizadeh.com](https://baharnoorizadeh.com/) è testuale, senza immagini incorporate.
+

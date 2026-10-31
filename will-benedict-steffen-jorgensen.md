@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `economia-attenzione` `ecologia-ambiente`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non è documentato come sono realizzati gli episodi (nessuna fonte parla di 3D o di animazione) · non ancora assegnata a un corso · nessuna immagine ancora
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non è documentato come sono realizzati gli episodi (nessuna fonte parla di 3D o di animazione) · non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
 
 ## Biografia
 Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Art Center College of Design di Pasadena (1999-2004) e alla Städelschule di Francoforte (2004-2006). Tra le mostre personali: *Corruption Feeds* (Bergen Kunsthall, 2014), *The Social Democrat* (Gio Marconi, Milano, 2017), *Dialogue of the Dogs* (Centre d'Art Contemporain Genève, 2022), *Pandemonium* (performance musicale, Bourse de Commerce, Parigi, 2023), *Hello Greedy Citizens* (Balice Hertling, Parigi, 2025). Steffen Jørgensen, danese, si è diplomato alla Funen Art Academy nel 2009 e ha studiato all'Akademie der bildenden Künste di Vienna. Lavorano insieme a *The Restaurant* da circa otto anni.
@@ -26,7 +26,11 @@ Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Ar
 ### The Restaurant, stagione 2 (2021)
 **Descrizione:** Tre episodi su dis.art: *The Rainforest Inside Us*, *The First Fat* e *Blueberry World*, coprodotti dal Centre d'Art Contemporain Genève per la Biennale de l'Image en Mouvement 2021. Nel centro della stagione c'è Café Wha?, che funziona anche da sala interrogatori: la conduttrice Casey Jane Ellison interpreta gastroenterologa, detective e terapeuta e interroga i «sospetti» sulle loro abitudini alimentari. Un podcast scientifico, condotto da Earface e Blue Chicken (un pollo blu quasi umano e un uomo con orecchie al posto degli occhi) davanti a un pubblico di animali da fattoria, affronta microbioma, origine del grasso e come sarebbe la vita su un pianeta fatto di soli mirtilli. In *The First Fat* si discute dell'origine del grasso prima ancora degli esseri senzienti («Without fat, there would be no Us»). In *The Rainforest Inside Us* ci si chiede se «food anxiety» sia la nuova prigione che ci costruiamo, e se il legame cervello-intestino-microbiota sia il nuovo SSRI.
 
-⚠️ Nessuna immagine trovata.
+![The Rainforest Inside Us — immagine 1](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-1.jpg)
+
+![The Rainforest Inside Us — immagine 2](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-2.jpg)
+
+![The Rainforest Inside Us — immagine 3](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-3.jpg)
 
 ### The Restaurant Season 2 (Den Frie, Copenaghen, 2024-2025)
 **Descrizione:** Mostra personale (5 ottobre 2024 - 19 gennaio 2025, a cura di Magnus Thorø Clausen). Il racconto è ambientato nelle rovine di un grattacielo parigino circondato dalla giungla; tra i personaggi ricorrenti: una luna malinconica, un T-rex in un bagno all'aperto, uno spaventapasseri senza diritti e un fattorino mezzo umano e mezzo lumaca.
@@ -46,4 +50,7 @@ Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Ar
 - [Vimeo — The Restaurant [INTRO]](https://vimeo.com/250164426)
 
 ## Crediti delle immagini
-Nessuna immagine ancora.
+Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+- The Rainforest Inside Us (1): [dis.art](https://dis.art/the-rainforest-inside-us) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Rainforest Inside Us (2): [dis.art](https://dis.art/series/the-restaurant) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Rainforest Inside Us (3): [denfrie.dk](https://denfrie.dk/en/exhibition/the-restaurant-season-2/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

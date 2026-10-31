@@ -25,6 +25,8 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 **Approfondimento:** [sadiecoles.com — Ludwig](https://www.sadiecoles.com/artworks/diego-marcon/ludwig)
 **Video:** [Ludwig (YouTube, caricamento non ufficiale)](https://www.youtube.com/watch?v=70rKrEKSkcE) — dalle tracce di lezione
 
+![Ludwig — immagine 1](immagini/diego-marcon/marcon-ludwig-1.jpg)
+
 ### Monelle (2017, uscito nel 2018)
 **Corso:** `TAD-AVM` `TAD-DCV`
 **Temi:** `architettura-e-citta`
@@ -34,6 +36,10 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 ![Monelle — fotogramma](immagini/diego-marcon/monelle.jpeg)
 
 **Approfondimento:** [sadiecoles.com — Monelle](https://www.sadiecoles.com/artworks/diego-marcon/monelle)
+
+![Monelle — immagine 1](immagini/diego-marcon/marcon-monelle-1.jpg)
+
+![Monelle — immagine 2](immagini/diego-marcon/marcon-monelle-2.jpg)
 
 ### La Miserabile (2018, installazione site-specific)
 **Corso:** `TAD-AVM`
@@ -83,3 +89,6 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 Immagine e link di approfondimento per quattro delle cinque opere, incluse sotto la relativa descrizione in "Opere principali", scaricate da [sadiecoles.com](https://www.sadiecoles.com/artists/diego-marcon) — manca solo *La Miserabile* (2018).
 - [La Biennale di Venezia — pagina artista, Il latte dei sogni (2022)](https://www.labiennale.org/en/art/2022/milk-dreams/diego-marcon)
 - [Fondazione Nicola Trussardi — Dramoletti](https://www.fondazionenicolatrussardi.com/en/mostre/diego-marcon/)
+- Ludwig (1): [khio.no](https://khio.no/en/events/1364) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- Monelle (1): [courtisane.be](https://courtisane.be/en/film/monelle-0) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- Monelle (2): [www.schermodellarte.org](https://www.schermodellarte.org/en/film/monelle/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

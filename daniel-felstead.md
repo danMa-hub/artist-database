@@ -74,3 +74,4 @@ Felstead lavora sulla "derangement estetica della cultura digitale quotidiana" â
 ## Crediti delle immagini
 Immagine e link di approfondimento per ciascuna delle quattro opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate da [dis.art](https://dis.art).
 - [danielfelstead.com â€” sito ufficiale](https://danielfelstead.com/about)
+

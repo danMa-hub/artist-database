@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video`
 **Tag tema:** `memoria-archivio` `temporalita-non-lineare`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · nessuna immagine ancora
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
 
 ## Biografia
 Regista, sceneggiatore e produttore cinese nato a Kaili (Guizhou). Studia regia televisiva alla Shanxi University of Communications.
@@ -25,7 +25,7 @@ Il suo primo lungometraggio, girato nella città natale, vince il premio per il 
 ### A Short Story (2022)
 **Descrizione:** Cortometraggio di circa 14-15 minuti, in concorso per la Palma d'Oro del cortometraggio a Cannes 2022. Una favola dal punto di vista di un gatto: un gatto nero con impermeabile, interpellato da uno spaventapasseri, parte alla ricerca di una risposta.
 
-⚠️ Nessuna immagine trovata.
+![A Short Story — immagine 1](immagini/bi-gan/a-short-story-1.jpg)
 
 ### Resurrection (2025)
 **Descrizione:** Lungometraggio più recente.
@@ -37,4 +37,5 @@ Il suo primo lungometraggio, girato nella città natale, vince il premio per il 
 - [Cinema Chinese — Bi Gan (Brigitte Duzan)](https://chinesemovies.com.fr/cineastes_Bi_Gan.htm)
 
 ## Crediti delle immagini
-Nessuna immagine ancora.
+Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+- A Short Story (1): [www.festival-cannes.com](https://www.festival-cannes.com/en/f/po-sui-tai-yang-zhi-xin/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

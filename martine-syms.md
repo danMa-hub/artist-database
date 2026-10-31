@@ -74,8 +74,12 @@ Syms conia nel 2007 il termine **"conceptual entrepreneur"** (imprenditrice conc
 **Descrizione:** video digitale HD di 15 minuti e 35 secondi. Un avatar ricavato da una scansione 3D di Syms si muove in un vasto paesaggio virtuale vuoto, ripercorrendo ciclicamente morte e resurrezione; il punto di vista fluttua ora sopra l'avatar ora al suo fianco. Acquisito dal Museum Brandhorst (2025), che lo legge come riflessione su dolore, isolamento, fragilità dell'umano e rifiuto di restare intrappolati nella sofferenza.
 **Lettura critica:** uso dell'avatar-autoritratto come corpo nel gioco e nella simulazione, in linea con il resto del suo lavoro su identità nera e immagine digitale.
 
+![DED — immagine 1](immagini/martine-syms/syms-ded-1.jpg)
+
 ### Soliloquy (2021)
 **Descrizione:** video digitale di 7 minuti e 14 secondi, dalla serie *Kita's World*, in cui l'avatar Kita compie azioni quotidiane in un mondo iperdigitalizzato; il paesaggio digitale evoca distruzione ambientale, divisione politica e protesta di comunità. *Kita's World* è un adattamento contemporaneo della serie televisiva degli anni '90 trasmessa da BET. Nel 2026 il Saint Louis Art Museum gli dedica una personale.
+
+![Soliloquy — immagine 1](immagini/martine-syms/syms-soliloquy-1.jpg)
 
 ## Interviste e talk
 - [Artforum — intervista su Projects 106 al MoMA](https://www.artforum.com/interviews/martine-syms-discusses-her-projects-exhibition-at-moma-68509)
@@ -100,3 +104,5 @@ Immagine per cinque delle sei opere, inclusa sotto la relativa descrizione in "O
 - [Sadie Coles HQ — biografia ufficiale](https://www.sadiecoles.com/artists/44-martine-syms/biography/)
 - [MoMA — profilo artista](https://www.moma.org/collection/artists/68036)
 - [MoMA — Lessons I-CLXXX, collezione](https://www.moma.org/collection/works/273168)
+- DED (1): [www.sadiecoles.com](https://www.sadiecoles.com/news/martine-syms-in-long-story-short-an-art-history-from-the-brandhorst-collection-from-the-1960s-to-the-present) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- Soliloquy (1): [mubi.com](https://mubi.com/films/soliloquy-2021) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
