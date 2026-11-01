@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d`
 **Tag tema:** `corpo-identita`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Animatrice, artista, illustratrice e scrittrice lettone, vive e lavora a New York. Membro dell'Academy of Motion Picture Arts and Sciences, nel 2005 è Fellow in Film della New York Foundation for the Arts. Ha insegnato animazione al Pratt Institute dal 2000 al 2002.
@@ -22,5 +22,5 @@ Il suo lungometraggio è un'autobiografia animata: parte da fatti reali della su
 - [Wikipedia — Rocks in My Pockets](https://en.wikipedia.org/wiki/Rocks_in_My_Pockets)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
-- Rocks in My Pockets (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ARocks_in_My_Pockets.jpg) · Fair use
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
+- Rocks in My Pockets (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ARocks_in_My_Pockets.jpg) · Locandina, diritti degli autori; uso didattico

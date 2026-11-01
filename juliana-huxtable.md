@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `performance-dal-vivo` `video`
 **Tag tema:** `corpo-identita` `genere-queerness`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Artista, scrittrice, performer e DJ statunitense nata il 29 dicembre 1987, cresciuta in Texas. Cofondatrice del progetto di vita notturna newyorkese Shock Value e membro del collettivo House of Ladosha. Ha esposto in sedi come Reena Spaulings Fine Art; fa parte della Triennale del New Museum del 2015 (*Surround Audience*, come partecipante e musa) e della Biennale di Berlino del 2016 (KW Institute). Opere nelle collezioni del Guggenheim e dello Studio Museum in Harlem; nel 2019 è United States Artists Fellow.
@@ -32,6 +32,6 @@ Lavora tra poesia, performance, musica, immagine e scrittura (tra i suoi libri, 
 - [Performance Space New York — Penumbra](https://performancespacenewyork.org/shows/penumbra/)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Penumbra (1): [dis.art](https://dis.art/penumbra) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Penumbra (2): [performancespacenewyork.org](https://performancespacenewyork.org/shows/penumbra/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

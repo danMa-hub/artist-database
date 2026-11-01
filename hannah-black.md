@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `performance-dal-vivo`
 **Tag tema:** `corpo-identita` `genere-queerness`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Artista, critica e scrittrice britannica nata nel 1981 a Manchester. Pratica che spazia tra video, testo e performance, a partire da teoria femminista e afropessimista e dalla musica pop. Scrive per riviste tra cui *Artforum* e *Art in America*. Nell'anno accademico 2021/22 è guest professor alla Städelschule di Francoforte. Le fonti divergono sulla residenza (New York, Berlino, tra New York e Marsiglia).
@@ -32,6 +32,6 @@ Il lavoro intreccia scrittura e immagine in movimento; tra le sue opere performa
 - [MIT Libraries — collezione DIS](https://libraries.mit.edu/news/libraries-subscribes/33311)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Penumbra (1): [dis.art](https://dis.art/penumbra) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Penumbra (2): [performancespacenewyork.org](https://performancespacenewyork.org/shows/penumbra/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

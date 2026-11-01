@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d`
 **Tag tema:** `corpo-identita` `mondi-virtuali-simulazione`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Nato a Sapporo, Hokkaido, il 12 ottobre 1963, morto il 24 agosto 2010 a 46 anni per un tumore al pancreas. Si diploma in Graphic Design alla Musashino Art University. Regista, animatore, sceneggiatore e autore di manga, è membro della Japanese Animation Creators Association (JAniCA).
@@ -26,5 +26,5 @@ Il tema ricorrente dei suoi film, che Wikipedia indica già in *Perfect Blue* e 
 - [Wikipedia — Perfect Blue](https://en.wikipedia.org/wiki/Perfect_Blue)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
-- Perfect Blue (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3APerfectblueposter.png) · Fair use
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
+- Perfect Blue (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3APerfectblueposter.png) · Locandina, diritti degli autori; uso didattico

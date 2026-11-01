@@ -97,23 +97,23 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 **Descrizione:** serie di installazioni video, nata da un anno di ricerche con il giornalista Adrian Chen sui moderatori di contenuti di internet. Le testimonianze dei moderatori, raccolte in sei parti, sono presentate come finti tutorial di trucco; ogni video è mostrato sul retro di una scrivania da ufficio dello stesso modello usato nel centro di moderazione di Facebook a Berlino. Esistono versioni per diversi «mercati» (per esempio italiano, greco, britannico). Per realizzarla gli artisti hanno avuto accesso ai cataloghi riservati di linee guida con cui i moderatori valutano i contenuti.
 **Lettura critica:** rende visibile il lavoro invisibile della moderazione dei contenuti, travestendolo da genere di intrattenimento delle piattaforme: il tutorial di bellezza.
 
-![The Bots (Italian Market) — immagine 1](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-1.jpg)
+![The Bots — schermata da Italian Market, con Ruby McCollister](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-1.jpg)
 
-![The Bots (Italian Market) — immagine 2](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-2.jpg)
+![The Bots — scrivania dell'installazione, immagine 1](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-2.jpg)
 
-![The Bots (Italian Market) — immagine 3](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-3.jpg)
+![The Bots — scrivania dell'installazione con il video](immagini/eva-e-franco-mattes/mattes-the-bots-italian-market-3.jpg)
 
-![The Bots (Greek Market) — immagine 1](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-1.jpg)
+![The Bots — schermata da Greek Market](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-1.jpg)
 
-![The Bots (Greek Market) — immagine 2](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-2.jpg)
+![The Bots — scrivania dell'installazione, immagine 2](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-2.jpg)
 
-![The Bots (Greek Market) — immagine 3](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-3.jpg)
+![The Bots — scrivania dell'installazione, immagine 3](immagini/eva-e-franco-mattes/mattes-the-bots-greek-market-3.jpg)
 
 ### Up Next (2023)
 **Descrizione:** video-presentazione sulla storia di Sahar Tabar, ragazza iraniana diventata famosa su Instagram come «Angelina Jolie zombie» attraverso trucco e Photoshop. Presentato in prima mondiale al Frankfurter Kunstverein nella mostra *Fake Views* (14 luglio - 10 settembre 2023), poi nella personale *508 Loop Detected* (Brescia, 2024).
 **Lettura critica:** riflette sull'identità costruita per i social e sulla viralità come economia dell'attenzione.
 
-![Up Next — immagine 1](immagini/eva-e-franco-mattes/mattes-up-next-1.jpg)
+![Half Cat e Untitled (Yellow Cable Tray), 2021: veduta della mostra Fake Views, Frankfurter Kunstverein, 2023](immagini/eva-e-franco-mattes/mattes-fake-views-1.jpg)
 
 ## Interviste e talk
 - [The Art Newspaper — intervista (2020)](https://www.theartnewspaper.com/2020/05/05/eva-and-franco-mattes-technology-does-not-create-the-social-problems-we-so-often-criticise)
@@ -144,10 +144,10 @@ Il lavoro di Eva e Franco Mattes si colloca sistematicamente al confine tra vero
 Immagine e link di approfondimento per ciascuna delle otto opere, inclusi sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [0100101110101101.org](https://0100101110101101.org/).
 - [Postmasters Gallery — bio ufficiale (PDF)](http://www.postmastersart.com/BIOS/01001011.org_bio.pdf)
 - [Whitney Museum — pagina artista](https://whitney.org/artists/19027)
-- The Bots (Italian Market) (1): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Bots (Italian Market) (2): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Bots (Italian Market) (3): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Bots (Greek Market) (1): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Bots (Greek Market) (2): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Bots (Greek Market) (3): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- Up Next (1): [spikeartmagazine.com](https://spikeartmagazine.com/articles/review-eva-franco-mattes-frankfurter-kunstverein-2023) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (1): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (2): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (3): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (4): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (5): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Bots (6): [0100101110101101.org](https://0100101110101101.org/the-bots/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- *Half Cat* e *Untitled (Yellow Cable Tray)*, veduta di *Fake Views*: [spikeartmagazine.com](https://spikeartmagazine.com/articles/review-eva-franco-mattes-frankfurter-kunstverein-2023) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

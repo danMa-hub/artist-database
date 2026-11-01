@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `stop-motion` `animazione-2d` `installazione`
 **Tag tema:** `memoria-archivio`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Duo di artisti e cineasti cileni, entrambi nati nel 1980, che lavorano insieme dal 2007. Si formano all'Universidad Católica di Santiago, dove vivono e lavorano. Le fonti divergono su date e luoghi di nascita precisi.
@@ -28,6 +28,6 @@ Animatori di stop motion, le cui opere sono state mostrate anche in contesti d'a
 - [Berlinale — La casa lobo](https://berlinale.de/en/2018/programme/201814860.html)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - The Bones (Los huesos) (1): [www.labiennale.org](https://www.labiennale.org/en/cinema/2021/orizzonti/los-huesos) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Wolf House (La casa lobo) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ALa-casa-lobo-chilean-movie-poster-md.jpg) · Fair use
+- The Wolf House (La casa lobo) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ALa-casa-lobo-chilean-movie-poster-md.jpg) · Locandina, diritti degli autori; uso didattico

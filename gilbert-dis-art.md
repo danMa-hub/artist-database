@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video`
 **Tag tema:** `economia-attenzione`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); l'identità dell'autore non è nota (non è provato che sia Gilbert di Gilbert & George) · non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); l'identità dell'autore non è nota (non è provato che sia Gilbert di Gilbert & George) · non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Autore, nei crediti di dis.art, di una serie di video sul graphic design. Le fonti lo definiscono storico amatoriale del graphic design e usano il pronome *they*. Ha scritto anche il testo autobiografico «They Built World: A Boyhood in Graphic Design» (newsletter *Other Worlds*, novembre 2024). Cognome e dati biografici non risultano.
@@ -26,6 +26,6 @@ La serie è descritta da dis.art come una lettera d'amore al graphic design, non
 - [Other Worlds — They Built World](https://buttondown.com/otherworlds/archive/ow-19-they-built-world-a-boyhood-in-graphic/)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Duchamp Pisses on Graphic Design (1): [dis.art](https://dis.art/duchamp-pisses-on-graphic-design) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Neophiles versus Amnesiacs (1): [dis.art](https://dis.art/neophiles-versus-amnesiacs) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video`
 **Tag tema:** `corpo-identita` `genere-queerness`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Nato il 21 marzo 1971, regista e sceneggiatore francese. Il suo primo lungometraggio, *The Wild Boys* (2017), è stato nominato miglior film del 2018 dai *Cahiers du Cinéma*.
@@ -24,5 +24,5 @@ I suoi film si interessano al corpo e alla fluidità di genere e incorporano fot
 - [Wikipedia — Bertrand Mandico](https://en.wikipedia.org/wiki/Bertrand_Mandico)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Living Still Life (La résurrection des natures mortes) (1): [mubi.com](https://mubi.com/en/films/living-still-life) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

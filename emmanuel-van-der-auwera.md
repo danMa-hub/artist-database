@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `mondi-virtuali-simulazione` `sorveglianza-controllo`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Artista belga nato nel 1982, vive a Bruxelles. Lavora con video, scultura, stampa e teatro. È stato residente al WIELS (2012) e laureato HISK (2015).
@@ -18,7 +18,7 @@ Il suo lavoro si muove spesso nella tensione tra arte e tecnologia, tra realtà 
 
 ![The Sky Is on Fire — immagine 1](immagini/emmanuel-van-der-auwera/the-sky-is-on-fire-1.jpg)
 
-![The Sky Is on Fire — immagine 2](immagini/emmanuel-van-der-auwera/the-sky-is-on-fire-2.webp)
+![Fotogramma dal teaser del dittico The Death of K-9 Cigo e The Sky Is on Fire](immagini/emmanuel-van-der-auwera/the-sky-is-on-fire-2.webp)
 
 ![The Sky Is on Fire — immagine 3](immagini/emmanuel-van-der-auwera/the-sky-is-on-fire-3.jpg)
 
@@ -33,7 +33,7 @@ Il suo lavoro si muove spesso nella tensione tra arte e tecnologia, tra realtà 
 - [HEK Basel — Seeing is Revealing](https://hl-projects.com/viewing-room/20-seeing-is-revealing-emmanuel-van-der-auwera-hek-basel/)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - The Sky Is on Fire (1): [www.artforum.com](https://www.artforum.com/picks/emmanuel-van-der-auwera-80828) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Sky Is on Fire (2): [vimeo.com](https://vimeo.com/349657828) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- Teaser del dittico *The Death of K-9 Cigo* e *The Sky Is on Fire*: [vimeo.com](https://vimeo.com/349657828) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - The Sky Is on Fire (3): [www.argosarts.org](https://www.argosarts.org/event/argos-at-the-66th-international-short-film-festival-oberhausen) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

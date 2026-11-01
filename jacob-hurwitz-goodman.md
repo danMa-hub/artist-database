@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video`
 **Tag tema:** `economia-attenzione` `capitalismo-lavoro`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); il sito dell'autore non ha biografia ed è incerta la provenienza dei video non descritti · non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); il sito dell'autore non ha biografia ed è incerta la provenienza dei video non descritti · non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Regista di film, video musicali e documentari su tecnologia, economia, politica, intelligenza artificiale e sottoculture oscure. Ha girato in Vietnam, Ghana, Tahiti, Regno Unito e Nord America. Ha cocreato la serie web documentaria immersiva *Far Off Sounds*. Ha vinto un Emmy e un Edes Award per artisti emergenti. Ha lavorato con New York Times, DIS.art, Discovery, Atlas Obscura, BBC Reel, WIRED, NBC Left Field, WARP Records, Participant Media, Al Jazeera e ATTN.
@@ -35,5 +35,5 @@ Dal suo sito: film, video musicali e documentari su tecnologia, economia, politi
 - [jacobhg.com — contatti e biografia](https://jacobhg.com/contact/)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Beijing (1): [dis.art](https://dis.art/beijing) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

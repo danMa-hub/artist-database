@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `stop-motion` `video`
 **Tag tema:** `colonialismo-decolonialita` `corpo-identita`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Duo di registi belga con sede ad Anversa. Roels ha un percorso nel cinema dal vivo (*Mompelaar*, 2007; *A Gentle Creature*, 2010); De Swaef è specializzata in stop motion e nella progettazione di bambole in tessuto.
@@ -31,9 +31,7 @@ Lavorano in stop motion con lana e feltro; il loro film più lungo affronta in m
 
 ![The House — immagine 2](immagini/emma-de-swaef-marc-james-roels/the-house-2022-2.jpg)
 
-![The House — immagine 3](immagini/emma-de-swaef-marc-james-roels/the-house-2022-3.jpg)
-
-![The House — immagine 4](immagini/emma-de-swaef-marc-james-roels/the-house-2022-4.jpg)
+![The House — immagine 3](immagini/emma-de-swaef-marc-james-roels/the-house-2022-4.jpg)
 
 ## Fonti
 - [Wikipedia — This Magnificent Cake!](https://en.wikipedia.org/wiki/This_Magnificent_Cake!)
@@ -41,11 +39,10 @@ Lavorano in stop motion con lana e feltro; il loro film più lungo affronta in m
 - [Netflix — The House](https://about.netflix.com/news/netflix-orders-the-house-from-directors-niki-lindroth-von-bahr-emma-de-swaef-marc-james-roels-and-paloma-baeza)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - Oh Willy… (1): [www.bunka.go.jp](https://www.bunka.go.jp/j-mediaarts-festival/en/award/single/oh-willy/index.html) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Oh Willy… (2): [www.stashmedia.tv](https://www.stashmedia.tv/warm-wooly-marc-emma-release-oh-willy/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- This Magnificent Cake! (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ACe_magnifique_g%C3%A0teau.jpg) · Fair use
+- This Magnificent Cake! (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3ACe_magnifique_g%C3%A0teau.jpg) · Locandina, diritti degli autori; uso didattico
 - The House (1): [eyeondesign.aiga.org](https://eyeondesign.aiga.org/behind-the-scenes-of-the-house-netflixs-new-ode-to-stop-motion-animation/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - The House (2): [slashfilm.com](https://slashfilm.com/663068/the-house-first-look-a-stop-motion-dark-comedy-anthology-series-makes-a-home-at-netflix) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The House (3): [www.cartoonbrew.com](https://www.cartoonbrew.com/streaming/netflixs-stop-motion-project-the-house-gets-first-images-release-date-210930.html) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The House (4): [www.dragonframe.com](https://www.dragonframe.com/blog/netflixs-the-house-by-nexus-studios/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The House (3): [www.dragonframe.com](https://www.dragonframe.com/blog/netflixs-the-house-by-nexus-studios/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

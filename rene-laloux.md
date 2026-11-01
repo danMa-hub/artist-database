@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d`
 **Tag tema:** `fantascienza-speculativa` `colonialismo-decolonialita`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Nato a Parigi il 13 luglio 1929, morto ad Angoulême nel marzo 2004. Studia pittura, lavora nella pubblicità e poi in un istituto psichiatrico, dove sperimenta l'animazione con i ricoverati. Lì realizza *Les Dents du singe* (1960), prodotto con lo studio di Paul Grimault.
@@ -34,6 +34,6 @@ Il suo collaboratore principale è Roland Topor, con cui realizza *Les Temps mor
 - [Wikipedia — Gandahar](https://en.wikipedia.org/wiki/Gandahar_(film))
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
-- Fantastic Planet (La planète sauvage) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AFantastic_Planet_film_poster.jpg) · Fair use
-- Gandahar (Light Years) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AGandahar-poster.jpg) · Fair use
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
+- Fantastic Planet (La planète sauvage) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AFantastic_Planet_film_poster.jpg) · Locandina, diritti degli autori; uso didattico
+- Gandahar (Light Years) (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AGandahar-poster.jpg) · Locandina, diritti degli autori; uso didattico

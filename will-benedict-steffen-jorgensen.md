@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video` `installazione`
 **Tag tema:** `economia-attenzione` `ecologia-ambiente`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non è documentato come sono realizzati gli episodi (nessuna fonte parla di 3D o di animazione) · non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non è documentato come sono realizzati gli episodi (nessuna fonte parla di 3D o di animazione) · non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Art Center College of Design di Pasadena (1999-2004) e alla Städelschule di Francoforte (2004-2006). Tra le mostre personali: *Corruption Feeds* (Bergen Kunsthall, 2014), *The Social Democrat* (Gio Marconi, Milano, 2017), *Dialogue of the Dogs* (Centre d'Art Contemporain Genève, 2022), *Pandemonium* (performance musicale, Bourse de Commerce, Parigi, 2023), *Hello Greedy Citizens* (Balice Hertling, Parigi, 2025). Steffen Jørgensen, danese, si è diplomato alla Funen Art Academy nel 2009 e ha studiato all'Akademie der bildenden Künste di Vienna. Lavorano insieme a *The Restaurant* da circa otto anni.
@@ -28,9 +28,7 @@ Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Ar
 
 ![The Rainforest Inside Us — immagine 1](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-1.jpg)
 
-![The Rainforest Inside Us — immagine 2](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-2.jpg)
-
-![The Rainforest Inside Us — immagine 3](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-3.jpg)
+![The Restaurant, stagione 2 — dalla pagina della serie su dis.art](immagini/will-benedict-steffen-jorgensen/the-rainforest-inside-us-2.jpg)
 
 ### The Restaurant Season 2 (Den Frie, Copenaghen, 2024-2025)
 **Descrizione:** Mostra personale (5 ottobre 2024 - 19 gennaio 2025, a cura di Magnus Thorø Clausen). Il racconto è ambientato nelle rovine di un grattacielo parigino circondato dalla giungla; tra i personaggi ricorrenti: una luna malinconica, un T-rex in un bagno all'aperto, uno spaventapasseri senza diritti e un fattorino mezzo umano e mezzo lumaca.
@@ -50,7 +48,6 @@ Will Benedict è nato nel 1978 a Los Angeles e vive a Parigi. Ha studiato all'Ar
 - [Vimeo — The Restaurant [INTRO]](https://vimeo.com/250164426)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - The Rainforest Inside Us (1): [dis.art](https://dis.art/the-rainforest-inside-us) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Rainforest Inside Us (2): [dis.art](https://dis.art/series/the-restaurant) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
-- The Rainforest Inside Us (3): [denfrie.dk](https://denfrie.dk/en/exhibition/the-restaurant-season-2/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- The Restaurant, stagione 2: [dis.art](https://dis.art/series/the-restaurant) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

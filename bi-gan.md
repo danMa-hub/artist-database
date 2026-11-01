@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `video`
 **Tag tema:** `memoria-archivio` `temporalita-non-lineare`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Regista, sceneggiatore e produttore cinese nato a Kaili (Guizhou). Studia regia televisiva alla Shanxi University of Communications.
@@ -37,5 +37,5 @@ Il suo primo lungometraggio, girato nella città natale, vince il premio per il 
 - [Cinema Chinese — Bi Gan (Brigitte Duzan)](https://chinesemovies.com.fr/cineastes_Bi_Gan.htm)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
 - A Short Story (1): [www.festival-cannes.com](https://www.festival-cannes.com/en/f/po-sui-tai-yang-zhi-xin/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico

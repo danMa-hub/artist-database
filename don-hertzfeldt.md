@@ -2,7 +2,7 @@
 
 **Tag tecnica/formato:** `animazione-2d` `video`
 **Tag tema:** `corpo-identita` `memoria-archivio` `fantascienza-speculativa`
-**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini da verificare (diritti degli autori)
+**Stato:** scheda parziale, scritta a partire da fonti web (Wikipedia, siti di festival e gallerie); non ancora assegnata a un corso · immagini controllate (diritti degli autori)
 
 ## Biografia
 Nato il 1° agosto 1976, animatore, sceneggiatore e regista indipendente statunitense. Due volte candidato all'Oscar. Nove suoi cortometraggi sono stati in concorso al Sundance Film Festival (un record per il festival) ed è l'unico regista ad aver vinto due volte il Gran Premio della Giuria per il cortometraggio. Il suo ultimo film, *Paper Trail*, è stato presentato al Sundance 2026 e ha vinto il Premio speciale della giuria per la visione creativa.
@@ -41,5 +41,5 @@ Lavora in modo indipendente e artigianale. La critica ha descritto la sua opera 
 - Davide Giurlando (a cura di), *Fantasmagoria. Un secolo (e oltre) di cinema d'animazione*, Marsilio, 2017 (citato tra gli ospiti del festival Georama, saggio di Maria Roberta Novielli, PDF 78)
 
 ## Crediti delle immagini
-Immagini da verificare: provengono da pagine di festival, gallerie, siti degli artisti e piattaforme, e restano di proprietà degli autori.
-- It's Such a Beautiful Day (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AIt%27s_Such_A_Beautiful_Day_Poster.jpg) · Fair use
+Immagini controllate il 2026-11-01: provengono dalle pagine indicate (festival, gallerie, siti degli artisti, piattaforme) e restano di proprietà degli autori.
+- It's Such a Beautiful Day (1): [en.wikipedia.org](https://en.wikipedia.org/wiki/File%3AIt%27s_Such_A_Beautiful_Day_Poster.jpg) · Locandina, diritti degli autori; uso didattico
