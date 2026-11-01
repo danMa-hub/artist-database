@@ -6,7 +6,7 @@
 **Stato:** scheda avanzata · da completare con il materiale della retrospettiva «Synthetic Creatures» (MEET, Milano, 2026) · produzione di *The Catherine Wheel* da verificare (PBS o BBC)
 
 ## Biografia
-Nata nel 1953 a Detroit. BFA alla Rhode Island School of Design (RISD), dove inizia la propria pratica artistica nei primi anni '70. Lavora con il computer come medium artistico dagli anni Settanta. Al MIT entra nell'Architecture Machine Group di Nicholas Negroponte, lavora all'*Aspen Movie Map* (1978-80) e scrive una tesi sul rotoscoping al computer; passa poi sei anni e mezzo al Computer Graphics Lab del New York Institute of Technology. All'inizio degli anni Novanta lavora per due anni a Virgin Games, esperienza che descrive come difficile ([Serpentine, 2020](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)). Vincitrice del DAM Digital Art Award 2023/24 ([Beyond New Media Art](https://www.beyondnewmedia.art/texts/my-laudatory-speech-for-rebecca-allen-winner-of-the-dam-digital-art-award-2023-24/)).
+Nata nel 1953 a Detroit. BFA alla Rhode Island School of Design (RISD), dove inizia la propria pratica artistica nei primi anni '70. Lavora con il computer come medium artistico dagli anni Settanta. Al MIT entra nell'Architecture Machine Group di Nicholas Negroponte, lavora all'*Aspen Movie Map* (1978-80) e scrive una tesi sul rotoscoping al computer; passa poi sei anni e mezzo al Computer Graphics Lab del New York Institute of Technology. All'inizio degli anni Novanta lavora per due anni a Virgin Games, esperienza che descrive come difficile.[^1] Vincitrice del DAM Digital Art Award 2023/24.[^2]
 
 ## Poetica e ricerca
 Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 3D, in un'epoca in cui l'arte digitale era dominata dall'astrazione — pioniera anche del motion capture, oggi tecnica onnipresente in film e videogiochi ma allora del tutto sperimentale. La sua ricerca attraversa cinque decenni indagando costantemente lo stesso nodo: la relazione tra corpo, identità e presenza dentro mondi virtuali e forme di vita artificiale, dal primo modello femminile animato in 3D fino a domande più recenti su cosa significhi "essere" quando la materia fisica scompare.
@@ -15,13 +15,13 @@ Rebecca Allen è tra le prime artiste ad animare digitalmente il corpo umano in 
 
 ### Girl Lifts Skirt (1974)
 **Temi:** `avatar-e-corpo-virtuale`
-**Descrizione:** la sua prima animazione al computer: una donna senza volto si solleva la gonna. Disegni preparatori tradotti in coordinate animate dal software, con schede perforate ([Kunsthalle Wien](https://archiv.kunsthallewien.at/en/rebecca-allen/); [Quaranta](https://www.beyondnewmedia.art/texts/my-laudatory-speech-for-rebecca-allen-winner-of-the-dam-digital-art-award-2023-24/)).
-**Lettura critica:** per Allen è un commento sulla sessualità femminile e sull'assenza dello sguardo femminile nella tecnologia ([Kunsthalle Wien](https://archiv.kunsthallewien.at/en/rebecca-allen/)). Domenico Quaranta la legge come gesto femminista e ironico, contro l'accademia conservatrice e il mondo tecnologico maschile.
+**Descrizione:** la sua prima animazione al computer: una donna senza volto si solleva la gonna. Disegni preparatori tradotti in coordinate animate dal software, con schede perforate.[^3][^2]
+**Lettura critica:** per Allen è un commento sulla sessualità femminile e sull'assenza dello sguardo femminile nella tecnologia.[^3] Domenico Quaranta la legge come gesto femminista e ironico, contro l'accademia conservatrice e il mondo tecnologico maschile.
 
 ### Swimmer (1981)
 **Corso:** `M3D` `TAD-AVM`
 **Temi:** `avatar-e-corpo-virtuale`
-**Descrizione:** una delle prime animazioni 3D di un corpo umano in movimento, realizzata al Computer Graphics Lab del NYIT. Allen parte da un modello 3D di corpo femminile creato da Ed Catmull nel 1972 e, studiando i movimenti di una nuotatrice, riesce a farlo muovere ([Serpentine, 2020](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/); [Right Click Save, 2023](https://www.rightclicksave.com/article/rebecca-allen-and-the-birth-of-virtual-reality-interview)). Il modello non è suo: suo è il movimento.
+**Descrizione:** una delle prime animazioni 3D di un corpo umano in movimento, realizzata al Computer Graphics Lab del NYIT. Allen parte da un modello 3D di corpo femminile creato da Ed Catmull nel 1972 e, studiando i movimenti di una nuotatrice, riesce a farlo muovere.[^1][^4] Il modello non è suo: suo è il movimento.
 **Lettura critica:** apre la strada alla rappresentazione digitale del corpo in un campo allora dominato da astrazione geometrica e wireframe.
 
 ![Swimmer](immagini/rebecca-allen/swimmer.jpg)
@@ -80,13 +80,13 @@ Materiale per la didattica, aggiunto il 2026-11-01. Le voci con link sono state 
 
 ### Parole dell'artista
 - **Umanità e femminilità.** Nel pannello della retrospettiva al MEET: «Man mano che la tecnologia permeava le nostre vite, volevo infondere più umanità nella macchina (e più femminilità)» (foto del docente, 12 settembre 2026).
-- **Un mondo tecnico e maschile.** Allen descrive il computing degli anni Settanta come un mondo molto tecnico e molto maschile, e spiega di aver cercato di portare la forma femminile nella computer grafica, di infiltrarsi nella tecnologia per umanizzare il computer ([Right Click Save, 2023](https://www.rightclicksave.com/article/rebecca-allen-and-the-birth-of-virtual-reality-interview)).
-- **Sola nei laboratori.** Spesso era l'unica donna e l'unica artista. La tecnologia, dice, è ancora inventata soprattutto da uomini bianchi, e le artiste e gli artisti andrebbero coinvolti fin dall'inizio ([Serpentine, 2020](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)).
-- **Contro la VR come sola testa.** A lungo la realtà virtuale non le è piaciuta, perché privilegia la mente ed esclude il corpo ([Right Click Save, 2023](https://www.rightclicksave.com/article/rebecca-allen-and-the-birth-of-virtual-reality-interview)).
+- **Un mondo tecnico e maschile.** Allen descrive il computing degli anni Settanta come un mondo molto tecnico e molto maschile, e spiega di aver cercato di portare la forma femminile nella computer grafica, di infiltrarsi nella tecnologia per umanizzare il computer.[^4]
+- **Sola nei laboratori.** Spesso era l'unica donna e l'unica artista. La tecnologia, dice, è ancora inventata soprattutto da uomini bianchi, e le artiste e gli artisti andrebbero coinvolti fin dall'inizio.[^1]
+- **Contro la VR come sola testa.** A lungo la realtà virtuale non le è piaciuta, perché privilegia la mente ed esclude il corpo.[^4]
 
 ### Letture critiche e concetti
-- **Oltre la parola «pioniera» (Quaranta).** Nel discorso per il DAM Digital Art Award, Domenico Quaranta critica l'etichetta: conta meno la novità che il fatto che l'opera resti viva. Le ricerche di Allen seguono necessità artistiche interne, non le mode tecnologiche, e gli strumenti non esistevano: ricerca e invenzione facevano parte dell'opera ([Beyond New Media Art](https://www.beyondnewmedia.art/texts/my-laudatory-speech-for-rebecca-allen-winner-of-the-dam-digital-art-award-2023-24/)).
-- **La vita artificiale.** Allen arriva alla vita artificiale attraverso il lavoro con Craig Reynolds, con cui realizza *BEHAVE* (1987). *Emergence* comprende un motore 3D e un linguaggio di scripting che definisce il carattere di forme astratte, poi lasciate comportarsi in modo imprevedibile; un joystick a ritorno di forza trasmette l'energia del mondo virtuale ([Serpentine, 2020](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)).
+- **Oltre la parola «pioniera» (Quaranta).** Nel discorso per il DAM Digital Art Award, Domenico Quaranta critica l'etichetta: conta meno la novità che il fatto che l'opera resti viva. Le ricerche di Allen seguono necessità artistiche interne, non le mode tecnologiche, e gli strumenti non esistevano: ricerca e invenzione facevano parte dell'opera.[^2]
+- **La vita artificiale.** Allen arriva alla vita artificiale attraverso il lavoro con Craig Reynolds, con cui realizza *BEHAVE* (1987). *Emergence* comprende un motore 3D e un linguaggio di scripting che definisce il carattere di forme astratte, poi lasciate comportarsi in modo imprevedibile; un joystick a ritorno di forza trasmette l'energia del mondo virtuale.[^1]
 - **La mostra del 2026.** Il percorso del MEET divide il lavoro in quattro fasi: corpo femminile (anni Settanta), cultura pop e MTV (anni Ottanta), vita artificiale (anni Novanta), realtà virtuale e rapporto tra mente e corpo.
 
 ### Per la didattica
@@ -121,3 +121,11 @@ Immagine per ciascuna delle cinque opere, inclusa sotto la relativa descrizione 
 - [rebeccaallen.com — sito ufficiale](https://www.rebeccaallen.com/about)
 - [Wikipedia — Rebecca Allen](https://en.wikipedia.org/wiki/Rebecca_Allen_(artist)
 - *Figures Crawling*: immagine dalla pagina [www.meetcenter.it](https://www.meetcenter.it/en/figures-crawling-rebecca-allen/); diritti dei rispettivi titolari, uso didattico.
+
+[^1]: Kay Watson, «Rebecca Allen on Kraftwerk, Video Games & Artificial Life», *Serpentine Galleries*, 17 settembre 2020. [link](https://www.serpentinegalleries.org/art-and-ideas/rebecca-allen/)
+
+[^2]: Domenico Quaranta, «My laudatory speech for Rebecca Allen, winner of the DAM Digital Art Award 2023/24», *Beyond New Media Art*. [link](https://www.beyondnewmedia.art/texts/my-laudatory-speech-for-rebecca-allen-winner-of-the-dam-digital-art-award-2023-24/)
+
+[^3]: «Rebecca Allen», Kunsthalle Wien, mostra *Radical Software*. [link](https://archiv.kunsthallewien.at/en/rebecca-allen/)
+
+[^4]: Valentino Catricalà, «Rebecca Allen and the birth of virtual reality», *Right Click Save*, 28 aprile 2023. [link](https://www.rightclicksave.com/article/rebecca-allen-and-the-birth-of-virtual-reality-interview)

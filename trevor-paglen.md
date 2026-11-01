@@ -5,7 +5,7 @@
 **Stato:** testo di sala della mostra «Strange Rules» (Venezia, 2026) tra le fonti · Approfondimenti aggiunti il 2026-11-01
 
 ## Biografia
-Nato nel 1974 a Camp Springs, Maryland (USA), vive e lavora a Berlino. Formato sia come artista che come geografo (MFA all'Art Institute of Chicago, PhD in geografia, UC Berkeley), combina ricerca, giornalismo e tecnologie di imaging avanzate. MacArthur Fellowship 2017; Electronic Frontier Foundation Pioneer Award 2014 per il contributo alla contro-sorveglianza; Deutsche Börse Photography Foundation Prize 2016; LG Guggenheim Award 2026 ([paglen.studio](https://paglen.studio/bio/); [Ocula](https://ocula.com/artists/trevor-paglen/); [MacArthur Foundation](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)).
+Nato nel 1974 a Camp Springs, Maryland (USA), vive e lavora a Berlino. Formato sia come artista che come geografo (MFA all'Art Institute of Chicago, PhD in geografia, UC Berkeley), combina ricerca, giornalismo e tecnologie di imaging avanzate. MacArthur Fellowship 2017; Electronic Frontier Foundation Pioneer Award 2014 per il contributo alla contro-sorveglianza; Deutsche Börse Photography Foundation Prize 2016; LG Guggenheim Award 2026.[^1][^2][^3]
 
 ## Poetica e ricerca
 Paglen indaga i temi della segretezza, del militarismo e della politica della visibilità: le infrastrutture fisiche e planetarie di internet e del capitalismo dei dati, e i modi in cui i sistemi di machine learning ridefiniscono l'immagine e la percezione. Con la studiosa Kate Crawford ha sviluppato analisi critiche dei dataset di addestramento dell'intelligenza artificiale (*ImageNet Roulette*, *Excavating AI*). Ha scritto il saggio **"Operational Images"** (e-flux journal #59, 2014) che riprende e sviluppa il concetto di Harun Farocki — le immagini prodotte non per essere guardate ma per essere calcolate, misurate, usate per navigare o colpire un bersaglio — collegando esplicitamente la propria ricerca a quella del regista tedesco.
@@ -72,13 +72,13 @@ Paglen indaga i temi della segretezza, del militarismo e della politica della vi
 Materiale per la didattica, aggiunto il 2026-11-01. I saggi con link sono stati letti sulla fonte, salvo dove è indicato il contrario.
 
 ### Parole dell'artista
-- **«Operational Images» (2014).** Il saggio parte dalla prima visione di *Eye/Machine III* di Farocki al Pacific Film Archive: frecce animate e riquadri verdi di cui non capisce il senso. La tesi: le immagini ormai fanno cose nel mondo, guidano missili, seguono oggetti, e la funzione ha superato la visibilità. Le immagini operative sono sempre più invisibili, perché le macchine raramente ne producono una versione leggibile per le persone: da qui il compito degli artisti di continuare a esporle ([e-flux journal #59](https://www.e-flux.com/journal/59/61130/operational-images/)).
-- **«Invisible Images» (2016).** La cultura visiva si è staccata dall'occhio umano: la gran parte delle immagini è fatta da macchine per altre macchine, e un file digitale può essere elaborato senza essere mai mostrato. Lettori di targhe, telecamere nei negozi, foto sui social usate per addestrare il riconoscimento facciale. Le macchine lavorano per astrazioni matematiche, quindi concetti classici come rappresentazione e ambiguità descrivono male ciò che accade. La sintesi è una frase: «We no longer look at images—images look at us» ([The New Inquiry](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)).
+- **«Operational Images» (2014).** Il saggio parte dalla prima visione di *Eye/Machine III* di Farocki al Pacific Film Archive: frecce animate e riquadri verdi di cui non capisce il senso. La tesi: le immagini ormai fanno cose nel mondo, guidano missili, seguono oggetti, e la funzione ha superato la visibilità. Le immagini operative sono sempre più invisibili, perché le macchine raramente ne producono una versione leggibile per le persone: da qui il compito degli artisti di continuare a esporle.[^4]
+- **«Invisible Images» (2016).** La cultura visiva si è staccata dall'occhio umano: la gran parte delle immagini è fatta da macchine per altre macchine, e un file digitale può essere elaborato senza essere mai mostrato. Lettori di targhe, telecamere nei negozi, foto sui social usate per addestrare il riconoscimento facciale. Le macchine lavorano per astrazioni matematiche, quindi concetti classici come rappresentazione e ambiguità descrivono male ciò che accade. La sintesi è una frase: «We no longer look at images—images look at us».[^5]
 - **Niente contromisure facili.** Nello stesso saggio Paglen è scettico sulle tattiche visive: le immagini avversarie finiscono assorbite nei dati di addestramento futuri. Propone invece spazi deliberatamente inefficienti, fuori dalla cattura del mercato e della politica.
 
 ### Letture critiche e concetti
-- **Il limite della mostra (Burke).** Recensendo *A Study of Invisible Images*, Sarah Burke sostiene che le opere attenuano la minaccia: personificare le macchine nasconde le persone e le aziende che le costruiscono e ne traggono profitto, e il romanticismo delle immagini smorza il disagio delle spiegazioni tecniche. La domanda su chi usa questi sistemi, e perché, resta senza risposta ([Hyperallergic, 2017](https://hyperallergic.com/trevor-paglen-metro-pictures)).
-- **Il libro del 2026 (Hromack).** *How to See Like a Machine: Images After AI* (Verso, 2026) raccoglie saggi scritti in circa quindici anni. Sarah Hromack ne riconosce l'autorevolezza, ma nota che i saggi a volte si perdono nei dettagli e che alcuni esempi sono datati ([Brooklyn Rail, 2026](https://brooklynrail.org/2026/07/art_books/trevor-paglen-how-to-see-like-a-machine-images-after-ai/)).
+- **Il limite della mostra (Burke).** Recensendo *A Study of Invisible Images*, Sarah Burke sostiene che le opere attenuano la minaccia: personificare le macchine nasconde le persone e le aziende che le costruiscono e ne traggono profitto, e il romanticismo delle immagini smorza il disagio delle spiegazioni tecniche. La domanda su chi usa questi sistemi, e perché, resta senza risposta.[^6]
+- **Il libro del 2026 (Hromack).** *How to See Like a Machine: Images After AI* (Verso, 2026) raccoglie saggi scritti in circa quindici anni. Sarah Hromack ne riconosce l'autorevolezza, ma nota che i saggi a volte si perdono nei dettagli e che alcuni esempi sono datati.[^7]
 - **Il legame con Farocki.** Vedi la scheda di Farocki per la genealogia dell'immagine operativa e per il problema della complicità, che vale anche per Paglen: mostrare un'immagine non fatta per essere vista la disattiva o la rende bella?
 
 ### Per la didattica
@@ -116,3 +116,17 @@ Immagine per tre delle quattro opere, inclusa sotto la relativa descrizione in "
 - *A Study of Invisible Images*: immagine dalla pagina [artviewer.org](https://artviewer.org/?p=101674); diritti dei rispettivi titolari, uso didattico.
 - *Orbital Reflector*: foto di Steve Jurvetson from Los Altos, USA, [CC BY 2.0](https://commons.wikimedia.org/wiki/File:Trevor_Paglen%E2%80%99s_Orbital_Reflector,_a_huge_satellite_balloon_(35700576933).jpg), via Wikimedia Commons.
 - *Sight Machine*: immagine dalla pagina [www.artforum.com](https://www.artforum.com/columns/trevor-paglen-talks-about-surveillance-ai-and-his-new-work-235025/); diritti dei rispettivi titolari, uso didattico.
+
+[^1]: Biografia di Trevor Paglen, *paglen.studio*. [link](https://paglen.studio/bio/)
+
+[^2]: «Trevor Paglen», *Ocula*, scheda dell'artista. Non riletta in questa revisione. [link](https://ocula.com/artists/trevor-paglen/)
+
+[^3]: «Trevor Paglen», MacArthur Foundation, Fellows 2017. Non riletta in questa revisione. [link](https://www.macfound.org/fellows/class-of-2017/trevor-paglen)
+
+[^4]: Trevor Paglen, «Operational Images», *e-flux journal*, 59, 2014. [link](https://www.e-flux.com/journal/59/61130/operational-images/)
+
+[^5]: Trevor Paglen, «Invisible Images (Your Pictures Are Looking at You)», *The New Inquiry*, 8 dicembre 2016. [link](https://thenewinquiry.com/invisible-images-your-pictures-are-looking-at-you/)
+
+[^6]: Sarah Burke, «Trevor Paglen Peers Into the World of Computer Vision», *Hyperallergic*, 18 ottobre 2017. [link](https://hyperallergic.com/trevor-paglen-metro-pictures)
+
+[^7]: Sarah Hromack, recensione di *How to See Like a Machine: Images After AI*, *The Brooklyn Rail*, luglio-agosto 2026. [link](https://brooklynrail.org/2026/07/art_books/trevor-paglen-how-to-see-like-a-machine-images-after-ai/)
