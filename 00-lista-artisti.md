@@ -234,6 +234,11 @@ Schede parziali, scritte da fonti web: vedi la riga **Stato** di ciascuna.
 - [Cory Arcangel](cory-arcangel.md) — modifiche di videogiochi
 - [Suzanne Treister](suzanne-treister.md) — gioco su CD-ROM
 - [Keiken](keiken.md) — collettivo, videogioco e installazione
+- [Émile Reynaud](emile-reynaud.md) — teatro ottico
+- [J. Stuart Blackton](j-stuart-blackton.md) — pioniere, schizzi fulminei
+- [Winsor McCay](winsor-mccay.md) — pioniere, vaudeville
+- [Émile Cohl](emile-cohl.md) — pioniere, disegno animato
+- [Fratelli Quay](fratelli-quay.md) — stop motion
 
 ## 📋 Segnalati ma senza contenuto — da scrivere da zero
 

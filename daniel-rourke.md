@@ -13,7 +13,7 @@ Rourke lavora principalmente come scrittore e teorico più che come artista visi
 ## Opere principali
 ### The 3D Additivist Manifesto / Cookbook (2015-2016, con Morehshin Allahyari)
 **Descrizione:** manifesto video e "cookbook" open source, compendio gratuito di oltre 100 progetti di artisti, attivisti e teorici — file .obj/.stl per la stampa 3D insieme a testi critici e fittizi, template e "ricette" (im)pratiche per vivere nel proprio tempo contraddittorio. Vincitore della Vilém Flusser Residency for Artistic Research a Transmediale Berlino (2016), pubblicato come 3D-PDF gratuito. Oggi è una risorsa critica chiave nell'insegnamento di fabbricazione 3D, design speculativo e cultura digitale in fablab, università e istituzioni artistiche.
-**Lettura critica:** vedi la scheda di **Morehshin Allahyari** (già in database) per l'analisi dettagliata dei singoli progetti del Cookbook — Rourke ne è co-autore e co-curatore paritario.
+**Lettura critica:** nel Cookbook firma anche *Becoming Horror in The Plasticene*. Vedi la scheda di **Morehshin Allahyari** (già in database) per l'analisi dei singoli progetti del Cookbook — Rourke ne è co-autore e co-curatore paritario.
 
 ![The 3D Additivist Cookbook — copertina](immagini/daniel-rourke/3d-additivist-cookbook.jpg)
 

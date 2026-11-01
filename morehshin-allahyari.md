@@ -3,51 +3,59 @@
 **Tag tecnica/formato:** `stampa-3d-scultura` `ai-generativa`
 **Tag tema:** `colonialismo-decolonialita` `genere-queerness` `memoria-archivio` `lecture-performance`
 **Tag corso:** `M3D` `TAD-AVM`
-**Stato:** testo in parte generato con IA: da verificare l'anno di nascita (1985) e, contro additivism.org, l'esattezza di ogni progetto del Cookbook elencato · le sezioni *Moon-faced*, *She Who Sees the Unknown* e le opere dopo *Moon-faced* sono riscritte dal sito dell'artista; le letture critiche delle opere più vecchie restano da verificare
+**Stato:** biografia, Manifesto e Cookbook verificati il 2026-11-01 su additivism.org, sul sito dell'artista e sul testo del libro · la sezione sui jinn e le opere dopo *Moon-faced* vengono dal sito dell'artista · *She Who Sees the Unknown*: letture critiche da riverificare
 
 ## Biografia
-Artista iraniano-americana. *(Anno di nascita indicato in una fonte non verificata come 1985 — da controllare.)*
+Nata a Teheran nel 1985, di origine curda, cresce durante la guerra tra Iran e Iraq. Si trasferisce negli Stati Uniti nel 2007. Studia media alla University of Denver (master, 2009) e new media art alla University of North Texas (MFA, 2012). Artista, attivista e scrittrice con base nella Bay Area, è assistant professor di digital media art alla Stanford University ([morehshin.com](https://morehshin.com/about); [Wikipedia](https://en.wikipedia.org/wiki/Morehshin_Allahyari)).
+
+Residenze: Carnegie Mellon STUDIO for Creative Inquiry, Autodesk Pier 9, Vilém Flusser Residency con transmediale, Eyebeam, Pioneer Works, Harvestworks. Ha esposto tra l'altro al New Museum, al Whitney, al Centre Pompidou, al MoMA, al Victoria and Albert Museum e alla Biennale di Architettura di Venezia. Riconoscimenti: Foreign Policy Leading Global Thinkers (2016), Sundance New Frontier Fellowship (2019), Joan Mitchell Foundation Painters & Sculptors Grant (2019), United States Artist Fellowship (2021), Creative Capital Award (2025) ([morehshin.com](https://morehshin.com/about)). Il Whitney conserva *The Laughing Snake* ([Whitney](https://www.whitney.org/artists/19002)).
 
 ## Poetica e ricerca
-La pratica di Morehshin Allahyari si configura come una **contro-archeologia**: una metodologia di resistenza che usa gli strumenti della produzione digitale — scansione 3D, modellazione, intelligenza artificiale — per sovvertirne le logiche intrinseche di controllo e colonialità. La sua ricerca non si limita a documentare o rappresentare: è un atto di **riconfigurazione** (*re-figuring*), un intervento politico che contesta la violenza dell'archivio, la cancellazione della storia e le narrative egemoniche del tecno-capitalismo. Opera in uno spazio teorico che interseca critica postcoloniale, femminismo speculativo e materialismo digitale: per lei la tecnologia non è mai neutra, è un campo di battaglia dove il passato viene attivamente cancellato o, al contrario, radicalmente reclamato. Il suo lavoro è una forma di "rifiuto" — rifiuto della perdita, rifiuto dell'archivio occidentale come arbitro finale della storia, rifiuto di una visione utopica della tecnologia.
+Allahyari usa simulazione 3D, video, codice, scultura e fabbricazione digitale per ripensare miti e storia. Con pratiche d'archivio e narrazione costruisce contronarrazioni opposte all'influenza del colonialismo tecnologico occidentale in Medio Oriente e Nord Africa ([morehshin.com](https://morehshin.com/about)).
+
+Due concetti reggono il lavoro. **Digital colonialism**, termine coniato nel 2015 e sviluppato a Eyebeam ([Whitney](https://www.whitney.org/artists/19002)), indica la tendenza delle tecnologie dell'informazione a riprodurre rapporti di potere coloniali: scanner e stampanti 3D, usati per salvare il patrimonio mediorientale, possono portare file e diritti lontano dai luoghi d'origine. **Re-figuring** è la pratica di recuperare un passato dimenticato o travisato per immaginare un altro presente.
+
+Stampante e scanner non sono strumenti neutri, ma luoghi in cui si gioca chi possiede la memoria. Per questo il lavoro con il 3D procede insieme a testi, conferenze e organizzazione collettiva, come nell'#Additivism con Daniel Rourke.
 
 ## Opere principali
 ### Material Speculation: ISIS (2015-2016)
-**Descrizione:** ricostruzione e stampa 3D, in resina traslucida, di dodici statue (da Hatra e Ninive) distrutte da ISIS al museo di Mosul nel 2015; ogni scultura contiene al proprio interno, visibile, una scheda di memoria o chiavetta USB con tutta la ricerca (immagini, mappe, file 3D).
-**Lettura critica:** non è un atto di restauro — Allahyari non cerca di creare una copia perfetta per un museo, ma un "pacchetto dati" in-archiviabile: incorporando la scheda di memoria dentro l'oggetto fisico, crea un **data-ghost** (fantasma di dati), rendendo oggetto e dati inseparabili e rifiutando che l'artefatto venga decontestualizzato o assorbito passivamente in un archivio occidentale. Un atto di *digital disobedience* contro la **violenza d'archivio** (Derrida, Foucault) — il concetto secondo cui gli archivi non sono registri passivi ma strumenti di potere che attivamente costruiscono, classificano e quindi cancellano la storia.
+**Descrizione:** ricostruzione con modellazione e stampa 3D di dodici statue e manufatti, da Hatra (epoca romana) e da Ninive (Assiri), distrutti da ISIS nel 2015 in video diffusi su YouTube. Dentro ogni oggetto ci sono una chiavetta USB e una scheda di memoria con immagini, mappe, PDF e video sui reperti e sui siti. L'artista li descrive come capsule del tempo per civiltà future. Nel febbraio 2016 un modello, King Uthal, è stato pubblicato apertamente con Rhizome; per gli altri file cerca un museo o una piattaforma, preferibilmente in Medio Oriente ([morehshin.com](https://www.morehshin.com/material-speculation-isis)).
+**Lettura critica:** la stampa 3D è presentata come strumento di resistenza e documentazione, ma il progetto apre una domanda che guiderà *Digital Colonialism*: a chi vanno i dati di un patrimonio perduto? L'oggetto non è una copia da museo: tiene dentro di sé la propria ricerca, e la plastica ricorda il legame tra petrolio e distruzione.
 
 ![Material Speculation: ISIS — scultura in resina traslucida](immagini/morehshin-allahyari/material-speculation-isis.webp)
 
 **Approfondimento:** [morehshin.com — Material Speculation: ISIS](https://www.morehshin.com/material-speculation-isis)
 
 ### The 3D Additivist Manifesto (2015, con Daniel Rourke)
-**Descrizione:** manifesto del marzo 2015, in forma di testo e di video, scritto da Allahyari e Daniel Rourke. Parte dalla plastica della stampa 3D come metafora: derivata dal petrolio, la materia stessa porta con sé una storia complicata. Dichiara una nuova bellezza, quella dei rifiuti e dei detriti. Il manifesto apre il movimento dell'*#Additivism* (da *additive* e *activism*), che critica le tecnologie «radicali» nei fablab, nei laboratori e nelle aule e rilegge la stampante 3D come Donna Haraway ha fatto con il cyborg.
+**Corso:** `M3D`
+**Temi:** `glitch-e-errore`
+**Descrizione:** manifesto del marzo 2015, in forma di testo e di video, scritto da Allahyari e Daniel Rourke, con sound design di Andrea Young. Parte dalla plastica della stampa 3D come metafora: derivata dal petrolio, la materia stessa porta con sé una storia complicata. Dichiara una nuova bellezza, quella dei rifiuti e dei detriti. Il manifesto apre il movimento dell'*#Additivism* (da *additive* e *activism*), che critica le tecnologie «radicali» nei fablab, nei laboratori e nelle aule e rilegge la stampante 3D come Donna Haraway ha fatto con il cyborg.
 
 **Video:** [The 3D Additivist Manifesto (Vimeo)](https://vimeo.com/122642166)
 
 **Approfondimento:** [additivism.org — Manifesto](https://additivism.org/manifesto)
 
-### The 3D Additivist Cookbook (2016-2017, a cura di Allahyari e Rourke)
-**Descrizione:** il *Cookbook* è l'insieme delle «ricette» (un libro di contributi nato da una open call) che invita artisti e attivisti a spingere la stampa 3D oltre il suo "hype utopico e la sua critica distopica" — una raccolta di contributi che esplorano il potenziale sovversivo, critico e "strano" della stampa 3D in ambiti come critica politica e sociale, sovversione e attivismo, speculazione ed estetica, mutazione corporea e postumanesimo. Tra i progetti raccolti nel Cookbook:
-  - **NefertitiHack** (Nora Al-Badri e Nikolai Nelles) — scansione "clandestina" del busto di Nefertiti al Neues Museum di Berlino, dati rilasciati pubblicamente: atto di "pirateria museale" sul colonialismo e la proprietà culturale.
-  - **The Free Universal Construction Kit** (Golan Levin e Shawn Sims) — 80 file .stl per collegare tra loro 10 diversi sistemi di costruzioni per bambini (LEGO, Duplo, K'Nex, Tinkertoys), un hack che promuove l'interoperabilità e il "fair use".
-  - **The Fellatio Modification Project** (Kuang-Yi Ku) — protesi stampabili in 3D per aumentare il piacere sessuale, al confine tra potenziamento medico, modificazione corporea e tecnologia sessuale.
-  - **Liberator Variations** (vari artisti) — variazioni sulla "Liberator" (prima pistola funzionante interamente stampata in 3D), che ne esplorano criticamente o poeticamente le implicazioni.
-  - **The Evolution of the Spermalege** (Joey Holder) — organi sessuali interspecie stampabili in 3D, ispirati a una struttura riproduttiva traumatica di alcuni insetti: esplorazione postumana dell'evoluzione e della biologia sintetica.
-  - **Tactical Cans** (Scott Kildall) — adattatore stampabile che collega una bomboletta spray a un bastone estensibile, per graffiti/attivismo in luoghi alti — "oggetti utili alla promozione della protesta e del disordine".
-  - **P-ARK** (Wei-Chieh Tseng e Jing-Yao Chen) — droni acquatici che raccolgono plastica oceanica e la usano per stampare in 3D "arche" galleggianti, nuovi habitat per la vita marina — trasforma il rifiuto ("Plasticene") in culla per la vita ("Cthulucene").
-  - **Voxel-PoP** (Antonia Coterill) — software progettato per corrompere deliberatamente i file 3D, introducendo errori e glitch come forza creativa, non come difetto.
-  - **Ex-sist** (Cathrine Disney) — bio-pirateria con kit DNA casalingo per mappare la topografia della propria pelle (batteri inclusi) e stamparla in 3D come "esoscheletro".
-  - **A Cryptoporn and Bio-hacking Tool-Kit** (Mary Maggic) — strumentazione da laboratorio stampabile (pipette, piastre di Petri) per esperimenti ormonali "fai-da-te" fuori dalle istituzioni mediche: "disobbedienza estrogenica".
-  - **URME Recipes: Cooking with Privilege** (Leo Selvaggio) — maschere 3D iperrealistiche del volto dell'artista, messe in vendita per permettere a chiunque di confondere i sistemi di riconoscimento facciale.
-  - **Occupy Gramercy** (anonimo) — file 3D per stampare una copia della chiave che apre i cancelli di Gramercy Park (parco privato a New York): atto di "occupazione" digitale.
-  - **An Archaeology of #Additivism** (Daniel Rourke e Morehshin Allahyari) — saggio teorico introduttivo del libro, sulle origini filosofiche, politiche e artistiche del movimento Additivista.
+### The 3D Additivist Cookbook (2016, a cura di Allahyari e Rourke)
+**Corso:** `M3D`
+**Temi:** `patrimonio-e-scansione` `copia-e-autenticita` `glitch-e-errore`
+**Descrizione:** raccolta gratuita di opere di oltre 100 artisti, attivisti e teorici, nata dall'invito del Manifesto e pubblicata nel dicembre 2016 come PDF 3D dall'Institute of Network Cultures di Amsterdam, dopo la Vilém Flusser Residency a transmediale. Contiene file 3D, testi critici e di finzione, template e «ricette». Non ha capitoli: si attraversa con tag di formato, tema e azione. Due sezioni sono curate da Browntourage e A Parede. Licenza Creative Commons BY-NC-SA 4.0 ([additivism.org](https://additivism.org/cookbook)).
 
-**Lettura critica:** l'"Additivismo" è una critica diretta al **soluzionismo tecnologico** (la convinzione neoliberista che ogni problema sociale complesso possa essere risolto con un'app o una nuova tecnologia): Allahyari e Rourke propongono di usare la stampa 3D per "la speculazione, la provocazione e la stranezza", vedendo il potenziale della stampante 3D non come strumento di consumo ma come dispositivo per la mutazione e l'intervento politico radicale.
+Alcuni contributi, verificati sul testo del libro:
+  - **NefertitiHack** (Nora Al-Badri e Jan Nikolai Nelles, 2016): una scansione segreta del busto di Nefertiti resa pubblica, per criticare il possesso coloniale.
+  - **Free Universal Construction Kit** (Golan Levin e Shawn Sims, 2012): adattatori stampabili che rendono compatibili dieci sistemi di costruzioni per bambini.
+  - **Liberator Variations** (Kyle McDonald, 2013): variazioni assurde sul file della pistola stampata in 3D.
+  - **The Evolution of the Spermalege** (Joey Holder): organi sessuali interspecie modellati sui genitali degli insetti.
+  - **URME Recipes: Cooking with Privilege** (Leo Selvaggio, 2016): l'identità dell'artista come materiale da opporre al potere tecnologico.
+  - **Occupy Gramercy** (Anonymous, 2016-2017): modello 3D di una chiave del parco privato di New York.
+  - **On Preserving Glitch** (Sophie Kahn, 2016): i difetti dei file esposti invece di essere riparati.
+  - **The Universal Addressability of Dumb Things** (Mark Leckey, 2013); **3D Print Simulator** (Alan Warburton, 2015); **How Not to Be Read** (Rosa Menkman, 2016).
+  - **Material Speculation: ISIS** (Allahyari con Paul Soulellis).
+
+**Lettura critica:** il libro sposta la stampa 3D dal soluzionismo alla speculazione. La ricetta, che si può seguire, modificare e tramandare, è il suo modello: anche un progetto irrealizzabile conta.
 
 ![The 3D Additivist Cookbook — copertina](immagini/morehshin-allahyari/additivist-cookbook.jpg)
 
-**Approfondimento:** [additivism.org — Cookbook](https://additivism.org/cookbook); [additivism.org](https://additivism.org/)
+**Approfondimento:** [additivism.org — Cookbook](https://additivism.org/cookbook); [testo su archive.org](https://archive.org/details/The3DAdditivistCookbook)
 
 ### She Who Sees the Unknown (2016-2021)
 **Descrizione:** progetto di ricerca a lungo termine iniziato nell'ottobre 2016 durante una residenza a Eyebeam, a New York. Con modellazione 3D, scansione 3D, stampa 3D e narrazione ricrea figure mostruose femminili e queer di origine mediorientale (i jinn), usando le tradizioni e i miti che le accompagnano per esplorare le catastrofi del colonialismo, del patriarcato e del degrado ambientale in relazione al Medio Oriente. Allahyari chiama *Re-Figuring* la pratica che ha sviluppato: un atto di attivazione e di conservazione, di recupero di un passato dimenticato o travisato per immaginare un altro presente e un altro futuro. Il progetto comprende installazioni, video, un'esperienza di realtà virtuale, una *Reading Room* (installazione con libri, articoli e immagini, 2016-in corso), eventi pubblici come la performance-lecture *Breaching Towards Other Futures* (The Floating University, Berlino, 2018) e un archivio consultabile online.
