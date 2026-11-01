@@ -70,6 +70,15 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 
 **Approfondimento:** [sadiecoles.com — La Gola](https://www.sadiecoles.com/artworks/diego-marcon/la-gola)
 
+### Krapfen (2025)
+**Descrizione:** video digitale a colori con suono, in loop, di 4 minuti e 44 secondi: un'opera musicale che unisce l'animazione americana dell'età dell'oro e l'opera italiana. Un ragazzino di genere ambiguo (interpretato da Violet Savage) è circondato da quattro capi di abbigliamento — guanti, sciarpa, pantaloni e maglione — che lo incalzano a mangiare un krapfen in una coreografia frenetica, su una partitura di Federico Chiari. L'ambientazione infantile ha un'atmosfera inquietante: il dolce diventa il dispositivo per evocare terrore e annientamento. Presentata alla Fondazione Sandretto Re Rebaudengo di Torino dal 15 aprile 2026 (le fonti indicano la chiusura il 26 luglio o il 2 agosto 2026) e già alla Renaissance Society di Chicago (2025). È la prima opera prodotta con il New Futures Production Fund, collaborazione tra la Fondazione e il New Museum di New York; prodotta con Lafayette Anticipations, New Museum, The Renaissance Society e The Vega Foundation, con il sostegno di Sadie Coles HQ e Galerie Buchholz.
+**Lettura critica:** da aggiungere: non ho trovato letture critiche indipendenti, solo i testi di galleria e istituzione.
+**Approfondimento:** [sadiecoles.com — Krapfen](https://www.sadiecoles.com/exhibitions/krapfen-2) · [Renaissance Society — Krapfen](https://renaissancesociety.org/exhibitions/560/diego-marcon-krapfen/)
+
+![Krapfen — fotogramma](immagini/diego-marcon/krapfen-1.jpg)
+
+![Krapfen — veduta della mostra alla Fondazione Sandretto Re Rebaudengo](immagini/diego-marcon/krapfen-2.jpg)
+
 ## Interviste e talk
 - _Nessuna ancora: da aggiungere._
 
@@ -83,6 +92,8 @@ Myriam Ben Salah, direttrice esecutiva e capo curatrice della Renaissance Societ
 - [Frieze — Lou Stoppard, "Diego Marcon's Films Conjure a Familiar, Grotesque World"](https://www.frieze.com/article/diego-marcon-lou-stoppard-250)
 - [ArtReview — "Diego Marcon's Hollow People"](https://artreview.com/diego-marcons-hollow-people/)
 - [Mousse Magazine — su La Miserabile, Triennale di Milano](https://www.moussemagazine.it/magazine/diego-marcon-la-miserabile-la-triennale-di-milano-milan-2018/)
+- [Sadie Coles HQ — Krapfen](https://www.sadiecoles.com/exhibitions/krapfen-2)
+- [Finestre sull'Arte — Fondazione Sandretto Re Rebaudengo, quattro mostre](https://www.finestresullarte.info/mostre/fondazione-sandretto-re-rebaudengo-inaugura-quattro-mostre-sperimentazione-artistica)
 - [The Renaissance Society, Chicago — Krapfen (2025)](https://renaissancesociety.org/exhibitions/560/diego-marcon-krapfen/)
 
 ## Crediti delle immagini
@@ -92,3 +103,5 @@ Immagine e link di approfondimento per quattro delle cinque opere, incluse sotto
 - Ludwig (1): [khio.no](https://khio.no/en/events/1364) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Monelle (1): [courtisane.be](https://courtisane.be/en/film/monelle-0) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
 - Monelle (2): [www.schermodellarte.org](https://www.schermodellarte.org/en/film/monelle/) · Immagine promozionale / fotogramma ufficiale, diritti degli autori; uso didattico
+- Krapfen (1): [sadiecoles.com](https://www.sadiecoles.com/news/diego-marcon-krapfen-2) · fotogramma ufficiale, diritti dell'artista e di Sadie Coles HQ; da verificare
+- Krapfen (2): [sadiecoles.com](https://www.sadiecoles.com/exhibitions/krapfen-2) · veduta di mostra, diritti dei fotografi e di Sadie Coles HQ; da verificare
