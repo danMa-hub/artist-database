@@ -91,7 +91,19 @@ Atkins lavora con avatar CGI ad altissima definizione — "surrogati" digitali �
 ⚠️ Nessuna immagine trovata: le fonti individuate (Mimic Productions, Gladstone Gallery, Instagram/Facebook) non espongono immagini dirette scaricabili automaticamente.
 
 ## Approfondimenti
-Materiale per la didattica, dal documento di riferimento originale (REF su Drive). **Attenzione sull'origine:** quel documento è in gran parte un testo compilato da AI (i link riportano parametri di tracciamento da chatbot) e le frasi attribuite all'artista non hanno una fonte primaria indicata. Vanno quindi controllate prima di citarle in classe.
+Materiale per la didattica. Le prime due sezioni, aggiunte il 2026-11-01, sono state lette sulle fonti. Il resto viene dal documento di riferimento originale (REF su Drive), in gran parte compilato da AI: i link riportano parametri di tracciamento da chatbot e le frasi attribuite all'artista non hanno una fonte primaria indicata. Vanno quindi controllate prima di citarle in classe.
+
+### Parole dell'artista
+Dalla conversazione via email con Mitch Speed ([Art Basel](https://www.artbasel.com/news/ed-atkins-avatars-animations-experimental-writing)):
+- **Vasi vuoti.** Gli avatar sono per lui sostituti di sé, modelli comprati su TurboSquid perché più articolati, pensati per il maggior numero di utenti: li personalizza e li indossa come maschere. Dice di aver preso a detestare l'idea di animarli con personaggi, moventi e storie.
+- **I video come corpi morti.** Ha parlato dei video come corpi completi, come una sensualità resa digitale, e come corpi morti, pesanti e maleodoranti in senso figurato; da qui il tumore del testo *A Tumour* (2010).
+- **Una richiesta di empatia.** Vuole che chi guarda provi qualcosa, probabilmente ciò che prova lui: lo chiama una richiesta di empatia.
+- **Le fonti.** Burroughs, Sade, Lautréamont, Leiris, Hilda Hilst, Sorrentino, Barthelme e soprattutto Beckett.
+
+### Letture critiche
+- **Maschere mortuarie (Caldas).** Sulla mostra alla Tate Britain, Julieta Caldas legge gli avatar come maschere mortuarie, registrazioni di movimento umano chiuse in un presente che si ripete. L'opera interrompe di continuo la propria illusione; lo stesso Atkins scrive di volere che tutto ciò che fa si inceppi come un attore che ride in scena (*corpse*). Caldas critica però i testi di sala, che indicano già come reagire ([New Left Review, Sidecar, 2025](https://newleftreview.org/sidecar/posts/death-masks)).
+- **La svolta confessionale (Kurtz).** Michael Kurtz vede un passaggio dall'alienazione digitale a un modo confessionale, centrato su famiglia e amore, e lo lega allo «stile dell'immediatezza» di Anna Kornbluh. Trova i lavori più recenti solipsistici; salva *The Worm*, dove la figura digitale fredda e la telefonata calda mantengono una distanza ([e-flux, 2025](https://www.e-flux.com/criticism/666807/ed-atkins)).
+- **Da leggere.** [Hal Foster su *The Worm*, Artforum](https://www.artforum.com/features/hal-foster-on-ed-atkinss-the-worm-2021-250660/): non è stato possibile aprirlo da qui.
 
 ### Parole attribuite all'artista *(origine AI, da verificare)*
 - Il volto: «Mappo il movimento del mio volto su quello del modello CGI: è il mio volto che si contorce, recitando dietro questa maschera immateriale.»
@@ -107,7 +119,8 @@ Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.yo
 - **Malinconia e perdita.** Titolo e temi: insufficienza, fallimento, il passaggio tra esperienza corporea e senso «intangibile e sentimentale» di perdita.
 
 ### Per la didattica
-- *A Primer for Cadavers* (libro di testi dell'artista, citato nel REF come chiave: l'avatar come «cadavere» perfetto ma morto): da verificare titolo e anno su una fonte editoriale.
+- *A Primer for Cadavers* (Fitzcarraldo Editions, 2016), raccolta di testi dell'artista: comprende *A Tumour* e usa la maschera mortuaria come motivo. Il REF lo indica come chiave per leggere l'avatar come «cadavere».
+- Discussione da Kurtz e Caldas: la sincerità degli ultimi lavori è un passo avanti o un modo di evitare la critica?
 - Video segnati nel REF: [Safe Conduct (Hirshhorn, 2017)](https://www.youtube.com/watch?v=eUgU0dziZG4); [Us Dead Talk Love](https://www.youtube.com/watch?v=yVMN0Y6rM-0); [Ed Atkins: Get Life / Love's Work](https://www.youtube.com/watch?v=Kty-OFt0hX4).
 - Confronto con Cheng e Claerbout sul rapporto tra superficie perfetta e vuoto: l'avatar come corpo che fallisce nel catturare la vita.
 
@@ -122,7 +135,9 @@ Fonte da riascoltare: [Ed Atkins Interview: Something is Missing](https://www.yo
 - [Wikipedia — Ed Atkins](https://en.wikipedia.org/wiki/Ed_Atkins)
 - [Gladstone Gallery — biografia](https://www.gladstonegallery.com/cn/artist/ed-atkins/biography)
 - [The Guardian — recensione Tate Britain, 2025](https://www.theguardian.com/artanddesign/2025/apr/06/ed-atkins-tate-britain-review)
-- [e-flux — criticism](https://www.e-flux.com/criticism/666807/ed-atkins)
+- [e-flux — Michael Kurtz sulla mostra alla Tate Britain (2025)](https://www.e-flux.com/criticism/666807/ed-atkins)
+- [New Left Review, Sidecar — Julieta Caldas, «Death Masks» (2025)](https://newleftreview.org/sidecar/posts/death-masks)
+- [Art Basel — conversazione con Mitch Speed](https://www.artbasel.com/news/ed-atkins-avatars-animations-experimental-writing)
 - [Dazed Digital — 58 Ed Atkins](https://www.dazeddigital.com/projects/article/22541/1/58-ed-atkins)
 - [SSENSE — I Am Not an Authority on Who I Am](https://www.ssense.com/en-us/editorial/art/i-am-not-an-authority-on-who-i-am)
 - [Kunstsammlung Düsseldorf — Old Food](https://www.kunstsammlung.de/en/exhibitions-archive/ed-atkins-ye-olde-food-en)
