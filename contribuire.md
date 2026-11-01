@@ -133,6 +133,12 @@ Ogni scheda può avere una sezione `## Mostre viste`, con una voce per mostra ne
 
 Il «visto da» è facoltativo; se manca, la mostra compare comunque. Tutte le mostre di tutte le schede sono raccolte nella pagina [Mostre viste](mostre.html).
 
+## Artisti in evidenza
+
+Nella home, sopra l'elenco completo, compaiono gli artisti **dell'archivio iniziale**: quelli presenti nella raccolta di riferimenti da cui il database è nato (l'indice dei REF su Drive e le schede migrate da lì). Il criterio è volutamente semplice e verificabile dall'esterno: non dice chi è più bravo o più importante, ma chi c'era dall'inizio.
+
+L'elenco è nel file `scripts/rilievo.txt`, uno slug per riga. Per aggiungere o togliere un artista si modifica quel file.
+
 ## Immagine di anteprima
 
 Nell'elenco degli artisti ogni scheda è mostrata con un'immagine. Per impostazione predefinita è la prima immagine della sezione «Opere principali». Per sceglierne un'altra, aggiungere sotto i tag una riga:

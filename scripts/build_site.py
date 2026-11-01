@@ -399,6 +399,27 @@ else:
     righe_mostre.append("Nessuna mostra segnalata per ora.")
 (ROOT / "mostre.md").write_text("\n".join(righe_mostre) + "\n", encoding="utf-8")
 
+_rilievo = Path(__file__).parent / "rilievo.txt"
+SLUG_RILIEVO = [
+    r.strip() for r in _rilievo.read_text(encoding="utf-8").splitlines()
+    if r.strip() and not r.startswith("#")
+] if _rilievo.exists() else []
+in_evidenza = sorted((s for s in schede if s["slug"] in SLUG_RILIEVO), key=lambda x: x["nome"].lower())
+card_evidenza = "\n".join(scheda_card(s) for s in in_evidenza)
+blocco_evidenza = f"""<div id="evidenza">
+
+## In evidenza
+
+{len(in_evidenza)} artisti dell'archivio iniziale: sono quelli da cui il database è partito, raccolti come riferimenti per i corsi prima di tutti gli altri. Le loro schede vengono riviste per prime.
+
+<div class="grid">
+{card_evidenza}
+</div>
+
+## Tutti gli artisti
+
+</div>
+""" if in_evidenza else ""
 card = "\n".join(scheda_card(s) for s in sorted(schede, key=lambda x: x["nome"].lower()))
 index = f"""---
 title: Artist Database
@@ -412,6 +433,7 @@ title: Artist Database
 
 [Informazioni sul progetto](informazioni.html) · Per corso: [TAD-DCV](tag/tad-dcv.html), [TAD-AVM](tag/tad-avm.html), [AW](tag/aw.html), [M3D](tag/m3d.html) · [Tutti i tag](tag/index.html) · [Mostre viste](mostre.html) · [Vocabolario dei tag](tags.html) · [Come contribuire](contribuire.html)
 
+{blocco_evidenza}
 <input id="cerca" type="search" placeholder="Cerca un artista o un tag" class="cerca">
 
 <div class="grid" id="elenco">
@@ -424,6 +446,8 @@ document.getElementById('cerca').addEventListener('input', function (e) {{
   document.querySelectorAll('#elenco .card').forEach(function (c) {{
     c.style.display = c.dataset.s.indexOf(q) === -1 ? 'none' : '';
   }});
+  var ev = document.getElementById('evidenza');
+  if (ev) ev.style.display = q ? 'none' : '';
 }});
 </script>
 """
