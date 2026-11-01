@@ -20,6 +20,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 **Video:** [Party on the CAPS — trailer, IFFR 2019 (YouTube)](https://www.youtube.com/watch?v=v3nPMddau00) · [talk sulla genesi dell'opera, con trailer lungo (YouTube, da 15:30)](https://www.youtube.com/watch?v=UzArB94HzpI&t=3315s)
 
 ![Party on the CAPS, veduta d'installazione con schermi e neon](immagini/meriem-bennani/party-on-the-caps-01.png)
+![CAPS, veduta d'installazione con le pareti di proiezione: a sinistra Fiona, il coccodrillo](immagini/meriem-bennani/bennani-caps-trilogy.jpg)
 
 ### Mission Teens
 **Corso:** `TAD-AVM`
@@ -75,6 +76,7 @@ Bennani lavora tra video, scultura, installazione multimediale, disegno e social
 
 ## Crediti delle immagini
 Immagine per ciascuna delle quattro opere principali, inclusa sotto la relativa descrizione in "Opere principali", da e-flux e atpdiary.com (per le due opere aggiunte in questa sessione).
+- Seconda immagine di *Party on the CAPS*: veduta d'installazione riconosciuta da Daniele Maffeis; sede, anno e autore della foto [verificare].
 - [Wikipedia — Meriem Bennani](https://en.wikipedia.org/wiki/Meriem_Bennani)
 - [Whitney Museum — profilo artista](https://whitney.org/artists/18525)
 - [Art21 — profilo artista](https://art21.org/artist/meriem-bennani/)
