@@ -106,6 +106,25 @@ Ogni scheda deve poter essere ricondotta a qualcosa di verificabile — mai inve
 - Se un testo pre-esistente (es. da Drive) ha un'origine incerta o sembra generato da un'AI precedente senza controllo su fonti primarie, va segnalato esplicitamente come non verificato (vedi schede già migrate per un esempio), non ripulito silenziosamente.
 - **Collegamenti teorici/filosofici** (es. "l'opera di X richiama Heidegger/Foucault/Kant..."): va sempre citata la fonte che ha fatto quel collegamento — un'intervista, un saggio critico, una dichiarazione dell'artista. Il linguaggio tecnico/filosofico va benissimo nella parte "Poetica e ricerca" (è il registro dei programmi dei corsi), ma **non deve essere un'elaborazione teorica generata dall'AI senza aggancio a una fonte reale**: il rischio è che la connessione risulti suggestiva ma infondata. Se non si trova la fonte del collegamento, va tolto o segnalato esplicitamente come non verificato — mai lasciato come se fosse un fatto critico consolidato.
 
+## Regola: citazioni in nota, come su Wikipedia
+
+Ogni fatto puntuale (data, sede, attribuzione, tesi di un critico, parole dell'artista) ha una nota che dice da dove viene. Nel testo resta solo un numero piccolo, che non occupa spazio; sul sito le note compaiono in fondo alla pagina.
+
+```md
+Nato nel 1981 a Montréal.[^1] Rafman ha definito «romantici» i primi lavori.[^2]
+
+[^1]: Sprüth Magers, pagina dell'artista. [link](https://...)
+
+[^2]: Saelan Twerdy, «This Is Where It Ends», *Momus*, 9 luglio 2015. [link](https://...)
+```
+
+- Il segno `[^1]` va subito dopo la punteggiatura. La stessa fonte riusa lo stesso numero.
+- Le definizioni stanno alla fine del file, dopo «Crediti delle immagini», separate da una riga vuota. Il sito numera le note da solo, nell'ordine in cui compaiono.
+- Formato della nota: autore, «titolo», testata, data, poi `[link](url)`. Se la fonte è stata letta solo in parte si dice: «letto solo l'abstract».
+- Si cita solo ciò che è stato aperto davvero. Senza una fonte letta la frase resta segnata con `[verificare]`, o si toglie.
+- Non serve una nota su ogni frase, né sulle domande e gli spunti per la didattica. Le righe `**Video:**` e `**Approfondimento:**` restano come sono.
+- `## Fonti` resta: elenca le fonti principali della scheda.
+
 ## Regola fondamentale: verifica sostanziale, non opportunistica
 
 Ogni scheda va sottoposta a un controllo puntuale di **tutte** le affermazioni fattuali (titoli, anni, medium, dove/come un'opera è stata esposta, cosa mostra concretamente) tramite ricerca diretta — non solo quando capita di trovare un'immagine o un dettaglio che insospettisce. Il caso di Meriem Bennani (*Windy* descritta come "un video con un personaggio animato", quando è in realtà una scultura cinetica sulla High Line) è l'esempio di un errore che sarebbe potuto restare invisibile per sempre senza un controllo esplicito. Quindi:

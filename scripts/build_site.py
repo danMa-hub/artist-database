@@ -180,9 +180,11 @@ def sotto_opere(righe):
 
 def sezioni_comprimibili(righe):
     """Avvolge ogni sezione '## ' in <details>: aperte poetica e opere, le altre chiuse."""
-    uscita, aperta = [], False
+    uscita, aperta, note = [], False, []
     for riga in righe:
-        if riga.startswith("## "):
+        if re.match(r"\[\^\w+\]:", riga):  # le note restano fuori dalle sezioni: Jekyll le mette in fondo alla pagina
+            note.append(riga)
+        elif riga.startswith("## "):
             if aperta:
                 uscita += ["", "</details>", ""]
             titolo = riga[3:].strip()
@@ -195,6 +197,8 @@ def sezioni_comprimibili(righe):
             uscita.append(riga)
     if aperta:
         uscita += ["", "</details>", ""]
+    for nota in note:
+        uscita += [nota, ""]
     return uscita
 
 
