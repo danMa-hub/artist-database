@@ -3,82 +3,117 @@
 **Tag tecnica/formato:** `modellazione-3d` `motion-capture` `performance-dal-vivo` `game-engine-realtime`
 **Tag tema:** `corpo-identita` `genere-queerness` `memoria-archivio`
 **Tag corso:** `AW`
-**Stato:** da verificare: la data della morte di Patricia Satterwhite · non risulta nessuna partecipazione alla Biennale di Venezia 2022
+**Stato:** rivista il 2026-11-01 su galleria, musei e testi citati · tolta la presunta partecipazione alla Biennale di Venezia 2024: il suo nome non è nell'elenco degli artisti · da verificare: anno di acquisizione di *Country Ball* e parti di *Reifying Desire 7 – Dawn*
 
 ## Biografia
-Nato nel 1986 a Columbia, South Carolina, dove cresce. Consegue un BFA al Maryland Institute College of Art (MICA) di Baltimora e un MFA alla University of Pennsylvania di Philadelphia. Vive e lavora a Brooklyn, New York. La madre, Patricia Satterwhite, vive con la schizofrenia; nel corso di decenni realizza disegni e schemi di prodotti domestici immaginari (salviette umidificate, zollette di zucchero, spazzolini) e registra centinaia di canzoni a cappella su musicassette — con l'aggravarsi della malattia, i suoi disegni si spostano da rappresentazioni funzionali e realistiche verso gesti più astratti e poetici. Jacolby usa questi disegni come modelli per oggetti modellati in 3D nelle proprie animazioni, e (insieme al musicista Nick Weiss dei Teengirl Fantasy, nel duo "PAT") remixa le registrazioni vocali a cappella della madre in tracce dance elettroniche. Patricia Satterwhite muore nel 2016 (data esatta da verificare). Riconoscimenti: United States Artists Fellowship (2016); artista in residenza allo Studio Museum in Harlem (2020-21). Rappresentato dalla galleria Mitchell-Innes & Nash (New York) dal 2018, e da Morán Morán (Los Angeles).
+Nato nel 1986 a Columbia, South Carolina. BFA al Maryland Institute College of Art di Baltimora (2008), MFA alla University of Pennsylvania (2010). Vive e lavora a Brooklyn ([Mitchell-Innes & Nash](https://www.miandn.com/artists/jacolby-satterwhite); [EAI](https://www.eai.org/artists/jacolby-satterwhite/biography)). Da bambino gli viene diagnosticato un cancro alle ossa, a dieci anni secondo *frieze*, a undici secondo Wikipedia, che gli lascia una mobilità limitata al braccio destro ([Godwin, 2022](https://brooklynrail.org/2023/12/artseen/Jacolby-Satterwhite-A-Feeling-of-Healing)).
+
+La madre, Patricia Satterwhite, ha convissuto con la schizofrenia; ha prodotto un archivio di disegni, schemi di prodotti domestici immaginari e centinaia di canzoni a cappella registrate su cassetta negli anni Novanta. Il figlio definisce questa pratica un rituale di cura di sé, nato quando lei non poteva accedere a cure adeguate ([Reid, *The Nation*, 2019](https://www.thenation.com/article/archive/jacolby-satterwhite-pionner-works-profile/tnamp/)). Patricia muore nell'agosto 2016, a 66 anni ([*Out*, marzo 2017](https://www.out.com/out-exclusives/2017/3/10/jacolby-satterwhite-evokes-queer-spaces-every-kind-epic-tribute-album-his-late-mother)). Con il musicista Nick Weiss, dei Teengirl Fantasy, Jacolby forma nel 2016 il gruppo PAT, che rielabora quelle registrazioni.
+
+Riconoscimenti: United States Artists Fellowship (2016); residenza allo Studio Museum in Harlem (2020-21 per la galleria, 2021-22 per EAI). Rappresentato da Mitchell-Innes & Nash e Morán Morán. Personali alla Haus der Kunst di Monaco (2022), al Blaffer Art Museum di Houston (2023); collettive alla Biennale del Whitney (2014), a *New Order* al MoMA (2019), alla Biennale di Gwangju (2021). Nelle collezioni di MoMA, Whitney, Studio Museum in Harlem e Kiasma.
 
 ## Poetica e ricerca
-Il metodo centrale di Satterwhite è la performance in motion capture e green screen del proprio corpo (e di amici e collaboratori), spesso attingendo al vocabolario del vogueing e della cultura ballroom, alle arti marziali e alla tecnica del coreografo William Forsythe, trasposta in paesaggi 3D fantastici popolati da avatar — a volte descritti come forme "femme-bot nere". Ha definito lo Spectrum, storico club queer di Brooklyn oggi chiuso, centrale per la cultura ballroom/vogue newyorkese, "il Cedar Tavern della mia generazione" — un'affermazione diretta sulla cultura dei club queer come proprio milieu storico-artistico, in analogia con il celebre bar newyorkese ritrovo degli espressionisti astratti. La critica Eva Díaz, su *Artforum* (2013), osserva come Satterwhite, nel proprio ruolo di artista, riesca a "organizzare e rienergizzare i rituali di produzione di immagini terapeutiche" della madre, invitando il pubblico a un coinvolgimento con una pratica creativa nata come intimamente privata. Il critico Michael Bullock, su *frieze* (2019), descrive i film di Satterwhite come popolati da "paesaggi onirici celesti e a gravità zero" con "corpi intrecciati di attori porno, musicisti e ballerini, come un dipinto di Hieronymus Bosch reso in Final Fantasy", e accosta il suo progetto multimediale (film/scultura/album/merchandise) a un ibrido tra il *Cremaster Cycle* di Matthew Barney (1994-2002) e *Lemonade* di Beyoncé (2016). La galleria Mitchell-Innes & Nash descrive la sua pratica complessiva come concettuale, dedicata a "rituale, fantasia, libertà e costruzione di mondi attraverso installazione immersiva, realtà virtuale e media digitali", sintetizzando illustrazione, performance, pittura, scultura, fotografia e scrittura tramite l'animazione 3D.
+Il metodo centrale di Satterwhite è la performance del proprio corpo e di quello di amici e collaboratori, trasposta in paesaggi 3D popolati da avatar con Maya e altri programmi. Il movimento viene tanto dal vogueing di Willi Ninja quanto dal coreografo William Forsythe; Satterwhite ha imparato a voguare dai fratelli maggiori ([Bullock, *frieze*, 2019](https://www.frieze.com/article/jacolby-satterwhites-celestial-zero-gravity-dreamscapes)). Ha definito lo Spectrum, club queer di Brooklyn oggi chiuso, «il Cedar Tavern della mia generazione», un'analogia con il ritrovo degli espressionisti astratti che fa della cultura dei club il suo ambiente storico-artistico.
+
+Michael Bullock descrive i suoi film come popolati da «paesaggi onirici celesti e a gravità zero» con corpi intrecciati di attori porno, musicisti e ballerini, «come un dipinto di Hieronymus Bosch reso in Final Fantasy», e accosta il suo album visivo a un incrocio tra il *Cremaster Cycle* di Barney e *Lemonade* di Beyoncé; Satterwhite indica però come influenza principale *Maxinquaye* di Tricky, tributo alla madre del musicista. Tiana Reid osserva che spesso viene chiamato afrofuturista, mentre il suo lavoro riguarda più la storia: come schiavitù, capitalismo e distruzione ambientale hanno portato al presente ([*The Nation*, 2019](https://www.thenation.com/article/archive/jacolby-satterwhite-pionner-works-profile/tnamp/)). Eva Díaz, su *Artforum* (2013), nota che nel suo ruolo di artista Satterwhite può organizzare e riattivare i «rituali di produzione di immagini terapeutiche» della madre (citata da Artforum; recensione non letta). La galleria descrive la sua pratica come dedicata a «rituale, fantasia, libertà e costruzione di mondi».
 
 ## Opere principali
-### Reifying Desire, serie (2011-2014, con Reifying Desire 7 – Dawn completata nel 2021-22)
-**Descrizione:** ciclo video in più parti costruito da circa 230 versioni modellate in 3D del corpo dell'artista stesso e di oggetti tratti dagli schizzi di prodotti immaginari della madre, resi in uno spazio virtuale come "metanarrazioni collegate" che toccano storia personale, cultura pop, utopia e la "queerizzazione dell'ordinario". Il suo avatar digitale esegue movimenti tratti dal vogueing, dalle arti marziali e dalla coreografia di William Forsythe. Mostrata al Whitney Biennial 2014 come esempio di spazio digitale quale regno "utopico e non-politico" per esplorare memoria e desiderio. Diverse parti della serie sono nelle collezioni permanenti di MoMA e Whitney Museum; *Reifying Desire 7 – Dawn* (2021-22, video a due canali, videogioco e 53 disegni) è nella collezione del MOCA Los Angeles.
-**Lettura critica:** la serie fondativa del metodo di Satterwhite — il corpo motion-captured dell'artista e i disegni "inutili" della madre diventano, insieme, il materiale grezzo di un intero universo narrativo personale.
+### Reifying Desire, serie (2011-2014)
+**Descrizione:** ciclo video in sei parti costruito da circa 230 versioni modellate in 3D del corpo dell'artista, figure animate e oggetti tratti dagli schizzi di prodotti immaginari della madre, ricalcati a mano con uno stilo e portati in Maya ([Wikipedia](https://en.wikipedia.org/wiki/Reifying_Desire), dal sito dell'artista). L'avatar esegue movimenti dal vogueing, dalle arti marziali e dalla coreografia di Forsythe, con corpi liberi dalla gravità. Presentata alla Biennale del Whitney 2014: *Reifying Desire 6* (2014), 24:04 minuti in loop, è stata acquistata dal Whitney nel 2015, che descrive lo spazio digitale come «un regno utopico per esplorare memoria e storia personale» ([Whitney](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)). A OHWOW, nel 2014, le sei parti erano un video a sei canali ([Eler, Hyperallergic, 2014](https://hyperallergic.com/jacolby-satterwhite-keeps-reality-virtual.md)). *Reifying Desire 7 – Dawn* (2021-22) è stata acquisita dal MOCA di Los Angeles nel 2023 (Mitchell-Innes & Nash, da ARTnews); formato e numero dei disegni [verificare].
+**Lettura critica:** la serie fonda il metodo di Satterwhite. Alicia Eler parla di un «alveare virtuale materno»: l'avatar dell'artista compare quasi ovunque, in mondi sempre più vasti, sui disegni notturni della madre ispirati alle televendite.
 **Video:** [Reifying Desire Three, film integrale (Vimeo)](https://vimeo.com/44403442)
 
 ⚠️ Nessuna immagine trovata con attribuzione certa (le immagini disponibili sulla pagina galleria non erano etichettate per opera specifica).
 
 ### Country Ball 1989-2012 (2012)
-**Descrizione:** video a canale singolo di circa 13 minuti che combina filmati amatoriali reali di un vero barbecue familiare del 1989 in onore di Patricia Satterwhite e delle sue sorelle per la Festa della Mamma, con riprese in green screen della performance dell'artista, replicate in un paesaggio generato al computer ispirato al "Giardino delle delizie" di Hieronymus Bosch e alla cultura ballroom queer. Acquisita dal MoMA nel 2012.
-**Lettura critica:** l'opera in cui il metodo di Satterwhite si rivela con più chiarezza — filmato di famiglia reale e mondo virtuale costruito si fondono in un unico piano narrativo, senza gerarchia tra i due registri.
+**Descrizione:** video a canale singolo di circa 13 minuti che ricrea in CGI i filmati di famiglia in VHS di una festa della mamma del 1989, in onore di Patricia Satterwhite e delle sue sorelle, con riprese in green screen della performance dell'artista, in un paesaggio ispirato al *Giardino delle delizie* di Bosch e alla cultura ballroom. Acquisizione del MoMA nel 2012 [verificare].
+**Lettura critica:** filmato di famiglia e mondo costruito stanno sullo stesso piano. Reid ne fa un esempio del rapporto con la madre come collaborazione, non come ispirazione.
 
-![Country Ball 1989-2012 — fotogramma](immagini/jacolby-satterwhite/country-ball.jpeg)
+![Country Ball 1989-2012 — fotogramma, con il filmato di famiglia dentro il mondo in CGI](immagini/jacolby-satterwhite/country-ball.jpeg)
 
 **Approfondimento:** [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
 
 ### Blessed Avenue (2018)
-**Descrizione:** video HD a due canali con sonoro, 19:19 minuti (edizione "Jade"), costruito come video musicale per l'album concettuale *Blessed Avenue* dell'artista, che usa frammenti delle registrazioni su cassetta della madre scomparsa. Mostra personale presentata da Gavin Brown's enterprise, Harlem (2018), l'anno in cui Satterwhite entra nella scuderia di Mitchell-Innes & Nash.
-**Lettura critica:** recensita da *frieze*, segna il momento in cui il progetto sonoro (l'album) e quello visivo diventano parti indissociabili della stessa opera, non un accompagnamento l'uno dell'altro.
+**Descrizione:** video HD a due canali con sonoro, costruito sulle canzoni registrate su cassetta dalla madre; l'edizione *Jade* dura 19:19 minuti. Dà il titolo alla personale da Gavin Brown's enterprise a New York, nel 2018.
 
-![Blessed Avenue — fotogramma](immagini/jacolby-satterwhite/blessed-avenue.png)
+![Blessed Avenue — fotogramma dai due canali](immagini/jacolby-satterwhite/blessed-avenue.png)
 
 ### You're at Home / Room for Living (2019)
-**Descrizione:** due mostre personali museali concomitanti — la prima, "Room for Living" al Fabric Workshop and Museum di Philadelphia, la sua prima personale museale in assoluto; la seconda, "You're at Home" a Pioneer Works, Brooklyn, dove debutta il video/installazione "Birds in Paradise" e coincide con l'uscita del suo primo album completo, *Love Will Find a Way Home* (come duo PAT con Nick Weiss), costruito su 155 registrazioni a cappella su cassetta della madre Patricia, mantenendone testi e melodie originali e riambientandole in produzione house elettronica, noise e club decostruito.
-**Lettura critica:** *frieze* definisce le due mostre parallele una prova di come le sue animazioni si estendano "oltre lo schermo fino alla scultura, un album dance sperimentale e il merchandise".
+**Descrizione:** le prime due personali in museo, inaugurate a due settimane di distanza. *Room for Living*, al Fabric Workshop and Museum di Philadelphia (fino al 19 gennaio 2020), porta i film nella scultura con la prima stampante 3D del museo: *Room for Cleansing* realizza una vasca disegnata dalla madre con una citazione delle *Demoiselles d'Avignon*, *Room for Doubt* trasforma in autoritratti l'*Incredulità di san Tommaso* di Caravaggio. *You're at Home*, a Pioneer Works, Brooklyn (4 ottobre – 24 novembre), ruota attorno a *Love Will Find a Way Home* di PAT, concept album di 14 brani commissionato dal SFMOMA, con un negozio di oggetti decorati dai disegni di Patricia ([Bullock, *frieze*, 2019](https://www.frieze.com/article/jacolby-satterwhites-celestial-zero-gravity-dreamscapes)).
+**Lettura critica:** Ania Szremski legge *You're at Home* come una collaborazione con la madre, la cui stanza bianca fa da «scheda madre» dell'ambiente digitale, e conclude che la mostra è «veramente umana» ([e-flux Criticism, 2019](https://www.e-flux.com/criticism/301679/jacolby-satterwhite-s-you-re-at-home)).
 
-![You're at Home / Room for Living — veduta della mostra](immagini/jacolby-satterwhite/youre-at-home.jpeg)
+![Veduta di mostra con sculture e neon sulle parole di Patricia Satterwhite (quale delle due mostre è da verificare)](immagini/jacolby-satterwhite/youre-at-home.jpeg)
 
 ### We Are in Hell When We Hurt Each Other (2020)
-**Descrizione:** video HD a colori e animazione 3D con sonoro, 24:22 minuti. Avatar femme-bot neri (modellati sul corpo dell'artista in motion capture, vestito digitalmente) danzano vogue attraverso un'Arcadia boschiva; l'opera si chiude con un tributo commemorativo a Breonna Taylor. Mostrata da Mitchell-Innes & Nash, New York (2020) e in seguito al Blaffer Art Museum di Houston.
-**Lettura critica:** inserita tra i momenti artistici più significativi del 2020 secondo la copertura del *New York Times* (da verificare direttamente) — l'opera più esplicitamente politica del suo percorso fino a quel momento, con un riferimento diretto e nominato alla violenza razziale contemporanea.
+**Descrizione:** video HD a colori con animazione 3D e sonoro, 24:22 minuti, con colonna sonora di PAT. Le danze dell'artista, catturate con tute digitali, diventano figure animate, tra cui forme *fembot* nere; l'opera si chiude con una schiera di guerriere attorno a un omaggio a Breonna Taylor. Mostrata da Mitchell-Innes & Nash a New York (24 settembre – 31 ottobre 2020) e al Blaffer Art Museum di Houston (20 gennaio – 12 marzo 2023) ([Blaffer](https://blafferartmuseum.org/jacolby-satterwhite)).
+**Lettura critica:** Alice Godwin vi vede il club e la danza come strumenti di guarigione e di protesta, in un lavoro che evita sia la distopia sia l'utopia ([Brooklyn Rail, 2022-23](https://brooklynrail.org/2023/12/artseen/Jacolby-Satterwhite-A-Feeling-of-Healing)).
 **Da *WORLDBUILDING* (2022):** il video è un concerto virtuale, con musica prodotta con Nick Weiss e la voce a cappella della madre, Patricia Satterwhite, che fa da guida al mondo. Il riferimento a Tiziano rovescia un'immagine storica del corpo nero: non più erotizzato, ma rituale e divino.
-**Video:** [estratto (Vimeo)](https://vimeo.com/461561190) · [pagina mostra, Mitchell-Innes & Nash](https://www.miandn.com/exhibitions/jacolby-satterwhite)
+**Video:** [trailer (Vimeo)](https://vimeo.com/461561190) · [pagina mostra, Mitchell-Innes & Nash](https://www.miandn.com/exhibitions/jacolby-satterwhite)
 
-![We Are in Hell When We Hurt Each Other — fotogramma](immagini/jacolby-satterwhite/we-are-in-hell.jpeg)
+![Neon rosso e verde «We are in hell when we fail to exist», dalla mostra del 2020 da Mitchell-Innes & Nash: non è un fotogramma del video](immagini/jacolby-satterwhite/we-are-in-hell.jpeg)
 
 **Approfondimento:** [Mitchell-Innes & Nash — We Are in Hell When We Hurt Each Other](https://www.miandn.com/exhibitions/jacolby-satterwhite)
 
-### A Metta Prayer — The Great Hall Commission (2023-24, Metropolitan Museum of Art, New York)
-**Descrizione:** commissione video immersiva a 6 canali per la Great Hall del Met (in mostra ottobre 2023-gennaio 2024), ispirata alla preghiera buddista metta ("gentilezza amorevole"). Fonde coreografia, video, animazione, illuminazione e musica in un mondo generato al computer che incorpora rese 3D di oltre 100 oggetti della collezione permanente del museo (tra cui figure in terracotta e una maschera Noh) insieme a sequenze dal vivo. In tournée al Museum of Fine Arts, Houston (maggio-ottobre 2024).
-**Lettura critica:** la commissione più istituzionalmente prestigiosa della carriera dell'artista fino a quel momento — mette il suo metodo di "citazione digitale" al servizio diretto della collezione di uno dei più grandi musei enciclopedici al mondo, invece che della propria biografia personale.
+### A Metta Prayer — The Great Hall Commission (2023, Metropolitan Museum of Art, New York)
+**Descrizione:** video a sei canali proiettato sulle pareti della Great Hall del Met (2 ottobre 2023 – 7 gennaio 2024), con un ciclo di 21 minuti e performance dal vivo in alcune date. Popola un'architettura digitale con più di 70 oggetti animati dalla collezione del museo e riprese 3D di collaboratori, tra cui Solange, KelseyLu, Moses Sumney e il gruppo queer di wrestling Choke Hole. Colonna sonora di PAT ([Met](https://www.metmuseum.org/exhibitions/jacolby-satterwhite)). La galleria indica altrove quattro canali. Poi al Museum of Fine Arts di Houston nel 2024.
+**Lettura critica:** si ispira alla preghiera buddista metta, mantra di gentilezza amorevole, e rovescia le convenzioni dei videogiochi commerciali: i personaggi raccolgono monete-mantra e gli incontri con la polizia finiscono in *flash mob* di danza. Il Met lo presenta come uno spazio di amore e resilienza per le comunità nere e LGBTQ+.
 **Video:** [intervista all'artista sulla commissione (Met Museum, YouTube)](https://www.youtube.com/watch?v=1OEsz3ByhMc)
 
-![A Metta Prayer — installazione, Great Hall, Metropolitan Museum of Art (foto Hyla Skopitz)](immagini/jacolby-satterwhite/a-metta-prayer.png)
+![A Metta Prayer — fotogramma, scena ispirata ai giochi di piattaforma](immagini/jacolby-satterwhite/a-metta-prayer.png)
 
 **Approfondimento:** [metmuseum.org — A Metta Prayer](https://www.metmuseum.org/exhibitions/jacolby-satterwhite)
 
-### 60ª Biennale di Venezia, "Foreigners Everywhere" (2024)
-**Descrizione:** Satterwhite è tra i 331 artisti confermati nella mostra internazionale principale, a cura di Adriano Pedrosa (20 aprile-24 novembre 2024).
-**Lettura critica:** ⚠️ non è stato possibile verificare quale opera specifica sia stata presentata né la sede esatta (Padiglione Centrale ai Giardini o Arsenale) — da confermare prima di descriverla in dettaglio in classe.
+## Approfondimenti
+Materiale per la didattica, rivisto il 2026-11-01. Le voci con link sono state lette sulla fonte, salvo dove è indicato il contrario.
+
+### Parole dell'artista
+- **Non un tributo.** Sul lavoro con la madre: «non è un tributo, è terapia»; non vuole farne un omaggio sentimentale ([Reid, *The Nation*, 2019](https://www.thenation.com/article/archive/jacolby-satterwhite-pionner-works-profile/tnamp/)).
+- **Dalla cassetta al 3D.** Spiega di aver preso una forma di espressione a bassa fedeltà, la musica folk registrata in casa negli anni Novanta, per portarla al concept album e alla realtà virtuale. Le canzoni scelte parlano di resurrezione, rinnovamento e seconde possibilità, ma non vuole che la storia di lei si sovrapponga alla sua ([Bullock, *frieze*, 2019](https://www.frieze.com/article/jacolby-satterwhites-celestial-zero-gravity-dreamscapes)).
+- **La ferita.** Copiando Caravaggio ha trovato una metafora: lui è lo scettico, ogni disegno è la ferita, e il bisogno di creare gli serve a dimostrarsi di essere vivo (stesso articolo).
+- **Il corpo al centro.** Lascia la pittura dopo gli studi: per avere agency come artista, dice, doveva mettere al centro il proprio corpo (Reid).
+
+### Letture critiche e concetti
+- **Autrice, non musa (Reid).** Tiana Reid insiste che Patricia sia una collaboratrice, un'artista e pensatrice a pieno titolo, e che il lavoro restituisca la sua autorialità invece di farne un tema biografico ([*The Nation*, 2019](https://www.thenation.com/article/archive/jacolby-satterwhite-pionner-works-profile/tnamp/)).
+- **Autoritratto irrisolto (Szremski).** Ania Szremski accosta la mostra a *Maxinquaye* di Tricky e agli scritti di Ian Penman, e segnala i limiti del proprio sguardo: il corpo nero e queer porta significati che lei, spettatrice bianca, cisgender ed eterosessuale, può non cogliere ([e-flux Criticism, 2019](https://www.e-flux.com/criticism/301679/jacolby-satterwhite-s-you-re-at-home)).
+- **Mercato e giovani artisti (Eler).** Alicia Eler nota che la mostra da OHWOW, subito dopo la Biennale del Whitney, ha l'aria di una mini-retrospettiva, spinta dal mercato ([Hyperallergic, 2014](https://hyperallergic.com/jacolby-satterwhite-keeps-reality-virtual.md)).
+- **La danza come guarigione (Godwin).** Alice Godwin tiene insieme videogiochi, afrofuturismo, teoria queer e tradizioni spirituali dell'Africa occidentale ([Brooklyn Rail, 2022-23](https://brooklynrail.org/2023/12/artseen/Jacolby-Satterwhite-A-Feeling-of-Healing)).
+
+### Per la didattica
+- *Country Ball* e il filmato di famiglia: che cosa cambia quando un ricordo privato entra in un motore 3D?
+- La madre come coautrice: come si citano nei crediti di un'opera le persone il cui materiale viene rielaborato?
+- *A Metta Prayer* e *Serious Games* di Farocki: due usi opposti della logica del videogioco.
+- Attenzione in aula: i video contengono nudo e sessualità esplicita; salute mentale e violenza razziale vanno presentate con cura.
+
+### Da leggere
+Non letti in questa revisione:
+- Eva Díaz, recensione su *Artforum* (2013): la citazione viene da una pagina di Artforum, il titolo probabile è «Grey Lines at Recess Activities» (*Artforum*, dicembre) [verificare]
+- [Document Journal — sull'eredità artistica della madre (2019)](https://www.documentjournal.com/2019/12/jacolby-satterwhites-unwavering-mission-to-honor-his-mothers-artistic-legacy/) (sito non raggiungibile)
+- [ARTnews — Satterwhite a Pioneer Works](https://www.artnews.com/art-news/artists/jacolby-satterwhite-pioneer-works-13329) (accesso automatico bloccato)
+- *A Family Portrait*, *Guernica*, 15 gennaio 2013, citato da Wikipedia
+- [Guida alla mostra del Contemporary Art Museum St. Louis (2022)](https://camstl.org/wp-content/uploads/2022/08/Jacolby-Satterwhite-Gallery-Guide.pdf)
 
 ## Interviste e talk
-- _Nessuna ancora: da aggiungere._
+- [Art21 — «The Incredulity of Jacolby Satterwhite»](https://www.youtube.com/watch?v=8WljeAovjtc)
+- [Art21 — «Jacolby Satterwhite Is Going Public»](https://art21.org/watch/new-york-close-up/jacolby-satterwhite-is-going-public/)
+- [Met — «Meet the Artist», sulla commissione della Great Hall](https://www.youtube.com/watch?v=1OEsz3ByhMc)
+- [*Out* — intervista di R. Kurt Osenlund (2017)](https://www.out.com/out-exclusives/2017/3/10/jacolby-satterwhite-evokes-queer-spaces-every-kind-epic-tribute-album-his-late-mother)
 
 ## Fonti
 - [Mitchell-Innes & Nash — pagina artista](https://www.miandn.com/artists/jacolby-satterwhite)
+- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/jacolby-satterwhite/biography)
 - [MoMA — profilo artista](https://www.moma.org/artists/49586)
 - [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)
 - [The Metropolitan Museum of Art — A Metta Prayer](https://www.metmuseum.org/exhibitions/jacolby-satterwhite)
+- [Blaffer Art Museum — We Are in Hell When We Hurt Each Other](https://blafferartmuseum.org/jacolby-satterwhite)
 - [Fabric Workshop and Museum — Room for Living](https://fabricworkshopandmuseum.org/exhibition/jacolby-satterwhite-room-for-living/)
 - [Pioneer Works — You're at Home](https://pioneerworks.org/exhibitions/jacolby-satterwhite-youre-at-home)
-- [frieze — "Jacolby Satterwhite's Celestial, Zero-Gravity Dreamscapes"](https://www.frieze.com/article/jacolby-satterwhites-celestial-zero-gravity-dreamscapes)
-- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/jacolby-satterwhite/biography)
-- [Miller Institute for Contemporary Art, Carnegie Mellon — "Spirits Roaming on the Earth"](https://miller-ica.cmu.edu/exhibitions/jacolby-satterwhite-spirits-roam-the-earth)
-- [Document Journal — sull'eredità artistica della madre](https://www.documentjournal.com/2019/12/jacolby-satterwhites-unwavering-mission-to-honor-his-mothers-artistic-legacy/)
+- [frieze — Michael Bullock, 4 novembre 2019](https://www.frieze.com/article/jacolby-satterwhites-celestial-zero-gravity-dreamscapes)
+- [*The Nation* — Tiana Reid, 22 novembre 2019](https://www.thenation.com/article/archive/jacolby-satterwhite-pionner-works-profile/tnamp/)
+- [e-flux Criticism — Ania Szremski, 19 novembre 2019](https://www.e-flux.com/criticism/301679/jacolby-satterwhite-s-you-re-at-home)
+- [Miller Institute for Contemporary Art, Carnegie Mellon — «Spirits Roaming on the Earth»](https://miller-ica.cmu.edu/exhibitions/jacolby-satterwhite-spirits-roam-the-earth)
 - *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Sasha Bonét)
 
 ## Crediti delle immagini
-Immagine per cinque delle sei opere/mostre, incluse sotto la relativa descrizione in "Opere principali", da Mitchell-Innes & Nash. *Reifying Desire* resta senza immagine con attribuzione certa.
+Immagini da Mitchell-Innes & Nash, controllate a vista il 2026-11-01. *Reifying Desire* resta senza immagine con attribuzione certa; per *We Are in Hell When We Hurt Each Other* serve un fotogramma del video.
 - [MoMA — profilo artista](https://www.moma.org/artists/49586)
 - [Whitney Museum — Biennial 2014, Jacolby Satterwhite](https://whitney.org/exhibitions/2014-biennial/jacolby-satterwhite)

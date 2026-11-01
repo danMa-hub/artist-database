@@ -3,10 +3,10 @@
 **Tag tecnica/formato:** `video` `fotografia`
 **Tag tema:** `storia-computer-grafica` `temporalita-non-lineare`
 **Tag corso:** `TAD-DCV` `TAD-AVM`
-**Stato:** descrizioni volutamente minime per cinque opere (Oil Workers, The Pure Necessity, Wildfire, KING, The confetti piece) · da approfondire · da documentare: Ruurlo, Borculoscheweg, 1910 (1997), Nocturnal Landscapes (1999), The Close, Aircraft (F.A.L.)
+**Stato:** opere riviste il 2026-11-01 sulle pagine dell'artista · da documentare: Ruurlo, Borculoscheweg, 1910 (1997), Nocturnal Landscapes (1999), The Close, Aircraft (F.A.L.)
 
 ## Biografia
-Artista belga, nato nel 1969 a Kortrijk; vive e lavora tra Anversa e Berlino. Si forma come pittore presso il Nationaal Hoger Instituut voor Schone Kunsten di Anversa (secondo una fonte, anche presso la Rijksakademie di Amsterdam) e si è progressivamente interessato al tempo attraverso indagini sulla natura della fotografia, l'immagine fissa e quella in movimento, passando alla fotografia, al video e alle arti digitali. Realizza installazioni di grande formato che pongono domande su tempo, memoria e verità. Tra le mostre personali recenti in musei: Musée de l'Orangerie, Parigi (2025), Centraal Museum, Utrecht (2024), Milwaukee Art Museum (2022), Garage Museum of Contemporary Art, Mosca (2021); tra le precedenti, SFMOMA, San Francisco (2011). È rappresentato, tra gli altri, da Sean Kelly, Esther Schipper e Galerie Micheline Szwajcer ([EAI](https://www.eai.org/artists/david-claerbout/biography); [SMAK](https://smak.be/en/artists/david-claerbout); [Esther Schipper](https://www.estherschipper.com/artists/53-david-claerbout/biography/)).
+Artista belga, nato nel 1969 a Kortrijk; vive e lavora tra Anversa e Berlino. Si forma come pittore al Nationaal Hoger Instituut voor Schone Kunsten di Anversa e alla Rijksakademie di Amsterdam, tra il 1992 e il 1996 ([EAI](https://www.eai.org/artists/david-claerbout/biography)), e si è progressivamente interessato al tempo attraverso indagini sulla natura della fotografia, l'immagine fissa e quella in movimento, passando alla fotografia, al video e alle arti digitali. Realizza installazioni di grande formato che pongono domande su tempo, memoria e verità. Tra le mostre personali recenti in musei: Musée de l'Orangerie, Parigi (2025), Centraal Museum, Utrecht (2024), Milwaukee Art Museum (2022), Garage Museum of Contemporary Art, Mosca (2021); tra le precedenti, SFMOMA, San Francisco (2011). È rappresentato, tra gli altri, da Sean Kelly, Esther Schipper e Galerie Micheline Szwajcer ([EAI](https://www.eai.org/artists/david-claerbout/biography); [SMAK](https://smak.be/en/artists/david-claerbout); [Esther Schipper](https://www.estherschipper.com/artists/53-david-claerbout/biography/)).
 
 ## Poetica e ricerca
 Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la fiducia — sempre più incrinata — tra realtà e rappresentazione. Centrale è il concetto di **indicizzalità** (Charles Sanders Peirce): il segno fotografico come connessione fisica diretta con il proprio referente, oggi eroso dall'immagine digitale e dallo scanning 3D. La sua pratica è spesso descritta come "sculpting in duration": non racconta storie lineari, ma dà forma al tempo stesso — alla differenza percepita tra il minuto 1 e il minuto 10 — sottraendo l'immagine alla logica della gratificazione istantanea.
@@ -16,37 +16,37 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 ### Bordeaux Piece (2004)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** film di 14 ore composto da 70 riprese di 10 minuti, girate a intervalli in una casa di Bordeaux progettata da Rem Koolhaas: gli stessi attori ripetono lo stesso dialogo e gli stessi movimenti in momenti diversi della giornata.
-**Lettura critica:** la narrazione collassa progressivamente, lasciando spazio al movimento della luce solare sul paesaggio e sull'architettura — è la luce naturale, non la trama, a dare forma alla durata.
+**Descrizione:** video a canale singolo di 13 ore e 43 minuti. Una breve finzione in sette inquadrature, con dialoghi scritti dall'artista sulla storia del *Disprezzo* di Godard, è girata ogni dieci minuti dalle 5.30 alle 22, per un mese tra luglio e agosto: la sceneggiatura viene così recitata 70 volte, sempre con la luce dello stesso momento del giorno ([davidclaerbout.com](https://davidclaerbout.com/Bordeaux-Piece-2004)). Il luogo è la casa di Bordeaux progettata da Rem Koolhaas nel 1996; con Josse De Pauw nella parte del padre ([Wikipedia](https://en.wikipedia.org/wiki/David_Claerbout)).
+**Lettura critica:** la narrazione collassa progressivamente, lasciando spazio al movimento della luce solare sul paesaggio e sull'architettura: è la luce naturale, non la trama, a dare forma alla durata.
 
 ![Bordeaux Piece — installazione, Konschthal Esch](immagini/david-claerbout/bordeaux-piece.jpg)
 
 **Approfondimento:** [davidclaerbout.com — Bordeaux Piece](https://davidclaerbout.com/Bordeaux-Piece-2004)
 
-### Vietnam, 1967, near Duc Pho (reconstruction after Hiromichi Mine)
+### Vietnam, 1967, near Duc Pho (reconstruction after Hiromichi Mine) (2001)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata` `guerra-e-militare`
-**Descrizione:** video che ricostruisce, a partire da una fotografia storica, l'istante di uno schianto aereo: l'immagine è quasi immobile, con cambiamenti percettibili solo attraverso una percezione intensiva e prolungata.
+**Descrizione:** video a canale singolo, a colori e muto, in loop di circa 3 minuti. Parte da una fotografia di Hiromichi Mine: un aereo Caribou bimotore, abbattuto da fuoco amico mentre tentava di atterrare, resta sospeso nell'immagine, mentre il paesaggio di Ha Phan, ripreso nel novembre 2000 a fine monsone, 33 anni dopo, cambia con la luce e le nuvole. Sul sito dell'artista il nome compare come «Hiromishi» ([davidclaerbout.com](https://davidclaerbout.com/Vietnam-1967-near-Duc-Pho-reconstruction-after-Hiromishi-Mine-2001); [Wikipedia](https://en.wikipedia.org/wiki/David_Claerbout)).
 **Lettura critica:** mette in tensione il "là e allora" della fotografia (Barthes) e il "qui e ora" permanente del film, interrogando lo statuto ontologico dell'immagine tra i due medium.
 
-![Vietnam, 1967, near Duc Pho — fotogramma](immagini/david-claerbout/vietnam-1967.jpg)
+![Veduta di una mostra: a destra Vietnam, 1967, near Duc Pho; la grande proiezione al centro è un'altra opera](immagini/david-claerbout/vietnam-1967.jpg)
 
 **Approfondimento:** [davidclaerbout.com — Vietnam, 1967, near Duc Pho](https://davidclaerbout.com/Vietnam-1967-near-Duc-Pho-reconstruction-after-Hiromishi-Mine-2001)
 
-### Olympia (the real-time disintegration into ruins of the Berlin Olympic stadium over the course of a thousand years)
+### Olympia (the real-time disintegration into ruins of the Berlin Olympic stadium over the course of a thousand years) (dal 2016)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata` `architettura-e-citta`
-**Descrizione:** simulazione generativa in tempo reale che proietta il disfacimento dello stadio olimpico di Berlino nell'arco di mille anni.
-**Lettura critica:** dilata la durata oltre la scala della percezione umana individuale, portando alle estreme conseguenze la sua ricerca sulla temporalità.
+**Descrizione:** proiezione a due canali in tempo reale, a colori e muta. Una replica dello stadio olimpico di Berlino, costruita con software da videogioco, è lasciata alle intemperie e alla vegetazione per mille anni, senza intervento umano. Il programma gira dal 15 marzo 2016 e un archivio di fotogrammi ne documenta i cambiamenti ([davidclaerbout.com](https://davidclaerbout.com/Olympia-The-real-time-disintegration-into-ruins-of-the-Berlin-Olympic)).
+**Lettura critica:** richiamandosi alla *Ruinenwert*, il «valore di rovina», oppone la durata biologica di una vita all'illusione di assistere a un millennio.
 **Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/Olympia-The-real-time-disintegration-into-ruins-of-the-Berlin-Olympic)
 
 ![Olympia — installazione, Kunsthaus Bregenz](immagini/david-claerbout/olympia.png)
 
-### Oil Workers (2013)
+### Oil workers (from the Shell company of Nigeria) returning home from work, caught in torrential rain (2013)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** opera video discussa dall'artista in una conversazione con la curatrice Sara Dolfi Agostini, realizzata — per sua stessa ammissione — "lavorando con l'acqua ma il risultato era petrolio": una riflessione sul lavoro, sulla figura dell'operaio come "zombie" storico della modernità (una figura senza un posto nella società, "svuotata" di tutto tranne il proprio gesto superficiale) e sul lavoratore migrante come figura resa invisibile pur occupando spazio.
-**Lettura critica:** l'artista collega esplicitamente la figura dell'operaio/zombie al lavoratore migrante contemporaneo — un raro momento in cui la sua ricerca formale sulla durata si aggancia direttamente a una critica sociale nominata.
+**Descrizione:** video a canale singolo, muto, di animazione HD e di durata «infinita». Ricostruisce con tecniche 3D un piccolo JPEG trovato online, che dà anche il titolo: un gruppo di uomini al riparo dalla pioggia monsonica. Con un semplice movimento di camera, gli uomini sembrano bloccati nell'attesa e l'immagine scivola verso il ritratto ufficiale ([davidclaerbout.com](https://davidclaerbout.com/Oil-workers-from-the-Shell-company-of-Nigeria-returning-home-from)).
+**Lettura critica:** riflette sull'attesa come tempo improduttivo e su un'Africa di solito raccontata come arida. Nella conversazione con la curatrice Sara Dolfi Agostini l'artista dice di aver lavorato «con l'acqua, ma il risultato era petrolio», e accosta l'operaio «zombie» della modernità, svuotato di tutto tranne il proprio gesto, al lavoratore migrante, presente ma reso invisibile.
 **Video:** [David Claerbout in conversazione con Sara Dolfi Agostini su Oil Workers (YouTube)](https://www.youtube.com/watch?v=3nQVjL6k6ZU)
 
 ![Oil Workers — installazione, Marabouparken konsthall](immagini/david-claerbout/oil-workers.png)
@@ -56,7 +56,8 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 ### The Pure Necessity (2016)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** opera video dell'artista.
+**Descrizione:** animazione 2D a canale singolo, 50 minuti. Claerbout riprende *Il libro della giungla* (1967) senza raccontarlo: toglie l'antropomorfismo agli animali ed elimina il protagonista, il cucciolo d'uomo. Un gruppo di artisti ha ridisegnato a mano ogni fotogramma per tre anni ([davidclaerbout.com](https://davidclaerbout.com/The-pure-necessity-2016)).
+**Lettura critica:** senza storia gli animali si muovono nella giungla come se il racconto andasse avanti da solo; l'opera riflette anche sul passaggio dalla visione collettiva in sala a quella solitaria sugli schermi personali.
 **Video:** [estratto/documentazione (Vimeo)](https://vimeo.com/502677017)
 
 ![The Pure Necessity — installazione, Konschthal Esch](immagini/david-claerbout/the-pure-necessity.jpg)
@@ -66,18 +67,19 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 ### Wildfire (meditation on fire) (2019-2020)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** opera video dell'artista.
-**Video:** [estratto/documentazione (Vimeo)](https://vimeo.com/480728352)
+**Descrizione:** video a canale singolo con animazione 3D, 24 minuti, realizzato con Musea Brugge. Lunghe inquadrature di un incendio silenzioso: non c'è una camera, l'immagine è interamente calcolata ([davidclaerbout.com](https://davidclaerbout.com/Wildfire-meditation-on-fire-2019-2020)).
+**Lettura critica:** un'illusione calcolata che fa vivere un'esperienza altrimenti impossibile, a un ritmo lento come un respiro.
+**Video:** [documentazione alla Galeria Pedro Cera, Lisbona, 2021 (Vimeo)](https://vimeo.com/480728352)
 
 ![Wildfire (meditation on fire) — installazione, Sint-Janshospitaal Bruges](immagini/david-claerbout/wildfire.jpg)
 
 **Approfondimento:** [davidclaerbout.com — Wildfire](https://davidclaerbout.com/Wildfire-meditation-on-fire-2019-2020)
 
-### KING (after Alfred Wertheimer's 1956 picture of a young man named Elvis Presley)
+### KING (after Alfred Wertheimer's 1956 picture of a young man named Elvis Presley) (2015-2016)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** opera che riparte da una fotografia storica del 1956 di Alfred Wertheimer a un giovane Elvis Presley, applicando il consueto metodo dell'artista di dilatazione/animazione dell'immagine fissa.
-**Lettura critica:** prosegue la linea di lavoro — già vista in *Vietnam, 1967* — che parte da un'unica fotografia storica iconica per interrogarne lo statuto ontologico attraverso l'animazione.
+**Descrizione:** animazione HD a canale singolo, in bianco e nero e muta, 10 minuti. Ricostruisce con una lente soltanto virtuale una fotografia di Alfred Wertheimer del 1956, che coglie il ventunenne Elvis Presley nel passaggio alla celebrità ([davidclaerbout.com](https://davidclaerbout.com/KING-after-Alfred-Wertheimer-s-1956-picture-of-a-young-man-named-1)).
+**Lettura critica:** oppone la fiducia nella macchina fotografica degli anni Cinquanta al controllo di oggi: Elvis si lasciava fotografare, l'immagine ricostruita decide tutto. Prosegue la linea di *Vietnam, 1967*, che parte da un'unica fotografia storica.
 **Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/KING-after-Alfred-Wertheimer-s-1956-picture-of-a-young-man-named-1)
 
 ![KING — installazione, De Pont Museum, Tilburg](immagini/david-claerbout/king.jpg)
@@ -85,7 +87,8 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 ### The confetti piece (2015-2018)
 **Corso:** `TAD-AVM`
 **Temi:** `tempo-lungo-e-durata`
-**Descrizione:** opera video dell'artista.
+**Descrizione:** doppia proiezione video con animazione 3D, muta, 18'25". Un momento di quella che sembra un'elezione locale americana: migliaia di coriandoli cadono davanti a un edificio neoclassico, tra gli applausi; il dettaglio centrale è l'urlo spaventato di un bambino ([davidclaerbout.com](https://davidclaerbout.com/the-confetti-piece-2015-2018)).
+**Lettura critica:** il sito dell'artista la presenta come un'indagine sulla tattilità digitale, tra leggerezza e peso.
 **Video:** [pagina progetto, davidclaerbout.com](https://davidclaerbout.com/the-confetti-piece-2015-2018)
 
 ![The confetti piece — installazione, Annet Gelink Gallery, Amsterdam](immagini/david-claerbout/the-confetti-piece.jpg)
@@ -151,7 +154,13 @@ Fonte: [e-flux](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/
 ### Letture critiche (aggiunte il 2026-11-01)
 - **Salvare le immagini (Blythe).** Claerbout racconta a Finn Blythe di aver avuto difficoltà con l'immagine in movimento e di essere stato attratto dalla fissità delle fotografie nascoste nei libri, a cui voleva dare una seconda vita. Da lì vengono i primi lavori, come *Ruurlo, Borculoscheweg, 1910* (1997) e *Retrospection* (2000). In *Wildfire* il meccanismo si rovescia: tutto si muove, tranne le fiamme ([Ocula, 2025](https://ocula.com/magazine/spotlights/dark-optics-david-claerbout-unstable-images/)).
 - **Mondi senza umani (Oscar).** Sara Oscar legge *Olympia* e *The pure necessity* (entrambi 2016) nel quadro dell'Antropocene e chiede che cosa serva per rappresentare il mondo senza di noi, in dialogo con Claire Colebrook e Joanna Zylinska ([*Journal of Visual Art Practice*](https://uts.academia.edu/SOscar); letto solo l'abstract).
-- **Durata di *Bordeaux Piece*: le fonti non coincidono.** Wikipedia parla di 70 film brevi e 14 ore, un testo della galleria Nichido di 64 film da circa 12 minuti, cioè circa 12 ore e 40 ([NCA](https://www.nca-g.com/exhibition/2006/david_claerbout_david_claerbout/en/)) [verificare].
+- **Durata di *Bordeaux Piece*.** Il sito dell'artista dà 13 ore e 43 minuti e 70 ripetizioni: vale questo dato. Wikipedia arrotonda a 14 ore, un testo della galleria Nichido parla di 64 film da circa 12 minuti ([NCA](https://www.nca-g.com/exhibition/2006/david_claerbout_david_claerbout/en/)), forse una versione diversa.
+
+### Da leggere
+Non letti in questa revisione:
+- *The Silence of the Lens* (Hannibal Books, 2022), con la conversazione con Jonathan Pouthier
+- [Sara Oscar](https://uts.academia.edu/SOscar), testo completo: letto solo l'abstract
+- La fonte delle dichiarazioni su *Bordeaux Piece* e del commento su *Vietnam, 1967* riportati dal REF
 
 ### Spunti per la didattica
 - Confronto tra *The Silence of the Lens* e l'uso di scansioni 3D e fotogrammetria (M3D): chi decide cosa entra nel modello, e con quale responsabilità.
@@ -171,8 +180,10 @@ Fonte: [e-flux](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/
 ## Fonti
 - [davidclaerbout.com](https://davidclaerbout.com/)
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
+- [Electronic Arts Intermix — biografia](https://www.eai.org/artists/david-claerbout/biography)
+- [Wikipedia — David Claerbout](https://en.wikipedia.org/wiki/David_Claerbout)
 
 ## Crediti delle immagini
-Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [davidclaerbout.com](https://davidclaerbout.com/) (*The Silence of the Lens* è un saggio testuale, non ha immagine).
+Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [davidclaerbout.com](https://davidclaerbout.com/) (*The Silence of the Lens* è un saggio testuale, non ha immagine). Controllate a vista il 2026-11-01: sono vedute di sala, con i luoghi indicati dalla scheda originale; il sito non riporta didascalie, quindi le sedi non sono state riscontrate.
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
 - *Travel*: immagine dalla pagina [hirshhorn.si.edu](https://hirshhorn.si.edu/explore/david-claerbout-travel); diritti dei rispettivi titolari, uso didattico.
