@@ -86,6 +86,7 @@ La stessa attenzione al lavoro distingue la sua posizione nel mondo dell'arte. W
 - **Come nasce un saggio.** Paragona il suo processo a quello di un comico che prepara un numero, «ma senza le risate», e descrive il video-saggio spaziale come un incrocio tra un tutorial di software e il treno fantasma.[^16]
 - **Pratica tecnica critica.** Presentando *Spectacle, Speculation, Spam*, lo colloca oggi vicino alla *critical technical practice* di Philip Agre e alla meccanologia di Gilbert Simondon.[^9]
 - **Rottura epistemologica.** Sull'IA generativa parla di una svolta durevole per le industrie culturali, non di una moda. Ammette che gli strumenti sono problematici e toccano il suo stesso lavoro, ma sceglie di sperimentarli per demistificarli.[^5]
+- **Reale e virtuale si scambiano i ruoli.** Nella *Field Guide* di *Image Empire* (2026) divide l'immagine tecnica in due linee: la cattura del reale (fotografia, sensori, visione artificiale) e la costruzione del virtuale (computer grafica 3D). Con l'apprendimento automatico la visione diventa un modello che genera immagini mai riprese; la grafica, accelerata dalle GPU, diventa una fonte di dati sintetici per addestrare la visione. Warburton chiama lo scambio «inversione epistemica». I *world models* uniscono la «pelle» dell'IA generativa e le «ossa» del 3D, ma rischiano di allontanarsi dal mondo addestrandosi sui propri dati, e dipendono perciò dal lavoro umano, che il testo descrive in cinque figure, dall'utente che produce dati senza saperlo al lavoratore a cottimo.[^21]
 
 ### Letture critiche e concetti
 - **L'immagine come luogo di lavoro (Levitt).** Deborah Levitt, su *RGBFAQ*, sostiene che le immagini in CGI siano sempre composite, incroci di modellazione, rigging, animazione e luci. L'«immagine esplosa» le mostra come spazi di lavoro: fabbriche, sale operatorie, macchine da ufficio. Warburton parla di *hyperimage*, un'immagine con segnalibri, interruttori e leve al suo interno. Levitt lega il tutto alla «fenomenotecnica» di Bachelard e allarga la formula di Agamben: l'umano come animale che renderizza. Il saggio è anche un argomento a favore della ricerca-creazione.[^17]
@@ -158,3 +159,5 @@ Immagini dal sito ufficiale [alanwarburton.co.uk](https://alanwarburton.co.uk). 
 [^19]: Alan Warburton, «RGBFAQ», in Rosa Menkman (a cura di), *im/possible images*, 2021.
 
 [^20]: *3D Print Simulator* è elencato sul sito dell'artista ed è riportato in Morehshin Allahyari e Daniel Rourke, *The 3D Additivist Cookbook*, 2016.
+
+[^21]: Alan Warburton, *Image Empire: A Field Guide*, marzo 2026, pp. 6-7, 14-21. [link](https://alanwarburton.co.uk/image-empire)

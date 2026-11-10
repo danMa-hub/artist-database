@@ -220,6 +220,7 @@ Schede parziali, scritte da fonti web: vedi la riga **Stato** di ciascuna.
 - [Will Benedict e Steffen Jørgensen](will-benedict-steffen-jorgensen.md) — serie video
 - [Jacob Hurwitz-Goodman](jacob-hurwitz-goodman.md) — documentari
 - [Gilbert (dis.art)](gilbert-dis-art.md) — video sul graphic design
+- [Derek G. Larson](derek-g-larson.md) — serie animata *Très Mall*
 
 ## 🎮 Da WORLDBUILDING e dalle lezioni di animazione (31 ottobre 2026)
 

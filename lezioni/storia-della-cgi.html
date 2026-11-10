@@ -1,0 +1,637 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>Storia della CGI</title>
+<link rel="stylesheet" href="lezioni.css">
+<script src="lezioni.js"></script>
+</head>
+<body>
+<main>
+
+<header class="testata">
+  <p class="corso">Modellazione 3D · Tecniche di animazione digitale</p>
+  <h1>Storia della CGI: prospettiva o simulazione</h1>
+  <p>Due genealogie della computer grafica 3D. Per Lev Manovich è l'ultimo capitolo della storia della prospettiva; per Jacob Gaboury nasce come simulazione di oggetti, e l'immagine è solo una delle sue uscite.</p>
+  <p>Citazioni in lingua originale, con traduzione di servizio. Frecce ← → per passare da un blocco all'altro, clic su un'immagine per ingrandirla.</p>
+  <div class="tappe">
+    <div><strong>1525</strong><span>Dürer: macchine per disegnare in prospettiva</span></div>
+    <div><strong>1858</strong><span>Meydenbauer: misurare gli edifici dalle fotografie</span></div>
+    <div><strong>anni '50</strong><span>radar e SAGE: lo schermo interattivo</span></div>
+    <div><strong>1963</strong><span><em>Sketchpad</em> e la tesi di Roberts</span></div>
+    <div><strong>1964</strong><span>Fetter, <em>Boeing Man</em></span></div>
+    <div><strong>1965-79</strong><span>Università dello Utah</span></div>
+    <div><strong>1974</strong><span>z-buffer e teiera dello Utah</span></div>
+    <div><strong>1993</strong><span><em>Jurassic Park</em></span></div>
+  </div>
+  <ul class="indice">
+    <li><a href="#due-storie">Due storie</a></li>
+    <li><a href="#tesi">1. Le tesi di partenza</a></li>
+    <li><a href="#misura">2. La prospettiva come misura</a></li>
+    <li><a href="#schermi">3. Gli schermi</a></li>
+    <li><a href="#roberts">4. Roberts, 1963</a></li>
+    <li><a href="#fetter">5. Boeing Man, 1964</a></li>
+    <li><a href="#utah">6. Utah: vedere togliendo</a></li>
+    <li><a href="#superficie">7. Costruire o simulare</a></li>
+    <li><a href="#oggetti">8. Oggetti presi dal mondo</a></li>
+    <li><a href="#realismo">9. Il realismo</a></li>
+    <li><a href="#mercato">10. Dal laboratorio al mercato</a></li>
+    <li><a href="#image-object">11. L'image object</a></li>
+    <li><a href="#confronto">12. Il confronto</a></li>
+  </ul>
+</header>
+
+<section class="blocco" id="due-storie">
+  <h2>Due storie del 3D</h2>
+  <p class="sotto">Gli stessi fatti, le stesse fonti, due conclusioni opposte. Gaboury scrive dopo Manovich e ne discute la tesi.</p>
+  <div class="due">
+    <div>
+      <h4>Lev Manovich: eredità della prospettiva</h4>
+      <p>Mosca, 1960. Teorico dei nuovi media, animatore 3D negli anni Ottanta. Saggi 1991-1999; <em>Il linguaggio dei nuovi media</em>, 2001.</p>
+      <p>Prospettiva, macchine di Dürer, fotografia, radar, computer: la stessa operazione, sempre più automatica.</p>
+      <blockquote>
+        <p>«By automating perspectival imaging digital computers completed the process that began in the Renaissance.»</p>
+        <p class="trad">Automatizzando l'immagine prospettica, i computer digitali hanno completato il processo iniziato nel Rinascimento.</p>
+        <cite>Lev Manovich, <em>The Mapping of Space</em>, 1993</cite>
+      </blockquote>
+    </div>
+    <div>
+      <h4>Jacob Gaboury: immagine-oggetto</h4>
+      <p>Storico dei media, Università della California a Berkeley. <em>Hidden Surface Problems</em>, 2015; <em>Image Objects</em>, 2021.</p>
+      <p>Il 3D nasce come teoria degli oggetti. La prospettiva vi entra quasi per caso; il render è una delle sue uscite.</p>
+      <blockquote>
+        <p>«The computer is not a visual medium. We might argue it is primarily mathematical, or perhaps electrical, but it is not in the first instance concerned with questions of vision or image.»</p>
+        <p class="trad">Il computer non è un medium visivo. Si potrebbe dire che è anzitutto matematico, o forse elettrico, ma non riguarda in primo luogo la visione o l'immagine.</p>
+        <cite>Jacob Gaboury, <em>Hidden Surface Problems</em>, 2015, p. 40</cite>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="tesi">
+  <h2><span class="num">1</span>Le tesi di partenza</h2>
+  <p class="sotto">Quattro autori precedenti, citati da entrambi.</p>
+
+  <div class="voce">
+    <div class="data">1927</div>
+    <div class="corpo">
+      <h3>Erwin Panofsky, <em>La prospettiva come forma simbolica</em></h3>
+      <p>Storico dell'arte, fondatore dell'iconologia. La prospettiva non riproduce la visione: è una costruzione storica, che assume come norma un occhio solo e immobile. Il Rinascimento inventa uno spazio «sistematico», infinito e omogeneo, che esiste prima degli oggetti. Per Manovich è lo spazio vuoto con cui si apre un programma 3D.</p>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1938</div>
+    <div class="corpo">
+      <h3>William Ivins, <em>On the Rationalization of Sight</em></h3>
+      <p>Curatore delle stampe al Metropolitan Museum di New York. La prospettiva come strumento di misura, non come stile. La definizione è ripresa sia da Manovich sia da Gaboury.</p>
+      <blockquote>
+        <p>«a practical means for securing a rigorous two-way or reciprocal, metrical relationship between the shapes of objects as definitely located in space and their representations»</p>
+        <p class="trad">Un mezzo pratico per assicurare una relazione metrica rigorosa, nei due sensi, tra le forme degli oggetti collocati nello spazio e le loro rappresentazioni.</p>
+        <cite>William Ivins, 1938, citato in Manovich, 1993</cite>
+      </blockquote>
+      <p>Per Ivins è «the most important event of the Renaissance».</p>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1964</div>
+    <div class="corpo">
+      <h3>Jacques Lacan, <em>Seminario XI</em></h3>
+      <p>Psicoanalista francese. La frase è il perno del disaccordo: Manovich e Gaboury la citano entrambi.</p>
+      <blockquote>
+        <p>«what is an issue in geometric perspective is simply the mapping of space, not sight»</p>
+        <p class="trad">Nella prospettiva geometrica è in gioco soltanto la mappatura dello spazio, non la vista.</p>
+        <cite>Jacques Lacan, citato in Manovich, 1993, e in Gaboury, 2015 e 2021</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1986</div>
+    <div class="corpo">
+      <h3>Bruno Latour, <em>Visualisation and Cognition: Drawing Things Together</em></h3>
+      <p>Sociologo della scienza. Riprende Ivins: un disegno in prospettiva è un «immutable mobile», un oggetto che viaggia senza deformarsi. Una chiesa disegnata a Roma si ricostruisce a Londra. Reale e immaginario hanno la stessa geometria, e le due vie diventano «a four-lane freeway».</p>
+      <p>Per Manovich ne segue che la prospettiva non serve solo a rappresentare la realtà, ma a controllarla a distanza.</p>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="misura">
+  <h2><span class="num">2</span>La prospettiva come misura <small>la genealogia di Manovich</small></h2>
+  <p class="sotto">La funzione della vista che la modernità isola e automatizza.</p>
+  <blockquote>
+    <p>«visual nominalism -- the use of vision to capture the identity of individual objects and spaces by recording distances and shapes»</p>
+    <p class="trad">Nominalismo visivo: l'uso della vista per fissare l'identità di singoli oggetti e spazi, registrandone distanze e forme.</p>
+    <cite>Lev Manovich, <em>The Mapping of Space</em>, 1993</cite>
+  </blockquote>
+
+  <div class="voce">
+    <div class="data">1525</div>
+    <div class="corpo">
+      <h3>Albrecht Dürer, macchine prospettiche</h3>
+      <p>Nell'<em>Underweysung der Messung</em> il disegno in prospettiva è affidato a un dispositivo: una griglia tesa tra l'occhio e il soggetto, un filo come raggio visivo. Seguono camera obscura e camera lucida (1806): l'immagine si forma da sola, ma va ricalcata.</p>
+      <div class="striscia"><figure><img src="immagini/cgi/durer-disegnatore.jpg" alt="Dürer, disegnatore che ritrae una donna sdraiata"><figcaption>Albrecht Dürer, <em>Disegnatore che ritrae una donna sdraiata</em>, dall'<em>Underweysung der Messung</em>, ed. 1538<small>Metropolitan Museum, CC0</small></figcaption></figure></div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1858</div>
+    <div class="corpo">
+      <h3>Albrecht Meydenbauer, la fotogrammetria · Nadar, la foto dal pallone</h3>
+      <p>Meydenbauer, architetto prussiano, rischia di cadere dalla facciata della cattedrale di Wetzlar e propone di misurare gli edifici dalle fotografie. Nel 1885 nasce a Berlino il Regio istituto prussiano per la misurazione fotografica. Nello stesso 1858 Nadar fotografa dall'alto, da un pallone sopra Bièvre.</p>
+      <blockquote>
+        <p>«not everything, but many things, better [...] than on the spot»</p>
+        <p class="trad">Non tutto, ma molte cose si vedono meglio [nella misurazione in scala] che sul posto.</p>
+        <cite>Meydenbauer, citato in Manovich, 1993</cite>
+      </blockquote>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/meydenbauer-strasburgo.jpg" alt="Lastra della Messbildanstalt, cattedrale di Strasburgo"><figcaption>Messbildanstalt di Berlino: cattedrale di Strasburgo, lastra di Meydenbauer, 1897<small>Pubblico dominio</small></figcaption></figure>
+        <figure><img src="immagini/cgi/nadar-pallone.jpg" alt="Nadar e la moglie nella navicella di un pallone"><figcaption>Nadar e Ernestine Nadar nella navicella di un pallone, autoritratto in studio, circa 1865<small>Pubblico dominio</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1930-1945</div>
+    <div class="corpo">
+      <h3>Il radar: vedere senza occhi</h3>
+      <p>Per Manovich l'esempio più chiaro di razionalizzazione della vista nel Novecento. Del mondo restano solo le posizioni, in tempo reale, su tutto lo spettro elettromagnetico.</p>
+      <blockquote>
+        <p>«All it sees and all it shows are the positions of objects, 3-D coordinates of points in space [...]. Color, texture, even shape are disregarded.»</p>
+        <p class="trad">Tutto ciò che vede e mostra sono le posizioni degli oggetti, coordinate 3D di punti nello spazio. Colore, texture, perfino la forma vengono ignorati.</p>
+        <cite>Lev Manovich, <em>The Mapping of Space</em>, 1993</cite>
+      </blockquote>
+      <div class="striscia bassa"><figure><img src="immagini/cgi/radar-ppi.jpg" alt="Indicatore di posizione radar"><figcaption>Indicatore di posizione radar (PPI)<small>Tekniska museet, pubblico dominio</small></figcaption></figure></div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1991</div>
+    <div class="corpo">
+      <h3>La guerra del Golfo</h3>
+      <p>Il punto di partenza di <em>The Mapping of Space</em>: in televisione, le immagini con cui la guerra viene fatta. Telecamere a infrarossi sugli aerei, telecamere sulle armi a guida laser.</p>
+      <blockquote>
+        <p>«More often, in a strange case of identification, we witnessed what was "seen" by a machine, a bomb, or a missile.»</p>
+        <p class="trad">Più spesso, in uno strano caso di identificazione, assistevamo a ciò che era «visto» da una macchina, una bomba o un missile.</p>
+        <cite>Lev Manovich, <em>The Mapping of Space</em>, 1993</cite>
+      </blockquote>
+      <div class="striscia">
+        <figure class="con-video"><div class="video" data-yt="0AjCAuYkrgA" data-title="Schwarzkopf, the luckiest man in Iraq"></div><figcaption>Il generale Norman Schwarzkopf mostra alla stampa il video di una bomba a guida laser, 1991 · <a href="https://www.youtube.com/watch?v=0AjCAuYkrgA">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="schermi">
+  <h2><span class="num">3</span>Gli schermi</h2>
+  <p class="sotto">Il computer non parte da un'immagine: deve calcolarla e tenerla in memoria. I primi schermi vengono da radar e oscilloscopi.</p>
+
+  <div class="voce">
+    <div class="data">1948</div>
+    <div class="corpo">
+      <h3>Manchester, il tubo Williams-Kilburn</h3>
+      <p>Il primo schermo è una memoria: i puntini sono i bit. Di solito restava coperto. Immagine e dato coincidono.</p>
+      <div class="striscia bassa"><figure><img src="immagini/cgi/williams-kilburn.jpg" alt="Tubo Williams-Kilburn"><figcaption>Tubo Williams-Kilburn, circa 1948<small>Gaboury, <em>Image Objects</em>, fig. 2.14</small></figcaption></figure></div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">anni 1950</div>
+    <div class="corpo">
+      <h3>SAGE, la difesa aerea degli Stati Uniti</h3>
+      <p>Computer, radar e penna ottica. L'operatore indica sullo schermo l'aereo da intercettare.</p>
+      <div class="due">
+        <div>
+          <h4>Manovich</h4>
+          <p>Nasce lo schermo interattivo, ultimo stadio dopo lo schermo classico, quello dinamico e quello in tempo reale.</p>
+          <p>«Rather than acting solely as a means to display an image of reality, the screen became the vehicle for directly affecting reality.»</p>
+          <p class="nota"><small>Lo schermo diventa il mezzo per agire direttamente sulla realtà. <em>Archeology of a Computer Screen</em>, 1995</small></p>
+        </div>
+        <div>
+          <h4>Gaboury</h4>
+          <p>La grafica è ancora rappresentazione: un aereo nemico è un simbolo su una mappa bidimensionale, che chiede una risposta all'operatore.</p>
+        </div>
+      </div>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/sage-console.jpg" alt="Console SAGE con penna ottica"><figcaption>Console di SAGE con la penna ottica, Computer History Museum<small>Foto Tomwsulcer, CC0</small></figcaption></figure>
+        <figure><img src="immagini/cgi/sage-light-gun.jpg" alt="Operatore SAGE con la light gun"><figcaption>Operatore di SAGE con la <em>light gun</em></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1960</div>
+    <div class="corpo">
+      <h3>J. C. R. Licklider, <em>Man-Computer Symbiosis</em></h3>
+      <p>Psicologo, dal 1962 primo direttore dell'ufficio informatico dell'ARPA, l'agenzia di ricerca del Pentagono. Uomo e macchina accoppiati come il fico e l'insetto che lo impollina, con una superficie su cui disegnare insieme.</p>
+      <blockquote>
+        <p>«the resulting partnership will think as no human brain has ever thought»</p>
+        <p class="trad">La collaborazione che ne risulterà penserà come nessun cervello umano ha mai pensato.</p>
+        <cite>J. C. R. Licklider, <em>Man-Computer Symbiosis</em>, 1960</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1963</div>
+    <div class="corpo">
+      <h3>Ivan Sutherland, <em>Sketchpad</em></h3>
+      <p>Tesi di dottorato al MIT, sul TX-2 del Lincoln Laboratory. Primo programma di disegno interattivo con penna ottica, costruito a oggetti. Nel 1964 Sutherland succede a Licklider all'ARPA e finanzia la grafica.</p>
+      <blockquote>
+        <p>«An ability to construct, manipulate and observe complex pictures of computed phenomena may radically change our ability to grasp complex ideas. [...] What we need now are additional ways to couple computers to humans through drawings.»</p>
+        <p class="trad">Poter costruire, manipolare e osservare immagini complesse di fenomeni calcolati può cambiare radicalmente la capacità di afferrare idee complesse. Servono altri modi per accoppiare computer e esseri umani attraverso i disegni.</p>
+        <cite>Ivan Sutherland, programma ARPA per la computer grafica, 1965, citato in Gaboury, 2021</cite>
+      </blockquote>
+      <div class="due">
+        <div>
+          <h4>Manovich</h4>
+          <p>Cambiare l'immagine significa cambiare i dati in memoria. La novità è l'interattività, non la prospettiva.</p>
+          <p>«This development was more revolutionary than automation of perspective construction per se.» <small>(1993)</small></p>
+        </div>
+        <div>
+          <h4>Gaboury</h4>
+          <p>Con i sistemi a oggetti, da <em>Sketchpad</em> all'interfaccia dello Xerox Alto, «computing is transformed from a process into a medium».</p>
+        </div>
+      </div>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/sketchpad-tx2.jpg" alt="Console del TX-2 con Sketchpad"><figcaption>Console del TX-2 con <em>Sketchpad</em>, dalla tesi di Sutherland, 1963<small>Scansione di Kerry Rodden, CC BY-SA 3.0</small></figcaption></figure>
+        <figure><img src="immagini/cgi/sutherland-sketchpad.jpg" alt="Fotogrammi della dimostrazione di Sketchpad"><figcaption>Fotogrammi dal film di dimostrazione di <em>Sketchpad</em></figcaption></figure>
+        <figure class="con-video"><div class="video" data-yt="6orsmFndx_o" data-start="720" data-title="Sketchpad demo"></div><figcaption><em>Sketchpad</em>, dimostrazione, dal minuto 12 · <a href="https://www.youtube.com/watch?v=6orsmFndx_o">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="roberts">
+  <h2><span class="num">4</span>1963, Lawrence Roberts: lo stesso caso, due letture</h2>
+  <p class="sotto"><em>Machine Perception of Three-Dimensional Solids</em>, tesi al MIT. Il primo programma con proiezione prospettica 3D: ricava solidi da una sola fotografia.</p>
+  <div class="due">
+    <div>
+      <h4>Manovich: continuità</h4>
+      <p>Roberts prende la matematica dai manuali tedeschi di geometria prospettica del primo Ottocento. Il nuovo nasce dal vecchio.</p>
+      <p>«perspectival drawing has always been a step-by-step procedure, an algorithm»</p>
+      <p class="nota"><small>Il disegno prospettico è sempre stato una procedura a passi, un algoritmo. 1993</small></p>
+      <p>William J. Mitchell, architetto e teorico dell'immagine digitale al MIT, citato con approvazione: un evento «as momentous, in its way, as Brunelleschi's perspective demonstration».</p>
+    </div>
+    <div>
+      <h4>Gaboury: la prospettiva entra di contrabbando</h4>
+      <p>Lo scopo era la visione artificiale: riconoscere, non modellare. La prospettiva arriva con la fotografia.</p>
+      <p>«Roberts's use of perspective projection is largely incidental to the program's objectives, creeping in under the guise of an earlier visual form.»</p>
+      <p class="nota"><small>L'uso della proiezione prospettica è in gran parte accessorio rispetto agli scopi del programma: si insinua sotto le spoglie di una forma visiva precedente. 2015, p. 47; 2021</small></p>
+    </div>
+  </div>
+  <div class="striscia">
+    <figure><img src="immagini/cgi/roberts-fotografia-solidi.jpg" alt="Roberts: dalla fotografia ai solidi"><figcaption>Roberts: dalla fotografia ai bordi, fino al disegno prospettico<small>Gaboury, fig. 1.3</small></figcaption></figure>
+    <figure><img src="immagini/cgi/roberts-struttura.jpg" alt="Roberts: modelli da primitive geometriche"><figcaption>Modelli costruiti da primitive geometriche e poi trasformati<small>Gaboury, fig. 1.4</small></figcaption></figure>
+    <figure><img src="immagini/cgi/roberts-casa-linee-nascoste.jpg" alt="Una casa con e senza linee nascoste"><figcaption>Una casa con e senza linee nascoste<small>Gaboury, fig. 1.5</small></figcaption></figure>
+  </div>
+</section>
+
+<section class="blocco" id="fetter">
+  <h2><span class="num">5</span>1964, William Fetter: <em>Boeing Man</em></h2>
+  <p class="sotto">Alla Boeing, una figura in wireframe con sette articolazioni, sui dati del «50° percentile» dei piloti, per progettare la cabina del 747. Il termine <em>computer graphics</em> è formalizzato nel 1960 da Verne Hudson, alla Boeing.</p>
+  <div class="due">
+    <div>
+      <h4>Manovich</h4>
+      <p>I film della Boeing non sono ancora automatici: il computer stampa 24 disegni al secondo, un artista li colora a mano, si filmano al tavolo di animazione. La prima computer grafica in movimento è una catena di animazione tradizionale.</p>
+    </div>
+    <div>
+      <h4>Gaboury</h4>
+      <p>«While the SAGE system treated graphics as images that visually represent numerical data to its operators, Fetter used graphics as a medium for the simulation of graphical objects.»</p>
+      <p class="nota"><small>SAGE trattava la grafica come immagini che rappresentano dati numerici; Fetter la usa come medium per simulare oggetti grafici. 2021</small></p>
+    </div>
+  </div>
+  <blockquote>
+    <p>«It is as much a theory of the world as it is an image of it, and in the subsequent decades that theory would be made actionable.»</p>
+    <p class="trad">È una teoria del mondo quanto un'immagine del mondo, e nei decenni successivi quella teoria sarebbe stata resa operativa.</p>
+    <cite>Jacob Gaboury, <em>Image Objects</em>, 2021</cite>
+  </blockquote>
+  <div class="striscia">
+    <figure><img src="immagini/cgi/fetter-first-man.jpg" alt="William Fetter, First Man"><figcaption>William Fetter, <em>First Man</em> o <em>Boeing Man</em>, 1964</figcaption></figure>
+    <figure><img src="immagini/cgi/fetter-portaerei.jpg" alt="Simulazione di atterraggio su portaerei"><figcaption>Fetter, simulazione di atterraggio su portaerei, 1965 (fotogramma)</figcaption></figure>
+    <figure class="con-video"><div class="video" data-yt="biKPSOl5fPI" data-title="Carrier Landing, 1965"></div><figcaption><em>Carrier Landing</em>, 1965 · <a href="https://www.youtube.com/watch?v=biKPSOl5fPI">YouTube</a></figcaption></figure>
+  </div>
+</section>
+
+<section class="blocco" id="utah">
+  <h2><span class="num">6</span>Utah, 1965-1979: vedere togliendo</h2>
+  <p class="sotto">David Evans dirige il programma di informatica dal 1965, con un contratto ARPA. Sutherland arriva nel 1968; insieme fondano Evans &amp; Sutherland. Tra gli studenti, i fondatori di Pixar, Adobe, Silicon Graphics, Atari.</p>
+
+  <div class="voce">
+    <div class="data">i tre problemi</div>
+    <div class="corpo">
+      <h3>Il programma di Evans</h3>
+      <p>Per arrivare a immagini simili a fotografie: mostrare solo le superfici visibili; ombreggiarle secondo la luce; trovare un modello per superfici di forma qualsiasi. Per Gaboury la prospettiva non è nella lista.</p>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1963-1978</div>
+    <div class="corpo">
+      <h3>Il problema delle superfici nascoste</h3>
+      <p>Una scena esiste per intero come dati, retro compreso, prima di essere vista. Per imitare la percezione bisogna calcolare ciò che non si deve vedere, e toglierlo. Gaboury lo chiama «a crisis of visibility».</p>
+      <blockquote>
+        <p>«Graphical objects are in this sense nonphenomenological, known in their entirety prior to our perception of them.»</p>
+        <p class="trad">Gli oggetti grafici sono in questo senso non fenomenologici: noti nella loro interezza prima della nostra percezione.</p>
+        <cite>Jacob Gaboury, <em>Image Objects</em>, 2021</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1968</div>
+    <div class="corpo">
+      <h3>Una Polaroid di prova</h3>
+      <p>Due sfere attraversate da un piano. Non esistono file immagine: la Polaroid si impressiona in una posa lunga davanti a un tubo catodico, riga per riga, mentre il mainframe calcola ogni punto. John Warnock divide lo schermo in regioni e le suddivide finché il calcolo è semplice.</p>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/polaroid-utah-1968.jpg" alt="Polaroid di prova, Utah 1968"><figcaption>Immagine di prova delle superfici nascoste, Utah, 1968<small>Gaboury, fig. 1.1</small></figcaption></figure>
+        <figure><img src="immagini/cgi/laboratorio-utah-1968.jpg" alt="Laboratorio di grafica dello Utah"><figcaption>Il laboratorio di grafica dello Utah, circa 1968: in basso a sinistra l'oscilloscopio con la camera<small>Gaboury, fig. 1.2</small></figcaption></figure>
+        <figure><img src="immagini/cgi/warnock-wireframe-e-superfici.jpg" alt="Wireframe e superfici nascoste rimosse"><figcaption>Lo stesso oggetto in wireframe e con le superfici nascoste rimosse<small>Gaboury, fig. 1.6</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1974</div>
+    <div class="corpo">
+      <h3>Edwin Catmull, lo z-buffer</h3>
+      <p>Una memoria registra la distanza di ogni punto: per sapere che cosa sta davanti basta confrontare due numeri. Costosissimo all'inizio, poi standard. La mappa di profondità è un'immagine che esiste per il calcolo.</p>
+      <div class="striscia bassa">
+        <figure><img src="immagini/cgi/zbuffer-griglia.jpg" alt="Valori di profondità nello z-buffer"><figcaption>Il valore di profondità nello z-buffer: ogni quadrato è un pixel<small>Gaboury, fig. 1.9</small></figcaption></figure>
+        <figure><img src="immagini/cgi/zbuffer-mappa-profondita.jpg" alt="Mappa di profondità e immagine finale"><figcaption>Mappa di profondità e immagine finale<small>Gaboury, fig. 1.10</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <blockquote>
+    <p>«it produces vision by constructing absence. Rather than capturing the world through the indexical trace of light on a surface, computer graphics simulates our knowledge of the world by constructing objects for visual interaction.»</p>
+    <p class="trad">Produce la visione costruendo un'assenza. Invece di catturare il mondo con la traccia della luce su una superficie, la computer grafica simula la conoscenza del mondo costruendo oggetti per l'interazione visiva.</p>
+    <cite>Jacob Gaboury, 2015, p. 57; <em>Image Objects</em>, 2021</cite>
+  </blockquote>
+  <blockquote>
+    <p>«The material logic of the digital image is not one of inscription but restriction, a making absent.»</p>
+    <p class="trad">La logica materiale dell'immagine digitale non è l'iscrizione ma la restrizione, un rendere assente.</p>
+    <cite>Jacob Gaboury, <em>Hidden Surface Problems</em>, 2015, abstract</cite>
+  </blockquote>
+</section>
+
+<section class="blocco" id="superficie">
+  <h2><span class="num">7</span>Costruire o simulare: la biforcazione del 1974</h2>
+  <p class="sotto">Fino ai primi anni Settanta la stessa ricerca serve a progettare oggetti (CAD) e a simularne l'aspetto. Poi le strade si dividono.</p>
+  <blockquote>
+    <p>«While computer-aided models for engineering and design are built to precise material specification, such that the model and object are mathematically identical, shading and other rendering techniques are developed to produce the illusion of a material effect [...], but do not necessarily reflect any underlying mathematical or material form.»</p>
+    <p class="trad">I modelli per l'ingegneria sono costruiti su specifiche materiali precise, e modello e oggetto sono matematicamente identici; lo shading e le altre tecniche di render producono l'illusione di un effetto materiale, senza riflettere necessariamente una forma matematica o materiale sottostante.</p>
+    <cite>Jacob Gaboury, <em>Image Objects</em>, 2021</cite>
+  </blockquote>
+
+  <div class="voce">
+    <div class="data">anni 1940-60</div>
+    <div class="corpo">
+      <h3>Dalla spline di legno alla curva di Bézier</h3>
+      <p>Nei cantieri navali e aeronautici una curva si traccia con un listello flessibile, la <em>spline</em>, tenuto da pesi, le <em>ducks</em>. Pierre Bézier, alla Renault, la traduce in formula: i punti di controllo sono i pesi. Steven Coons la estende alle superfici.</p>
+      <div class="striscia bassa">
+        <figure><img src="immagini/cgi/spline-ducks-boeing.jpg" alt="Spline e pesi alla Boeing"><figcaption>Ingegnere Boeing con spline e pesi, anni Sessanta<small>Gaboury, fig. 3.2</small></figcaption></figure>
+        <figure><img src="immagini/cgi/spline-bezier.jpg" alt="Spline di legno e spline di Bézier"><figcaption>Spline di legno e spline di Bézier<small>Gaboury, fig. 3.3</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1968-1975</div>
+    <div class="corpo">
+      <h3>Flat, Gouraud, Phong</h3>
+      <p><strong>Flat:</strong> un tono per faccia. <strong>Henri Gouraud</strong>: la luce calcolata ai vertici e interpolata; l'occhio non vede più gli spigoli. Sutherland all'inizio è contrario, perché il metodo agisce sull'immagine e non sull'oggetto. <strong>Bui Tuong Phong</strong>: il calcolo per pixel e i riflessi. La cupola resta a facce piatte: sembra solo liscia.</p>
+      <div class="striscia bassa">
+        <figure><img src="immagini/cgi/flat-shading-graphics.jpg" alt="Flat shading della scritta GRAPHICS"><figcaption>Flat shading, Utah, 1968<small>Gaboury, fig. 3.5</small></figcaption></figure>
+        <figure><img src="immagini/cgi/gouraud-cupola-aereo.jpg" alt="Gouraud: cupola e aeroplano"><figcaption>Il metodo di Gouraud: la cupola e l'aeroplano, circa 1970<small>Gaboury, fig. 3.6</small></figcaption></figure>
+        <figure><img src="immagini/cgi/flat-gouraud-phong.jpg" alt="Flat, Gouraud e Phong"><figcaption>Flat, Gouraud e Phong shading, rifatti in Blender<small>Gaboury, fig. 3.7</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="oggetti">
+  <h2><span class="num">8</span>Oggetti presi dal mondo</h2>
+  <p class="sotto">Primi anni Settanta: invece di sfere e cubi, si digitalizzano cose vicine. Per Gaboury il realismo della CG resta limitato all'aspetto visivo di un oggetto, staccato dalla sua struttura.</p>
+
+  <div class="voce">
+    <div class="data">1972</div>
+    <div class="corpo">
+      <h3>Il Maggiolino</h3>
+      <p>L'auto di Marsha Sutherland, coperta di punti numerati e misurata a mano dagli studenti. Un guscio senza interno: il modello costa più dell'auto.</p>
+      <div class="striscia bassa">
+        <figure><img src="immagini/cgi/maggiolino-misure.jpg" alt="Gli studenti misurano il Maggiolino"><figcaption>Gli studenti misurano il Maggiolino, Utah, 1972</figcaption></figure>
+        <figure><img src="immagini/cgi/maggiolino-wireframe.jpg" alt="Modello wireframe del Maggiolino"><figcaption>Il modello in wireframe</figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1971-1972</div>
+    <div class="corpo">
+      <h3>La mano di Catmull, i volti</h3>
+      <p>Catmull digitalizza un calco in gesso della propria mano, coperto di circa 350 poligoni: con Fred Parke ne fa il primo film di animazione 3D ombreggiata. Gouraud digitalizza il volto della moglie Sylvie, Parke quello della moglie Vicky.</p>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/catmull-mano.jpg" alt="La mano di Catmull"><figcaption>La mano di Catmull: calco, poligoni, wireframe, render, 1972<small>Gaboury, fig. 3.10</small></figcaption></figure>
+        <figure><img src="immagini/cgi/sylvie-gouraud.jpg" alt="Sylvie Gouraud e il modello del suo volto"><figcaption>Sylvie Gouraud e il modello del suo volto, 1971<small>Gaboury, fig. 3.18</small></figcaption></figure>
+        <figure class="con-video"><div class="video" data-yt="fAhyBfLFyNA" data-title="Computer Animated Hand, 1972"></div><figcaption><em>Computer Animated Hand</em>, 1972 · <a href="https://www.youtube.com/watch?v=fAhyBfLFyNA">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1974</div>
+    <div class="corpo">
+      <h3>Martin Newell, la teiera dello Utah</h3>
+      <p>Una Melitta di casa, disegnata su carta millimetrata. Senza fondo, non può contenere nulla. Diventa un oggetto di prova standard per gli algoritmi. Newell tratta ogni oggetto come istanza di un modello generale, come i software 3D di oggi.</p>
+      <div class="striscia bassa">
+        <figure><img src="immagini/cgi/teiera-melitta.jpg" alt="La teiera Melitta"><figcaption>La Melitta originale, Computer History Museum<small>Gaboury, fig. 3.13</small></figcaption></figure>
+        <figure><img src="immagini/cgi/teiera-wireframe.jpg" alt="La teiera in wireframe"><figcaption>La teiera dello Utah in wireframe, circa 1974<small>Gaboury, fig. 3.14</small></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1976</div>
+    <div class="corpo">
+      <h3><em>Futureworld</em></h3>
+      <p>Film di Richard Heffron. La mano di Catmull e un volto di Parke compaiono sui monitor di una sala di controllo: il primo 3D in un lungometraggio.</p>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/futureworld-mano.jpg" alt="La mano di Catmull in Futureworld"><figcaption>La mano di Catmull sui monitor di <em>Futureworld</em><small>Gaboury, fig. 3.12</small></figcaption></figure>
+        <figure class="con-video"><div class="video" data-yt="QfRAfsK5cvU" data-title="Futureworld, la scena con la mano"></div><figcaption><em>Futureworld</em>, la scena con la mano · <a href="https://www.youtube.com/watch?v=QfRAfsK5cvU">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="realismo">
+  <h2><span class="num">9</span>Il realismo: disuguale e pagato</h2>
+  <p class="sotto">Il punto su cui i due autori sono d'accordo. Gaboury rimanda in nota ad <em>Assembling Reality</em> di Manovich.</p>
+
+  <div class="voce">
+    <div class="data">1992</div>
+    <div class="corpo">
+      <h3>Manovich, <em>Assembling Reality</em></h3>
+      <p>Si sa fare una faccia ma non i capelli, la plastica ma non la stoffa. I problemi risolti li scelgono i finanziatori: «the Pentagon and Hollywood». Paesaggi e nuvole per i simulatori di volo, personaggi per il cinema.</p>
+      <blockquote>
+        <p>«The realism of computer animation is highly uneven, reflecting the range of problems which were addressed and solved.»</p>
+        <p class="trad">Il realismo dell'animazione al computer è molto disuguale: riflette i problemi che sono stati affrontati e risolti.</p>
+        <cite>Lev Manovich, <em>Assembling Reality</em>, 1992</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1999</div>
+    <div class="corpo">
+      <h3>Manovich, tre livelli</h3>
+      <blockquote>
+        <p>«the visual culture of a computer age is cinematographic in its appearance, digital on the level of its material, and computational (i.e., software driven) in its logic.»</p>
+        <p class="trad">La cultura visiva dell'età del computer è cinematografica nell'aspetto, digitale nel materiale e computazionale, cioè guidata dal software, nella logica.</p>
+        <cite>Lev Manovich, <em>Computer Simulation and the History of Illusion</em>, 1999</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">2001</div>
+    <div class="corpo">
+      <h3>Manovich, <em>Il linguaggio dei nuovi media</em></h3>
+      <blockquote>
+        <p>«Un dipinto del Rinascimento e un'immagine realizzata al computer utilizzano le stesse tecniche (una serie di segnali collocati coerentemente in profondità) per creare l'illusione di uno spazio, effettivo o immaginario. La vera rivoluzione è costituita dall'introduzione di un'immagine sintetica in movimento»</p>
+        <cite>Lev Manovich, <em>Il linguaggio dei nuovi media</em>, Olivares, 2002, p. 233</cite>
+      </blockquote>
+      <blockquote>
+        <p>«Perché ciò che viene simulato, ovviamente, non è la realtà vera, ma la realtà fotografica, così come la vede l'obiettivo della macchina fotografica.»</p>
+        <cite>Lev Manovich, <em>Il linguaggio dei nuovi media</em>, p. 252</cite>
+      </blockquote>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">2021</div>
+    <div class="corpo">
+      <h3>Gaboury, <em>Image Objects</em></h3>
+      <p>Nella computer grafica «realism is unequally distributed in any given simulation». Ciò che riproduce «is not the world but another medium in simulation»: la fotografia, il cinema.</p>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="mercato">
+  <h2><span class="num">10</span>Dal laboratorio al mercato</h2>
+  <p class="sotto">Gli oggetti dello Utah finiscono in memorie, simulatori, film e chip.</p>
+
+  <div class="voce">
+    <div class="data">1972-1973</div>
+    <div class="corpo">
+      <h3>Il frame buffer: Richard Shoup, <em>SuperPaint</em></h3>
+      <p>Allo Xerox PARC una memoria tiene ogni punto dello schermo, modificabile. Dal vettoriale al raster, cioè agli schermi a pixel.</p>
+      <div class="striscia bassa"><figure><img src="immagini/cgi/shoup-superpaint.jpg" alt="Richard Shoup in un'immagine fatta con SuperPaint"><figcaption>Richard Shoup in un'immagine fatta con <em>SuperPaint</em>, 1973<small>Gaboury, fig. 2.9</small></figcaption></figure></div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1979</div>
+    <div class="corpo">
+      <h3>Simulatori di volo</h3>
+      <p>Evans &amp; Sutherland: la grafica in tempo reale, prima dei videogiochi. Per Manovich è la corsa al tempo reale che porta gli algoritmi dentro l'hardware.</p>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/simulatore-volo-1979.jpg" alt="Simulatore di volo, 1979"><figcaption>Simulatore di volo Redifon / Evans &amp; Sutherland, 1979</figcaption></figure>
+        <figure class="con-video"><div class="video" data-yt="6W-qb_jHRhA" data-title="CT5 Flight Simulator, 1981"></div><figcaption><em>CT5 Flight Simulator</em>, 1981 · <a href="https://www.youtube.com/watch?v=6W-qb_jHRhA">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1982</div>
+    <div class="corpo">
+      <h3><em>Tron</em> · Silicon Graphics</h3>
+      <p>Catmull entra alla Lucasfilm nel 1979. James Clark, dottorato allo Utah, progetta il <em>Geometry Engine</em> e fonda Silicon Graphics. Per Manovich è il secondo stadio dell'automazione: la prospettiva incisa nel silicio.</p>
+      <div class="striscia bassa"><figure><img src="immagini/cgi/tron.jpg" alt="Tron"><figcaption><em>Tron</em>, Steven Lisberger, 1982</figcaption></figure></div>
+    </div>
+  </div>
+
+  <div class="voce">
+    <div class="data">1993</div>
+    <div class="corpo">
+      <h3><em>Jurassic Park</em></h3>
+      <p>ILM, con Softimage. Circa quattro minuti di dinosauri al computer. La CG entra nella cultura di massa.</p>
+      <div class="striscia">
+        <figure><img src="immagini/cgi/jurassic-park-wireframe.jpg" alt="Tirannosauro in wireframe"><figcaption>Tirannosauro in wireframe, <em>Jurassic Park</em>, 1993</figcaption></figure>
+        <figure class="con-video"><div class="video" data-yt="KWsbcBvYqN8" data-start="23" data-title="Jurassic Park, effetti"></div><figcaption><em>Jurassic Park</em>, gli effetti · <a href="https://www.youtube.com/watch?v=KWsbcBvYqN8&amp;t=23s">YouTube</a></figcaption></figure>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="image-object">
+  <h2><span class="num">11</span>L'<em>image object</em></h2>
+  <p class="sotto">Lo stesso file CAD produce il divano in fabbrica e la sua «fotografia» nel catalogo. Immagine e oggetto non si separano più.</p>
+  <blockquote>
+    <p>«computational images are not pictures of the things they represent; they are pictures of the world that produced them, and they execute a theory of that world in the world.»</p>
+    <p class="trad">Le immagini computazionali non sono immagini delle cose che rappresentano: sono immagini del mondo che le ha prodotte, ed eseguono nel mondo una teoria di quel mondo.</p>
+    <cite>Jacob Gaboury, <em>Image Objects</em>, 2021, introduzione</cite>
+  </blockquote>
+  <ul class="punti">
+    <li>Oltre il 75% delle immagini di prodotto del catalogo IKEA è generato al computer.</li>
+    <li>Artie Vierkant, <em>Image Objects</em> (dal 2011): sculture che sembrano uscite da un programma di grafica, fotografate e poi alterate digitalmente. Con questa serie si chiude il libro di Gaboury.</li>
+  </ul>
+  <div class="striscia">
+    <figure><img src="immagini/cgi/ikea-scena.jpg" alt="Scena del catalogo IKEA"><figcaption>Scena del catalogo IKEA, 2016<small>Gaboury, fig. 6.3</small></figcaption></figure>
+    <figure><img src="immagini/cgi/ikea-divano.jpg" alt="Render di un divano IKEA"><figcaption>Render di catalogo di un divano IKEA<small>Gaboury, fig. 6.2</small></figcaption></figure>
+    <figure><img src="immagini/cgi/vierkant.jpg" alt="Artie Vierkant, Image Objects"><figcaption>Artie Vierkant, <em>Image Objects</em><small>Gaboury, tav. 20</small></figcaption></figure>
+  </div>
+</section>
+
+<section class="blocco" id="confronto">
+  <h2><span class="num">12</span>Il confronto</h2>
+  <p class="sotto">Il disaccordo non è sui fatti, ma su dove mettere la rottura.</p>
+  <table class="confronto">
+    <thead><tr><th>Fonte o caso</th><th>Manovich</th><th>Gaboury</th></tr></thead>
+    <tbody>
+      <tr><td>Lacan: la prospettiva come mappatura dello spazio</td><td>La prospettiva va oltre la vista: radar e sonar sono «visione geometrica». Continuità</td><td>La prospettiva è una tecnica tra tante: la CG la usa, non ne dipende</td></tr>
+      <tr><td>Ivins: la relazione metrica</td><td>Strumento di misura e di controllo, che il computer porta a termine</td><td>Una soluzione possibile al problema della relazione tra oggetti</td></tr>
+      <tr><td>Roberts, 1963</td><td>Matematica prospettica dell'Ottocento; grafica e visione artificiale nascono insieme</td><td>La prospettiva entra con la fotografia; lo scopo era la visione artificiale</td></tr>
+      <tr><td>SAGE</td><td>Nasce lo schermo interattivo, che agisce sulla realtà</td><td>Immagini come simboli di dati</td></tr>
+      <tr><td>Boeing, anni Sessanta</td><td>Disegni colorati a mano: continuità con l'animazione</td><td><em>Boeing Man</em>: un oggetto simulato, una teoria del mondo</td></tr>
+      <tr><td>La rottura</td><td>Tardi, nel rapporto con l'utente: immagine sintetica in movimento, interattività in tempo reale</td><td>All'inizio, nella struttura: il mondo come insieme di oggetti calcolabili</td></tr>
+    </tbody>
+  </table>
+  <div class="due">
+    <div>
+      <blockquote>
+        <p>«a narrative of inheritance across visual media that obscures a detailed historical account of computer graphics as computational <em>ab initio</em>»</p>
+        <p class="trad">Una narrazione di eredità tra media visivi, che oscura una storia dettagliata della computer grafica come computazionale fin dall'inizio.</p>
+        <cite>Gaboury su Manovich, <em>Image Objects</em>, 2021</cite>
+      </blockquote>
+    </div>
+    <div>
+      <blockquote>
+        <p>«the simulation of perspective is better suited to a genealogy of simulation, not one of perspective.»</p>
+        <p class="trad">La simulazione della prospettiva appartiene a una genealogia della simulazione, non a una genealogia della prospettiva.</p>
+        <cite>Jacob Gaboury, <em>Hidden Surface Problems</em>, 2015, p. 46</cite>
+      </blockquote>
+    </div>
+  </div>
+</section>
+
+<section class="blocco" id="fonti">
+  <h2>Fonti</h2>
+  <ul class="fonti">
+    <li>Lev Manovich, <em>«Real» Wars</em> (1991), <em>Assembling Reality</em> (1992), <em>The Mapping of Space: Perspective, Radar, and 3-D Computer Graphics</em> (1993), <em>Archeology of a Computer Screen</em> (1995), <em>Automation of Sight</em> (1997), <em>Computer Simulation and the History of Illusion</em> (1999), raccolti in <em>All Articles 1992-2007</em>.</li>
+    <li>Lev Manovich, <em>Il linguaggio dei nuovi media</em>, Olivares, 2002 (ed. orig. MIT Press, 2001).</li>
+    <li>Jacob Gaboury, <em>Hidden Surface Problems: On the Digital Image as Material Object</em>, <em>Journal of Visual Culture</em> 14/1, 2015, pp. 40-60.</li>
+    <li>Jacob Gaboury, <em>Image Objects: An Archaeology of Computer Graphics</em>, MIT Press, 2021.</li>
+    <li>Bruno Latour, <em>Visualisation and Cognition: Drawing Things Together</em>, <em>Knowledge and Society</em> 6, 1986.</li>
+    <li>William M. Ivins Jr., <em>On the Rationalization of Sight</em>, Metropolitan Museum of Art Papers 8, 1938.</li>
+    <li>J. C. R. Licklider, <a href="https://groups.csail.mit.edu/medg/people/psz/Licklider.html"><em>Man-Computer Symbiosis</em></a>, 1960.</li>
+    <li>Immagini di Wikimedia Commons con la licenza indicata in didascalia; figure di <em>Image Objects</em> con il numero di figura.</li>
+  </ul>
+</section>
+
+</main>
+</body>
+</html>
