@@ -21,13 +21,14 @@ Filmmaker, artista di installazioni e poeta. Il lavoro combina performance, inst
 **Descrizione:** mostra personale più ampia dell'artista fino ad allora, con nuove opere in video, scultura e installazione.
 
 ### Terminal Lucidity (2026, CANICULA)
-**Descrizione:** installazione di luce e suono (con la designer Josephine Wang e il sound designer Lukas Frank), allestita al piano terra e sulla monumentale scala d'ingresso del Complesso dell'Ospedaletto. Affronta il fenomeno della "lucidità terminale" — momento di improvvisa chiarezza mentale che può manifestarsi in persone con malattie neurodegenerative in prossimità della morte. Sagome bianche impresse su sfondi cromatici ad alta saturazione, calibrati per affaticare la retina: le forme restano impresse come presenze spettrali mentre i colori virano ai complementari (il rosso diventa ciano). Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
-**Lettura critica:** esperienza al confine fra percezione e allucinazione — la tecnologia dell'illuminazione usata come dispositivo diretto sul sistema nervoso dello spettatore, non come semplice supporto per l'immagine.
+**Descrizione:** installazione video monocanale e illuminazione site-specific, colore, suono, durata infinita. Commissionata e prodotta da Fondazione In Between Art Film, co-prodotta da EMMA – Espoo Museum of Modern Art con il supporto di The Saastamoinen Foundation. Allestita al piano terra, nella sala 4, negli spazi adiacenti alla scala elicoidale che collega il piano terra al primo piano. «Lucidità terminale» indica un improvviso ritorno di coscienza, chiarezza mentale o memoria poco prima della morte. Il film alterna sagome bianche su sfondi iper-saturi, scelti per affaticare la vista, a una oscurità costante. A schermo nero l'ultima immagine persiste come immagine residua: le forme bianche restano impresse come presenze spettrali, mentre gli sfondi si trasformano nei colori complementari (il rosso diventa ciano, il giallo viola), senza corrispondenza con ciò che appare sullo schermo. La colonna sonora è un collage di brani musicali, da pezzi orchestrali a battimani, con ambienti registrati a Venezia, rumori ovattati di interni e lontani tintinnii. È stata sviluppata con il compositore Lukas Frank e la lighting designer Josephine Wang in risposta alla riproduzione algoritmica, casuale e imprevedibile, delle sequenze filmiche.
+**Lettura critica:** il catalogo colloca l'opera tra film strutturale e cinema espanso e la descrive come uno spazio liminale tra vita e morte, in cui la visione passa da osservazione passiva a processo attivo di creazione di immagini, vicino alla dimensione del sogno. L'artista si interroga sulla possibilità che un film, o la stessa realtà, abbia luogo interamente nello spazio di un'illusione ottica, nell'occhio di chi guarda. Il testo ricorda inoltre la funzione precedente del Complesso dell'Ospedaletto come casa di cura.[^canicula]
 
 ## Interviste e talk
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
+- Fondazione In Between Art Film, *Canicula*, libretto e comunicato stampa, aprile 2026 (PDF)
 - [Wikipedia — P. Staff](https://en.wikipedia.org/wiki/P._Staff)
 - [Biennale Arte 2022 — P. Staff](https://www.labiennale.org/en/art/2022/milk-dreams/p-staff)
 - [Artpil — P. Staff / In Ekstase](https://artpil.com/announcements/p-staff-in-ekstase/)
@@ -36,4 +37,6 @@ Filmmaker, artista di installazioni e poeta. Il lavoro combina performance, inst
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
 
 ## Mostre viste
-- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visitata il 22 novembre 2026 da @danMa-hub
+
+[^canicula]: Fondazione In Between Art Film, libretto e comunicato stampa della mostra *Canicula* (Venezia, 6 maggio–22 novembre 2026), sinossi e profili degli artisti, sala 4.

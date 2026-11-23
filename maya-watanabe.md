@@ -18,9 +18,9 @@ Artista audiovisiva peruviana la cui pratica è centrata sull'installazione vide
 
 **Approfondimento:** [Rose Art Museum — Maya Watanabe: Liminal](https://www.brandeis.edu/rose/exhibitions/2019/maya-watanabe.html)
 
-### Jarkov (2025-26, CANICULA)
-**Descrizione:** installazione video incentrata su Jarkov, un mammut lanoso di circa 20.000 anni ritrovato nella tundra artica e conservato a -12°C in una rete di gallerie scavate nel permafrost siberiano; la camera si muove lentamente in corridoi ghiacciati tra resti del mammut (ossa, molari), montata in una sala buia e inclinata come coreografia frammentata fra primi piani taglienti e visioni ambientali indistinte. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
-**Lettura critica:** stessa tensione riconoscibilità/astrazione già presente in *Liminal*, spostata dalla violenza politica umana alla conservazione/estinzione su scala geologica.
+### Jarkov (2026, CANICULA)
+**Descrizione:** installazione video monocanale site-specific, colore, suono stereo, 20'. Co-prodotta da Mori Art Museum, con il supporto di Mondriaan Fund. Allestita al primo piano, nella sala 7, in una stanza inclinata così buia da sfiorare l'astrazione. Jarkov è un mammut lanoso vissuto circa 20.000 anni fa, ritrovato nel permafrost della Siberia settentrionale; al momento della scoperta fu estratto e trasportato come un unico blocco di terreno ghiacciato di 23 tonnellate, da cui spuntavano solo le due zanne. È conservato in una rete sotterranea di gallerie scavate nel permafrost, a una temperatura costante di –12 °C che ne impedisce lo scongelamento. Il film è girato in questi spazi: la camera si muove lentamente nei corridoi ghiacciati, mostrando le poche porzioni visibili di Jarkov e i resti di altri mammut, come ossa e molari. La camera ruota inoltre incessantemente su sé stessa. Il montaggio alterna primi piani serrati e allargamenti sull'ambiente, con immagini che emergono in forme nitide o in superfici tattili indistinte. La colonna sonora è composta da Robin Rimbaud (Scanner).
+**Lettura critica:** il catalogo legge l'opera come un'esperienza di uno spazio-tempo che precede e supera la durata della vita umana: corpi che si trasformano in paesaggi e paesaggi in corpi, con le differenze di scala tra vita biologica e vita geologica che si confondono. Il contesto indicato è il ritiro del permafrost artico, che ogni anno si riduce di circa un metro e porta alla luce resti del Pleistocene. La tensione tra riconoscibilità e astrazione è già presente in *Liminal*.[^canicula]
 
 ![Jarkov — fotogramma, mostra CANICULA](immagini/maya-watanabe/jarkov.jpg)
 
@@ -30,6 +30,7 @@ Artista audiovisiva peruviana la cui pratica è centrata sull'installazione vide
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
+- Fondazione In Between Art Film, *Canicula*, libretto e comunicato stampa, aprile 2026 (PDF)
 - [Dutch Art Institute — pagina artista](https://dutchartinstitute.eu/page/19417/maya-watanabe)
 - [Rose Art Museum, Brandeis University — Maya Watanabe: Liminal](https://www.brandeis.edu/rose/exhibitions/2019/maya-watanabe.html)
 - [KADIST — pagina artista](https://kadist.org/people/maya-watanabe/)
@@ -37,7 +38,9 @@ Artista audiovisiva peruviana la cui pratica è centrata sull'installazione vide
 - [Fondazione In Between Art Film — Maya Watanabe, Jarkov](https://inbetweenartfilm.com/maya-watanabe-jarkov/)
 
 ## Mostre viste
-- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visitata il 22 novembre 2026 da @danMa-hub
 
 ## Crediti delle immagini
 Immagine per ciascuna delle due opere, inclusa sotto la relativa descrizione in "Opere principali", dal Rose Art Museum e dal sito ufficiale della mostra CANICULA.
+
+[^canicula]: Fondazione In Between Art Film, libretto e comunicato stampa della mostra *Canicula* (Venezia, 6 maggio–22 novembre 2026), sinossi e profili degli artisti, sala 7.

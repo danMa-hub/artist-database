@@ -24,8 +24,8 @@ Cinema del reale costruito attorno a materiali d'archivio (militari, industriali
 ![Spira Mirabilis — locandina](immagini/massimo-danolfi-martina-parenti/spira-mirabilis.png)
 
 ### 24 Landscapes + A Vision (2026, CANICULA)
-**Descrizione:** installazione video a tre canali che contempla il dramma della vita e il suo divenire ciclico (distruzione/rinnovamento), con progressione cromatica dal buio alla luce. Vista dall'utente alla mostra CANICULA, Complesso dell'Ospedaletto, Venezia (agosto 2026).
-**Lettura critica:** prima incursione del duo in un formato multicanale pensato per lo spazio espositivo anziché per la sala cinematografica.
+**Descrizione:** installazione video a tre canali e ripresa in diretta tramite termocamera, colore e bianco/nero, suono Dolby Atmos, 68'. Commissionata e prodotta da Fondazione In Between Art Film, con un ringraziamento speciale all'archivio dell'Eye Filmmuseum di Amsterdam. Allestita al piano terra, nella sala 3, preceduta da un corridoio di luci abbaglianti e seguita da uno spazio buio. È composta da 24 sequenze, in omaggio ai 24 fotogrammi al secondo del cinema pre-digitale, tratte dai circa vent'anni di documentari del duo e da materiali d'archivio dalla fine dell'Ottocento al presente. Le riprese effettuate in una comunità Lakota per *Spira Mirabilis* (2016) si affiancano a filmati d'archivio sui primi utilizzi delle immagini in movimento in *Bestiari, Erbari, Lapidari* (2024). Le sequenze mostrano ecosistemi trasformati dalla violenza, paesaggi fatti esplodere per testare armamenti, città rase al suolo, fiori in relazione simbiotica con le api, una musicista che canta una ninnananna in un reparto di rianimazione neonatale e restauratori al lavoro su statue danneggiate. Una termocamera registra in tempo reale chi è presente nello spazio. La penultima sequenza è affidata alle parole di uno sciamano Lakota.
+**Lettura critica:** il catalogo descrive l'opera come un'enciclopedia filmica non lineare e meditativa, che evoca i dispositivi ottici del pre-cinema, e come una riflessione sull'intreccio storico tra tecnologie della visione e dominio. La termocamera sottolinea questo rapporto, perché rende gli spettatori oggetto di ripresa. Il testo indica come tema la creazione, la conservazione e l'interpretazione della memoria, con la messa in discussione della presunta neutralità della produzione di immagini. L'opera è indicata come la prima presentazione del duo in una mostra d'arte.[^canicula]
 
 ![24 Landscapes + A Vision — fotogramma, mostra CANICULA](immagini/massimo-danolfi-martina-parenti/24-landscapes.jpg)
 
@@ -35,6 +35,7 @@ Cinema del reale costruito attorno a materiali d'archivio (militari, industriali
 - _Nessuna ancora: da aggiungere._
 
 ## Fonti
+- Fondazione In Between Art Film, *Canicula*, libretto e comunicato stampa, aprile 2026 (PDF)
 - [Fondazione In Between Art Film — CANICULA](https://inbetweenartfilm.com/en/canicula/)
 - [MYmovies — biografia Massimo D'Anolfi](https://www.mymovies.it/persone/massimo-d-anolfi/119559/)
 - [Wikipedia — Spira Mirabilis (film)](https://en.wikipedia.org/wiki/Spira_Mirabilis_(film))
@@ -42,7 +43,9 @@ Cinema del reale costruito attorno a materiali d'archivio (militari, industriali
 - [Exibart — Canicula, racconto sofisticato del nostro tempo](https://www.exibart.com/arte-contemporanea/a-venezia-la-mostra-canicula-costruisce-un-racconto-sofisticato-del-nostro-tempo-attraverso-la-videoarte/)
 
 ## Mostre viste
-- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visto da @danMa-hub
+- *CANICULA*, Fondazione In Between Art Film, Complesso dell'Ospedaletto, Venezia (2026) — visitata il 22 novembre 2026 da @danMa-hub
 
 ## Crediti delle immagini
 Immagine per ciascuna delle tre opere, inclusa sotto la relativa descrizione in "Opere principali", da Wikipedia e dal sito ufficiale della mostra.
+
+[^canicula]: Fondazione In Between Art Film, libretto e comunicato stampa della mostra *Canicula* (Venezia, 6 maggio–22 novembre 2026), sinossi e profili degli artisti, sala 3.

@@ -160,10 +160,10 @@ Aggiunte dalla mostra CANICULA, Fondazione In Between Art Film (Complesso dell'O
 
 - [Massimo D'Anolfi e Martina Parenti](massimo-danolfi-martina-parenti.md) — ⚠️ fit debole: documentario d'archivio più che new media
 - [Janis Rafa](janis-rafa.md) — video/scultura, sguardo non-antropocentrico, eco-femminismo
-- [Wang Tuo](wang-tuo.md) — video/pittura/performance, post-umano, ibridazione corpo-macchina
+- [Wang Tuo](wang-tuo.md) — video/pittura/performance, narrazione speculativa, memoria e archivi, Cina contemporanea
 - [Roman Khimei e Yarema Malashchuk](roman-khimei-yarema-malashchuk.md) — ⚠️ fit debole: documentario ibrido, memoria/guerra in Ucraina
 - [P. Staff](p-staff.md) — installazione luce/suono come tecnologia percettiva — vedi anche scheda gemella in `research-database`
-- [Yuyan Wang](yuyan-wang.md) — editing algoritmico, found footage digitale, automazione
+- [Yuyan Wang](yuyan-wang.md) — found footage online, automazione industriale e macchine, ottimizzazione
 - [Maya Watanabe](maya-watanabe.md) — video/installazione multicanale, memoria e violenza
 
 Aggiunta dalla mostra "Screen Melancholy" (Li Yi-Fan), Palazzo delle Prigioni — evento collaterale "Taiwan in Venice" 2026 (vedi [`mostre/README.md`](../mostre/README.md)):
