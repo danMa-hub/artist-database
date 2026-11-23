@@ -123,7 +123,7 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 **Lettura critica:** oppone la "logica dell'incontro" della fotografia (autenticazione reciproca tra obiettivo e mondo) alla "logica dell'evitamento" dello scanning, orientato alla sicurezza e all'individuazione di minacce — una critica alla "radicale conservatività" del 3D fotorealistico.[^19]
 
 ## Approfondimenti
-Le parole dell'artista vengono da trascrizioni di video, non controllate sul video.
+Le sintesi qui sotto vengono da trascrizioni di video; le citazioni della sezione «Nei talk» sono trascritte dall'audio e riscontrate sui video, con il minuto.
 
 ### Indicizzalità e fiducia nell'immagine
 - **Indicizzalità (Peirce).** Charles S. Peirce chiama «indice» il segno che rinvia al proprio oggetto per una connessione reale (come l'impronta o la fotografia), distinguendolo dal segno iconico (per somiglianza) e da quello simbolico (per convenzione). È il fondamento della fiducia nell'immagine fotografica, che Claerbout vede incrinarsi con l'immagine digitale.[^13]
@@ -143,6 +143,19 @@ Dalla conversazione con Sara Dolfi Agostini su *Oil Workers*:[^15]
 - ***Vietnam, 1967, near Duc Pho* (2001).** Non è fotografia classica ma video, medium temporale che «accade» sempre: ciò che si vede non è il momento drammatico dello schianto ma movimenti molto lenti (solarizzazione, nuvole) mentre l'aereo smembrato resta sospeso. L'immagine mette in questione lo statuto ontologico dell'immagine e produce una riflessione reciproca tra fotografia e film. Secondo Barthes (*Rhétorique de l'image*) la fotografia è «là e allora», il film un presente permanente «qui e ora»; anche ridotti a dati, continuiamo a percepire secondo tradizioni pittoriche distinte. Claerbout parla di tensione tra sguardo *focalizzato* (la tragedia dell'aereo) e sguardo *panoramico* (che dà profondità di senso) e spera che lo spettatore resti abbastanza a lungo perché il panoramico prenda il sopravvento. *(Testo critico senza fonte indicata.)*[^22]
 - ***Oil Workers* (2013).** Figure «zombie» svuotate e ridotte al gesto superficiale: il lavoratore moderno e il lavoratore migrante, presenti nello spazio ma invisibili nel contenuto (vedi la descrizione dell'opera).[^15]
 
+### Nei talk (2017-2025)
+- **Il metodo.** Le sue esperienze, dice, vengono dal lavoro e non dalla teoria: legge «more or less like a fly goes from one fruit to the other».[^14] Non crede che l'artista scelga la tecnica in funzione di un'idea: «it's not the artist choosing the materials it's partly also the materials choosing».[^26]
+- **Eterocronia.** Nel 2020 chiama eterocronia ciò che cerca dentro il tempo dell'orologio: «the plurality of duration which is frightening in a way because it means that you no longer can define a space of time».[^23] Al Rudolfinum presenta la monocronia, il tempo diviso in parti uguali, come un proprio neologismo.[^24]
+- **Lo sfondo.** Su *Bordeaux Piece*: «I sculpt in time I don't work with film or with actors I work with everything that's the background».[^24] Le riprese durarono quasi un mese, e ogni scena fu recitata circa 75 volte.[^25]
+- **Dark optics.** A Bregenz le definisce «images that have nothing in common with the camera except for the imitation of the camera and that are made entirely out of information»; al Rudolfinum, «vision without the lens vision without the eye».[^26][^24] All'EYE Filmmuseum propone una periodizzazione, presentata come un'invenzione d'artista: l'era analogica come sistema di «checks and balances» dal 1839 all'11 settembre 2001.[^27]
+- **Immagini sintetiche e ideologia.** «I am afraid that synthetic […] images bring back ideological imagery»;[^25] il termine *pre-corporation*, per un'incorporazione di cui non ci si accorge, è ricondotto all'EYE al critico Mark Fisher.[^25][^27]
+- **La camera virtuale.** Su *KING*: «the camera is a vampire isn't it the virtual camera is a sign of death».[^23]
+- ***Olympia*.** «If I would die tomorrow I might say this has been the project of my life»; l'idea risale al 2009 o 2010.[^25] Il metodo, comune a *The Algiers' Sections of a Happy Moment*, è prendere «a motive which would be politically very hot» e raffreddarlo senza neutralizzarlo.[^26] La camera compie un giro ogni ora.[^27]
+- **L'animazione.** «Animation is a celebration of life of inert matter so the ideology behind any moving image will always be life so death is excluded».[^23] *The Pure Necessity* nasce rivedendo il film di Disney su YouTube dopo quarant'anni; un primo tentativo in 3D fallisce.[^25]
+- **La follia.** Duecento anni di fotografia hanno fornito un'analogia costante con un mondo esterno coerente; senza di essa, il folle «has to analyze himself without a psychoanalyst».[^26]
+- **L'intelligenza artificiale.** «We're still in the dopamine phase»; nello studio l'IA serve a progettare i film, non a produrne i risultati.[^28]
+- **L'opera pubblica di Amsterdam (2018).** Una parete LED nella stazione della linea metropolitana Nord-Sud presso la Stazione Centrale annuncia il tempo del giorno dopo con un paesaggio olandese, in cui un operaio digitale con il volto dell'artista è sempre occupato in lavori inutili.[^27]
+
 ### «The Silence of the Lens» (e-flux Journal #73, 2016): passi chiave
 Sintesi dei passi principali del saggio.
 - **Il conservatorismo radicale del 3D.** Claerbout si dichiara sbalordito: tante scienze convergono in un bastione di conservatorismo pittorico «realistico». Il nuovo modo di fare immagini richiede padronanza di pittura, cinema e scultura, «e una laurea in informatica»; nel suo studio, dove poche persone fanno «tutto», la quantità di decisioni salta all'occhio.[^19]
@@ -160,6 +173,11 @@ Sintesi dei passi principali del saggio.
 - **Video:** [David Claerbout Interview: Virtual Image Making (Louisiana Channel)](https://www.youtube.com/watch?v=WKuoFD-LjeA)
 - **Video:** [«On Dark Optics», lecture all'e-flux, New York, 11 marzo 2019 (YouTube)](https://www.youtube.com/watch?v=udVGSu5A2lw)
 - Conversazione con Sara Dolfi Agostini su *Oil Workers*: vedi il video sotto l'opera.
+- **Video:** [Artist talk, Galerie Rudolfinum, Praga (pubblicato nel marzo 2020)](https://www.youtube.com/watch?v=_2vq8enjj0U)
+- **Video:** [Conversazione con J. J. Charlesworth, *Flow Series*, Fundació Antoni Tàpies e Han Nefkens Foundation (2017)](https://www.youtube.com/watch?v=67YyRSA3Qtk)
+- **Video:** [Conversazione con Thomas D. Trummer, Kunsthaus Bregenz, 14 luglio 2018](https://www.youtube.com/watch?v=Y-oS01F91mM)
+- **Video:** [Artist talk, EYE Filmmuseum, Amsterdam (pubblicato nel dicembre 2018)](https://www.youtube.com/watch?v=qwnlGmWJNWc)
+- **Video:** [Conversazione all'Hamburger Bahnhof, Gallery Weekend Berlin 2025](https://www.youtube.com/watch?v=KTymJMUIFKs)
 - Mastertalk «Dark Optics», EYE Filmmuseum, Amsterdam, 24 novembre 2018 (elencato nella [pagina dell'artista su Sean Kelly](https://skny.com/artists/david-claerbout))
 - Intervista sul film *Die reine Notwendigkeit* (*The Pure Necessity*), Städel Museum, Francoforte, 2016 (stessa pagina)
 - [Hamburger Bahnhof — «In Conversation: David Claerbout» (6 aprile 2024)](https://www.smb.museum/en/online-offers/detail/in-conversation-david-claerbout/)
@@ -220,3 +238,15 @@ Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descriz
 [^21]: Hirshhorn Museum, *David Claerbout: Travel* (non riaperta nel 2026: il sito chiede una verifica). [link](https://hirshhorn.si.edu/explore/david-claerbout-travel)
 
 [^22]: Commento o dichiarazione senza fonte indicata, da rintracciare.
+
+[^23]: *David Claerbout Interview: Virtual Image Making*, Louisiana Channel, aprile 2020, min 05 (eterocronia), 10 (*KING*), 18 (animazione). [link](https://www.youtube.com/watch?v=WKuoFD-LjeA)
+
+[^24]: David Claerbout, artist talk, Galerie Rudolfinum, Praga, pubblicato il 10 marzo 2020, min 01 (monocronia), 07 (dark optics), 21 (*Bordeaux Piece*). [link](https://www.youtube.com/watch?v=_2vq8enjj0U)
+
+[^25]: David Claerbout in conversazione con J. J. Charlesworth, *Flow Series*, Fundació Antoni Tàpies e Han Nefkens Foundation, pubblicato il 18 aprile 2017, min 04-12 (*Olympia*), 20-23 (*Bordeaux Piece*), 29-32 (*The Pure Necessity*), 62 (immagini sintetiche), 72 (*pre-corporation*). [link](https://www.youtube.com/watch?v=67YyRSA3Qtk)
+
+[^26]: David Claerbout in conversazione con Thomas D. Trummer, Kunsthaus Bregenz, 14 luglio 2018, min 05 (dark optics), 13 (i materiali), 36-38 (la follia), 43 (*Olympia*). [link](https://www.youtube.com/watch?v=Y-oS01F91mM)
+
+[^27]: David Claerbout, artist talk, EYE Filmmuseum, Amsterdam, pubblicato il 12 dicembre 2018, min 04-05 (Mark Fisher), 08-11 (periodizzazione), 51 (*Olympia*), 52-79 (l'opera pubblica di Amsterdam). [link](https://www.youtube.com/watch?v=qwnlGmWJNWc)
+
+[^28]: David Claerbout in conversazione all'Hamburger Bahnhof, Berlino, Gallery Weekend 2025, pubblicato il 10 giugno 2025, min 48-50 e 59. [link](https://www.youtube.com/watch?v=KTymJMUIFKs)
