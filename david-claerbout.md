@@ -29,7 +29,10 @@ Il lavoro di Claerbout interroga l'autenticità sensoriale delle immagini e la f
 **Descrizione:** video a canale singolo, a colori e muto, in loop di circa 3 minuti. Parte da una fotografia di Hiromichi Mine: un aereo Caribou bimotore, abbattuto da fuoco amico mentre tentava di atterrare, resta sospeso nell'immagine, mentre il paesaggio di Ha Phan, ripreso nel novembre 2000 a fine monsone, 33 anni dopo, cambia con la luce e le nuvole. Sul sito dell'artista il nome compare come «Hiromishi».[^6][^5]
 **Lettura critica:** mette in tensione il "là e allora" della fotografia (Barthes) e il "qui e ora" permanente del film, interrogando lo statuto ontologico dell'immagine tra i due medium.[^22]
 
-![Veduta di una mostra: a destra Vietnam, 1967, near Duc Pho; la grande proiezione al centro è un'altra opera](immagini/david-claerbout/vietnam-1967.jpg)
+![Hiromichi Mine (UPI), il Caribou abbattuto, 3 agosto 1967, versione del World Press Photo](immagini/david-claerbout/vietnam-1967-mine-originale.jpg)
+![Vietnam, 1967, near Duc Pho, installazione al Tel Aviv Museum of Art, 2012 (foto Elad Sarig)](immagini/david-claerbout/vietnam-1967.jpg)
+
+**Come è fatta:** un collage digitale di fotografie in tre strati, senza computer grafica 3D: il paesaggio in primo piano, fotografato da Claerbout sul posto nel novembre 2000 con centinaia di scatti uniti in dissolvenza; il cielo, rifotografato e fisso; le colline sullo sfondo e i pezzi dell'aereo, ritagliati dalla foto di Hiromichi Mine (UPI, 3 agosto 1967) nella versione stampata nel libro *Requiem* (1997). Il punto esatto dello scatto originale non esisteva più, perché bombardamenti e lavori avevano cambiato il paesaggio.[^hoelzl]
 
 **Approfondimento:** [davidclaerbout.com — Vietnam, 1967, near Duc Pho](https://davidclaerbout.com/Vietnam-1967-near-Duc-Pho-reconstruction-after-Hiromishi-Mine-2001)
 
@@ -193,6 +196,7 @@ Sintesi dei passi principali del saggio.
 ## Crediti delle immagini
 Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descrizione in "Opere principali", scaricate dal sito ufficiale [davidclaerbout.com](https://davidclaerbout.com/) (*The Silence of the Lens* è un saggio testuale, non ha immagine). Controllate a vista il 2026-11-01: sono vedute di sala, con i luoghi indicati dalla scheda originale; il sito non riporta didascalie, quindi le sedi non sono state riscontrate.
 - [The Silence of the Lens (e-flux)](https://www.e-flux.com/journal/73/60460/the-silence-of-the-lens/)
+- *Vietnam, 1967*: veduta al Tel Aviv Museum of Art, 2012, foto di Elad Sarig, dalla pagina dell'opera su [davidclaerbout.com](https://davidclaerbout.com/Vietnam-1967-near-Duc-Pho-reconstruction-after-Hiromishi-Mine-2001); fotografia originale di Hiromichi Mine (UPI, 1967) dalla [scheda del World Press Photo](https://www.worldpressphoto.org/collection/photo-contest/1967/hiromichi-mine/1); diritti dei rispettivi titolari, uso didattico.
 - *Travel*: immagine dalla pagina [hirshhorn.si.edu](https://hirshhorn.si.edu/explore/david-claerbout-travel); diritti dei rispettivi titolari, uso didattico.
 
 [^1]: Electronic Arts Intermix, biografia di David Claerbout. [link](https://www.eai.org/artists/david-claerbout/biography)
@@ -238,6 +242,8 @@ Immagine per ciascuna delle otto opere visive, inclusa sotto la relativa descriz
 [^21]: Hirshhorn Museum, *David Claerbout: Travel* (non riaperta nel 2026: il sito chiede una verifica). [link](https://hirshhorn.si.edu/explore/david-claerbout-travel)
 
 [^22]: Commento o dichiarazione senza fonte indicata, da rintracciare.
+
+[^hoelzl]: Ingrid Hölzl, «The Photographic Now: David Claerbout's Vietnam», *Intermédialités*, n. 17, primavera 2011, con una mail dell'artista del maggio 2010. [link](https://davidclaerbout.com/Full-Text-2011-Ingrid-Holzl-The-Photographic-Now-David-Claerbout-s)
 
 [^23]: *David Claerbout Interview: Virtual Image Making*, Louisiana Channel, aprile 2020, min 05 (eterocronia), 10 (*KING*), 18 (animazione). [link](https://www.youtube.com/watch?v=WKuoFD-LjeA)
 
