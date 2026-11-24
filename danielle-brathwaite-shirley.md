@@ -152,6 +152,7 @@ Poi la città è in protesta. Nel **tempio** si può rendere omaggio a una perso
 **Temi:** `avatar-e-corpo-virtuale`
 **Descrizione:** installazione interattiva alla David Kordansky Gallery di Los Angeles (fino al 1° luglio 2022), con prompt testuali e animazioni, ispirata secondo *Hypebeast* ai giochi di ruolo online di massa.[^15] Le fotografie sul sito mostrano un percorso di pareti rosse e nere coperte di scritte e un grande schermo con la frase «DONT LET THEM GET TOO CLOSE».[^22] La versione commissionata da Spike Island, Bristol (11 luglio – 22 agosto 2022), è un gioco «pro-Black, pro-Trans»: si torna a casa da soli di notte, qualcuno cammina dietro, le chiavi in tasca possono aprire la porta o diventare un'arma. Le scelte decidono se si arriva a casa sani e salvi o se si impedisce a qualcun altro di arrivarci.[^16]
 **Lettura critica:** la pagina di Spike Island presenta il gioco come un lavoro sulla responsabilità e sulla cura, in cui chi gioca scopre come le proprie azioni pesano sulla vita degli altri.[^16]
+**Video:** [*Danielle Brathwaite-Shirley | GET HOME SAFE*, David Kordansky Gallery (2022), 7'03"](https://vimeo.com/727517526), video della mostra incorporato nella pagina del sito dell'artista
 **Sul sito:** [GET HOME SAFE](https://www.daniellebrathwaiteshirley.com/get-home-safe)
 
 <table><tr>
