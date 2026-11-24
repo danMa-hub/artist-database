@@ -13,6 +13,12 @@ Personali, tra le altre, da Focal Point Gallery, Southend-on-Sea (2020), QUAD, D
 ## Poetica e ricerca
 Il centro del lavoro è l'archivio delle vite delle persone nere trans. La biografia sul sito lo dice in una frase: un lavoro che cerca di archiviare l'esperienza nera trans e usa la tecnologia per immaginare ambienti che mettono al centro quei corpi.[^22] L'artista racconta di aver cominciato a «scavare» nella storia alla ricerca di persone nere trans e di aver trovato quasi soltanto documenti di seconda mano, scritti da chi le considerava meno che umane: un manifesto del 1836 che mette in guardia da Mary Jones, chiamata «Man Monster», e le trascrizioni del suo arresto, e nient'altro.[^5][^6] Da qui la tesi che gli archivi occidentali, rigidi, costosi e fondati sui beni materiali, abbiano fallito con le persone nere e trans, e che un archivio debba lasciare a chi vi è archiviato il controllo su che cosa si raccoglie e come lo si usa; il modello proposto è quello orale, in cui chi racconta può decidere se fidarsi di chi ascolta.[^7] L'archivio sognato, in un'intervista del 2020, è una *visual novel* senza fine, che cresce a ogni interazione e in cui le persone archiviate hanno un doppio senziente capace di scegliere che cosa condividere.[^3] La Serpentine riassume la pratica come «archive and insurgency», archivio e insurrezione insieme.[^1]
 
+<table><tr>
+<td width="250" valign="top"><img src="immagini/danielle-brathwaite-shirley/mary-jones-man-monster-1836.jpg" width="240" alt="THE MAN-MONSTER, litografia pubblicata da H. R. Robinson, New York, 1836: il manifesto su Mary Jones citato dall&#x27;artista (Wikimedia Commons, pubblico dominio)"><br><sub>THE MAN-MONSTER, litografia pubblicata da H. R. Robinson, New York, 1836: il manifesto su Mary Jones citato dall'artista (Wikimedia Commons, pubblico dominio)</sub></td>
+</tr></table>
+
+La litografia, pubblicata a New York da H. R. Robinson nel 1836, ritrae Mary Jones in abito femminile; la didascalia stampata riporta la condanna del 13 giugno 1836 a cinque anni di lavori forzati a Sing Sing per furto.[^31]
+
 Il videogioco serve a questo archivio perché chiama in causa chi gioca. Secondo l'artista un film si lascia consumare facilmente e finisce per servire lo sguardo di chi guarda, mentre un gioco richiede energia e cambia in base alle scelte, e porta la domanda su chi gioca: non più una visita turistica in una comunità queer, ma una riflessione sul proprio posto nella politica dell'alterità.[^6] Il gioco non insegna l'esperienza nera trans; offre invece uno specchio delle azioni compiute senza accorgersene.[^7] Negli ultimi lavori la formula è «the audience as medium», il pubblico come mezzo: l'opera, dice l'artista, quasi non esiste finché non è toccata dal pubblico, e la risposta peggiore è che sia stata semplicemente «nice».[^8][^4] Nei giochi non si torna indietro e si avanza lentamente; secondo l'artista è voluto, perché chi gioca deve metterci tempo ed energia invece di ricevere tutto.[^24]
 
 Due regole tengono insieme estetica e politica. La prima riguarda il trauma: l'artista conosce l'aspettativa di chi si avvicina all'arte trans, che cerca il trauma, e si dà un codice preciso, discuterlo senza mai rimetterlo in scena. Il rosso e i colori dell'horror annunciano una violenza che poi non arriva; l'horror è rivolto a chi guarda dall'esterno, perché sappia di essere guardato.[^3] L'avviso d'ingresso del *Black Trans Archive* lo dichiara: nessun trauma è stato ricreato nell'archivio.[^22] Il catalogo della Albright-Knox descrive per lo stesso motivo gli avatar semi-astratti, con voci in autotune, che evitano di ridurre le persone nere trans a feticci o a vittime.[^9] La seconda riguarda gli strumenti. Brathwaite-Shirley usa motori di gioco vecchi o abbandonati, o le tecniche dei giochi degli anni Novanta, e tratta il motore come un mezzo espressivo, al modo in cui la critica letteraria studia la lingua di un libro.[^4][^6] Il limite, in un'intervista del 2021 ripresa da *MUBI Notebook*, non stava nella tecnologia di allora ma in chi la usava, quasi sempre uomini bianchi.[^24] Il controllo del codice è per l'artista una questione di sopravvivenza: una presenza digitale affidata a Instagram o a Tumblr può essere censurata o cancellata, mentre chi sa scrivere e riparare il proprio sito la possiede.[^7] La serie di siti `.com` (*blacktransarchive.com*, *blacktransair.com*, *blacktranssea.com*) nasce da qui: spazi costruiti da zero da persone nere trans, invece che su sistemi predisposti senza pensare a loro.[^10]
@@ -193,6 +199,12 @@ Dalla pagina «Playable Games» del sito, oltre a quelli già citati:[^22]
 - Sulla storia del videogioco: l'artista studia giochi vecchi e oscuri come altri studiano un Rembrandt, per esempio *Frontier: Elite II*.[^19][^6]
 - Sul pubblico: l'arte di oggi è tutta nel dare, con una transazione troppo facile; l'opera dovrebbe essere difficile, a volte dolorosa, uno scambio in cui anche chi guarda dà qualcosa.[^24]
 
+### Tecnologie dei giochi
+Ricavate dal codice delle pagine (2026-11-24) e dalle fonti indicate.[^32]
+- **Film interattivi a bivi**, con clip video preregistrate collegate da scelte: *WE ARE HERE BECAUSE OF THOSE THAT ARE NOT* (49 clip, lettore Plyr, tasti 1-2-3), *RESURRECTION LANDS* (video in streaming con video.js, scelta di squadra e di luogo), *Pirating Blackness* (applicazione Svelte che legge una mappa di nodi video).
+- **Avventure testuali e pagine-gioco**: *I CANT REMEMBER A TIME I DIDNT NEED YOU* (Twine 2.3.5, formato Harlowe 3.1.0, 285 passaggi; lo stesso gioco si apre da blacktransair.com), *Dæmon Map* (mappa Leaflet con cinque film), *THE VOICE OF A LOST GOD RETURNS* (nove video), il sito di *THE SOUL STATION* (sei «puzzle»), *I DIDNT REALISE YOU THOUGHT LIKE THAT* (applicazione web con video, audio e domande).
+- **Motori in tempo reale**: Unity per *SHE KEEPS ME DAMN ALIVE*;[^14] Godot per *I CAN'T FOLLOW YOU ANYMORE*, con lo sviluppatore Florian Brueckner e i volti di performer ripresi a Studio Voltaire;[^33] UPBGE per *THE DELUSION*.[^18]
+
 ### Letture critiche e concetti
 - *MUBI Notebook* (rubrica «Cutscenes», 2024) segue il passaggio dai film ai giochi: nei film tutti ricevono lo stesso accesso alle storie, nei giochi l'accesso passa per l'identità dichiarata e per le scelte, e il fallimento è parte dell'esperienza, con un rimando a Bernard Suits.[^24]
 - Meritxell Rosell (*Clot Magazine*, 2022) accosta il lavoro alla ricerca di micha cárdenas, artista e teorica che individua somiglianze tra l'esperienza trans e quella delle realtà multiple dei giochi; per Rosell Brathwaite-Shirley porta al centro non solo gli artisti ma qualunque visitatore.[^10]
@@ -221,7 +233,9 @@ Dalla pagina «Playable Games» del sito, oltre a quelli già citati:[^22]
 - *WORLDBUILDING: Gaming and Art in the Digital Age*, booklet della mostra, Julia Stoschek Collection, Düsseldorf, 2022 (testo di Tamar Clarke-Brown)
 
 ## Crediti delle immagini
-Tutte le immagini vengono dal sito dell'artista (daniellebrathwaiteshirley.com, consultato il 2026-11-24), salvo i fotogrammi dei film, che sono le anteprime dei video sul canale Vimeo dell'artista; diritti dell'artista e dei fotografi.
+*THE MAN-MONSTER* (1836), litografia pubblicata da H. R. Robinson: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mary_Jones_Lithogram.jpg), pubblico dominio.
+
+Tutte le altre immagini vengono dal sito dell'artista (daniellebrathwaiteshirley.com, consultato il 2026-11-24), salvo i fotogrammi dei film, che sono le anteprime dei video sul canale Vimeo dell'artista; diritti dell'artista e dei fotografi.
 - *SHE KEEPS ME DAMN ALIVE*, arebyte Gallery: fotografie di Dan Weill, secondo i nomi dei file pubblicati sul sito per una parte della serie [verificare per le singole immagini].
 - *RESURRECTION LANDS*, Les Urbaines, Losanna, 2019: fotografia di Guillaume Baeriswyl, secondo la didascalia del sito.
 - *HAUNTING ALONGSIDE OUR SHADOWS*, QUAD, Derby: i nomi dei file sul sito citano FORMAT, FeatureShoot e Charlotte Jopling [verificare il fotografo].
@@ -288,3 +302,9 @@ Tutte le immagini vengono dal sito dell'artista (daniellebrathwaiteshirley.com, 
 [^29]: CIRCA, «Danielle Brathwaite-Shirley», CIRCA x Dazed Class of 2022, risposta dell'artista. [link](https://circa.art/?p=2013)
 
 [^30]: Factory International, «I CAN'T FOLLOW YOU ANYMORE», pagina del gioco. [link](https://factoryinternational.org/whats-on/i-cant-follow-you-anymore/)
+
+[^31]: *THE MAN-MONSTER*, litografia, H. R. Robinson, New York, 1836, testo della didascalia stampata; scheda di Wikimedia Commons. [link](https://commons.wikimedia.org/wiki/File:Mary_Jones_Lithogram.jpg)
+
+[^32]: Codice delle pagine dei giochi, letto il 2026-11-24: blacktransarchive.com, resurrectionland.com, blacktranssea.com, la pagina neocities del gioco Twine, icanttakethisstepforyou.com, vitalcapacities.com, yoursoulisdirty.com, ididntrealiseyouthoughtlikethat.com.
+
+[^33]: Crediti di *I CAN'T FOLLOW YOU ANYMORE*, blacktransrevolution.com. [link](https://www.blacktransrevolution.com/credits.html)
