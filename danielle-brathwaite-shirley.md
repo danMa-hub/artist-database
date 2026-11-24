@@ -25,6 +25,24 @@ Due regole tengono insieme estetica e politica. La prima riguarda il trauma: l'a
 
 Il metodo di lavoro parte da una conversazione, spesso con gruppi di persone della comunità pagate per il loro tempo. Una frase detta in quella conversazione genera personaggi, ritratti, carte da parati, ambienti fisici e digitali; nella modellazione l'artista si concede quindici minuti per ogni modello e non corregge quelli riusciti male, ma ne fa di nuovi.[^4]
 
+## Metodo: come si costruisce l'archivio
+Le fonti più dirette sul metodo sono i video in cui l'artista lavora o mostra il proprio computer: *In the Studio* (Factory International, 2023) e il *Desktop Tour* (arebyte, 2021), insieme alle conversazioni pubbliche organizzate da arebyte nel 2022. I passi citati vengono dai sottotitoli automatici, con il minuto tra parentesi.
+
+**Dagli amici filmati al gruppo di lavoro.** Nei primi film l'artista riprende in green screen gli amici e le persone nere trans conosciute negli anni dell'università, e li inserisce nell'animazione: il film diventa un diario di quel momento.[^37] *Digging for Black Trans Life* (2019) parte da una storia inventata, una tecnologia che «scansiona la terra» e riporta i ricordi delle persone nere trans assenti dagli archivi; è un'animazione di quaranta minuti con una performance in costume, in cui l'artista combatte un *boss* proiettato sullo schermo. Nel finale il pubblico indossa un guanto e seppellisce una figura: per l'artista quei dieci minuti in cui il pubblico diventa l'opera decidono il passaggio ai giochi.[^37] Per *WE ARE HERE BECAUSE OF THOSE THAT ARE NOT* (2020) l'artista lancia una chiamata aperta e lavora con circa quindici persone nere trans, quasi nessuna con esperienza di videogiochi: ognuna disegna personaggi e paesaggi a partire da storie proprie, il gruppo partecipa a tutti i livelli delle decisioni, e insieme decide di togliere dal gioco ogni traccia di trauma, nonostante le pressioni a raccontarlo; ciò che si archivia è il modo in cui il gruppo racconta.[^35][^36][^38]
+
+**Dalla frase al personaggio.** Ogni lavoro comincia da una conversazione, spesso con persone pagate per il loro tempo; una frase detta in quella conversazione genera un personaggio, un ritratto, una carta da parati, un ambiente.[^4] Nel video di Factory International l'artista descrive lo stesso procedimento: una persona racconta un episodio della propria infanzia, e personaggi, mondo, suono e scelte del gioco vengono costruiti attorno a quel solo momento, comprese le incomprensioni e ciò che si perde nella traduzione. Il risultato viene mostrato alla persona: se non vi riconosce una parte della propria vita, il lavoro si rifà. L'obiettivo dichiarato non è ricostruire una persona intera ma catturarne una piccola parte.[^34] Secondo l'artista, chi vuole archiviare una comunità a cui non appartiene ottiene solo ciò che le persone sono disposte a mostrare davanti a una telecamera.[^34]
+
+**Come nascono gli avatar.** Le tecniche cambiano da un progetto all'altro.
+- *SHE KEEPS ME DAMN ALIVE* (2021): i movimenti sono ripresi in video e convertiti con DeepMotion, un programma di motion capture che ricava lo scheletro animato da una normale ripresa; il gioco è montato in Unity.[^35] I corpi da proteggere sono le artiste nere trans Ebun Sodipo e Marikiscrycrycry, modellati in *low poly*, con pochi poligoni.[^41][^42] Durante la mostra arebyte e QUAD organizzano un laboratorio online sulla creazione degli *asset*, con i posti riservati alla comunità nera trans.[^41]
+- *GET HOME SAFE* (2022): le riprese di motion capture di amici neri trans diventano ritratti video in caratteri ASCII, volutamente poco riconoscibili.[^43]
+- *I CAN'T FOLLOW YOU ANYMORE* (2023): a Studio Voltaire si registrano le voci dei cinque personaggi e si filmano i ritratti dei partecipanti al rallentatore, con stoffe mosse da ventilatori; le stoffe sono riprese da una mostra precedente e usate come abiti. Le voci vengono poi sovrapposte ai ritratti, montati in modo diverso secondo la persona.[^34][^33]
+- Le voci e le canzoni, composte dall'artista, sono distorte o passate in autotune.[^43][^9]
+La resa è volutamente povera. L'artista si dà come limite la grafica della prima PlayStation e cerca il minimo di poligoni con cui rendere l'atmosfera di un momento, per esempio la prima pillola di ormoni o il primo *misgendering*.[^35] Il testo di *CURA.* lega questa scelta al rifiuto di rendere i corpi neri trans immediatamente riconoscibili.[^43] Prima di un progetto l'artista prova ogni tecnologia nuova facendo un video musicale con sé stessa, poi passa ad altre persone.[^34]
+
+**Laboratori con gruppi.** Per *When Our Worlds Meet* (FACT, 2022-23) dieci ragazzi di Liverpool, The Bandidos, lavorano con l'artista per un anno, tra laboratori, discussioni e presentazioni, a partire da tre domande sul proprio mondo; FACT ha pubblicato una serie di video in cui cinque di loro presentano i mondi che hanno disegnato.[^40] Per *THE DELUSION* (2025) l'artista organizza laboratori separati con gruppi di circa otto persone, per esempio di fedi religiose diverse o di attivismi diversi, e costruisce il mondo del gioco perché possa contenere tutto ciò che hanno detto, per evitare che la conversazione venga da un solo punto di vista.[^39]
+
+**Il motore come archivio.** L'artista guarda ai motori di gioco come a strumenti per archiviare e conservare dati, sottoutilizzati perché pensati solo per l'intrattenimento.[^35] Il primo programma 3D usato è stato un software amatoriale che estrude un disegno in un oggetto 3D; poi Blender, usato ogni giorno come un diario.[^35][^34]
+
 ## Opere principali
 
 Il sito dell'artista ha una pagina per ogni progetto, con fotografie e link ai giochi; la pagina «Playable Games» elenca le opere giocabili nel browser, da computer portatile.[^22] I film dal 2017 al 2019 sono sul canale Vimeo dell'artista.[^23]
@@ -221,6 +239,19 @@ Ricavate dal codice delle pagine (2026-11-24) e dalle fonti indicate.[^32]
 - [P. Eldridge, «The Question Is The Work», CIRCA (2025)](https://circa.art/the-question-is-the-work/)
 - **Video:** [«I call it an emotional machine», su *THE DELUSION*, con Tamar Clarke-Brown e Ruth Waters (Serpentine, 2025)](https://www.serpentinegalleries.org/watch/i-call-it-an-emotional-machine-danielle-brathwaite-shirley-on-the-delusion/)
 - **Video:** [canale Vimeo dell'artista, 16 video pubblici (2017-2019)](https://vimeo.com/daniellebs)
+- **Video:** [*In the Studio with Danielle Brathwaite-Shirley*, Factory International (2023), 10'23"](https://www.youtube.com/watch?v=CYLBOmdhg2o): registrazione di voci e ritratti per *I CAN'T FOLLOW YOU ANYMORE*, metodo di lavoro
+- **Video:** [*Desktop Tour*, arebyte (2021), 20'18"](https://www.youtube.com/watch?v=6UXPlE4UvN0): *SHE KEEPS ME DAMN ALIVE* in Unity, motion capture, motori e giochi di riferimento
+- **Video:** [*SHE KEEPS ME DAMN ALIVE*, trailer della mostra, arebyte (2021), 52"](https://vimeo.com/639598105)
+- **Video:** [conversazione con Bo Ruberg, arebyte (2022), 59'](https://www.youtube.com/watch?v=d2YnJQkTb0g) · [con Gabrielle de la Puente, arebyte (2022), 75'](https://www.youtube.com/watch?v=ItdjN1z15x4) · [con Cade Diehm, arebyte (2022), 50'](https://www.youtube.com/watch?v=GpuPL1gELTg)
+- **Video:** [*a·21: Removing passive observers*, Oyoun (2021), 46'](https://www.youtube.com/watch?v=4Cas-skChew)
+- **Video:** [conversazione con Kim Ninkuru, InterAccess (2021), 93'](https://www.youtube.com/watch?v=YN6YoebYXJw)
+- **Video:** [*WE CAN'T DO THIS ALONE*, Serpentine (2022), 6'46"](https://www.youtube.com/watch?v=gji_VPKKa9A)
+- **Video:** [*Q&A with The Bandidos*, FACT (2023), 9'27"](https://www.youtube.com/watch?v=nCsgsU7d6q8)
+- **Video:** [conversazione per Factory International (2024), 26'](https://www.youtube.com/watch?v=k1GkYeKfcKY)
+- **Video:** [*Community Center Mechanisms*, Trust (2025), 16'](https://www.youtube.com/watch?v=9jD51ck0Xvs): i laboratori di *THE DELUSION*
+- **Video:** [*Enough is Enough*, Penny Stamps Speaker Series, University of Michigan (2026), 61'](https://www.youtube.com/watch?v=MyIWU9nH0pw): lezione-performance con il pubblico
+- **Video:** [*Your Voice, Your Choice*, keynote, Immersive Arts UK (2026), 40'](https://www.youtube.com/watch?v=6iEdO2AF1vg)
+- [The White Pube, lettura del testo su *SHE KEEPS ME DAMN ALIVE*, podcast (2024), 28'](https://www.youtube.com/watch?v=ogGddyN3Q_0): resoconto in prima persona di una partita
 
 ## Fonti
 - [Sito dell'artista](https://www.daniellebrathwaiteshirley.com/) e pagina [Playable Games](https://www.daniellebrathwaiteshirley.com/playable-games)
@@ -308,3 +339,23 @@ Tutte le altre immagini vengono dal sito dell'artista (daniellebrathwaiteshirley
 [^32]: Codice delle pagine dei giochi, letto il 2026-11-24: blacktransarchive.com, resurrectionland.com, blacktranssea.com, la pagina neocities del gioco Twine, icanttakethisstepforyou.com, vitalcapacities.com, yoursoulisdirty.com, ididntrealiseyouthoughtlikethat.com.
 
 [^33]: Crediti di *I CAN'T FOLLOW YOU ANYMORE*, blacktransrevolution.com. [link](https://www.blacktransrevolution.com/credits.html)
+
+[^34]: *In the Studio with Danielle Brathwaite-Shirley*, Factory International, 27 novembre 2023, 10'23"; sottotitoli automatici, minuti 02:28-04:37, 06:57-07:55, 08:48-09:44. [link](https://www.youtube.com/watch?v=CYLBOmdhg2o)
+
+[^35]: *Danielle Brathwaite Shirley - Desktop Tour*, arebyte, 2021, 20'18"; sottotitoli automatici, minuti 04:08-07:34 (*SHE KEEPS ME DAMN ALIVE*), 10:12 (poligoni), 12:02-13:45 (motori e primi programmi 3D), 14:38-15:31 (*blacktransarchive.com*). [YouTube](https://www.youtube.com/watch?v=6UXPlE4UvN0) · [arebyte](https://aos.arebyte.com/contents/danielle-brathwaite-shirley-desktop-tour/)
+
+[^36]: *Danielle Brathwaite-Shirley in conversation with Dr. Bo Ruberg*, arebyte, 18 febbraio 2022; sottotitoli automatici, minuti 16:18-18:28. [link](https://www.youtube.com/watch?v=d2YnJQkTb0g)
+
+[^37]: *Danielle Brathwaite-Shirley in conversation with Gabrielle de la Puente*, arebyte, 10 febbraio 2022; sottotitoli automatici, minuti 45:27-47:40. [link](https://www.youtube.com/watch?v=ItdjN1z15x4)
+
+[^38]: *a·21: Removing passive observers*, Oyoun, Berlino, 19 marzo 2021; sottotitoli automatici, minuti 29:03-31:33. [link](https://www.youtube.com/watch?v=4Cas-skChew)
+
+[^39]: *Community Center Mechanisms with Danielle Brathwaite-Shirley*, Trust, 2025; sottotitoli automatici, minuti 05:55-06:59. [link](https://www.youtube.com/watch?v=9jD51ck0Xvs)
+
+[^40]: FACT Liverpool, «Bandidos blog», marzo 2023, con la serie di video; *Q&A with The Bandidos | Artist Interview*, 22 marzo 2023. [link](https://fact.co.uk/news/2023/03/bandidos-blog)
+
+[^41]: arebyte, pagina di *SHE KEEPS ME DAMN ALIVE* con il libretto della mostra (testi di Chloe Filani, Tamar Clarke-Brown, Rebecca Edwards) e il programma degli eventi. [link](https://www.arebyte.com/danielle-brathwaiteshirley-copy)
+
+[^42]: «Danielle Brathwaite-Shirley's Videogame Arcade Celebrates Black Trans Life», *ArtReview*, 2022. [link](https://artreview.com/danielle-brathwaite-shirley-vanguard-videogame-arcade-black-trans/)
+
+[^43]: «Danielle Brathwaite-Shirley», *CURA.*, rubrica digitale. [link](https://curamagazine.com/digital/danielle-brathwaite-shirley/)
