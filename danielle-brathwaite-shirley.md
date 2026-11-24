@@ -251,6 +251,8 @@ Ricavate dal codice delle pagine (2026-11-24) e dalle fonti indicate.[^32]
 - **Video:** [*Community Center Mechanisms*, Trust (2025), 16'](https://www.youtube.com/watch?v=9jD51ck0Xvs): i laboratori di *THE DELUSION*
 - **Video:** [*Enough is Enough*, Penny Stamps Speaker Series, University of Michigan (2026), 61'](https://www.youtube.com/watch?v=MyIWU9nH0pw): lezione-performance con il pubblico
 - **Video:** [*Your Voice, Your Choice*, keynote, Immersive Arts UK (2026), 40'](https://www.youtube.com/watch?v=6iEdO2AF1vg)
+- **Giocate registrate:** [*WE ARE HERE BECAUSE OF THOSE THAT ARE NOT*, tutti i percorsi, CreepiCatfish (2025), 1:34:37](https://www.youtube.com/watch?v=muO0Icju-dE) · [*Black Trans Archive*, wii_gay (2020), 27'](https://www.youtube.com/watch?v=Zv1uGuYEDwc) · [«ENTERING THE RESURRECTION LANDS», canale dell'artista, 12'](https://www.youtube.com/watch?v=0UT5kAiuK0A) · [*I CANT REMEMBER A TIME I DIDNT NEED YOU*, Queen Faith (2020), 6'](https://www.youtube.com/watch?v=soFbZ4YHflQ) · [*Resurface: THE WORLD HAS CHANGED: YOU WILL BE JUDGED*, performance interattiva online, AND Festival (2021), 45'](https://www.youtube.com/watch?v=VlC-X1llo9A)
+- **Video:** [*David Blandy on SHE KEEPS ME DAMN ALIVE*, arebyte (2021), 8'40"](https://www.youtube.com/watch?v=ZjUB8uXS7bA), con inserti di gioco · [*Inside an immersive video-game exhibition*, *Wallpaper\** (2025), 2'58"](https://www.youtube.com/watch?v=TiKKeP-VZhQ), su *THE DELUSION*
 - [The White Pube, lettura del testo su *SHE KEEPS ME DAMN ALIVE*, podcast (2024), 28'](https://www.youtube.com/watch?v=ogGddyN3Q_0): resoconto in prima persona di una partita
 
 ## Fonti
