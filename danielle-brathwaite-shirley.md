@@ -41,7 +41,7 @@ La resa è volutamente povera. L'artista si dà come limite la grafica della pri
 
 **Laboratori con gruppi.** Per *When Our Worlds Meet* (FACT, 2022-23) dieci ragazzi di Liverpool, The Bandidos, lavorano con l'artista per un anno, tra laboratori, discussioni e presentazioni, a partire da tre domande sul proprio mondo; FACT ha pubblicato una serie di video in cui cinque di loro presentano i mondi che hanno disegnato.[^40] Per *THE DELUSION* (2025) l'artista organizza laboratori separati con gruppi di circa otto persone, per esempio di fedi religiose diverse o di attivismi diversi, e costruisce il mondo del gioco perché possa contenere tutto ciò che hanno detto, per evitare che la conversazione venga da un solo punto di vista.[^39]
 
-**Il motore come archivio.** L'artista guarda ai motori di gioco come a strumenti per archiviare e conservare dati, sottoutilizzati perché pensati solo per l'intrattenimento.[^35] Il primo programma 3D usato è stato un software amatoriale che estrude un disegno in un oggetto 3D; poi Blender, usato ogni giorno come un diario.[^35][^34]
+**Il motore come archivio.** L'artista guarda ai motori di gioco come a strumenti per archiviare e conservare dati, sottoutilizzati perché pensati solo per l'intrattenimento.[^35] Il primo programma 3D usato è stato un software amatoriale che estrude un disegno in un oggetto 3D; poi Blender, usato ogni giorno come un diario, fino ad accumulare un mondo intero fatto di quei giorni.[^35] In *In the Studio* l'artista generalizza: 3D, programmazione e game design, imparati da sé, sono stati un diario quotidiano più che una materia di studio, e per questo i motori e i programmi 3D possono diventare strumenti personali, capaci di far uscire ciò che si prova e di toccare chi guarda.[^34] Già prima, all'inizio della transizione, il diario era un videogioco: in *Dragon's Dogma* l'artista creava un personaggio di sé e uno di come voleva apparire, e giocava con il secondo.[^35]
 
 ## Opere principali
 
@@ -340,7 +340,7 @@ Tutte le altre immagini vengono dal sito dell'artista (daniellebrathwaiteshirley
 
 [^33]: Crediti di *I CAN'T FOLLOW YOU ANYMORE*, blacktransrevolution.com. [link](https://www.blacktransrevolution.com/credits.html)
 
-[^34]: *In the Studio with Danielle Brathwaite-Shirley*, Factory International, 27 novembre 2023, 10'23"; sottotitoli automatici, minuti 02:28-04:37, 06:57-07:55, 08:48-09:44. [link](https://www.youtube.com/watch?v=CYLBOmdhg2o)
+[^34]: *In the Studio with Danielle Brathwaite-Shirley*, Factory International, 27 novembre 2023, 10'23"; sottotitoli automatici, minuti 02:28-04:37, 05:27-06:22, 06:57-07:55, 08:48-09:44. [link](https://www.youtube.com/watch?v=CYLBOmdhg2o)
 
 [^35]: *Danielle Brathwaite Shirley - Desktop Tour*, arebyte, 2021, 20'18"; sottotitoli automatici, minuti 04:08-07:34 (*SHE KEEPS ME DAMN ALIVE*), 10:12 (poligoni), 12:02-13:45 (motori e primi programmi 3D), 14:38-15:31 (*blacktransarchive.com*). [YouTube](https://www.youtube.com/watch?v=6UXPlE4UvN0) · [arebyte](https://aos.arebyte.com/contents/danielle-brathwaite-shirley-desktop-tour/)
 
